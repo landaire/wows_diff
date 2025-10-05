@@ -1,0 +1,63 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 1,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL096_CAPT2020_old"
+  ],
+  "custom": {},
+  "description": "IDS_DESCRIPTION_PCZA021_CAPT",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4272921520,
+  "index": "PCZA021",
+  "isPuzzle": false,
+  "name": "PCZA021_CAPT",
+  "rewards": [
+    "<Crew level=\"10\" shipId=\"PBSC101_Black_Swan\" crewId=\"PBW407_Capt\" count=\"1\"/>",
+    "<Item idx=\"PCEE329_Popcorn_flag\" count=\"1\"/>",
+    "<DogTag idx=\"PCNB227\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_CAPTSUBCOLLECTION_NAME",
+      "'aa",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_CAPTSUBCOLLECTION_NAME",
+      "'bb",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_CAPTSUBCOLLECTION_NAME",
+      "'cc",
+      [
+        "<Item idx=\"PCEM034_Tile_NY_3\" count=\"1\"/>",
+        "<Item idx=\"PCEA022_TotalXPboost_2\" count=\"2\"/>",
+        "<Item idx=\"PCEA032_CrewXPboost_2\" count=\"2\"/>",
+        "<Item idx=\"PCEA041_FreeXPboost_1\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_CAPTSUBCOLLECTION_NAME",
+      "'dd",
+      [
+        "<Item idx=\"PCEA033_CrewXPboost_3\" count=\"2\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

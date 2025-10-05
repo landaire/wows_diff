@@ -1,0 +1,744 @@
+{
+  "Black": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 250.0,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 22.0
+  },
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 270.0,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 180.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
+  "Gb_7_BELFAST": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 283.33,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 25.0
+  },
+  "PAZ_10": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 250.0,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 25.0
+  },
+  "PAZ_8": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 250.0,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 20.0
+  },
+  "PAZ_9": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 250.0,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 22.0
+  },
+  "Salem": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 283.33,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 40.0
+  },
+  "USSR_10": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 400.0,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 30.0
+  },
+  "USSR_10_BB": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [
+        "Battleship",
+        "AirCarrier"
+      ],
+      "descIDs": "",
+      "distShip": 500.0,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 180.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 60.0
+  },
+  "USSR_8": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 400.0,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 20.0
+  },
+  "USSR_8_BB": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [
+        "Battleship",
+        "AirCarrier"
+      ],
+      "descIDs": "",
+      "distShip": 500.0,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 180.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 40.0
+  },
+  "USSR_9": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 400.0,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 25.0
+  },
+  "USSR_9_BB": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [
+        "Battleship",
+        "AirCarrier"
+      ],
+      "descIDs": "",
+      "distShip": 500.0,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 180.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 50.0
+  },
+  "USSR_CA_8_10": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 400.0,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
+  "USSR_OCHAKOV": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 333.3,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 20.0
+  },
+  "US_10": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 333.33,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 40.0
+  },
+  "US_10_CL": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 300.0,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 40.0
+  },
+  "US_7_ATLANTA": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 283.33,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 25.0
+  },
+  "US_7_INDIANAPOLIS": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 333.33,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 25.0
+  },
+  "US_8": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 300.0,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 30.0
+  },
+  "US_8_CL": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 300.0,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 30.0
+  },
+  "US_9": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 333.33,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 35.0
+  },
+  "US_9_CL": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 300.0,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 35.0
+  },
+  "US_9_MISSOURI": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 316.67,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 35.0
+  },
+  "canBuy": false,
+  "costCR": 22500,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 4260536240,
+  "index": "PCY032",
+  "name": "PCY032_RLSSearchSuper",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Ability"
+  }
+}

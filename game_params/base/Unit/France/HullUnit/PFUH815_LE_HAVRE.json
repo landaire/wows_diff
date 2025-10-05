@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3440127824,
+  "index": "PFUH815",
+  "name": "PFUH815_LE_HAVRE",
+  "typeinfo": {
+    "nation": "France",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

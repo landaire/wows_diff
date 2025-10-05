@@ -1,0 +1,31 @@
+{
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": 120000,
+  "costGold": -1,
+  "custom": {},
+  "flags": [
+    "xray",
+    "papa",
+    "unaone"
+  ],
+  "group": 0,
+  "hidden": false,
+  "id": 4265439152,
+  "index": "PCEF028",
+  "isTemplate": false,
+  "modifiers": {
+    "batteryCapacityCoeff": 1.05,
+    "planeSmokeGeneratorWorkTimeCoeff": 1.05,
+    "smokeGeneratorWorkTimeCoeff": 1.1
+  },
+  "name": "PCEF028_Smoke_SignalFlag",
+  "sortOrder": 13,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Flags",
+    "type": "Exterior"
+  }
+}

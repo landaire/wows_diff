@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3456511792,
+  "index": "PGUT799",
+  "name": "PGUT799_TORP_BA_TIRPITZ",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

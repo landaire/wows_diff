@@ -1,0 +1,26 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "german_bb2_2_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3809341360,
+  "index": "PCEE463",
+  "isTemplate": false,
+  "name": "PCEE463_German_BB2_2_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

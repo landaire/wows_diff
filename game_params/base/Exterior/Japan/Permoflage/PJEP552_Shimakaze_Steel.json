@@ -1,0 +1,37 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "camouflage": "mat_Steel",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 7000,
+  "custom": {},
+  "hidden": true,
+  "id": 3715657424,
+  "index": "PJEP552",
+  "isTemplate": false,
+  "name": "PJEP552_Shimakaze_Steel",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

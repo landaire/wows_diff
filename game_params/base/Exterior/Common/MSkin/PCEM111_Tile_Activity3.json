@@ -1,0 +1,56 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "camouflage": "PEV_color_tile_03",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "effects": {},
+  "filterIsWhitelist": false,
+  "hidden": false,
+  "hullConfig": {},
+  "id": 4178177968,
+  "index": "PCEM111",
+  "isTemplate": false,
+  "isTileflage": true,
+  "linkedCamouflage": "PCEC090_Activity3Camo",
+  "miscFilter": [],
+  "miscSubTypeSpecification": {},
+  "name": "PCEM111_Tile_Activity3",
+  "nodesConfig": {},
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "default",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "",
+  "peculiarityModels": {},
+  "planesConfig": {},
+  "renderSetsStates": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "styleEffects": {},
+  "styleMiscs": [],
+  "subTypes": [],
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "MSkin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

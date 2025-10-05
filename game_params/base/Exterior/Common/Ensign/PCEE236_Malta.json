@@ -1,0 +1,27 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "malta",
+  "group": 3,
+  "hidden": false,
+  "id": 4047368112,
+  "index": "PCEE236",
+  "isTemplate": false,
+  "name": "PCEE236_Malta",
+  "needExtraDescription": true,
+  "rankSeasonId": 11,
+  "sortOrder": 2147483647,
+  "tags": [
+    "rank",
+    "catalogueHidden_CN"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

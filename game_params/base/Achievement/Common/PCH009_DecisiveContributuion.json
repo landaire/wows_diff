@@ -1,0 +1,119 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED"
+  ],
+  "constants": {
+    "dominationPoints": 500
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [
+    [
+      "battleStart",
+      [],
+      [
+        [
+          "counter",
+          "b",
+          "=",
+          "me",
+          "shipsInDivision"
+        ]
+      ]
+    ],
+    [
+      "points",
+      [
+        [
+          "receiver",
+          "division"
+        ],
+        [
+          "receiver",
+          "division",
+          "==",
+          "me",
+          "division"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "points",
+          "value"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "counter",
+          "a",
+          ">=",
+          "constant",
+          "dominationPoints"
+        ],
+        [
+          "counter",
+          "b",
+          "==",
+          "me",
+          "shipsInDivision"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4284670896,
+  "index": "PCH009",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH009_DecisiveContributuion",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "heroic",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "DECISIVE_CONTRIBUTION",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "heroic"
+}

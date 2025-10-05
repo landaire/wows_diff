@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4226202608,
+  "index": "PARS065",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/radar/search/ARS065_Radar_SP/ARS065_Radar_SP.model",
+  "name": "PARS065_Radar_SP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "roon_colorful_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3681415088,
+  "index": "PCEE585",
+  "isTemplate": false,
+  "name": "PCEE585_Roon_Colorful_flag",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "ship",
+    "ingameevent"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

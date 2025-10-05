@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4279872784,
+  "index": "PXUM014",
+  "name": "PXUM014_PL_FIJI_KLINGONS",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "PrimaryWeaponsUnit",
+    "type": "Unit"
+  },
+  "ucType": "_PrimaryWeapons"
+}

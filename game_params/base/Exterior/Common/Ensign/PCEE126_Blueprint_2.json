@@ -1,0 +1,27 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "blueprint_2",
+  "group": 3,
+  "hidden": true,
+  "id": 4162711472,
+  "index": "PCEE126",
+  "isTemplate": false,
+  "name": "PCEE126_Blueprint_2",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other",
+    "catalogueHidden"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED"
+  ],
+  "constants": {
+    "damageCount": 1000000.0
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "meAttack",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "globalA",
+          "+=",
+          "damage",
+          "value"
+        ],
+        [
+          "setstat",
+          "damage_main_he",
+          "=",
+          "counter",
+          "globalA"
+        ],
+        [
+          "counter",
+          "a",
+          "=",
+          "counter",
+          "globalA"
+        ]
+      ]
+    ],
+    [
+      "meAttack",
+      [
+        [
+          "counter",
+          "a",
+          ">=",
+          "constant",
+          "damageCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ],
+    [
+      "afterBattle",
+      [
+        [
+          "counter",
+          "globalA",
+          ">=",
+          "constant",
+          "damageCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4253213616,
+  "index": "PCH039",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH039_ScienceOfWinning6",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": true,
+  "tags": [],
+  "type": "honorable",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "SCIENCE_OF_WINNING_BOMBARDIER",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "common"
+}

@@ -1,0 +1,41 @@
+{
+  "Default_TimeBased": {
+    "availableBuoyancyStates": [],
+    "capacityRegenCoeff": 0.0,
+    "consumableType": "regenerateHealth",
+    "descIDs": "",
+    "group": "squadron",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 1,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationRate": 0.1,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "maxCapacity": 15.0,
+    "minWorkTime": 5.0,
+    "preparationTime": 0.0,
+    "reloadTime": 180.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": ""
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 4220690352,
+  "index": "PCY070",
+  "name": "PCY070_RegenerateHealth_TimeBased",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Ability"
+  }
+}

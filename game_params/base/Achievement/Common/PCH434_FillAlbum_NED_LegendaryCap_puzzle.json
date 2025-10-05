@@ -1,0 +1,76 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED"
+  ],
+  "constants": {
+    "album": "PCZA037_NED_LegendaryCap_puzzle"
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "fillingAlbum",
+      [
+        [
+          "fillingAlbum",
+          "albumName",
+          "==",
+          "constant",
+          "album"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 3839026096,
+  "index": "PCH434",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH434_FillAlbum_NED_LegendaryCap_puzzle",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "honorable",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "FILLALBUM_NED_LEGENDARYCAP_PUZZLE_COMPLETED",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "common"
+}

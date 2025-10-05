@@ -1,0 +1,118 @@
+{
+  "battleTypes": [
+    "PVP"
+  ],
+  "constants": {
+    "killCount": 1,
+    "ships": [
+      "PGSD105_T_22",
+      "PGSD106_Ernst_Gaede",
+      "PGSD107_Leberecht_Maass",
+      "PGSD108_Z_23",
+      "PGSD109_Z_46",
+      "PGSD110_Z_52"
+    ]
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [
+    [
+      "meKill",
+      [
+        [
+          "me",
+          "vehicleName",
+          "in",
+          "constant",
+          "ships"
+        ],
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "target",
+          "vehicleClass",
+          "==",
+          "string",
+          "Destroyer"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "meKill",
+      [
+        [
+          "counter",
+          "a",
+          ">=",
+          "constant",
+          "killCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4147307440,
+  "index": "PCH140",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH140_BD2_GE",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "BD2_GE",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

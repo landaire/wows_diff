@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4247967440,
+  "index": "PJK044",
+  "maxLevel": 2,
+  "name": "PJK044_Harekaze_2",
+  "personalCardBonus": {
+    "clan": "PCOK014_Balldmg_Dalldmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PJSD528_Harekaze_2"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

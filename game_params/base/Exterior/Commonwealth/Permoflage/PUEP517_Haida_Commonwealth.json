@@ -1,0 +1,37 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "camo_british_arc",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 3000,
+  "custom": {},
+  "hidden": true,
+  "id": 3752357232,
+  "index": "PUEP517",
+  "isTemplate": false,
+  "name": "PUEP517_Haida_Commonwealth",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

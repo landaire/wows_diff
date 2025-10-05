@@ -1,0 +1,90 @@
+{
+  "battleTypes": [
+    "PVP"
+  ],
+  "constants": {
+    "ships": [
+      "PGSC506_Admiral_Graf_Spee",
+      "PGSB002_Tirpiz_1942",
+      "PBSC106_Leander",
+      "PJSB006_Fuso_1943",
+      "PGSB106_Bayern",
+      "PRSC106_Pr_94_Budeny",
+      "PASD005_Farragut_1944"
+    ]
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [
+    [
+      "battleEnd",
+      [
+        [
+          "me",
+          "vehicleName",
+          "in",
+          "constant",
+          "ships"
+        ],
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4145210288,
+  "index": "PCH142",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH142_BD2_NY2016",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "BD2_NY2016",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

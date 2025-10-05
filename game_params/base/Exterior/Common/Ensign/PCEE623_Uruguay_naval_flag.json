@@ -1,0 +1,26 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "uruguay_naval_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3641569200,
+  "index": "PCEE623",
+  "isTemplate": false,
+  "name": "PCEE623_Uruguay_naval_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

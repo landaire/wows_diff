@@ -1,0 +1,13 @@
+{
+  "costCR": 1800000,
+  "costXP": 0,
+  "id": 3330256688,
+  "index": "PGUA920",
+  "name": "PGUA920_ART_PRINZ_ADALBERT",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

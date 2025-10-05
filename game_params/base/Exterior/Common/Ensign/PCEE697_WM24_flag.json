@@ -1,0 +1,27 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "WM24_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3563974576,
+  "index": "PCEE697",
+  "isTemplate": false,
+  "name": "PCEE697_WM24_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "reward",
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

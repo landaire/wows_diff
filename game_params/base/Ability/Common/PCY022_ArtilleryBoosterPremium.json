@@ -1,0 +1,537 @@
+{
+  "B_RN_Collingwood": {
+    "availableBuoyancyStates": [],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.5,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 25.0
+  },
+  "Borodino_TOURNAMENT": {
+    "availableBuoyancyStates": [],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.25,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 6,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 180.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 8.0
+  },
+  "Default_gold": {
+    "availableBuoyancyStates": [],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.75,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 10.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 10.0
+  },
+  "FR_BB": {
+    "availableBuoyancyStates": [],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.5,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 20.0
+  },
+  "FR_BB_Strasbourg": {
+    "availableBuoyancyStates": [],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.5,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 180.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 20.0
+  },
+  "FR_CR_6_7_8_Gold": {
+    "availableBuoyancyStates": [],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.5,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
+  "FR_CR_9_10_Gold": {
+    "availableBuoyancyStates": [],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.5,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
+  "FR_DD_Gold": {
+    "availableBuoyancyStates": [],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.5,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 100.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
+  "FR_Dupleix": {
+    "availableBuoyancyStates": [],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.5,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 25.0
+  },
+  "GER_SCHILL": {
+    "availableBuoyancyStates": [],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.5,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 20.0
+  },
+  "I56_44": {
+    "availableBuoyancyStates": [
+      "SURFACE"
+    ],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.5,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 100.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 8.0
+  },
+  "IJN_BB_HYUGA": {
+    "availableBuoyancyStates": [],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.5,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
+  "IJN_CA_MAYA2": {
+    "availableBuoyancyStates": [],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.5,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
+  "Le_Havre": {
+    "availableBuoyancyStates": [],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.5,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
+  "SPA_Victoria": {
+    "availableBuoyancyStates": [],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.67,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 300.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 30.0
+  },
+  "StarTrek": {
+    "availableBuoyancyStates": [],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.5,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 25.0
+  },
+  "Suzuya_MBRB": {
+    "availableBuoyancyStates": [],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.5,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 100.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
+  "USA_Austin": {
+    "availableBuoyancyStates": [],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.25,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
+  "USA_S_Diego": {
+    "availableBuoyancyStates": [],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.5,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 145.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 25.0
+  },
+  "USA_SanDiego_AB": {
+    "availableBuoyancyStates": [],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.667,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 180.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 4271022000,
+  "index": "PCY022",
+  "name": "PCY022_ArtilleryBoosterPremium",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Ability"
+  }
+}

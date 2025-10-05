@@ -1,0 +1,13 @@
+{
+  "costCR": 700000,
+  "costXP": 9000,
+  "id": 3747000272,
+  "index": "PBUS522",
+  "name": "PBUS522_B6_SUO_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

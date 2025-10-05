@@ -1,0 +1,26 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "red_october_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3482185648,
+  "index": "PCEE775",
+  "isTemplate": false,
+  "name": "PCEE775_red_october_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

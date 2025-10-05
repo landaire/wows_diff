@@ -1,0 +1,13 @@
+{
+  "costCR": 56000,
+  "costXP": 0,
+  "id": 3979325264,
+  "index": "PFUA301",
+  "name": "PFUA301_C4_ART_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

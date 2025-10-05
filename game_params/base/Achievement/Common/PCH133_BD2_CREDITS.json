@@ -1,0 +1,56 @@
+{
+  "battleTypes": [
+    "PVP"
+  ],
+  "constants": {
+    "moneyCount": 400000
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4154647472,
+  "index": "PCH133",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH133_BD2_CREDITS",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "BD2_CREDITS",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

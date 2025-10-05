@@ -1,0 +1,28 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "latino_tournament_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3768446896,
+  "index": "PCEE502",
+  "isTemplate": false,
+  "name": "PCEE502_Latino_Tournament_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "reward",
+    "catalogueHiddenIfMissing",
+    "catalogueHidden_CN"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

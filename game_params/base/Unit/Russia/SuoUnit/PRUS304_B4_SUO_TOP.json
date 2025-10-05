@@ -1,0 +1,13 @@
+{
+  "costCR": 180000,
+  "costXP": 1300,
+  "id": 3975589328,
+  "index": "PRUS304",
+  "name": "PRUS304_B4_SUO_TOP",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

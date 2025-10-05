@@ -1,0 +1,66 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED"
+  ],
+  "constants": {},
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "strategicActionsFullyCompleted",
+      [],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 3864191920,
+  "index": "PCH410",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH410_StratOps_USSR_SS_EA_FULL",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "service_medal",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "STRATOPS_USSR_SS_EA_FULL",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

@@ -1,0 +1,27 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "tester_cbt",
+  "group": 3,
+  "hidden": true,
+  "id": 4272811952,
+  "index": "PCEE021",
+  "isTemplate": false,
+  "name": "PCEE021_Flag_CBT",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "reward",
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

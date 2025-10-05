@@ -1,0 +1,40 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "camo_V-Day_75",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 3000,
+  "custom": {},
+  "hidden": false,
+  "id": 4213731312,
+  "index": "PAEP077",
+  "isTemplate": false,
+  "name": "PAEP077_NewOrleans_75",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing",
+    "catalogueHidden_CN"
+  ],
+  "typeinfo": {
+    "nation": "USA",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

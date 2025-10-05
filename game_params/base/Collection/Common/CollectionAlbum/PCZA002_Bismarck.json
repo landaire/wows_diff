@@ -1,0 +1,32 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 4,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL009_Bismarck_Coll_Free",
+    "PCL010_Bismarck_Coll_Prem"
+  ],
+  "custom": {},
+  "description": "IDS_DESCRIPTION_PCZA002_BISMARK",
+  "disabled": false,
+  "duplicatesCR": 10000,
+  "endTime": "",
+  "id": 4292844464,
+  "index": "PCZA002",
+  "isPuzzle": false,
+  "name": "PCZA002_Bismarck",
+  "rewards": [
+    "<Permoflage shipId=\"PGSB108_Bismarck\" idx=\"PGES318_Bismarck_Clean\" onlySilver=\"0\" count=\"1\" />",
+    "<Permoflage shipId=\"PGSB108_Bismarck\" idx=\"PGES308_Bismarck_Veteran\" onlySilver=\"0\" count=\"1\" />",
+    "<Multiboost shipId=\"PGSB108_Bismarck\" idx=\"PCEU008_Multi_std8\" compensationType=\"GOLD\" compensationValue=\"0\" count=\"1\" />"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

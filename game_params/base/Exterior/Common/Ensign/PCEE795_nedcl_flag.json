@@ -1,0 +1,28 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "nedcl_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3461214128,
+  "index": "PCEE795",
+  "isTemplate": false,
+  "name": "PCEE795_nedcl_flag",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other",
+    "catalogueHiddenIfMissing",
+    "history"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

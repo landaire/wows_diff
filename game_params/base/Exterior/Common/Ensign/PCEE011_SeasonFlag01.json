@@ -1,0 +1,26 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "kure",
+  "group": 3,
+  "hidden": true,
+  "id": 4283297712,
+  "index": "PCEE011",
+  "isTemplate": false,
+  "name": "PCEE011_SeasonFlag01",
+  "needExtraDescription": true,
+  "rankSeasonId": 2,
+  "sortOrder": 2147483647,
+  "tags": [
+    "rank"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

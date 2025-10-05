@@ -1,0 +1,83 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED"
+  ],
+  "constants": {
+    "campaign": "PCQC012_NewYear2019SteelQuest"
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "campaign",
+      [
+        [
+          "campaign",
+          "name",
+          "==",
+          "constant",
+          "campaign"
+        ],
+        [
+          "campaign",
+          "newState",
+          "==",
+          "constant",
+          "5"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4077052848,
+  "index": "PCH207",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH207_NewYear2019SteelQuestCompletedExcellent",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "honorable",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "CAMPAIGN_NEWYEAR2019STEELQUEST_COMPLETED_EXCELLENT",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "common"
+}

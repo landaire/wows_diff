@@ -1,0 +1,39 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "camo_permanent_2",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 1500,
+  "custom": {},
+  "hidden": true,
+  "id": 3956829904,
+  "index": "PJEP322",
+  "isTemplate": false,
+  "name": "PJEP322_Tachibana_Japan",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHidden_CN"
+  ],
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "camo_newYear_2019",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 2250,
+  "custom": {},
+  "hidden": true,
+  "id": 3969413040,
+  "index": "PCEP310",
+  "isTemplate": false,
+  "name": "PCEP310_Permo_NY_4",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

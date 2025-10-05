@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3735221040,
+  "index": "PGD533",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/director/GD533_Director_Type_94_Space_LOGH/GD533_Director_Type_94_Space_LOGH.model",
+  "name": "PGD533_Director_Type_94_Space_LOGH",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Director"
+  }
+}

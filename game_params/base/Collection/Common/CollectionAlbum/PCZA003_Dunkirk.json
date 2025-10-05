@@ -1,0 +1,31 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 5,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL011_Dunkirk_Coll_Free",
+    "PCL012_Dunkirk_Coll_Prem"
+  ],
+  "custom": {},
+  "description": "IDS_DESCRIPTION_PCZA003_DUNKIRK",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4291795888,
+  "index": "PCZA003",
+  "isPuzzle": false,
+  "name": "PCZA003_Dunkirk",
+  "rewards": [
+    "<Crew shipId=\"PBSC101_Black_Swan\" level=\"10\" crewId=\"PBW101_Dunk_Capn\" count=\"1\"/>",
+    "<Item idx=\"PCEE117_Dunkirk_dinamo\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

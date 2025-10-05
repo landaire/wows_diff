@@ -1,0 +1,13 @@
+{
+  "costCR": 2500000,
+  "costXP": 38000,
+  "id": 3339595728,
+  "index": "PBUD911",
+  "name": "PBUD911_CV10_DB_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4254263760,
+  "index": "PRF038",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/finder/RF038_DM_1_5_RF/RF038_DM_1_5_RF.model",
+  "name": "PRF038_DM_1_5_RF",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Finder"
+  }
+}

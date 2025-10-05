@@ -1,0 +1,117 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "smokeGenerator",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "height": 5.0,
+      "iconIDs": "",
+      "lifeTime": 60.0,
+      "livePointEffect": "particles/SmokeScreen.xml",
+      "radius": 15.0,
+      "spawnBackwardShift": 0.4,
+      "spawnEffect": "particles/SmokeScreen_generator.xml",
+      "spawnPointEffect": "particles/SmokeScreen_spawn.xml",
+      "specialSoundID": "Default",
+      "speedLimit": 12.5,
+      "startDelayTime": 2.0,
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 240.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "H2018_PVP": {
+    "availableBuoyancyStates": [],
+    "consumableType": "smokeGenerator",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "height": 5.0,
+      "iconIDs": "",
+      "lifeTime": 10.0,
+      "livePointEffect": "particles/smoke_screen_point_H2018.xml",
+      "radius": 40.0,
+      "spawnBackwardShift": 0.4,
+      "spawnEffect": "particles/spawn_smoke_screen_point_H2018.xml",
+      "spawnPointEffect": "particles/spawn_smoke_screen_point_H2018.xml",
+      "specialSoundID": "SmokeGenerator_PVP",
+      "speedLimit": 12.5,
+      "startDelayTime": 2.0,
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 60.0
+  },
+  "H2019": {
+    "availableBuoyancyStates": [],
+    "consumableType": "smokeGenerator",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "height": 5.0,
+      "iconIDs": "",
+      "lifeTime": 10.0,
+      "livePointEffect": "particles/smoke_screen_point_H2018.xml",
+      "radius": 40.0,
+      "spawnBackwardShift": 0.4,
+      "spawnEffect": "particles/spawn_smoke_screen_point_H2018.xml",
+      "spawnPointEffect": "particles/spawn_smoke_screen_point_H2018.xml",
+      "specialSoundID": "SmokeGenerator_PVP",
+      "speedLimit": 12.5,
+      "startDelayTime": 2.0,
+      "titleIDs": ""
+    },
+    "numConsumables": 0,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 60.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 3963788560,
+  "index": "PXY315",
+  "name": "PXY315_SmokeGenerator_PVP",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

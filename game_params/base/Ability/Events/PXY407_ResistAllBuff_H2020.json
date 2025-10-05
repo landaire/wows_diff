@@ -1,0 +1,65 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "trigger6",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 20.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 10.0
+  },
+  "H2020": {
+    "availableBuoyancyStates": [],
+    "consumableType": "trigger6",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Halloween2020_ResistAllBuff",
+      "titleIDs": ""
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 90.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 30.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 3867319568,
+  "index": "PXY407",
+  "name": "PXY407_ResistAllBuff_H2020",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

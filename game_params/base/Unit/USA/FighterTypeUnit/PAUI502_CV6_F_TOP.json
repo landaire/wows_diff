@@ -1,0 +1,13 @@
+{
+  "costCR": 320000,
+  "costXP": 3800,
+  "id": 3768299504,
+  "index": "PAUI502",
+  "name": "PAUI502_CV6_F_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

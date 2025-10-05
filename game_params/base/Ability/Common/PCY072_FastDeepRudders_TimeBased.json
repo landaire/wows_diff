@@ -1,0 +1,44 @@
+{
+  "Default_TimeBased": {
+    "availableBuoyancyStates": [],
+    "capacityRegenCoeff": 0.0,
+    "consumableType": "fastRudders",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 1,
+    "logic": {
+      "buoyancyRudderResetTimeCoeff": 0.4,
+      "buoyancyRudderTimeCoeff": 0.8,
+      "descIDs": "",
+      "iconIDs": "",
+      "maxBuoyancySpeedCoeff": 1.2,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "underwaterMaxRudderAngleCoeff": 1.0
+    },
+    "maxCapacity": 60.0,
+    "minWorkTime": 30.0,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": ""
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 4218593200,
+  "index": "PCY072",
+  "name": "PCY072_FastDeepRudders_TimeBased",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Ability"
+  }
+}

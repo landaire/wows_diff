@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3246895088,
+  "index": "PAUQ999",
+  "name": "PAUQ999_SONAR_BALAO_2",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

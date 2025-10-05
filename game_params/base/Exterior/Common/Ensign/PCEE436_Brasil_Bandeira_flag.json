@@ -1,0 +1,26 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "brasil_bandeira_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3837652912,
+  "index": "PCEE436",
+  "isTemplate": false,
+  "name": "PCEE436_Brasil_Bandeira_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "history"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

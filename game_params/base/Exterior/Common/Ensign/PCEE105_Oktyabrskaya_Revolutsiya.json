@@ -1,0 +1,27 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "oktyabrskaya_revolutsiya",
+  "group": 3,
+  "hidden": true,
+  "id": 4184731568,
+  "index": "PCEE105",
+  "isTemplate": false,
+  "name": "PCEE105_Oktyabrskaya_Revolutsiya",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "ship",
+    "catalogueHidden_CN"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "camouflage": "camo_permanent_1",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 1000,
+  "custom": {},
+  "hidden": true,
+  "id": 3978849744,
+  "index": "PREP301",
+  "isTemplate": false,
+  "name": "PREP301_Nikolay_I",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHidden"
+  ],
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

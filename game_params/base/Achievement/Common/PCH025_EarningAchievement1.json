@@ -1,0 +1,97 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED",
+    "PVE",
+    "PVE_PREMADE"
+  ],
+  "constants": {
+    "achievementCount": 10
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "achievement",
+      [
+        [
+          "achievement",
+          "heroic",
+          "==",
+          "constant",
+          "True"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "globalA",
+          "+=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "achievement",
+      [
+        [
+          "counter",
+          "globalA",
+          ">=",
+          "constant",
+          "achievementCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4267893680,
+  "index": "PCH025",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH025_EarningAchievement1",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": true,
+  "tags": [],
+  "type": "honorable",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "BATTLE_HERO",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "common"
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC211_AA_EXPEDITIONARY_MEDAL_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4073626544,
+  "index": "PCZC211",
+  "name": "PCZC211_AA_Expeditionary_Medal",
+  "subAlbums": [
+    5
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

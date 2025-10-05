@@ -1,0 +1,39 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "camouflage": "camo_permanent_1",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 1500,
+  "custom": {},
+  "hidden": true,
+  "id": 3973607408,
+  "index": "PAEP306",
+  "isTemplate": false,
+  "name": "PAEP306_Arizona",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHidden"
+  ],
+  "typeinfo": {
+    "nation": "USA",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

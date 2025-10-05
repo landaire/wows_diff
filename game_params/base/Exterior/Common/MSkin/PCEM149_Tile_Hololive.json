@@ -1,0 +1,60 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "camouflage": "camo_Hololive_tile",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "effects": {},
+  "filterIsWhitelist": false,
+  "hidden": true,
+  "hullConfig": {},
+  "id": 4138332080,
+  "index": "PCEM149",
+  "isTemplate": false,
+  "isTileflage": true,
+  "linkedCamouflage": "PCEC129_Hololive_camo",
+  "miscFilter": [],
+  "miscSubTypeSpecification": {},
+  "name": "PCEM149_Tile_Hololive",
+  "nodesConfig": {},
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "default",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "",
+  "peculiarityModels": {},
+  "planesConfig": {},
+  "renderSetsStates": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "styleEffects": {},
+  "styleMiscs": [],
+  "subTypes": [],
+  "tags": [
+    "catalogueHiddenIfMissing",
+    "anime",
+    "hololive"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "MSkin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

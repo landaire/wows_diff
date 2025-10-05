@@ -1,0 +1,27 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "psplive_hamster_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3502108592,
+  "index": "PCEE756",
+  "isTemplate": false,
+  "name": "PCEE756_psplive_hamster_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "psplive",
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

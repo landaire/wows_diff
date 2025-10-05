@@ -1,0 +1,123 @@
+{
+  "battleTypes": [
+    "PVE",
+    "PVE_PREMADE"
+  ],
+  "constants": {
+    "timeIntervalMax": 11.0,
+    "timeIntervalMin": 18.0
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "meDead",
+      [
+        [
+          "attacker",
+          "team",
+          "!=",
+          "me",
+          "team"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "=",
+          "environment",
+          "time"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ],
+        [
+          "counter",
+          "a"
+        ],
+        [
+          "subInstruction",
+          [
+            "environment",
+            "time",
+            "-",
+            "counter",
+            "a"
+          ],
+          "<=",
+          "constant",
+          "timeIntervalMin"
+        ],
+        [
+          "subInstruction",
+          [
+            "environment",
+            "time",
+            "-",
+            "counter",
+            "a"
+          ],
+          ">=",
+          "constant",
+          "timeIntervalMax"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4164084656,
+  "index": "PCH124",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH124_PVE_HON_DIE",
+  "onePerBattle": true,
+  "shipCategories": [
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "earlyAccess",
+    "ultimate",
+    "upgradeableUltimate",
+    "superShip"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "honorable",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "PVE_HON_DIE",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_OPERATIONS",
+  "uiType": "honorable"
+}

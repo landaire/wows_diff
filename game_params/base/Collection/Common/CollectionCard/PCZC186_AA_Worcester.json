@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC186_AA_WORCESTER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4099840944,
+  "index": "PCZC186",
+  "name": "PCZC186_AA_Worcester",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

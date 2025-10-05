@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4254258896,
+  "index": "PJK038",
+  "maxLevel": 2,
+  "name": "PJK038_Minegumo",
+  "personalCardBonus": {
+    "clan": "PCOK015_Balldmg_Dtorpdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PJSD719_Minegumo"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

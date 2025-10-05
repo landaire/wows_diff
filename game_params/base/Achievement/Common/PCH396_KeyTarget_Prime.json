@@ -1,0 +1,104 @@
+{
+  "battleTypes": [
+    "PVP"
+  ],
+  "constants": {
+    "keyTarget": 1,
+    "keyTargetMarker": 1
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "meKill",
+      [
+        [
+          "me",
+          "keyTargetMarkers",
+          "!=",
+          "constant",
+          "keyTargetMarker"
+        ],
+        [
+          "target",
+          "keyTargetMarkers",
+          "==",
+          "constant",
+          "keyTargetMarker"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "meKill",
+      [
+        [
+          "counter",
+          "a",
+          ">=",
+          "constant",
+          "keyTarget"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 3878871984,
+  "index": "PCH396",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH396_KeyTarget_Prime",
+  "onePerBattle": false,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "KEYTARGET_PRIME",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

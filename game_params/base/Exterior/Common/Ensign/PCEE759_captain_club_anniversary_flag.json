@@ -1,0 +1,27 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "captain_club_anniversary_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3498962864,
+  "index": "PCEE759",
+  "isTemplate": false,
+  "name": "PCEE759_captain_club_anniversary_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHidden_CN",
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

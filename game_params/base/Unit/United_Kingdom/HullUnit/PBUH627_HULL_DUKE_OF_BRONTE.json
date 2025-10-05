@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3637260240,
+  "index": "PBUH627",
+  "name": "PBUH627_HULL_DUKE_OF_BRONTE",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 2200000,
+  "costXP": 0,
+  "id": 3330027312,
+  "index": "PGUH920",
+  "name": "PGUH920_HULL_PRINZ_ADALBERT",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

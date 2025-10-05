@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3870043600,
+  "index": "PRUH405",
+  "name": "PRUH405_KIROV",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

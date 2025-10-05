@@ -1,0 +1,27 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "duca_degli_abruzzi_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 4137545648,
+  "index": "PCEE150",
+  "isTemplate": false,
+  "name": "PCEE150_Duca_degli_Abruzzi_Flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "ship",
+    "catalogueHidden_CN"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

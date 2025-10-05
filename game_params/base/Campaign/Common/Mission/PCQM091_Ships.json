@@ -1,0 +1,30 @@
+{
+  "allTasks": [
+    "PCQT644_Ships",
+    "PCQT645_Ships",
+    "PCQT646_Ships",
+    "PCQT647_Ships",
+    "PCQT648_Ships",
+    "PCQT649_Ships",
+    "PCQT650_Ships",
+    "PCQT651_Ships",
+    "PCQT652_Ships_Key"
+  ],
+  "custom": {},
+  "id": 4199137200,
+  "index": "PCQM091",
+  "isStart": true,
+  "mainTask": "PCQT652_Ships_Key",
+  "mapPosition": [
+    0.05,
+    0.9
+  ],
+  "name": "PCQM091_Ships",
+  "startTime": "",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Mission",
+    "type": "Campaign"
+  },
+  "uiNumber": "1"
+}

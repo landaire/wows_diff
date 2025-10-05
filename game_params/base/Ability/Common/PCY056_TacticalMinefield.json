@@ -1,0 +1,118 @@
+{
+  "ClanBattles_13_4": {
+    "availableBuoyancyStates": [],
+    "consumableType": "minefield",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "field": "PCOF003_Minefield_ClanBattles_13_4",
+      "iconIDs": "",
+      "planeAirSupport": {
+        "climbAngle": 37,
+        "flyAwayTime": 5.0,
+        "maxPlaneFlightDist": 2500,
+        "planeName": "PAAD999_AS_MineBomber",
+        "timeFromHeaven": 0.0
+      },
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 60.0,
+    "reloadTime": 200.0,
+    "tacticalParams": {
+      "aimRange": 100.0,
+      "usageType": "position",
+      "workRange": 14000.0
+    },
+    "titleIDs": "",
+    "workTime": 5.0
+  },
+  "D_Day_2": {
+    "SpecialSoundID": "Pinata_Minefield",
+    "availableBuoyancyStates": [],
+    "consumableType": "minefield",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "field": "PCOF008_Minefield_DD_OP_2",
+      "iconIDs": "",
+      "planeAirSupport": {
+        "climbAngle": 37,
+        "flyAwayTime": 5.0,
+        "maxPlaneFlightDist": 2500,
+        "planeName": "PGAD997_AS_MineBomber_DD_OP_2",
+        "timeFromHeaven": 5.0
+      },
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 10.0,
+    "reloadTime": 210.0,
+    "tacticalParams": {
+      "aimRange": 100.0,
+      "usageType": "position",
+      "workRange": 7000.0
+    },
+    "titleIDs": "",
+    "workTime": 5.0
+  },
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "minefield",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "field": "PCOF001_Minefield",
+      "iconIDs": "",
+      "planeAirSupport": {
+        "climbAngle": 37,
+        "flyAwayTime": 5.0,
+        "maxPlaneFlightDist": 2500,
+        "planeName": "PAAD999_AS_MineBomber",
+        "timeFromHeaven": 0.0
+      },
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "aimRange": 100.0,
+      "usageType": "position",
+      "workRange": 15000.0
+    },
+    "titleIDs": "",
+    "workTime": 5.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 4235370416,
+  "index": "PCY056",
+  "name": "PCY056_TacticalMinefield",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Ability"
+  }
+}

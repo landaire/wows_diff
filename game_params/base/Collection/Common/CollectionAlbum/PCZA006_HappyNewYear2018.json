@@ -1,0 +1,59 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 4,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL019_NordkappNY18_Coll"
+  ],
+  "custom": {},
+  "description": "IDS_DESCRIPTION_PCZA006_HAPPYNEWYEAR2018",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4288650160,
+  "index": "PCZA006",
+  "isPuzzle": false,
+  "name": "PCZA006_HappyNewYear2018",
+  "rewards": [
+    "<Permoflage shipId=\"PBSB527_Duke_of_York\" idx=\"PBES327_Duke_of_York_Ice\" onlySilver=\"0\" count=\"1\"/>",
+    "<Item idx=\"PCEE159_Happy_New_Year2018\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_NY2018SUBCOLLECTION_NAME",
+      "'aa",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_NY2018SUBCOLLECTION_NAME",
+      "'bb",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_NY2018SUBCOLLECTION_NAME",
+      "'cc",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_NY2018SUBCOLLECTION_NAME",
+      "'dd",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

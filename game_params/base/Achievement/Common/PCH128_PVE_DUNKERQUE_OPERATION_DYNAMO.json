@@ -1,0 +1,80 @@
+{
+  "battleTypes": [
+    "PVE",
+    "PVE_PREMADE"
+  ],
+  "constants": {
+    "mapName": "s05_Dunkirk"
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ],
+        [
+          "battleEnd",
+          "mapName",
+          "==",
+          "constant",
+          "mapName"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4159890352,
+  "index": "PCH128",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH128_PVE_DUNKERQUE_OPERATION_DYNAMO",
+  "onePerBattle": true,
+  "shipCategories": [
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "earlyAccess",
+    "ultimate",
+    "upgradeableUltimate",
+    "superShip"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "PVE_DUNKERQUE_OPERATION_DYNAMO",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

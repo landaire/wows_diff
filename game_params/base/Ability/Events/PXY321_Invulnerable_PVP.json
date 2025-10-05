@@ -1,0 +1,90 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "trigger7",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 30.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 10.0
+  },
+  "H2018_PVP": {
+    "availableBuoyancyStates": [],
+    "consumableType": "trigger7",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Invulnerable_PVP",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 30.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
+  "H2019": {
+    "availableBuoyancyStates": [],
+    "consumableType": "trigger7",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Invulnerable_PVP",
+      "titleIDs": ""
+    },
+    "numConsumables": 0,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 30.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 3957497104,
+  "index": "PXY321",
+  "name": "PXY321_Invulnerable_PVP",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

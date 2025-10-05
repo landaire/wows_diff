@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 0,
+  "conditions": [
+    "<isMyShip shipLevel=\"9,10,11\" class=\"Cruiser\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isRibbons count=\"12\" ribbons=\"BASE_DEFENSE\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3857072048,
+  "index": "PCQT417",
+  "isSingleBattle": true,
+  "lootStars": 3,
+  "name": "PCQT417",
+  "rewards": [
+    "<Item idx=\"PCEF007_ID_SignalFlag\" count=\"40\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT417_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA020_Kots",
+  "compensationCR": 0,
+  "description": "IDS_PCZC435_KOTS_HENRI_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3838745520,
+  "index": "PCZC435",
+  "name": "PCZC435_KOTS_Henri",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

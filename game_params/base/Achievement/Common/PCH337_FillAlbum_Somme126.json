@@ -1,0 +1,76 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED"
+  ],
+  "constants": {
+    "album": "PCZA033_Battle_Of_Somme_126"
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "fillingAlbum",
+      [
+        [
+          "fillingAlbum",
+          "albumName",
+          "==",
+          "constant",
+          "album"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 3940737968,
+  "index": "PCH337",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH337_FillAlbum_Somme126",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "honorable",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "FILLALBUM_SOMME126_COMPLETED",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "common"
+}

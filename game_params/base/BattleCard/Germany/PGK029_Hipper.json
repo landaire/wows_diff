@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4263696176,
+  "index": "PGK029",
+  "maxLevel": 2,
+  "name": "PGK029_Hipper",
+  "personalCardBonus": {
+    "clan": "PCOK005_Balldmg_DHEdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PGSC108_Hipper"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

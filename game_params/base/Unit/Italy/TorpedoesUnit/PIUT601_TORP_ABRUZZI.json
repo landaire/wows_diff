@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3664129776,
+  "index": "PIUT601",
+  "name": "PIUT601_TORP_ABRUZZI",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3757027152,
+  "index": "PFUA513",
+  "name": "PFUA513_ART_MONTCALM",
+  "typeinfo": {
+    "nation": "France",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

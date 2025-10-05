@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC156_HSF_ISOROKU_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4131298224,
+  "index": "PCZC156",
+  "name": "PCZC156_HSF_Isoroku",
+  "subAlbums": [
+    5
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

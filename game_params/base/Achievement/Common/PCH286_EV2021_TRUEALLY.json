@@ -1,0 +1,68 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "eventName": "PCH286_EV2021_TRUEALLY"
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [
+    [
+      "battleEvent",
+      [
+        [
+          "event",
+          "name",
+          "==",
+          "constant",
+          "eventName"
+        ],
+        [
+          "receiver",
+          "id",
+          "==",
+          "me",
+          "id"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 3994215344,
+  "index": "PCH286",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH286_EV2021_TRUEALLY",
+  "onePerBattle": true,
+  "shipCategories": [
+    "event"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "EV2021_TRUEALLY",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

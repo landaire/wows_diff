@@ -1,0 +1,13 @@
+{
+  "costCR": 160000,
+  "costXP": 1200,
+  "id": 3976146928,
+  "index": "PAUB304",
+  "name": "PAUB304_CV4_TB_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

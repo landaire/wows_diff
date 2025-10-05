@@ -1,0 +1,49 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "camouflage": "",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 5000,
+  "custom": {},
+  "effects": {},
+  "hidden": true,
+  "hullConfig": {},
+  "id": 4284936112,
+  "index": "PCES009",
+  "isTemplate": true,
+  "name": "PCES009_Template_SkinHidden_8_rich",
+  "nodesConfig": {},
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "decorative",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "",
+  "peculiarityModels": {},
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHidden"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

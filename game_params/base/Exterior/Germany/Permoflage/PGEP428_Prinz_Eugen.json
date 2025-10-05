@@ -1,0 +1,39 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "camouflage": "camo_permanent_1",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 2500,
+  "custom": {},
+  "hidden": true,
+  "id": 3845680944,
+  "index": "PGEP428",
+  "isTemplate": false,
+  "name": "PGEP428_Prinz_Eugen",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHidden"
+  ],
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "camouflage": "camo_Steam_tile",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "hidden": true,
+  "id": 4248760240,
+  "index": "PCEC044",
+  "isTemplate": false,
+  "name": "PCEC044_Steam_Camo",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Camouflage",
+    "type": "Exterior"
+  }
+}

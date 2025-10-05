@@ -1,0 +1,88 @@
+{
+  "id": 4252551088,
+  "index": "PCOO040",
+  "logic": {
+    "InteractiveObjectEvents": {
+      "OnMouseClick": {
+        "InteractiveObjectActions": {
+          "cameraAction": {
+            "trajectoryName": "BDay25_Shelf",
+            "type": 6
+          },
+          "mousePressAction": {
+            "eventData": {
+              "data": {
+                "hideHeader": true
+              },
+              "routeId": "transparent_window"
+            },
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "ui.navigate"
+          },
+          "mousePressAction2": {
+            "eventData": [
+              "io:bday25_shelf_click"
+            ],
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "statistics.log"
+          },
+          "soundAction": {
+            "eventName": "UI_Bday25_Drawer_Click",
+            "type": 4
+          }
+        },
+        "activeTime": 2.0,
+        "requiredState": "hovered",
+        "targetState": "selected",
+        "type": "onMouseClick"
+      },
+      "OnMouseOver": {
+        "InteractiveObjectActions": {
+          "mousePressAction": {
+            "actionName": "On",
+            "deactivationActionName": "",
+            "type": 3
+          },
+          "soundAction": {
+            "eventName": "UI_Bday25_Drawer_Over",
+            "type": 4
+          }
+        },
+        "activeTime": -1.0,
+        "requiredState": "idle",
+        "targetState": "hovered",
+        "type": "onMouseOver"
+      },
+      "OnMouseOverEnd": {
+        "InteractiveObjectActions": {
+          "modelAction": {
+            "actionName": "Off",
+            "deactivationActionName": "",
+            "type": 3
+          }
+        },
+        "activeTime": 0.0,
+        "requiredState": "hovered",
+        "targetState": "released",
+        "type": "onMouseOverEnd"
+      },
+      "onUIMouseClick": {
+        "InteractiveObjectActions": null,
+        "activeTime": 0.0,
+        "requiredState": "hovered",
+        "targetState": "selected",
+        "type": "onUISelect"
+      }
+    },
+    "state": "idle"
+  },
+  "name": "PCOO040_BDay25_Shelf",
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "InteractiveObject",
+    "type": "Other"
+  }
+}

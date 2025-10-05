@@ -1,0 +1,13 @@
+{
+  "costCR": 370000,
+  "costXP": 0,
+  "id": 3611143888,
+  "index": "PJUE652",
+  "name": "PJUE652_D7_ENG_STOCK_2",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

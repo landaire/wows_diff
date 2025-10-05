@@ -1,0 +1,79 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "mapName": "s11_D_day"
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ],
+        [
+          "battleEnd",
+          "mapName",
+          "==",
+          "constant",
+          "mapName"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 3858949040,
+  "index": "PCH415",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH415_DDAY_2024_OP_1",
+  "onePerBattle": true,
+  "shipCategories": [
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "earlyAccess",
+    "ultimate",
+    "upgradeableUltimate",
+    "superShip"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "DDAY_2024_OP_1",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

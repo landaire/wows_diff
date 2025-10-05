@@ -1,0 +1,27 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "bday10_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 4288540592,
+  "index": "PCEE006",
+  "isTemplate": false,
+  "name": "PCEE006_bday10_flag",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing",
+    "ingameevent"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

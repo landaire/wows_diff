@@ -1,0 +1,13 @@
+{
+  "costCR": 1450000,
+  "costXP": 16000,
+  "id": 3657871312,
+  "index": "PBUS607",
+  "name": "PBUS607_CA7_SUO_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

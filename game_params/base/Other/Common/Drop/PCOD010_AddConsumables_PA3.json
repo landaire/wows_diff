@@ -1,0 +1,21 @@
+{
+  "id": 4284368816,
+  "index": "PCOD010",
+  "markerNameActive": "random_consumable_active",
+  "markerNameInactive": "random_consumable_inactive",
+  "maxBuffLevel": 0,
+  "name": "PCOD010_AddConsumables_PA3",
+  "payload": {
+    "consumable": "regenCrew",
+    "count": 1,
+    "slot": null,
+    "type": 2,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

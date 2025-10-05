@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3463294672,
+  "index": "PJUE793",
+  "name": "PJUE793_ENGINE_132000_HAGURO",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

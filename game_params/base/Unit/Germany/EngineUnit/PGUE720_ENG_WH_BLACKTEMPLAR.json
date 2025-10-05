@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3539840816,
+  "index": "PGUE720",
+  "name": "PGUE720_ENG_WH_BLACKTEMPLAR",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

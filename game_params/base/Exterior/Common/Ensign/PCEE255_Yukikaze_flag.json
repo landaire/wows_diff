@@ -1,0 +1,29 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "yukikaze",
+  "group": 3,
+  "hidden": true,
+  "id": 4027445168,
+  "index": "PCEE255",
+  "isTemplate": false,
+  "name": "PCEE255_Yukikaze_flag",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "anime",
+    "catalogueHiddenIfMissing",
+    "catalogueHidden_CN",
+    "azur"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

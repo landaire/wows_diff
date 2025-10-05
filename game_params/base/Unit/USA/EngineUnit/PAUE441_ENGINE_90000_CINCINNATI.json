@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3832393712,
+  "index": "PAUE441",
+  "name": "PAUE441_ENGINE_90000_CINCINNATI",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

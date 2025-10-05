@@ -1,0 +1,28 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "xbox_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3591237552,
+  "index": "PCEE671",
+  "isTemplate": false,
+  "name": "PCEE671_Xbox_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other",
+    "catalogueHidden_CN",
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

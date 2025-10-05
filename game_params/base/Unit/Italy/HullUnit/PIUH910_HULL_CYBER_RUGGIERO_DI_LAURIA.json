@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3340513008,
+  "index": "PIUH910",
+  "name": "PIUH910_HULL_CYBER_RUGGIERO_DI_LAURIA",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

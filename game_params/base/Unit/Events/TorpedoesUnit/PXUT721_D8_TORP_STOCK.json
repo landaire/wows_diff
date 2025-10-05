@@ -1,0 +1,13 @@
+{
+  "costCR": 780000,
+  "costXP": 0,
+  "id": 3538300176,
+  "index": "PXUT721",
+  "name": "PXUT721_D8_TORP_STOCK",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

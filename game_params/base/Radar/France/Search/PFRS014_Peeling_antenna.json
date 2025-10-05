@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4279679824,
+  "index": "PFRS014",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/radar/search/FRS014_Peeling_antenna/FRS014_Peeling_antenna.model",
+  "name": "PFRS014_Peeling_antenna",
+  "typeinfo": {
+    "nation": "France",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

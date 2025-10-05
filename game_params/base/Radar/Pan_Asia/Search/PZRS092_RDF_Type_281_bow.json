@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4197890256,
+  "index": "PZRS092",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/radar/search/ZRS092_RDF_Type_281_bow/ZRS092_RDF_Type_281_bow.model",
+  "name": "PZRS092_RDF_Type_281_bow",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

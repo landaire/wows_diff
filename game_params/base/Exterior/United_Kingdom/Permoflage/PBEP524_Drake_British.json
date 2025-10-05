@@ -1,0 +1,37 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "camouflage": "camo_UK_National",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 3000,
+  "custom": {},
+  "hidden": false,
+  "id": 3745017808,
+  "index": "PBEP524",
+  "isTemplate": false,
+  "name": "PBEP524_Drake_British",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

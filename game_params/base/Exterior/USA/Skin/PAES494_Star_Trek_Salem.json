@@ -1,0 +1,259 @@
+{
+  "RarityCategory": {
+    "name": "Epic"
+  },
+  "camouflage": "",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 8000,
+  "custom": {},
+  "effects": {
+    "A_Hull": {
+      "acid": [],
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_medium.xml"
+        ]
+      ],
+      "descent": [],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_medium.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_medium_2.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_medium.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_medium_2.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_medium.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_medium_2.xml"
+        ]
+      ],
+      "fireResistance": [],
+      "fixDeluge": [],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_medium.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_exhaust_1",
+          "particles/vehicles/Flood_steam_exhaust_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_exhaust_1",
+          "particles/vehicles/Flood_steam_exhaust_big_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_medium.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_big_Salem_StarTrek_Main.xml"
+        ]
+      ],
+      "oil": [],
+      "oilBubble": [],
+      "propellerEffect": [],
+      "propellerEffectReversed": [],
+      "rageMode": [],
+      "rageModeFullScreen": [],
+      "repairLight": [
+        [
+          "HP_FX_RepairLight_left_1",
+          "particles/vehicles/RepairLight_medium.xml"
+        ],
+        [
+          "HP_FX_RepairLight_left_2",
+          "particles/vehicles/RepairLight_medium.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_1",
+          "particles/vehicles/RepairLight_medium.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_2",
+          "particles/vehicles/RepairLight_medium.xml"
+        ]
+      ],
+      "runoff": [],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_big_Salem_StarTrek.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back_wide_1.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": true,
+  "hullConfig": {
+    "A_Hull": {
+      "caps": {},
+      "customMiscs": {},
+      "model": "content/gameplay/usa/ship/cruiser/ASC405_Salem_StarTrek/ASC405_Salem_StarTrek.model"
+    }
+  },
+  "id": 3776376816,
+  "index": "PAES494",
+  "isTemplate": false,
+  "name": "PAES494_Star_Trek_Salem",
+  "nodesConfig": {},
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "startrek",
+  "peculiarityEffects": {
+    "particles/guns/AA_shot.xml": "particles/guns/AA_Shot_ST_Vulkan.xml",
+    "particles/guns/GK_Purging.xml": "particles/Empty_FX.xml",
+    "particles/guns/GK_Reload.xml": "particles/Empty_FX.xml",
+    "particles/guns/GK_Shot.xml": "particles/guns/GK_Shot_ST_Salem.xml",
+    "particles/guns/PMK_Purging.xml": "particles/Empty_FX.xml",
+    "particles/guns/PMK_Shot.xml": "particles/guns/PMK_Shot_ST_Salem.xml",
+    "particles/vehicles/AirCarrier_death.xml": "particles/vehicles/AirCarrier_death.xml",
+    "particles/vehicles/Battleship_death.xml": "particles/vehicles/Battleship_death.xml",
+    "particles/vehicles/Cruiser_death.xml": "particles/vehicles/Cruiser_death.xml",
+    "particles/vehicles/Destroyer_death.xml": "particles/vehicles/Destroyer_death.xml"
+  },
+  "peculiarityFlag": "",
+  "peculiarityModels": {
+    "content/gameplay/usa/aircraft/bomber/AAB706_Consolidated_PB4Y_2_Privateer/AAB706_Consolidated_PB4Y_2_Privateer.model": "content/gameplay/usa/aircraft/bomber/AAB812_Starfleet_Bomber_StarTrek/AAB812_Starfleet_Bomber_StarTrek.model",
+    "content/gameplay/usa/gun/aaircraft/AGA026_3in50_Twin_Mark_33/AGA026_3in50_Twin_Mark_33.model": "content/gameplay/usa/gun/aaircraft/AGA3035_3in50_Twin_Mark_33_StarTrek/AGA3035_3in50_Twin_Mark_33_StarTrek.model",
+    "content/gameplay/usa/gun/aaircraft/AGA026_3in50_Twin_Mark_33/AGA026_3in50_Twin_Mark_33_dead.model": "content/gameplay/usa/gun/aaircraft/AGA3035_3in50_Twin_Mark_33_StarTrek/AGA3035_3in50_Twin_Mark_33_StarTrek_dead.model",
+    "content/gameplay/usa/gun/aaircraft/AGA173_3in50_Twin_Mark_33/AGA173_3in50_Twin_Mark_33.model": "content/gameplay/usa/gun/aaircraft/AGA3035_3in50_Twin_Mark_33_StarTrek/AGA3035_3in50_Twin_Mark_33_StarTrek.model",
+    "content/gameplay/usa/gun/aaircraft/AGA173_3in50_Twin_Mark_33/AGA173_3in50_Twin_Mark_33_dead.model": "content/gameplay/usa/gun/aaircraft/AGA3035_3in50_Twin_Mark_33_StarTrek/AGA3035_3in50_Twin_Mark_33_StarTrek_dead.model",
+    "content/gameplay/usa/gun/main/AGM025_8in55_Triple_Mk16/AGM025_8in55_Triple_Mk16.model": "content/gameplay/usa/gun/main/AGM3037_203mm55_StarTrek/AGM3037_203mm55_StarTrek.model",
+    "content/gameplay/usa/gun/main/AGM025_8in55_Triple_Mk16/AGM025_8in55_Triple_Mk16_dead.model": "content/gameplay/usa/gun/main/AGM3037_203mm55_StarTrek/AGM3037_203mm55_StarTrek_dead.model",
+    "content/gameplay/usa/gun/secondary/AGS010_5in38_Mk32_Mod12/AGS010_5in38_Mk32_Mod12.model": "content/gameplay/usa/gun/secondary/AGS3036_127mm50_Type_C_StarTrek/AGS3036_127mm50_Type_C_StarTrek.model",
+    "content/gameplay/usa/gun/secondary/AGS010_5in38_Mk32_Mod12/AGS010_5in38_Mk32_Mod12_dead.model": "content/gameplay/usa/gun/secondary/AGS3036_127mm50_Type_C_StarTrek/AGS3036_127mm50_Type_C_StarTrek_dead.model"
+  },
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "USA",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

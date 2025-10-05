@@ -1,0 +1,171 @@
+{
+  "AllPlanes": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenerateHealth",
+    "descIDs": "",
+    "group": "squadron",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationRate": 0.1,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 180.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 5.0
+  },
+  "Hildebrand": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenerateHealth",
+    "descIDs": "",
+    "group": "squadron",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationRate": 0.1,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 180.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 7
+  },
+  "JAP_8_10": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenerateHealth",
+    "descIDs": "",
+    "group": "squadron",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationRate": 0.1,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 5.0
+  },
+  "Regenerate_Ocean": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenerateHealth",
+    "descIDs": "",
+    "group": "squadron",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationRate": 0.1,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 180.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 5.0
+  },
+  "Roosevelt": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenerateHealth",
+    "descIDs": "PCY036_RegenerateHealth_Long_Premium",
+    "group": "squadron",
+    "iconIDs": "PCY036_RegenerateHealth_Long_Premium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationRate": 0.023,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 5,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 10.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY036_RegenerateHealth_Long_Premium",
+    "workTime": 25.0
+  },
+  "StaTrek": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenerateHealth",
+    "descIDs": "PXY617_ST_Planes_Regen",
+    "group": "squadron",
+    "iconIDs": "PXY617_ST_Planes_Regen",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationRate": 1.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PXY617_ST_Planes_Regen",
+    "workTime": 10.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 4256341936,
+  "index": "PCY036",
+  "name": "PCY036_RegenerateHealth",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Ability"
+  }
+}

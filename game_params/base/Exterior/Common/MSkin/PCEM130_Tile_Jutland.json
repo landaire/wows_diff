@@ -1,0 +1,56 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "camo_Jutland_tile_01",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "effects": {},
+  "filterIsWhitelist": false,
+  "hidden": true,
+  "hullConfig": {},
+  "id": 4158255024,
+  "index": "PCEM130",
+  "isTemplate": false,
+  "isTileflage": true,
+  "linkedCamouflage": "PCEC109_Jutland",
+  "miscFilter": [],
+  "miscSubTypeSpecification": {},
+  "name": "PCEM130_Tile_Jutland",
+  "nodesConfig": {},
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "default",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "",
+  "peculiarityModels": {},
+  "planesConfig": {},
+  "renderSetsStates": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "styleEffects": {},
+  "styleMiscs": [],
+  "subTypes": [],
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "MSkin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

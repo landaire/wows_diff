@@ -1,0 +1,171 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED"
+  ],
+  "constants": {
+    "_damageRatio": 0.5,
+    "_timeInterval": 5.0
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "meAttack",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "damage",
+          "weaponType",
+          "not in",
+          "weaponType",
+          "INSTANT_KILL_EXCLUDED"
+        ],
+        [
+          "subInstruction",
+          [
+            "environment",
+            "time",
+            "-",
+            "counter",
+            "targetA"
+          ],
+          ">",
+          "constant",
+          "_timeInterval"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "targetA",
+          "=",
+          "environment",
+          "time"
+        ],
+        [
+          "counter",
+          "targetB",
+          "=",
+          "constant",
+          "0"
+        ]
+      ]
+    ],
+    [
+      "meAttack",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "damage",
+          "weaponType",
+          "not in",
+          "weaponType",
+          "INSTANT_KILL_EXCLUDED"
+        ],
+        [
+          "subInstruction",
+          [
+            "environment",
+            "time",
+            "-",
+            "counter",
+            "targetA"
+          ],
+          "<=",
+          "constant",
+          "_timeInterval"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "targetB",
+          "+=",
+          "damage",
+          "ratio"
+        ]
+      ]
+    ],
+    [
+      "meKill",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "counter",
+          "targetB",
+          ">=",
+          "constant",
+          "_damageRatio"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4282573744,
+  "index": "PCH011",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH011_InstantKill",
+  "onePerBattle": false,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "honorable",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "INSTANT_KILL",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_PVP_RANKED",
+  "uiType": "honorable"
+}

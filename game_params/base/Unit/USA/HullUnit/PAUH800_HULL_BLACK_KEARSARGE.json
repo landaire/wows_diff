@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3455856624,
+  "index": "PAUH800",
+  "name": "PAUH800_HULL_BLACK_KEARSARGE",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,18 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4239584240,
+  "index": "PAF052",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/finder/AF052_Rangefinder_3_6m/AF052_Rangefinder_3_6m.model",
+  "name": "PAF052_Rangefinder_3_6m",
+  "nation": "America",
+  "otype": "Finder",
+  "stype": "",
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "Finder"
+  }
+}

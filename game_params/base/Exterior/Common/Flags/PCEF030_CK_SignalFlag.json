@@ -1,0 +1,29 @@
+{
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": 96000,
+  "costGold": -1,
+  "custom": {},
+  "flags": [
+    "charlie",
+    "kilo"
+  ],
+  "group": 0,
+  "hidden": false,
+  "id": 4263342000,
+  "index": "PCEF030",
+  "isTemplate": false,
+  "modifiers": {
+    "healthHullCoeff": 1.05,
+    "planeHealthCoeff": 1.025
+  },
+  "name": "PCEF030_CK_SignalFlag",
+  "sortOrder": 12,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Flags",
+    "type": "Exterior"
+  }
+}

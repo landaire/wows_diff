@@ -1,0 +1,13 @@
+{
+  "costCR": 240000,
+  "costXP": 2700,
+  "id": 3862802224,
+  "index": "PGUE412",
+  "name": "PGUE412_B5_ENG_TOP",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

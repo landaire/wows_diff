@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3547180240,
+  "index": "PZUE713",
+  "name": "PZUE713_ENG_ZHUQUE",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

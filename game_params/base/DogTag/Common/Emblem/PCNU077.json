@@ -1,0 +1,80 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED"
+  ],
+  "canBuy": false,
+  "canCharge": true,
+  "canUseDoll": true,
+  "clanTag": [
+    false,
+    "",
+    [
+      0,
+      0
+    ]
+  ],
+  "constants": {},
+  "costCR": 15000,
+  "costGold": -1,
+  "custom": {},
+  "enabled": true,
+  "events": [],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4213558192,
+  "index": "PCNU077",
+  "isTemplate": false,
+  "keepCounters": false,
+  "lootBoxAvailable": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCNU077",
+  "needDescription": true,
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "sortOrder": 203,
+  "symbolOffsetY": 0,
+  "tags": [
+    "emblem",
+    "catalogueHiddenIfMissing"
+  ],
+  "type": "special",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Emblem",
+    "type": "DogTag"
+  },
+  "uiCondition": [],
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "",
+  "uiOutOfDate": false,
+  "uiQuest": [
+    [
+      "IDS_DOGTAG_PCNU077_QUEST",
+      ""
+    ]
+  ],
+  "uiRestrictionIDS": "",
+  "uiType": "common"
+}

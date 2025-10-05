@@ -1,0 +1,27 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "victory_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 4024299440,
+  "index": "PCEE258",
+  "isTemplate": false,
+  "name": "PCEE258_Victory_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "ingameevent",
+    "catalogueHidden_CN"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

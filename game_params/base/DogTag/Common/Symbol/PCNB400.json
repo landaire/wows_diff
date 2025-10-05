@@ -1,0 +1,76 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED"
+  ],
+  "canBuy": false,
+  "canCharge": false,
+  "canUseDoll": true,
+  "clanTag": [
+    false,
+    "",
+    [
+      0,
+      0
+    ]
+  ],
+  "constants": {},
+  "costCR": 15000,
+  "costGold": -1,
+  "custom": {},
+  "customPositions": {},
+  "enabled": true,
+  "events": [],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 3875490736,
+  "index": "PCNB400",
+  "isTemplate": false,
+  "itemType": 1,
+  "keepCounters": false,
+  "lootBoxAvailable": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCNB400",
+  "needDescription": true,
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": true,
+  "symbolOffsetY": 0,
+  "tags": [
+    "dogtag",
+    "catalogueHiddenIfMissing"
+  ],
+  "type": "heroic",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Symbol",
+    "type": "DogTag"
+  },
+  "uiCondition": [],
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "",
+  "uiOutOfDate": false,
+  "uiQuest": [],
+  "uiRestrictionIDS": "",
+  "uiType": "common"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3561860304,
+  "index": "PZUE699",
+  "name": "PZUE699_ENG_INCHEON",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,27 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "influencer_couragejd",
+  "group": 3,
+  "hidden": true,
+  "id": 3595431856,
+  "index": "PCEE667",
+  "isTemplate": false,
+  "name": "PCEE667_Influencer_CourageJD_flag",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "influencer",
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

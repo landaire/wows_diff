@@ -1,0 +1,272 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "camouflage": "",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 7000,
+  "custom": {},
+  "effects": {
+    "A_Hull": {
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_small.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_small.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_small.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_vsmall_Space.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_small_Space.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_small_Space.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_medium_Space.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_small_Space.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_small_Space.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_small_Space.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_small_Space.xml"
+        ]
+      ],
+      "fireResistance": [],
+      "fixDeluge": [],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_small.xml"
+        ]
+      ],
+      "flood": [],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_small.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_medium_Space.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/idlePort_RunSmoke_medium_Space.xml"
+        ]
+      ],
+      "repairLight": [],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_medium_Space.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/RunSmoke_medium_Space.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back_wide_1.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": true,
+  "hullConfig": {},
+  "id": 3749113648,
+  "index": "PGES520",
+  "isTemplate": false,
+  "name": "PGES520_SPACE_Z_52",
+  "nodesConfig": {
+    "A1_Artillery": {
+      "HP_GGM_1": {
+        "deadMesh": "content/gameplay/germany/gun/main/GGM300_127mm_45_SK_C41/GGM300_127mm_45_SK_C41_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/main/GGM300_127mm_45_SK_C41/GGM300_127mm_45_SK_C41.model"
+      },
+      "HP_GGM_2": {
+        "deadMesh": "content/gameplay/germany/gun/main/GGM300_127mm_45_SK_C41/GGM300_127mm_45_SK_C41_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/main/GGM300_127mm_45_SK_C41/GGM300_127mm_45_SK_C41.model"
+      },
+      "HP_GGM_3": {
+        "deadMesh": "content/gameplay/germany/gun/main/GGM300_127mm_45_SK_C41/GGM300_127mm_45_SK_C41_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/main/GGM300_127mm_45_SK_C41/GGM300_127mm_45_SK_C41.model"
+      }
+    },
+    "A_Finders": {
+      "HP_GF_1": {
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/finder/GF510_3m_Rangefinder_FuMO_212_Space/GF510_3m_Rangefinder_FuMO_212_Space.model"
+      },
+      "HP_GF_2": {
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/finder/GF510_3m_Rangefinder_FuMO_212_Space/GF510_3m_Rangefinder_FuMO_212_Space.model"
+      }
+    }
+  },
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "april_space",
+  "peculiarityEffects": {
+    "particles/guns/GK_Purging.xml": "particles/guns/GK_Purging_Space.xml",
+    "particles/guns/GK_Reload.xml": "particles/guns/GK_Reload_Space.xml",
+    "particles/guns/GK_Shot.xml": "particles/guns/GK_Shot_Space.xml",
+    "particles/guns/PMK_Purging.xml": "particles/guns/PMK_Purging_Space.xml",
+    "particles/guns/PMK_Shot.xml": "particles/guns/PMK_Shot_Space.xml",
+    "particles/vehicles/AirCarrier_death.xml": "particles/vehicles/AirCarrier_death_Space.xml",
+    "particles/vehicles/Battleship_death.xml": "particles/vehicles/Battleship_death_Space.xml",
+    "particles/vehicles/Cruiser_death.xml": "particles/vehicles/Cruiser_death_Space.xml",
+    "particles/vehicles/Destroyer_death.xml": "particles/vehicles/Destroyer_death_Space.xml"
+  },
+  "peculiarityFlag": "space_warships2018",
+  "peculiarityModels": {
+    "content/gameplay/germany/gun/aaircraft/GGA040_55mm_77_Gerat/GGA040_55mm_77_Gerat.model": "content/gameplay/germany/gun/aaircraft/GGA301_55mm_77_Gerat58/GGA301_55mm_77_Gerat58.model",
+    "content/gameplay/germany/gun/aaircraft/GGA040_55mm_77_Gerat/GGA040_55mm_77_Gerat_dead.model": "content/gameplay/germany/gun/aaircraft/GGA301_55mm_77_Gerat58/GGA301_55mm_77_Gerat58_dead.model",
+    "content/gameplay/germany/gun/aaircraft/GGA043_37mm_Flak_M42_Zwilling/GGA043_37mm_Flak_M42_Zwilling.model": "content/gameplay/germany/gun/aaircraft/GGA302_37mm_Flak_M42_twin/GGA302_37mm_Flak_M42_twin.model",
+    "content/gameplay/germany/gun/aaircraft/GGA043_37mm_Flak_M42_Zwilling/GGA043_37mm_Flak_M42_Zwilling_dead.model": "content/gameplay/germany/gun/aaircraft/GGA302_37mm_Flak_M42_twin/GGA302_37mm_Flak_M42_twin_dead.model",
+    "content/gameplay/germany/gun/dcharge/GGB104_Depth_Charge_Thrower/GGB104_Depth_Charge_Thrower.model": "content/gameplay/germany/gun/dcharge/GGB324_Depth_Charge_Thrower/GGB324_Depth_Charge_Thrower.model",
+    "content/gameplay/germany/gun/dcharge/GGB104_Depth_Charge_Thrower/GGB104_Depth_Charge_Thrower_dead.model": "content/gameplay/germany/gun/dcharge/GGB324_Depth_Charge_Thrower/GGB324_Depth_Charge_Thrower_dead.model",
+    "content/gameplay/germany/gun/torpedo/GGT078_533mm_QuadTube/GGT078_533mm_QuadTube.model": "content/gameplay/germany/gun/torpedo/GGT303_533mm_QuadTube/GGT303_533mm_QuadTube.model",
+    "content/gameplay/germany/gun/torpedo/GGT078_533mm_QuadTube/GGT078_533mm_QuadTube_dead.model": "content/gameplay/germany/gun/torpedo/GGT303_533mm_QuadTube/GGT303_533mm_QuadTube_dead.model",
+    "content/gameplay/germany/projectile/depthcharge/GPD001_Depth_Charge/GPD001_Depth_Charge.model": "content/gameplay/germany/projectile/depthcharge/GPD003_Depth_Charge_Space/GPD003_Depth_Charge_Space.model",
+    "content/gameplay/germany/projectile/torpedo/GPT001_Torpedo_533/GPT001_Torpedo_533.model": "content/gameplay/germany/projectile/torpedo/GPT005_Torpedo_Space/GPT005_Torpedo_Space.model",
+    "content/gameplay/germany/ship/destroyer/GSD009_Z52_1945/GSD009_Z52_1945.model": "content/gameplay/germany/ship/destroyer/GSD017_Z52_Space2018/GSD017_Z52_Space2018.model"
+  },
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

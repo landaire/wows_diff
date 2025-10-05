@@ -1,0 +1,13 @@
+{
+  "costCR": 1000000,
+  "costXP": 0,
+  "id": 3350147024,
+  "index": "PBUB901",
+  "name": "PBUB901_CV10_TB_STOCK",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

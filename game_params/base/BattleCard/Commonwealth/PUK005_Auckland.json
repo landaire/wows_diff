@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4288861552,
+  "index": "PUK005",
+  "maxLevel": 2,
+  "name": "PUK005_Auckland",
+  "personalCardBonus": {
+    "clan": "PCOK005_Balldmg_DHEdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PUSC018_Auckland"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

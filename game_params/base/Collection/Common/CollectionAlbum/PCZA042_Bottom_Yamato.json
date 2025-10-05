@@ -1,0 +1,36 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 1,
+  "compensationCR": 0,
+  "containersID": [],
+  "custom": {},
+  "description": "IDS_DESCRIPTION_PCZA042_BOTTOM_YAMATO",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4250901424,
+  "index": "PCZA042",
+  "isInArmory": false,
+  "isPuzzle": false,
+  "name": "PCZA042_Bottom_Yamato",
+  "rewards": [
+    "<Crew shipId=\"PJSC037_Hashidate_1940\" level=\"10\" crewId=\"PJW476_Kosaku_Aruga\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_PCZA042_BOTTOM_YAMATO",
+      "aa",
+      [
+        "<Item idx=\"PCEE820_bottom_yamato_flag\" count=\"1\" />"
+      ]
+    ]
+  ],
+  "subscribeType": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

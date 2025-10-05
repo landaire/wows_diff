@@ -1,0 +1,37 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "camo_permanent_2",
+  "canBuy": true,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 1500,
+  "custom": {},
+  "hidden": false,
+  "id": 3863506384,
+  "index": "PREP411",
+  "isTemplate": false,
+  "name": "PREP411_Oktyabrskaya_Revolutsiya",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

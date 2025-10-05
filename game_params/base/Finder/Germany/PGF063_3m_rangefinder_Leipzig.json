@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4228049712,
+  "index": "PGF063",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF063_3m_rangefinder_Leipzig/GF063_3m_rangefinder_Leipzig.model",
+  "name": "PGF063_3m_rangefinder_Leipzig",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

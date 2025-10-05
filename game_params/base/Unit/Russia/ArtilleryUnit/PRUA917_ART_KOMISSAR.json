@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3333402064,
+  "index": "PRUA917",
+  "name": "PRUA917_ART_KOMISSAR",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

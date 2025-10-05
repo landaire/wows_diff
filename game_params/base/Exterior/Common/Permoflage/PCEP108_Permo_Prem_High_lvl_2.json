@@ -1,0 +1,39 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "camouflage": "camo_permanent_2",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 2000,
+  "custom": {},
+  "hidden": true,
+  "id": 4181225392,
+  "index": "PCEP108",
+  "isTemplate": false,
+  "name": "PCEP108_Permo_Prem_High_lvl_2",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHidden"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

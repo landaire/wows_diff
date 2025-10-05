@@ -1,0 +1,488 @@
+{
+  "RarityCategory": {
+    "name": "Epic"
+  },
+  "camouflage": "mat_Almirante_Oquendo_Shipyard",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 6000,
+  "custom": {},
+  "effects": {
+    "A_Hull": {
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_medium.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_medium_2.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_medium.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_medium_2.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_medium.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_medium_2.xml"
+        ]
+      ],
+      "fireResistance": [],
+      "fixDeluge": [],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_medium.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_exhaust_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_exhaust_big_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_medium.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_big.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/idlePort_RunSmoke_big.xml"
+        ]
+      ],
+      "repairLight": [
+        [
+          "HP_FX_RepairLight_left_1",
+          "particles/vehicles/RepairLight_medium.xml"
+        ],
+        [
+          "HP_FX_RepairLight_left_2",
+          "particles/vehicles/RepairLight_medium.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_1",
+          "particles/vehicles/RepairLight_medium.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_2",
+          "particles/vehicles/RepairLight_medium.xml"
+        ]
+      ],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_vbig.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/RunSmoke_big.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_left_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceForward_screw_right_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": true,
+  "hullConfig": {
+    "A_Hull": {
+      "caps": {},
+      "customMiscs": {},
+      "model": "content/gameplay/spain/ship/cruiser/SSC303_Almirante_Oquendo_Shipyard/SSC303_Almirante_Oquendo_Shipyard.model"
+    }
+  },
+  "id": 3863408048,
+  "index": "PSES411",
+  "isTemplate": false,
+  "name": "PSES411_Almirante_Oquendo_137",
+  "nodesConfig": {
+    "A_ATBA": {
+      "HP_SGS_1": {
+        "deadMesh": "content/gameplay/spain/gun/secondary/SGS3004_90mm_50_twin_Shipyard/SGS3004_90mm_50_twin_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/secondary/SGS3004_90mm_50_twin_Shipyard/SGS3004_90mm_50_twin_Shipyard.model"
+      },
+      "HP_SGS_2": {
+        "deadMesh": "content/gameplay/spain/gun/secondary/SGS3004_90mm_50_twin_Shipyard/SGS3004_90mm_50_twin_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/secondary/SGS3004_90mm_50_twin_Shipyard/SGS3004_90mm_50_twin_Shipyard.model"
+      },
+      "HP_SGS_3": {
+        "deadMesh": "content/gameplay/spain/gun/secondary/SGS3004_90mm_50_twin_Shipyard/SGS3004_90mm_50_twin_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/secondary/SGS3004_90mm_50_twin_Shipyard/SGS3004_90mm_50_twin_Shipyard.model"
+      },
+      "HP_SGS_4": {
+        "deadMesh": "content/gameplay/spain/gun/secondary/SGS3004_90mm_50_twin_Shipyard/SGS3004_90mm_50_twin_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/secondary/SGS3004_90mm_50_twin_Shipyard/SGS3004_90mm_50_twin_Shipyard.model"
+      },
+      "HP_SGS_5": {
+        "deadMesh": "content/gameplay/spain/gun/secondary/SGS3004_90mm_50_twin_Shipyard/SGS3004_90mm_50_twin_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/secondary/SGS3004_90mm_50_twin_Shipyard/SGS3004_90mm_50_twin_Shipyard.model"
+      },
+      "HP_SGS_6": {
+        "deadMesh": "content/gameplay/spain/gun/secondary/SGS3004_90mm_50_twin_Shipyard/SGS3004_90mm_50_twin_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/secondary/SGS3004_90mm_50_twin_Shipyard/SGS3004_90mm_50_twin_Shipyard.model"
+      }
+    },
+    "A_AirDefense": {
+      "HP_SGA_10": {
+        "deadMesh": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard.model"
+      },
+      "HP_SGA_11": {
+        "deadMesh": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard.model"
+      },
+      "HP_SGA_12": {
+        "deadMesh": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard.model"
+      },
+      "HP_SGA_21": {
+        "deadMesh": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard.model"
+      },
+      "HP_SGA_22": {
+        "deadMesh": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard.model"
+      },
+      "HP_SGA_23": {
+        "deadMesh": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard.model"
+      },
+      "HP_SGA_24": {
+        "deadMesh": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard.model"
+      },
+      "HP_SGA_29": {
+        "deadMesh": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard.model"
+      },
+      "HP_SGA_3": {
+        "deadMesh": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard.model"
+      },
+      "HP_SGA_30": {
+        "deadMesh": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard.model"
+      },
+      "HP_SGA_33": {
+        "deadMesh": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard.model"
+      },
+      "HP_SGA_34": {
+        "deadMesh": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard.model"
+      },
+      "HP_SGA_4": {
+        "deadMesh": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard.model"
+      },
+      "HP_SGA_7": {
+        "deadMesh": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard.model"
+      },
+      "HP_SGA_8": {
+        "deadMesh": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard.model"
+      },
+      "HP_SGA_9": {
+        "deadMesh": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/aaircraft/SGA3003_Breda_37mm_double_Shipyard/SGA3003_Breda_37mm_double_Shipyard.model"
+      }
+    },
+    "A_Artillery": {
+      "HP_SGM_1": {
+        "deadMesh": "content/gameplay/spain/gun/main/SGM3000_8in50_BL_MkIX_Shipyard/SGM3000_8in50_BL_MkIX_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_SM6008_Rangefinder_Shipyard",
+          "MP_SM6009_Rangefinder_Shipyard_dead",
+          "MP_SM523_Liferaft_type_20_8ft",
+          "MP_SM523_Liferaft_type_20_8ft_INDEX_1"
+        ],
+        "model": "content/gameplay/spain/gun/main/SGM3000_8in50_BL_MkIX_Shipyard/SGM3000_8in50_BL_MkIX_Shipyard.model"
+      },
+      "HP_SGM_2": {
+        "deadMesh": "content/gameplay/spain/gun/main/SGM3000_8in50_BL_MkIX_Shipyard/SGM3000_8in50_BL_MkIX_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_SM6008_Rangefinder_Shipyard",
+          "MP_SM6009_Rangefinder_Shipyard_dead",
+          "MP_SM523_Liferaft_type_20_8ft",
+          "MP_SM523_Liferaft_type_20_8ft_INDEX_1"
+        ],
+        "model": "content/gameplay/spain/gun/main/SGM3000_8in50_BL_MkIX_Shipyard/SGM3000_8in50_BL_MkIX_Shipyard.model"
+      },
+      "HP_SGM_3": {
+        "deadMesh": "content/gameplay/spain/gun/main/SGM3000_8in50_BL_MkIX_Shipyard/SGM3000_8in50_BL_MkIX_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_SM6008_Rangefinder_Shipyard",
+          "MP_SM6009_Rangefinder_Shipyard_dead",
+          "MP_SM523_Liferaft_type_20_8ft",
+          "MP_SM523_Liferaft_type_20_8ft_INDEX_1"
+        ],
+        "model": "content/gameplay/spain/gun/main/SGM3000_8in50_BL_MkIX_Shipyard/SGM3000_8in50_BL_MkIX_Shipyard.model"
+      },
+      "HP_SGM_4": {
+        "deadMesh": "content/gameplay/spain/gun/main/SGM3000_8in50_BL_MkIX_Shipyard/SGM3000_8in50_BL_MkIX_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_SM6008_Rangefinder_Shipyard",
+          "MP_SM6009_Rangefinder_Shipyard_dead",
+          "MP_SM523_Liferaft_type_20_8ft",
+          "MP_SM523_Liferaft_type_20_8ft_INDEX_1"
+        ],
+        "model": "content/gameplay/spain/gun/main/SGM3000_8in50_BL_MkIX_Shipyard/SGM3000_8in50_BL_MkIX_Shipyard.model"
+      }
+    },
+    "A_Torpedoes": {
+      "HP_SGT_1": {
+        "deadMesh": "content/gameplay/spain/gun/torpedo/SGT3001_21in_3tube_TR_Mk_IV_L_Shipyard/SGT3001_21in_3tube_TR_Mk_IV_L_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/torpedo/SGT3001_21in_3tube_TR_Mk_IV_L_Shipyard/SGT3001_21in_3tube_TR_Mk_IV_L_Shipyard.model"
+      },
+      "HP_SGT_2": {
+        "deadMesh": "content/gameplay/spain/gun/torpedo/SGT3002_21in_3tube_TR_Mk_IV_R_Shipyard/SGT3002_21in_3tube_TR_Mk_IV_R_Shipyard_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/spain/gun/torpedo/SGT3002_21in_3tube_TR_Mk_IV_R_Shipyard/SGT3002_21in_3tube_TR_Mk_IV_R_Shipyard.model"
+      }
+    }
+  },
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "decorative",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "",
+  "peculiarityModels": {
+    "content/gameplay/spain/catapult/SC001_Catapult_4/SC001_Catapult_4.model": "content/gameplay/spain/catapult/SC3000_Catapult_4_Shipyard/SC3000_Catapult_4_Shipyard.model"
+  },
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

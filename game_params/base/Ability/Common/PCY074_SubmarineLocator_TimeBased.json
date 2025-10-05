@@ -1,0 +1,42 @@
+{
+  "Default_TimeBased": {
+    "availableBuoyancyStates": [],
+    "capacityRegenCoeff": 0.0,
+    "consumableType": "submarineLocator",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 1,
+    "logic": {
+      "descIDs": "",
+      "distShip": 200.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave_sub.xml"
+    },
+    "maxCapacity": 180.0,
+    "minWorkTime": 60.0,
+    "preparationTime": 330.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": ""
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 4216496048,
+  "index": "PCY074",
+  "name": "PCY074_SubmarineLocator_TimeBased",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Ability"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "sonar",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "distShip": 116.0,
+      "distTorpedo": 84.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "targetBuoyancyDistances": {
+        "DEEP_WATER_INVUL": 66.6667
+      },
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 180.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 40.0
+  },
+  "H2018_PVP": {
+    "availableBuoyancyStates": [],
+    "consumableType": "sonar",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "distShip": 166.6,
+      "distTorpedo": 166.6,
+      "iconIDs": "",
+      "specialSoundID": "SonarSearch_PVP",
+      "targetBuoyancyDistances": {
+        "DEEP_WATER_INVUL": 66.6667
+      },
+      "titleIDs": ""
+    },
+    "numConsumables": 5,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 60.0
+  },
+  "H2019": {
+    "availableBuoyancyStates": [],
+    "consumableType": "sonar",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "distShip": 400.0,
+      "distTorpedo": 400.0,
+      "iconIDs": "",
+      "specialSoundID": "SonarSearch_PVP",
+      "targetBuoyancyDistances": {
+        "DEEP_WATER_INVUL": 66.6667
+      },
+      "titleIDs": ""
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 45.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 5.0
+  },
+  "H2019_Henri": {
+    "availableBuoyancyStates": [],
+    "consumableType": "sonar",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "distShip": 400.0,
+      "distTorpedo": 400.0,
+      "iconIDs": "",
+      "specialSoundID": "SonarSearch_PVP",
+      "targetBuoyancyDistances": {
+        "DEEP_WATER_INVUL": 66.6667
+      },
+      "titleIDs": ""
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 30.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 10.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 3961691408,
+  "index": "PXY317",
+  "name": "PXY317_SonarSearch_PVP",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

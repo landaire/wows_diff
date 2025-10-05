@@ -1,0 +1,27 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "ranked_first_season",
+  "group": 3,
+  "hidden": false,
+  "id": 4270714800,
+  "index": "PCEE023",
+  "isTemplate": false,
+  "name": "PCEE023_SeasonFlag00",
+  "needExtraDescription": false,
+  "rankSeasonId": 1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "rank",
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

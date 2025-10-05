@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4171428848,
+  "index": "PAD117",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/director/AD117_TDT_Mk23_Mod0/AD117_TDT_Mk23_Mod0.model",
+  "name": "PAD117_TDT_Mk23_Mod0",
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "Director"
+  }
+}

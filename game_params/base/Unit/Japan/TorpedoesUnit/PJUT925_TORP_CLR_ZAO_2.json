@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3324391120,
+  "index": "PJUT925",
+  "name": "PJUT925_TORP_CLR_ZAO_2",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

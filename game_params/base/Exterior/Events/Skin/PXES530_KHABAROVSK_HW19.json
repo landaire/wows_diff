@@ -1,0 +1,369 @@
+{
+  "RarityCategory": {
+    "name": "Epic"
+  },
+  "camouflage": "",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "effects": {
+    "A_Hull": {
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_small.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_small.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_small.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_vsmall_2.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_small_2.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_small.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_small.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_small_2.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_small.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_small.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_vsmall.xml"
+        ]
+      ],
+      "fireResistance": [],
+      "fixDeluge": [],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_small.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_exhaust_small_H2017.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_small_H2017.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_exhaust_1",
+          "particles/vehicles/Flood_steam_exhaust_small_delayed_H2017.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_small_H2017.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_small_H2017.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_small.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_small_HW.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/idlePort_RunSmoke_small_HW.xml"
+        ]
+      ],
+      "repairLight": [
+        [
+          "HP_FX_RepairLight_left_1",
+          "particles/vehicles/RepairLight_small.xml"
+        ],
+        [
+          "HP_FX_RepairLight_left_2",
+          "particles/vehicles/RepairLight_small.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_1",
+          "particles/vehicles/RepairLight_small.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_2",
+          "particles/vehicles/RepairLight_small.xml"
+        ]
+      ],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_small_HW.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/RunSmoke_small_HW.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back_wide_1.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": false,
+  "hullConfig": {
+    "A_Hull": {
+      "caps": {},
+      "customMiscs": {},
+      "model": "content/gameplay/russia/ship/destroyer/RSD042_Pr_24_Khabarovsk_Skin/RSD042_Pr_24_Khabarovsk_Skin.model"
+    }
+  },
+  "id": 3738627344,
+  "index": "PXES530",
+  "isTemplate": false,
+  "name": "PXES530_KHABAROVSK_HW19",
+  "nodesConfig": {
+    "A_Artillery": {
+      "HP_RGM_1": {
+        "deadMesh": "content/gameplay/russia/gun/main/RGM505_130mm_B2U_HW19/RGM505_130mm_B2U_HW19_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/russia/gun/main/RGM505_130mm_B2U_HW19/RGM505_130mm_B2U_HW19.model"
+      },
+      "HP_RGM_2": {
+        "deadMesh": "content/gameplay/russia/gun/main/RGM505_130mm_B2U_HW19/RGM505_130mm_B2U_HW19_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/russia/gun/main/RGM505_130mm_B2U_HW19/RGM505_130mm_B2U_HW19.model"
+      },
+      "HP_RGM_3": {
+        "deadMesh": "content/gameplay/russia/gun/main/RGM505_130mm_B2U_HW19/RGM505_130mm_B2U_HW19_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/russia/gun/main/RGM505_130mm_B2U_HW19/RGM505_130mm_B2U_HW19.model"
+      },
+      "HP_RGM_4": {
+        "deadMesh": "content/gameplay/russia/gun/main/RGM505_130mm_B2U_HW19/RGM505_130mm_B2U_HW19_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/russia/gun/main/RGM505_130mm_B2U_HW19/RGM505_130mm_B2U_HW19.model"
+      }
+    },
+    "A_DepthChargeGuns": {
+      "HP_RGB_3": {
+        "deadMesh": "content/gameplay/russia/gun/dcharge/RGB522_BM1_Dumper_L_HW19/RGB522_BM1_Dumper_L_HW19_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_RM460_Biomass"
+        ],
+        "model": "content/gameplay/russia/gun/dcharge/RGB522_BM1_Dumper_L_HW19/RGB522_BM1_Dumper_L_HW19.model"
+      }
+    },
+    "A_Directors": {
+      "HP_RD_9": {
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/russia/director/RD525_RAS_Low_Angle_dir_HW19/RD525_RAS_Low_Angle_dir_HW19.model"
+      }
+    },
+    "A_Finders": {
+      "HP_RF_2": {
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/russia/finder/RF524_SVP_3m_HW19/RF524_SVP_3m_HW19.model"
+      }
+    },
+    "A_Radars": {
+      "HP_RRS_1": {
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/russia/radar/search/RRS527_Rif_radar_HW19/RRS527_Rif_radar_HW19.model"
+      },
+      "HP_RRS_2": {
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/russia/radar/search/RRS526_Guys1B_radar_HW19/RRS526_Guys1B_radar_HW19.model"
+      }
+    },
+    "A_Torpedoes": {
+      "HP_RGT_1": {
+        "deadMesh": "content/gameplay/russia/gun/torpedo/RGT565_533mm_2N_5tubes/RGT565_533mm_2N_5tubes_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_RM460_Biomass"
+        ],
+        "model": "content/gameplay/russia/gun/torpedo/RGT565_533mm_2N_5tubes/RGT565_533mm_2N_5tubes.model"
+      },
+      "HP_RGT_2": {
+        "deadMesh": "content/gameplay/russia/gun/torpedo/RGT565_533mm_2N_5tubes/RGT565_533mm_2N_5tubes_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_RM460_Biomass"
+        ],
+        "model": "content/gameplay/russia/gun/torpedo/RGT565_533mm_2N_5tubes/RGT565_533mm_2N_5tubes.model"
+      }
+    }
+  },
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "default",
+  "peculiarityEffects": {
+    "particles/guns/GK_Purging.xml": "particles/guns/GK_Purging_HW.xml",
+    "particles/guns/GK_Reload.xml": "particles/guns/GK_Reload_HW.xml",
+    "particles/guns/GK_Shot.xml": "particles/guns/GK_Shot_HW.xml",
+    "particles/guns/PMK_Purging.xml": "particles/guns/PMK_Purging_HW.xml",
+    "particles/guns/PMK_Shot.xml": "particles/guns/PMK_Shot_HW.xml",
+    "particles/vehicles/AirCarrier_death.xml": "particles/vehicles/AirCarrier_death_HW.xml",
+    "particles/vehicles/Battleship_death.xml": "particles/vehicles/Battleship_death_HW.xml",
+    "particles/vehicles/Cruiser_death.xml": "particles/vehicles/Cruiser_death_HW.xml",
+    "particles/vehicles/Destroyer_death.xml": "particles/vehicles/Destroyer_death_HW.xml"
+  },
+  "peculiarityFlag": "halloween_2016_enemy",
+  "peculiarityModels": {
+    "content/gameplay/russia/gun/aaircraft/RGA008_12_DShK/RGA008_12_DShK.model": "content/gameplay/russia/gun/aaircraft/RGA516_12_DShK_HW19/RGA516_12_DShK_HW19.model",
+    "content/gameplay/russia/gun/aaircraft/RGA008_12_DShK/RGA008_12_DShK_dead.model": "content/gameplay/russia/gun/aaircraft/RGA516_12_DShK_HW19/RGA516_12_DShK_HW19_dead.model",
+    "content/gameplay/russia/gun/aaircraft/RGA051_37mm_67_V11/RGA051_37mm_67_V11.model": "content/gameplay/russia/gun/aaircraft/RGA560_V11/RGA560_V11.model",
+    "content/gameplay/russia/gun/aaircraft/RGA051_37mm_67_V11/RGA051_37mm_67_V11_dead.model": "content/gameplay/russia/gun/aaircraft/RGA560_V11/RGA560_V11_dead.model",
+    "content/gameplay/russia/gun/aaircraft/RGA056_37mm_46k/RGA056_37mm_46k.model": "content/gameplay/russia/gun/aaircraft/RGA508_37mm_46k_HW19/RGA508_37mm_46k_HW19.model",
+    "content/gameplay/russia/gun/aaircraft/RGA056_37mm_46k/RGA056_37mm_46k_dead.model": "content/gameplay/russia/gun/aaircraft/RGA508_37mm_46k_HW19/RGA508_37mm_46k_HW19_dead.model",
+    "content/gameplay/russia/gun/dcharge/RGB151_BM1_dumper/RGB151_BM1_dumper.model": "content/gameplay/russia/gun/dcharge/RGB506_BM1_Dumper_HW19/RGB506_BM1_Dumper_HW19.model",
+    "content/gameplay/russia/gun/dcharge/RGB151_BM1_dumper/RGB151_BM1_dumper_dead.model": "content/gameplay/russia/gun/dcharge/RGB506_BM1_Dumper_HW19/RGB506_BM1_Dumper_HW19_dead.model",
+    "content/gameplay/russia/gun/dcharge/RGB152_Depth_Charge_Thrower_BMB1/RGB152_Depth_Charge_Thrower_BMB1.model": "content/gameplay/russia/gun/dcharge/RGB521_Depth_Charge_Thrower_BMB1_HW19/RGB521_Depth_Charge_Thrower_BMB1_HW19.model",
+    "content/gameplay/russia/gun/dcharge/RGB152_Depth_Charge_Thrower_BMB1/RGB152_Depth_Charge_Thrower_BMB1_dead.model": "content/gameplay/russia/gun/dcharge/RGB521_Depth_Charge_Thrower_BMB1_HW19/RGB521_Depth_Charge_Thrower_BMB1_HW19_dead.model",
+    "content/gameplay/russia/gun/dcharge/RGB153_Depth_Charge_Shelving_BB/RGB153_Depth_Charge_Shelving_BB.model": "content/gameplay/russia/gun/dcharge/RGB507_Depth_Charge_Shelving_BB_HW19/RGB507_Depth_Charge_Shelving_BB_HW19.model",
+    "content/gameplay/russia/gun/dcharge/RGB153_Depth_Charge_Shelving_BB/RGB153_Depth_Charge_Shelving_BB_dead.model": "content/gameplay/russia/gun/dcharge/RGB507_Depth_Charge_Shelving_BB_HW19/RGB507_Depth_Charge_Shelving_BB_HW19_dead.model",
+    "content/gameplay/russia/projectile/depthcharge/RPD002_Depth_Charge_BB1/RPD002_Depth_Charge_BB1.model": "content/gameplay/events/projectile/bomb/XPB008_Depth_Charge/XPB008_Depth_Charge.model",
+    "content/gameplay/russia/projectile/depthcharge/RPD003_Depth_Charge_BM1/RPD003_Depth_Charge_BM1.model": "content/gameplay/events/projectile/bomb/XPB009_Depth_Charge/XPB009_Depth_Charge.model",
+    "content/gameplay/russia/projectile/depthcharge/RPD004_Depth_Charge_BB1/RPD004_Depth_Charge_BB1.model": "content/gameplay/events/projectile/bomb/XPB008_Depth_Charge/XPB008_Depth_Charge.model",
+    "content/gameplay/russia/projectile/torpedo/RPT009_Torpedo_ET_80/RPT009_Torpedo_ET_80.model": "content/gameplay/events/projectile/torpedo/XPT003_Torpedo_Evil/XPT003_Torpedo_Evil.model",
+    "content/gameplay/russia/ship/destroyer/RSD004_Pr_24_Khabarovsk_1947/RSD004_Pr_24_Khabarovsk_1947.model": "content/gameplay/russia/ship/destroyer/RSD042_Pr_24_Khabarovsk_Skin/RSD042_Pr_24_Khabarovsk_Skin.model",
+    "content/gameplay/uk/projectile/torpedo/BPT005_Sea_Torpedo_21in_MK_IX/BPT005_Sea_Torpedo_21in_MK_IX.model": "content/gameplay/events/projectile/torpedo/XPT003_Torpedo_Evil/XPT003_Torpedo_Evil.model"
+  },
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Events",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_3_tile",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

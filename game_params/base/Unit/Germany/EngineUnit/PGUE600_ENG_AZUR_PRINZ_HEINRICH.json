@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3665669936,
+  "index": "PGUE600",
+  "name": "PGUE600_ENG_AZUR_PRINZ_HEINRICH",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

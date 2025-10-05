@@ -1,0 +1,84 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "goalValue": 1961,
+    "mapName": "e03_1st_April_2018"
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [
+    [
+      "meAttack",
+      [],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "damage",
+          "value"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "mapName",
+          "==",
+          "constant",
+          "mapName"
+        ],
+        [
+          "counter",
+          "a",
+          ">",
+          "constant",
+          "goalValue"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4116898736,
+  "index": "PCH169",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH169_Poekhali",
+  "onePerBattle": true,
+  "shipCategories": [
+    "event"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "FOOLSDAY_POEKHALI",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_SPACE",
+  "uiType": "service_medal"
+}

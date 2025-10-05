@@ -1,0 +1,28 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "italianevent_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3460165552,
+  "index": "PCEE796",
+  "isTemplate": false,
+  "name": "PCEE796_italianevent_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "history",
+    "catalogueHiddenIfMissing",
+    "other"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

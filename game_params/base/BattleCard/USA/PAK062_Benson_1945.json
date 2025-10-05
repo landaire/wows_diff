@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4229093360,
+  "index": "PAK062",
+  "maxLevel": 2,
+  "name": "PAK062_Benson_1945",
+  "personalCardBonus": {
+    "clan": "PCOK014_Balldmg_Dalldmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PASD008_Benson_1945"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

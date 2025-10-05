@@ -1,0 +1,29 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "logistics_department_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 4108185520,
+  "index": "PCEE178",
+  "isTemplate": false,
+  "name": "PCEE178_Logistics_Department_Flag",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "anime",
+    "catalogueHiddenIfMissing",
+    "catalogueHidden_CN",
+    "hsf"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

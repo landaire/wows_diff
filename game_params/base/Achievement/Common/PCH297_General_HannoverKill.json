@@ -1,0 +1,55 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "killCount": 3,
+    "ships": [
+      "PGSB999_Hannover"
+    ]
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 3982681008,
+  "index": "PCH297",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH297_General_HannoverKill",
+  "onePerBattle": true,
+  "shipCategories": [
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "superShip"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "HANNOVER_KILL",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_GENERAL",
+  "uiType": "service_medal"
+}

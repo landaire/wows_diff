@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3658329296,
+  "index": "PZUE607",
+  "name": "PZUE607_ENG_TENG_SHE",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

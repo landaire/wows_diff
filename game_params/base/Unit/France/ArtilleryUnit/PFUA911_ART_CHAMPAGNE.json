@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3339693904,
+  "index": "PFUA911",
+  "name": "PFUA911_ART_CHAMPAGNE",
+  "typeinfo": {
+    "nation": "France",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

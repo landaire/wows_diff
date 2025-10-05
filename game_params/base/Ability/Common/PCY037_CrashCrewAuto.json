@@ -1,0 +1,90 @@
+{
+  "CV": {
+    "availableBuoyancyStates": [],
+    "consumableType": "crashCrew",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 70.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 30.0
+  },
+  "CV_Shinano": {
+    "availableBuoyancyStates": [],
+    "consumableType": "crashCrew",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 70.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 30.0
+  },
+  "CV_Starfleet_Enterprise": {
+    "availableBuoyancyStates": [],
+    "consumableType": "crashCrew",
+    "descIDs": "PCY009_CrashCrew_startrek",
+    "group": "ship",
+    "iconIDs": "PCY009_CrashCrew_startrek",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 140.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY009_CrashCrew_startrek",
+    "workTime": 1.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 4255293360,
+  "index": "PCY037",
+  "name": "PCY037_CrashCrewAuto",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Ability"
+  }
+}

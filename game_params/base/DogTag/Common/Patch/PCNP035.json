@@ -1,0 +1,74 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED"
+  ],
+  "canBuy": false,
+  "canCharge": true,
+  "canUseDoll": true,
+  "clanTag": [
+    false,
+    "",
+    [
+      0,
+      0
+    ]
+  ],
+  "constants": {},
+  "costCR": 15000,
+  "costGold": -1,
+  "custom": {},
+  "enabled": true,
+  "events": [],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4257762224,
+  "index": "PCNP035",
+  "isTemplate": false,
+  "keepCounters": false,
+  "lootBoxAvailable": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCNP035",
+  "needDescription": true,
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": true,
+  "symbolOffsetY": 0,
+  "tags": [
+    "dogtag",
+    "catalogueHiddenIfMissing"
+  ],
+  "type": "heroic",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Patch",
+    "type": "DogTag"
+  },
+  "uiCondition": [],
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "",
+  "uiOutOfDate": false,
+  "uiQuest": [],
+  "uiRestrictionIDS": "",
+  "uiType": "common"
+}

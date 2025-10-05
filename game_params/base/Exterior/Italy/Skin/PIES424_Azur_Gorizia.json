@@ -1,0 +1,338 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "camouflage": "mat_Gorizia_Azur7",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 3500,
+  "custom": {},
+  "effects": {
+    "A_Hull": {
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_medium.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_small.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_medium_2.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_medium.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_3",
+          "particles/vehicles/Fire_side_medium.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_small_2.xml"
+        ]
+      ],
+      "fireResistance": [],
+      "fixDeluge": [
+        [
+          "HP_FX_Flood_water_left",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_2",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_2",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ]
+      ],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_medium.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_exhaust_big_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_3",
+          "particles/vehicles/Flood_steam_exhaust_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_3",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_medium.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Flood_water_left",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_2",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_2",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_medium.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/idlePort_RunSmoke_small.xml"
+        ]
+      ],
+      "repairLight": [],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_medium.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/RunSmoke_small.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": true,
+  "hullConfig": {
+    "A_Hull": {
+      "caps": {},
+      "customMiscs": {},
+      "model": "content/gameplay/italy/ship/cruiser/ISC407_Gorizia_AzurLane/ISC407_Gorizia_AzurLane.model"
+    }
+  },
+  "id": 3849776880,
+  "index": "PIES424",
+  "isTemplate": false,
+  "name": "PIES424_Azur_Gorizia",
+  "nodesConfig": {
+    "A1_Artillery": {
+      "HP_IGM_1": {
+        "deadMesh": "content/gameplay/italy/gun/main/IGM3013_203mm_53_1927_AzurLane/IGM3013_203mm_53_1927_AzurLane_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_IM433_Eagle_emblem",
+          "MP_IM433_Eagle_emblem_INDEX_1",
+          "MP_IM6035_Slogan_AzurLane",
+          "MP_IM6035_Slogan_AzurLane_INDEX_1"
+        ],
+        "model": "content/gameplay/italy/gun/main/IGM3013_203mm_53_1927_AzurLane/IGM3013_203mm_53_1927_AzurLane.model"
+      },
+      "HP_IGM_2": {
+        "deadMesh": "content/gameplay/italy/gun/main/IGM3009_203mm_53_1927_AzurLane/IGM3009_203mm_53_1927_AzurLane_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_IM6032_Aquila_AzurLane",
+          "MP_IM6032_Aquila_AzurLane_INDEX_1"
+        ],
+        "model": "content/gameplay/italy/gun/main/IGM3009_203mm_53_1927_AzurLane/IGM3009_203mm_53_1927_AzurLane.model"
+      },
+      "HP_IGM_3": {
+        "deadMesh": "content/gameplay/italy/gun/main/IGM3009_203mm_53_1927_AzurLane/IGM3009_203mm_53_1927_AzurLane_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_IM6032_Aquila_AzurLane",
+          "MP_IM6032_Aquila_AzurLane_INDEX_1"
+        ],
+        "model": "content/gameplay/italy/gun/main/IGM3009_203mm_53_1927_AzurLane/IGM3009_203mm_53_1927_AzurLane.model"
+      },
+      "HP_IGM_4": {
+        "deadMesh": "content/gameplay/italy/gun/main/IGM3013_203mm_53_1927_AzurLane/IGM3013_203mm_53_1927_AzurLane_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_IM433_Eagle_emblem",
+          "MP_IM433_Eagle_emblem_INDEX_1",
+          "MP_IM6035_Slogan_AzurLane",
+          "MP_IM6035_Slogan_AzurLane_INDEX_1"
+        ],
+        "model": "content/gameplay/italy/gun/main/IGM3013_203mm_53_1927_AzurLane/IGM3013_203mm_53_1927_AzurLane.model"
+      }
+    }
+  },
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "azurlane",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "al_italy",
+  "peculiarityModels": {
+    "content/gameplay/italy/aircraft/scout/IAS007_IMAM_Ro_43/IAS007_IMAM_Ro_43.model": "content/gameplay/italy/aircraft/scout/IAS504_IMAM_Ro_43_AzurLane/IAS504_IMAM_Ro_43_AzurLane.model",
+    "content/gameplay/italy/gun/secondary/IGS003_100mm_50_Mod_OTO/IGS003_100mm_50_Mod_OTO.model": "content/gameplay/italy/gun/secondary/IGS3010_100mm_50_Mod_OTO_AzurLane/IGS3010_100mm_50_Mod_OTO_AzurLane.model",
+    "content/gameplay/italy/gun/secondary/IGS003_100mm_50_Mod_OTO/IGS003_100mm_50_Mod_OTO_dead.model": "content/gameplay/italy/gun/secondary/IGS3010_100mm_50_Mod_OTO_AzurLane/IGS3010_100mm_50_Mod_OTO_AzurLane_dead.model"
+  },
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "anime",
+    "catalogueHiddenIfMissing",
+    "azur"
+  ],
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

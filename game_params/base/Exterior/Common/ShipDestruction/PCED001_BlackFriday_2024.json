@@ -1,0 +1,34 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "deathSoundEvent": "Damage_Death_BackFriday_24",
+  "effectOnDeath": {
+    "AirCarrier": "particles/AirCarrier_death_BlackFriday.xml",
+    "Battleship": "particles/Battleship_death_BlackFriday.xml",
+    "Cruiser": "particles/Cruiser_death_BlackFriday.xml",
+    "Destroyer": "particles/Destroyer_death_BlackFriday.xml",
+    "Submarine": "particles/Submarine_death_BlackFriday.xml"
+  },
+  "effectOnUnderWaterDeath": "particles/vehicles/Submarine_death.xml",
+  "group": "common",
+  "hidden": false,
+  "id": 4293816240,
+  "index": "PCED001",
+  "isTemplate": false,
+  "name": "PCED001_BlackFriday_2024",
+  "peculiarity": "standard",
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "ShipDestruction",
+    "type": "Exterior"
+  }
+}

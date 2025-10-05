@@ -1,0 +1,13 @@
+{
+  "costCR": 165000,
+  "costXP": 4700,
+  "id": 3558682608,
+  "index": "PAUF702",
+  "name": "PAUF702_FlightControl_2",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

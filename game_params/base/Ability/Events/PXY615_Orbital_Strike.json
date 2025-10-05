@@ -1,0 +1,67 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "tacticalTrigger2",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 5.0,
+    "tacticalParams": {
+      "aimRange": 3000,
+      "usageType": "position",
+      "workRange": 15000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "Operation_3": {
+    "availableBuoyancyStates": [],
+    "consumableType": "tacticalTrigger2",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 140.0,
+    "tacticalParams": {
+      "aimRange": 3500,
+      "usageType": "position",
+      "workRange": 150000.0
+    },
+    "titleIDs": "",
+    "workTime": 5.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 3649215760,
+  "index": "PXY615",
+  "name": "PXY615_Orbital_Strike",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

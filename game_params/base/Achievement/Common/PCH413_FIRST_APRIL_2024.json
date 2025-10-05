@@ -1,0 +1,79 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "mapName": "e12_April_2024_bees_to_honey"
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ],
+        [
+          "battleEnd",
+          "mapName",
+          "==",
+          "constant",
+          "mapName"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 3861046192,
+  "index": "PCH413",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH413_FIRST_APRIL_2024",
+  "onePerBattle": true,
+  "shipCategories": [
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "earlyAccess",
+    "ultimate",
+    "upgradeableUltimate",
+    "superShip"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "FIRST_APRIL_2024",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

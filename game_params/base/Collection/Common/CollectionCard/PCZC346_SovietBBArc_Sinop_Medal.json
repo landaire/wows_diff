@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA016_SovietBBArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC346_SOVIETBBARC_SINOP_MEDAL_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3932068784,
+  "index": "PCZC346",
+  "name": "PCZC346_SovietBBArc_Sinop_Medal",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3560811984,
+  "index": "PRUE700",
+  "name": "PRUE700_ENG_BLACK_CHKALOV",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

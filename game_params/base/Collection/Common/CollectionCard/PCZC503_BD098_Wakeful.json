@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA023_BD098",
+  "compensationCR": 0,
+  "description": "IDS_PCZC503_BD098_WAKEFUL_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3767442352,
+  "index": "PCZC503",
+  "name": "PCZC503_BD098_Wakeful",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

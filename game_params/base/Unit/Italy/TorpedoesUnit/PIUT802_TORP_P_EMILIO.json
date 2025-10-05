@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3453366000,
+  "index": "PIUT802",
+  "name": "PIUT802_TORP_P_EMILIO",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

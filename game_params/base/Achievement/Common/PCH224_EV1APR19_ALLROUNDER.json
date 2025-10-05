@@ -1,0 +1,47 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "map1": "e03_1st_April_2018",
+    "map2": "e05_April_2019_Estuary",
+    "map3": "e06_April_2019_Naval_Mission",
+    "map4": "e07_April_2019_Path_Warrior"
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4059227056,
+  "index": "PCH224",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH224_EV1APR19_ALLROUNDER",
+  "onePerBattle": true,
+  "shipCategories": [
+    "event"
+  ],
+  "showProgress": true,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "EV1APR19_ALLROUNDER",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_SPACE",
+  "uiType": "service_medal"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3274584048,
+  "index": "PAUD973",
+  "name": "PAUD973_CV10_DB_AP_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

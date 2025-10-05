@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3318591312,
+  "index": "PFUE931",
+  "name": "PFUE931_B11_ENG_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

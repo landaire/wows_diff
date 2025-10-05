@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA023_BD098",
+  "compensationCR": 0,
+  "description": "IDS_PCZC500_BD098_DERZKI_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3770588080,
+  "index": "PCZC500",
+  "name": "PCZC500_BD098_Derzki",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "battleTypes": [
+    "PVE",
+    "PVE_PREMADE"
+  ],
+  "constants": {
+    "achievementsNumber": 5
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ],
+        [
+          "me",
+          "alive"
+        ],
+        [
+          "me",
+          "alliesPlayers",
+          "==",
+          "me",
+          "totalAlliesPlayers"
+        ],
+        [
+          "tasks",
+          "secondarySuccessCount",
+          ">=",
+          "constant",
+          "achievementsNumber"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4161987504,
+  "index": "PCH126",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH126_PVE_HERO_WIN_SUR",
+  "onePerBattle": true,
+  "shipCategories": [
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "earlyAccess",
+    "ultimate",
+    "upgradeableUltimate",
+    "superShip"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "heroic",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "PVE_HERO_WIN_SUR",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_OPERATIONS",
+  "uiType": "heroic"
+}

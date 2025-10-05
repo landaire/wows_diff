@@ -1,0 +1,42 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "capacity": -1.0,
+    "capacityRegenCoeff": 0.0,
+    "consumableType": "trigger5",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 1,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "targetBuff": "PCOM105_BuffsShift_DamageResist",
+      "titleIDs": ""
+    },
+    "maxCapacity": -1,
+    "minWorkTime": 0.0,
+    "preparationTime": 0.0,
+    "reloadTime": 0.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": ""
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 3855785232,
+  "index": "PXY418",
+  "name": "PXY418_BuffsShift_DamageResist",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

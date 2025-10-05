@@ -1,0 +1,239 @@
+{
+  "R42_Lobby": {
+    "InnerTrajectory": {
+      "backwardResistance": [
+        0.0,
+        0.0
+      ],
+      "backwardResistanceTime": [
+        0.0,
+        0.0
+      ],
+      "bevelAngle": [
+        0.0,
+        0.0
+      ],
+      "bevelRange": [
+        0.0,
+        0.0
+      ],
+      "defaultPitch": [
+        -20.0,
+        -20.0
+      ],
+      "defaultYaw": [
+        -32.0,
+        -32.0
+      ],
+      "forwardResistance": [
+        0.0,
+        0.0
+      ],
+      "forwardResistanceTime": [
+        0.0,
+        0.0
+      ],
+      "horizontalResistance": [
+        0.0,
+        0.0
+      ],
+      "horizontalResistanceTime": [
+        0.0,
+        0.0
+      ],
+      "ignoreControllerPitch": false,
+      "ignoreHeightMultiplier": false,
+      "inclineH": [
+        5.0,
+        5.0
+      ],
+      "inclineV": [
+        -5.0,
+        -5.0
+      ],
+      "lockOnDefaultPitch": true,
+      "lockOnDefaultYaw": true,
+      "maxPitch": [
+        0.0,
+        0.0
+      ],
+      "maxYaw": [
+        110.0,
+        110.0
+      ],
+      "minPitch": [
+        -30.0,
+        -30.0
+      ],
+      "minPosY": [
+        0.0,
+        0.0
+      ],
+      "minYaw": [
+        90.0,
+        90.0
+      ],
+      "pitchInfluenceOnHeight": [
+        0.0,
+        0.0
+      ],
+      "posCenter": [
+        [
+          0,
+          -0.44,
+          0
+        ],
+        [
+          0,
+          -0.44,
+          0
+        ]
+      ],
+      "semiAxisH": [
+        0.09,
+        0.09
+      ],
+      "semiAxisV": [
+        0.05,
+        0.05
+      ],
+      "verticalResistance": [
+        0.0,
+        0.0
+      ],
+      "verticalResistanceTime": [
+        0.0,
+        0.0
+      ],
+      "zoomControllerCoef": [
+        1.0,
+        1.0
+      ]
+    },
+    "OuterTrajectory": {
+      "backwardResistance": [
+        0.0,
+        0.0
+      ],
+      "backwardResistanceTime": [
+        0.0,
+        0.0
+      ],
+      "bevelAngle": [
+        0.0,
+        0.0
+      ],
+      "bevelRange": [
+        0.0,
+        0.0
+      ],
+      "defaultPitch": [
+        -6.0,
+        -6.0
+      ],
+      "defaultYaw": [
+        -32.0,
+        -32.0
+      ],
+      "forwardResistance": [
+        0.0,
+        0.0
+      ],
+      "forwardResistanceTime": [
+        0.0,
+        0.0
+      ],
+      "horizontalResistance": [
+        0.0,
+        0.0
+      ],
+      "horizontalResistanceTime": [
+        0.0,
+        0.0
+      ],
+      "ignoreControllerPitch": false,
+      "ignoreHeightMultiplier": false,
+      "inclineH": [
+        5.0,
+        5.0
+      ],
+      "inclineV": [
+        -5.0,
+        -5.0
+      ],
+      "lockOnDefaultPitch": true,
+      "lockOnDefaultYaw": true,
+      "maxPitch": [
+        90.0,
+        0.0
+      ],
+      "maxYaw": [
+        110.0,
+        110.0
+      ],
+      "minPitch": [
+        -30.0,
+        -30.0
+      ],
+      "minPosY": [
+        0.0,
+        0.0
+      ],
+      "minYaw": [
+        90.0,
+        90.0
+      ],
+      "pitchInfluenceOnHeight": [
+        0.0,
+        0.0
+      ],
+      "posCenter": [
+        [
+          0,
+          -0.43,
+          0
+        ],
+        [
+          0,
+          -0.43,
+          0
+        ]
+      ],
+      "semiAxisH": [
+        0.24,
+        0.24
+      ],
+      "semiAxisV": [
+        0.2,
+        0.2
+      ],
+      "verticalResistance": [
+        0.0,
+        0.0
+      ],
+      "verticalResistanceTime": [
+        0.0,
+        0.0
+      ],
+      "zoomControllerCoef": [
+        1.0,
+        1.0
+      ]
+    },
+    "castZoom": {},
+    "hulls": [],
+    "tags": "",
+    "weapons": []
+  },
+  "id": 4273620912,
+  "index": "PCOL020",
+  "inertialRollCoef": 1.0,
+  "name": "PCOL020_R42_Lobby",
+  "rockingCompensationCoef": 1.0,
+  "smartZoomAngleCoef": 1.0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CameraEllipse",
+    "type": "Other"
+  }
+}

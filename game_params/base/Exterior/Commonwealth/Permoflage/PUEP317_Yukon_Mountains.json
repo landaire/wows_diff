@@ -1,0 +1,37 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "camouflage": "camo_permanent_3",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": 0,
+  "costGold": 0,
+  "custom": {},
+  "hidden": false,
+  "id": 3962072432,
+  "index": "PUEP317",
+  "isTemplate": false,
+  "name": "PUEP317_Yukon_Mountains",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

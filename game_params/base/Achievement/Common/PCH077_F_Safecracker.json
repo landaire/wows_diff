@@ -1,0 +1,89 @@
+{
+  "battleTypes": [
+    "PVP",
+    "COOPERATIVE"
+  ],
+  "constants": {
+    "boxCount": 17
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [
+    [
+      "lootboxOpened",
+      [],
+      [
+        [
+          "counter",
+          "globalA",
+          "+=",
+          "lootboxOpened",
+          "value"
+        ]
+      ]
+    ],
+    [
+      "lootboxOpened",
+      [
+        [
+          "counter",
+          "globalA",
+          ">=",
+          "constant",
+          "boxCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4213367728,
+  "index": "PCH077",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH077_F_Safecracker",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "NY17_SAFECRACKER",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

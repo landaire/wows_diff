@@ -1,0 +1,40 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "camo_Lone_Star",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 1500,
+  "custom": {},
+  "hidden": true,
+  "id": 3965218800,
+  "index": "PAEP314",
+  "isTemplate": false,
+  "name": "PAEP314_Texas_Lone_star",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing",
+    "catalogueHidden_CN"
+  ],
+  "typeinfo": {
+    "nation": "USA",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

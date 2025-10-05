@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3733827280,
+  "index": "PJUE535",
+  "name": "PJUE535_ENG_SHINO",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

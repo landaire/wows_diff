@@ -1,0 +1,42 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "camouflage": "camo_permanent_dazzle",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 1500,
+  "custom": {
+    "CN": {
+      "canBuy": false,
+      "hidden": true
+    }
+  },
+  "hidden": false,
+  "id": 3926421456,
+  "index": "PBEP351",
+  "isTemplate": false,
+  "name": "PBEP351_Furious_Dazzle",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "mapName": "e13_Space_1_Defence"
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ],
+        [
+          "battleEnd",
+          "mapName",
+          "==",
+          "constant",
+          "mapName"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 3844268976,
+  "index": "PCH429",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH429_STARTREK_OP_1",
+  "onePerBattle": true,
+  "shipCategories": [
+    "event"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "STARTREK_OP_1",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

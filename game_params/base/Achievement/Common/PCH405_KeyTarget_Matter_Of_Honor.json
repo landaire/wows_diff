@@ -1,0 +1,89 @@
+{
+  "battleTypes": [
+    "PVP"
+  ],
+  "constants": {
+    "keyTargetMarker": 1
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "meKill",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "me",
+          "keyTargetMarkers",
+          "==",
+          "constant",
+          "keyTargetMarker"
+        ],
+        [
+          "target",
+          "keyTargetMarkers",
+          "==",
+          "constant",
+          "keyTargetMarker"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 3869434800,
+  "index": "PCH405",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH405_KeyTarget_Matter_Of_Honor",
+  "onePerBattle": false,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "KEYTARGET_MATTER_OF_HONOR",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

@@ -1,0 +1,30 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "camo_basketball_tile_2",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "hidden": true,
+  "id": 4284411824,
+  "index": "PCEC010",
+  "isTemplate": false,
+  "name": "PCEC010_Camo_Basketball_Tile_2",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Camouflage",
+    "type": "Exterior"
+  }
+}

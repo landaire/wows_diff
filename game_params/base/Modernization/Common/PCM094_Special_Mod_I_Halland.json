@@ -1,0 +1,30 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4195536816,
+  "index": "PCM094",
+  "modifiers": {
+    "additionalConsumables": 1,
+    "boostCoeffForsage": 0.08,
+    "regeneratedHPPartCoef": 0.25
+  },
+  "name": "PCM094_Special_Mod_I_Halland",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PWSD110_Halland"
+  ],
+  "shiptype": [],
+  "slot": 5,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "azur_cheshire_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3643666352,
+  "index": "PCEE621",
+  "isTemplate": false,
+  "name": "PCEE621_Azur_Cheshire_flag",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "anime",
+    "catalogueHiddenIfMissing",
+    "azur"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

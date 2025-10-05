@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2193813968,
+  "index": "PRD2003",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/director/RD2003_2pdr_with_radar_type282/RD2003_2pdr_with_radar_type282.model",
+  "name": "PRD2003_2pdr_with_radar_type282",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Director"
+  }
+}

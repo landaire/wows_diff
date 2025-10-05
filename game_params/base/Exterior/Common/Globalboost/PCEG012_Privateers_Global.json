@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "hidden": true,
+  "id": 4282183600,
+  "index": "PCEG012",
+  "isTemplate": false,
+  "modifiers": {
+    "creditsFactor": 1.05,
+    "crewExpFactor": 1.1,
+    "expFactor": 1.05
+  },
+  "name": "PCEG012_Privateers_Global",
+  "sortOrder": 12,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Globalboost",
+    "type": "Exterior"
+  }
+}

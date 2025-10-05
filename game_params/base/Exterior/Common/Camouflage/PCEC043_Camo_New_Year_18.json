@@ -1,0 +1,30 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "camo_newyear_tile_3",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "hidden": true,
+  "id": 4249808816,
+  "index": "PCEC043",
+  "isTemplate": false,
+  "name": "PCEC043_Camo_New_Year_18",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Camouflage",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4084051216,
+  "index": "PXUE201",
+  "name": "PXUE201_ENG_FRANCE_BORG_V2",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

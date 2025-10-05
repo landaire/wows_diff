@@ -1,0 +1,35 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 4000,
+  "custom": {},
+  "hidden": false,
+  "id": 4262850480,
+  "index": "PCEU030",
+  "isTemplate": false,
+  "modifiers": {
+    "creditsFactor": 1.05,
+    "crewExpFactor": 2.0,
+    "expFactor": 1.5,
+    "freeExpFactor": 2.5
+  },
+  "name": "PCEU030_Multi_Tirpiz_2",
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [
+      8
+    ],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 1,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Multiboost",
+    "type": "Exterior"
+  }
+}

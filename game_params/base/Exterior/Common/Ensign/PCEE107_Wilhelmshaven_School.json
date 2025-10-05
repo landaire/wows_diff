@@ -1,0 +1,29 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "wilhelmshaven_school",
+  "group": 3,
+  "hidden": true,
+  "id": 4182634416,
+  "index": "PCEE107",
+  "isTemplate": false,
+  "name": "PCEE107_Wilhelmshaven_School",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "anime",
+    "catalogueHiddenIfMissing",
+    "catalogueHidden_CN",
+    "hsf"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

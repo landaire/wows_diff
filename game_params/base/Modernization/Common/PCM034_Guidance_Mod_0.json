@@ -1,0 +1,58 @@
+{
+  "canCharge": true,
+  "costCR": 125000,
+  "excludes": [
+    "PXSA005_Hellcarrier",
+    "PXSB006_Paris",
+    "PXSB007_Alldestroyer",
+    "PXSC004_Galaxy",
+    "PXSC005_Zaya",
+    "PXSC006_Norma",
+    "PXSC007_Aurora",
+    "PXSD004_FlyFire",
+    "PXSD005_Blue_Aster",
+    "PXSD002_Benson_1945_H2017",
+    "PXSD009_Kiev_H2018",
+    "PXSD008_Z_23_H2018",
+    "PXSC009_Mogami_H2018",
+    "PXSC002_Charles_Martel_H2017",
+    "PXSB008_North_Carolina_H2018",
+    "PXSB005_Bismarck_H2017",
+    "PXSB002_Rasputin",
+    "PJSC610_Kitakami"
+  ],
+  "group": [],
+  "id": 4258451376,
+  "index": "PCM034",
+  "modifiers": {
+    "GMIdealRadius": 0.6,
+    "GMRotationSpeed": {
+      "AirCarrier": 1.2,
+      "Auxiliary": 1.2,
+      "Battleship": 1.2,
+      "Cruiser": 1.2,
+      "Destroyer": 1.2,
+      "Submarine": 1.2
+    },
+    "GSIdealRadius": 0.6,
+    "GSMaxDist": 1.2,
+    "GTRotationSpeed": 1.2
+  },
+  "name": "PCM034_Guidance_Mod_0",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PJSC503_Katori",
+    "PJSC004_Yubari_1944",
+    "PJSC026_Iwaki_1944"
+  ],
+  "shiptype": [],
+  "slot": 0,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

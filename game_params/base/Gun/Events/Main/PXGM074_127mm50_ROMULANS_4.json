@@ -1,0 +1,117 @@
+{
+  "HitLocationArtillery": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 0.5,
+    "autoRepairTime": 30,
+    "autoRepairTimeMin": 25,
+    "brokenRepairHealthCoefficient": 0.5,
+    "brokenRepairTime": 45.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": true,
+    "critProb": [
+      0.05,
+      0.75
+    ],
+    "critProbHP": [
+      1.0,
+      0.02
+    ],
+    "damageEffects": [],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "artillery_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 2000.0,
+    "moduleCritCoeffCR": 1.0,
+    "moduleCritCoeffXP": 1.0,
+    "parentHL": null,
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 1.0,
+    "splashBoxes": [],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 0.5,
+    "volumeCoeff": 0.1
+  },
+  "aiMGmaxEllipseRanging": 4.0,
+  "aiMGmedEllipseRanging": 3.7,
+  "aiMGminEllipseRanging": 3.5,
+  "ammoList": [
+    "PXPA134_127MM_CS_ROMULANS_4"
+  ],
+  "ammoSwitchCoeff": 1.0,
+  "antiAirAuraDistance": 0.0,
+  "antiAirAuraStrength": 0.0,
+  "armor": {
+    "1": 0.0,
+    "65568": 20.0,
+    "65569": 20.0,
+    "65571": 20.0,
+    "65635": 20.0,
+    "65636": 20.0
+  },
+  "barrelDiameter": 0.127,
+  "brokenEffect": "particles/guns/Gun_Damage_vsmall.xml",
+  "coeffPerSecondMin": 0.3,
+  "customMiscs": {},
+  "damagedEffect": "particles/guns/Gun_Broken_vsmall.xml",
+  "deadMesh": "content/gameplay/japan/gun/main/JGM3005_127mm50_Type_B_StarTrek/JGM3005_127mm50_Type_B_StarTrek_dead.model",
+  "deadZone": [],
+  "delim": 0.5,
+  "effectIntensityModifier": 1.0,
+  "ellipseRangeMax": 250.0,
+  "ellipseRangeMin": 50.0,
+  "horizSector": [
+    -150.0,
+    150.0
+  ],
+  "id": 4216972560,
+  "idealDistance": 10600.0,
+  "idealRadius": 3.0,
+  "index": "PXGM074",
+  "lensEffect": "particles/Empty_FX.xml",
+  "maxEllipseRanging": 1.003,
+  "medEllipseRanging": 1.002,
+  "minEllipseRanging": 1.001,
+  "minRadius": 1.1,
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/gun/main/JGM3005_127mm50_Type_B_StarTrek/JGM3005_127mm50_Type_B_StarTrek.model",
+  "name": "PXGM074_127mm50_ROMULANS_4",
+  "numBarrels": 2,
+  "onMoveTarPosCoeffDelim": 1.001,
+  "onMoveTarPosCoeffMaxDist": 1.002,
+  "onMoveTarPosCoeffZero": 1.0,
+  "onMoveTarPosDelim": 0.1,
+  "pitchDeadZones": [],
+  "position": [
+    0,
+    0
+  ],
+  "purgingEffect": "particles/Empty_FX.xml",
+  "radiusOnDelim": 0.5,
+  "radiusOnMax": 0.6,
+  "radiusOnZero": 0.2,
+  "reduceTime": 0.1,
+  "reloadBoostEffect": "particles/Empty_FX.xml",
+  "rotationSpeed": [
+    25.0,
+    12.5
+  ],
+  "shotDelay": 1.1,
+  "shotEffect": "particles/guns/GK_Shot_ST_Vulkan.xml",
+  "smallGun": null,
+  "smokePenalty": 0.0001,
+  "typeinfo": {
+    "nation": "Events",
+    "species": "Main",
+    "type": "Gun"
+  },
+  "vertSector": [
+    -2.0,
+    75.0
+  ]
+}

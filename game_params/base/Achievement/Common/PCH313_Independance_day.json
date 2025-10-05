@@ -1,0 +1,110 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED",
+    "EVENT",
+    "CLAN",
+    "COOPERATIVE"
+  ],
+  "constants": {
+    "battlesWon": 5,
+    "nations": [
+      "USA"
+    ]
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ],
+        [
+          "me",
+          "nation",
+          "in",
+          "constant",
+          "nations"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "globalA",
+          "+=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "afterBattle",
+      [
+        [
+          "counter",
+          "globalA",
+          ">=",
+          "constant",
+          "battlesWon"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 3965903792,
+  "index": "PCH313",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH313_Independance_day",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "service_medal",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "INDEPENDENCE_DAY",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

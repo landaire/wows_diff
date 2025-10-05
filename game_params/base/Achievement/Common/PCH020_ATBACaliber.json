@@ -1,0 +1,103 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED"
+  ],
+  "constants": {},
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "meKill",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "subInstruction",
+          [
+            "dead",
+            "weaponType",
+            "==",
+            "weaponType",
+            "ATBA_AP"
+          ],
+          "or",
+          "subInstruction",
+          [
+            "subInstruction",
+            [
+              "dead",
+              "weaponType",
+              "==",
+              "weaponType",
+              "ATBA_HE"
+            ],
+            "or",
+            "subInstruction",
+            [
+              "dead",
+              "weaponType",
+              "==",
+              "weaponType",
+              "ATBA_CS"
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4273136560,
+  "index": "PCH020",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH020_ATBACaliber",
+  "onePerBattle": false,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "honorable",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "ATBA_CALIBER",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_PVP_RANKED",
+  "uiType": "honorable"
+}

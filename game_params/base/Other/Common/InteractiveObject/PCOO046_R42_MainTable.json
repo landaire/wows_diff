@@ -1,0 +1,49 @@
+{
+  "id": 4246259632,
+  "index": "PCOO046",
+  "logic": {
+    "InteractiveObjectEvents": {
+      "OnMouseClick": {
+        "InteractiveObjectActions": {
+          "cameraAction": {
+            "trajectoryName": "R42_MainTable",
+            "type": 6
+          }
+        },
+        "activeTime": 2.0,
+        "requiredState": "hovered",
+        "targetState": "selected",
+        "type": "onMouseClick"
+      },
+      "OnMouseOver": {
+        "InteractiveObjectActions": null,
+        "activeTime": -1.0,
+        "requiredState": "idle",
+        "targetState": "hovered",
+        "type": "onMouseOver"
+      },
+      "OnMouseOverEnd": {
+        "InteractiveObjectActions": null,
+        "activeTime": 0.0,
+        "requiredState": "hovered",
+        "targetState": "released",
+        "type": "onMouseOverEnd"
+      },
+      "onUIMouseClick": {
+        "InteractiveObjectActions": null,
+        "activeTime": 0.0,
+        "requiredState": "hovered",
+        "targetState": "selected",
+        "type": "onUISelect"
+      }
+    },
+    "state": "idle"
+  },
+  "name": "PCOO046_R42_MainTable",
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "InteractiveObject",
+    "type": "Other"
+  }
+}

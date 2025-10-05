@@ -1,0 +1,13 @@
+{
+  "costCR": 420000,
+  "costXP": 4400,
+  "id": 3744214736,
+  "index": "PJUH525",
+  "name": "PJUH525_Mutsuki_1939",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,481 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "mat_BlackAlbedo",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 4500,
+  "custom": {},
+  "effects": {
+    "A_Hull": {
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_big.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_big.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_big.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_big.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_medium.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_big_2.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_big.xml"
+        ]
+      ],
+      "fireResistance": [
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_5",
+          "particles/vehicles/Fire_big.xml"
+        ],
+        [
+          "HP_FX_Fire_5_1",
+          "particles/vehicles/Fire_big.xml"
+        ]
+      ],
+      "fixDeluge": [
+        [
+          "HP_FX_Flood_water_left",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_2",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_3",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_4",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_2",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_3",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_4",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ]
+      ],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_big.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_exhaust_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_exhaust_big_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_big.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_big.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Flood_water_left",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_2",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_3",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_4",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_2",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_3",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_4",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_big.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/idlePort_RunSmoke_medium.xml"
+        ]
+      ],
+      "repairLight": [
+        [
+          "HP_FX_RepairLight_left_1",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_left_2",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_1",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_2",
+          "particles/vehicles/RepairLight_big.xml"
+        ]
+      ],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_big.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/RunSmoke_medium.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back_wide_2.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_5",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_6",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_left_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceForward_screw_right_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_5",
+          "particles/vehicles/WakeTraceForward_screw_left_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_5",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_6",
+          "particles/vehicles/WakeTraceForward_screw_right_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_6",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": true,
+  "hullConfig": {
+    "A_Hull": {
+      "caps": {
+        "HP_AC_1": {
+          "capActive": true,
+          "model": "content/gameplay/usa/catapult/AC002_Catapult_2/AC002_Catapult_2.model"
+        },
+        "HP_AC_2": {
+          "capActive": true,
+          "model": "content/gameplay/usa/catapult/AC002_Catapult_2/AC002_Catapult_2.model"
+        }
+      },
+      "customMiscs": {},
+      "model": "content/gameplay/usa/ship/battleship/ASB085_Kearsarge_BlackFriday22/ASB085_Kearsarge_BlackFriday22.model"
+    }
+  },
+  "id": 3938906096,
+  "index": "PAES339",
+  "isTemplate": false,
+  "name": "PAES339_BLACK_KEARSARGE",
+  "nodesConfig": {
+    "A_Artillery": {
+      "HP_AGM_1": {
+        "deadMesh": "content/gameplay/usa/gun/main/AGM669_16in45_Mk6_BlackFriday22/AGM669_16in45_Mk6_BlackFriday22_dead.model",
+        "miscFilter": [],
+        "model": "content/gameplay/usa/gun/main/AGM669_16in45_Mk6_BlackFriday22/AGM669_16in45_Mk6_BlackFriday22.model"
+      },
+      "HP_AGM_2": {
+        "deadMesh": "content/gameplay/usa/gun/main/AGM669_16in45_Mk6_BlackFriday22/AGM669_16in45_Mk6_BlackFriday22_dead.model",
+        "miscFilter": [],
+        "model": "content/gameplay/usa/gun/main/AGM669_16in45_Mk6_BlackFriday22/AGM669_16in45_Mk6_BlackFriday22.model"
+      },
+      "HP_AGM_3": {
+        "deadMesh": "content/gameplay/usa/gun/main/AGM669_16in45_Mk6_BlackFriday22/AGM669_16in45_Mk6_BlackFriday22_dead.model",
+        "miscFilter": [],
+        "model": "content/gameplay/usa/gun/main/AGM669_16in45_Mk6_BlackFriday22/AGM669_16in45_Mk6_BlackFriday22.model"
+      },
+      "HP_AGM_4": {
+        "deadMesh": "content/gameplay/usa/gun/main/AGM669_16in45_Mk6_BlackFriday22/AGM669_16in45_Mk6_BlackFriday22_dead.model",
+        "miscFilter": [],
+        "model": "content/gameplay/usa/gun/main/AGM669_16in45_Mk6_BlackFriday22/AGM669_16in45_Mk6_BlackFriday22.model"
+      }
+    },
+    "A_Directors": {
+      "HP_AD_11": {
+        "miscFilter": [
+          "MP_AM702_Radar_Mk12"
+        ],
+        "model": "content/gameplay/usa/director/AD316_Director_Mk37_Black/AD316_Director_Mk37_Black.model"
+      },
+      "HP_AD_12": {
+        "miscFilter": [
+          "MP_AM702_Radar_Mk12"
+        ],
+        "model": "content/gameplay/usa/director/AD316_Director_Mk37_Black/AD316_Director_Mk37_Black.model"
+      },
+      "HP_AD_3": {
+        "miscFilter": [
+          "MP_AM702_Radar_Mk12"
+        ],
+        "model": "content/gameplay/usa/director/AD316_Director_Mk37_Black/AD316_Director_Mk37_Black.model"
+      },
+      "HP_AD_4": {
+        "miscFilter": [
+          "MP_AM702_Radar_Mk12"
+        ],
+        "model": "content/gameplay/usa/director/AD316_Director_Mk37_Black/AD316_Director_Mk37_Black.model"
+      },
+      "HP_AD_5": {
+        "miscFilter": [
+          "MP_AM649_Radar_Mk8",
+          "MP_AM891_Stand_RadarMk8_Mk38_Black"
+        ],
+        "model": "content/gameplay/usa/director/AD318_Director_Mk38_Black/AD318_Director_Mk38_Black.model"
+      },
+      "HP_AD_8": {
+        "miscFilter": [
+          "MP_AM702_Radar_Mk12"
+        ],
+        "model": "content/gameplay/usa/director/AD316_Director_Mk37_Black/AD316_Director_Mk37_Black.model"
+      },
+      "HP_AD_9": {
+        "miscFilter": [
+          "MP_AM649_Radar_Mk8",
+          "MP_AM891_Stand_RadarMk8_Mk38_Black"
+        ],
+        "model": "content/gameplay/usa/director/AD318_Director_Mk38_Black/AD318_Director_Mk38_Black.model"
+      }
+    }
+  },
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "decorative",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "",
+  "peculiarityModels": {
+    "content/gameplay/usa/director/AD003_Director_Mk51/AD003_Director_Mk51.model": "content/gameplay/usa/director/AD317_Director_Mk51_Black/AD317_Director_Mk51_Black.model",
+    "content/gameplay/usa/gun/aaircraft/AGA008_40mm_Bofors_Mk2/AGA008_40mm_Bofors_Mk2.model": "content/gameplay/usa/gun/aaircraft/AGA660_40mm_Bofors_Mk2_Black/AGA660_40mm_Bofors_Mk2_Black.model",
+    "content/gameplay/usa/gun/aaircraft/AGA008_40mm_Bofors_Mk2/AGA008_40mm_Bofors_Mk2_dead.model": "content/gameplay/usa/gun/aaircraft/AGA660_40mm_Bofors_Mk2_Black/AGA660_40mm_Bofors_Mk2_Black_dead.model"
+  },
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "USA",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

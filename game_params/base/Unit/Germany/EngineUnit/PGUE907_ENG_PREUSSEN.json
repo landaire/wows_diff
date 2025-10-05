@@ -1,0 +1,13 @@
+{
+  "costCR": 1500000,
+  "costXP": 0,
+  "id": 3343757104,
+  "index": "PGUE907",
+  "name": "PGUE907_ENG_PREUSSEN",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

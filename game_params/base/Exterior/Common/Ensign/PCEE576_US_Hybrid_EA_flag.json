@@ -1,0 +1,26 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "us_hybrid_ea_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3690852272,
+  "index": "PCEE576",
+  "isTemplate": false,
+  "name": "PCEE576_US_Hybrid_EA_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3319181104,
+  "index": "PGUS930",
+  "name": "PGUS930_SUO_HANNOVER",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

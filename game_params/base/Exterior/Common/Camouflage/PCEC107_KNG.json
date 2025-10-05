@@ -1,0 +1,33 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "camouflage": "camo_KNGvsGODZ_Kong_tile",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "hidden": true,
+  "id": 4182699952,
+  "index": "PCEC107",
+  "isTemplate": false,
+  "name": "PCEC107_KNG",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing",
+    "godzilla_kong"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Camouflage",
+    "type": "Exterior"
+  }
+}

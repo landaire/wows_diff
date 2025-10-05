@@ -1,0 +1,35 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 6000,
+  "custom": {},
+  "hidden": false,
+  "id": 4249218992,
+  "index": "PCEU043",
+  "isTemplate": false,
+  "modifiers": {
+    "creditsFactor": 1.15,
+    "crewExpFactor": 2.15,
+    "expFactor": 2.15,
+    "freeExpFactor": 2.0
+  },
+  "name": "PCEU043_Multi_Starfleet_Enterprise",
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [
+      8
+    ],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 1,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Multiboost",
+    "type": "Exterior"
+  }
+}

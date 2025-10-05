@@ -1,0 +1,29 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4182953904,
+  "index": "PCM106",
+  "modifiers": {
+    "GMIdealRadius": 0.94,
+    "GMShotDelay": 0.94
+  },
+  "name": "PCM106_Special_Mod_I_Colombo",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PISB110_Cristoforo_Colombo"
+  ],
+  "shiptype": [],
+  "slot": 5,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

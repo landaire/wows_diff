@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 68,
+  "conditions": [
+    "<isMyShip shipIds=\"PASC508_Wichita,PASC207_Helena,PBSC107_Fiji,PBSC108_Edinburgh,PJSC009_Mogami_1935\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isDamage count=\"540000\" damageTypes=\"main\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3583393712,
+  "index": "PCQT678",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT678_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF030_CK_SignalFlag\" count=\"8\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT678_1",
+    "isDamage",
+    "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_CA_1"
+  ],
+  "unlockMissions": []
+}

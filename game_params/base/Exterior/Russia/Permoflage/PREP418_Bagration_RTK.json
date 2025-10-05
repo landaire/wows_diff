@@ -1,0 +1,39 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "camouflage": "camo_Rostelecom_1",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 4500,
+  "custom": {},
+  "hidden": true,
+  "id": 3856166352,
+  "index": "PREP418",
+  "isTemplate": false,
+  "name": "PREP418_Bagration_RTK",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHidden"
+  ],
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

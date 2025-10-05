@@ -1,0 +1,48 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "AirCarrier": "AirCarrier",
+    "Battleship": "Battleship",
+    "Cruiser": "Cruiser",
+    "Destroyer": "Destroyer",
+    "mapName": "e03_1st_April_2018"
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4117947312,
+  "index": "PCH168",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH168_OneSmallStepForAMan",
+  "onePerBattle": true,
+  "shipCategories": [
+    "event"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "FOOLSDAY_ONE_STEP",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_SPACE",
+  "uiType": "service_medal"
+}

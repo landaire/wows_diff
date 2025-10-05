@@ -1,0 +1,29 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "matrix_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3826118576,
+  "index": "PCEE447",
+  "isTemplate": false,
+  "name": "PCEE447_Matrix_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other",
+    "catalogueHiddenIfMissing",
+    "catalogueHidden_CN",
+    "tf"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

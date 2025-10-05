@@ -1,0 +1,315 @@
+{
+  "DDAY_Z32": {
+    "availableBuoyancyStates": [],
+    "consumableType": "speedBoosters",
+    "descIDs": "PCY015_SpeedBoosterPremium",
+    "group": "ship",
+    "iconIDs": "PCY015_SpeedBoosterPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "backwardEngineForsag": 2.5,
+      "backwardEngineForsagMaxSpeed": 10.0,
+      "boostCoeff": 0.15,
+      "descIDs": "",
+      "forwardEngineForsag": 2.5,
+      "forwardEngineForsagMaxSpeed": 10.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY015_SpeedBoosterPremium",
+    "workTime": 240.0
+  },
+  "DDAY_Z33": {
+    "availableBuoyancyStates": [],
+    "consumableType": "speedBoosters",
+    "descIDs": "PCY015_SpeedBooster_Imp_Premium",
+    "group": "ship",
+    "iconIDs": "PCY015_SpeedBooster_Imp_Premium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "backwardEngineForsag": 2.5,
+      "backwardEngineForsagMaxSpeed": 10.0,
+      "boostCoeff": 0.25,
+      "descIDs": "",
+      "forwardEngineForsag": 2.5,
+      "forwardEngineForsagMaxSpeed": 10.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 100.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY015_SpeedBooster_Imp_Premium",
+    "workTime": 60.0
+  },
+  "DDAY_Z34": {
+    "availableBuoyancyStates": [],
+    "consumableType": "speedBoosters",
+    "descIDs": "PCY015_SpeedBoosterPremium",
+    "group": "ship",
+    "iconIDs": "PCY015_SpeedBoosterPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "backwardEngineForsag": 2.5,
+      "backwardEngineForsagMaxSpeed": 10.0,
+      "boostCoeff": 0.08,
+      "descIDs": "",
+      "forwardEngineForsag": 2.5,
+      "forwardEngineForsagMaxSpeed": 10.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 90.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY015_SpeedBoosterPremium",
+    "workTime": 120.0
+  },
+  "DDAY_Z38": {
+    "availableBuoyancyStates": [],
+    "consumableType": "speedBoosters",
+    "descIDs": "PCY015_SpeedBooster_Imp_Premium",
+    "group": "ship",
+    "iconIDs": "PCY015_SpeedBooster_Imp_Premium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "backwardEngineForsag": 2.5,
+      "backwardEngineForsagMaxSpeed": 10.0,
+      "boostCoeff": 0.25,
+      "descIDs": "",
+      "forwardEngineForsag": 2.5,
+      "forwardEngineForsagMaxSpeed": 10.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 6,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY015_SpeedBooster_Imp_Premium",
+    "workTime": 25.0
+  },
+  "Post_Apocalypse": {
+    "availableBuoyancyStates": [],
+    "consumableType": "speedBoosters",
+    "descIDs": "PCY015_SpeedBoosterPremium",
+    "group": "ship",
+    "iconIDs": "PCY015_SpeedBoosterPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "backwardEngineForsag": 1.5,
+      "backwardEngineForsagMaxSpeed": 5.0,
+      "boostCoeff": 0.15,
+      "descIDs": "",
+      "forwardEngineForsag": 1.5,
+      "forwardEngineForsagMaxSpeed": 5.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 0,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY015_SpeedBoosterPremium",
+    "workTime": 60.0
+  },
+  "Post_Apocalypse2": {
+    "availableBuoyancyStates": [],
+    "consumableType": "speedBoosters",
+    "descIDs": "PCY015_SpeedBooster_Imp_Premium",
+    "group": "ship",
+    "iconIDs": "PCY015_SpeedBooster_Imp_Premium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "backwardEngineForsag": 2.5,
+      "backwardEngineForsagMaxSpeed": 10.0,
+      "boostCoeff": 0.3,
+      "descIDs": "",
+      "forwardEngineForsag": 2.5,
+      "forwardEngineForsagMaxSpeed": 10.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 0,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 30.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY015_SpeedBooster_Imp_Premium",
+    "workTime": 60.0
+  },
+  "StarTrek_BB_B1": {
+    "availableBuoyancyStates": [],
+    "consumableType": "speedBoosters",
+    "descIDs": "PCY015_SpeedBooster_startrek",
+    "group": "ship",
+    "iconIDs": "PCY015_SpeedBooster_startrek",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "backwardEngineForsag": 2.5,
+      "backwardEngineForsagMaxSpeed": 10.0,
+      "boostCoeff": 0.16,
+      "descIDs": "",
+      "forwardEngineForsag": 2.5,
+      "forwardEngineForsagMaxSpeed": 10.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY015_SpeedBooster_startrek",
+    "workTime": 180.0
+  },
+  "StarTrek_CA_B1": {
+    "availableBuoyancyStates": [],
+    "consumableType": "speedBoosters",
+    "descIDs": "PCY015_SpeedBooster_startrek",
+    "group": "ship",
+    "iconIDs": "PCY015_SpeedBooster_startrek",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "backwardEngineForsag": 2.5,
+      "backwardEngineForsagMaxSpeed": 10.0,
+      "boostCoeff": 0.2,
+      "descIDs": "",
+      "forwardEngineForsag": 2.5,
+      "forwardEngineForsagMaxSpeed": 10.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 90.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY015_SpeedBooster_startrek",
+    "workTime": 80.0
+  },
+  "StarTrek_DD_A0": {
+    "availableBuoyancyStates": [],
+    "consumableType": "speedBoosters",
+    "descIDs": "PCY015_SpeedBooster_startrek",
+    "group": "ship",
+    "iconIDs": "PCY015_SpeedBooster_startrek",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "backwardEngineForsag": 2.5,
+      "backwardEngineForsagMaxSpeed": 10.0,
+      "boostCoeff": 0.15,
+      "descIDs": "",
+      "forwardEngineForsag": 2.5,
+      "forwardEngineForsagMaxSpeed": 10.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY015_SpeedBooster_startrek",
+    "workTime": 60.0
+  },
+  "StarTrek_DD_A1": {
+    "availableBuoyancyStates": [],
+    "consumableType": "speedBoosters",
+    "descIDs": "PCY015_SpeedBooster_startrek",
+    "group": "ship",
+    "iconIDs": "PCY015_SpeedBooster_startrek",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "backwardEngineForsag": 2.5,
+      "backwardEngineForsagMaxSpeed": 10.0,
+      "boostCoeff": 0.25,
+      "descIDs": "",
+      "forwardEngineForsag": 2.5,
+      "forwardEngineForsagMaxSpeed": 10.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 6,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY015_SpeedBooster_startrek",
+    "workTime": 25.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 4265778448,
+  "index": "PXY027",
+  "name": "PXY027_SpeedBooster",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

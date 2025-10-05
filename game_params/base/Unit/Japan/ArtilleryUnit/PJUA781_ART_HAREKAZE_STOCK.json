@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3476008656,
+  "index": "PJUA781",
+  "name": "PJUA781_ART_HAREKAZE_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

@@ -1,0 +1,28 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "azur_kearsarge_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3389910960,
+  "index": "PCEE863",
+  "isTemplate": false,
+  "name": "PCEE863_azur_kearsarge_flag",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "anime",
+    "catalogueHiddenIfMissing",
+    "azur"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

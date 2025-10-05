@@ -1,0 +1,39 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "camo_NewYear2021",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 1500,
+  "custom": {},
+  "hidden": true,
+  "id": 3861409232,
+  "index": "PREP413",
+  "isTemplate": false,
+  "name": "PREP413_Kotovsky_2021",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

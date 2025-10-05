@@ -1,0 +1,33 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "camouflage": "camo_WH40K_Chaos_tile_01",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "hidden": true,
+  "id": 4196331440,
+  "index": "PCEC094",
+  "isTemplate": false,
+  "name": "PCEC094_Warhammer_Khorne_Camo",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing",
+    "wh40k"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Camouflage",
+    "type": "Exterior"
+  }
+}

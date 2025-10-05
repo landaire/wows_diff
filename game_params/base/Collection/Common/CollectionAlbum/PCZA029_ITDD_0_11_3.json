@@ -1,0 +1,53 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 4,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL147_IT_DD_0113_Coll_Free",
+    "PCL148_IT_DD_0113_Coll_Prem"
+  ],
+  "custom": {},
+  "description": "IDS_DESCRIPTION_PCZA029_ITDD_0_11_3",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4264532912,
+  "index": "PCZA029",
+  "isPuzzle": false,
+  "name": "PCZA029_ITDD_0_11_3",
+  "rewards": [
+    "<Ship shipId=\"PISD506_Leone\" level=\"3\" count=\"1\" onlySilver=\"0\"/>",
+    "<Item idx=\"PCEE520_ITA_DD_Arc_2_flag\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_ITDD_0_11_3_NAME",
+      "'aa",
+      [
+        "<SetUnlock unlockName=\"Second_Ensign_ITDestroyer\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_ITDD_0_11_3_NAME",
+      "'bb",
+      [
+        "<SetUnlock unlockName=\"Second_Ensign_ITCruiser\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_ITDD_0_11_3_NAME",
+      "'cc",
+      [
+        "<SetUnlock unlockName=\"Second_Ensign_ITBattleship\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

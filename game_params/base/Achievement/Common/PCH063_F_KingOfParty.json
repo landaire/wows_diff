@@ -1,0 +1,98 @@
+{
+  "battleTypes": [
+    "PVP",
+    "PVE",
+    "RANKED"
+  ],
+  "constants": {
+    "achievementCount": 9
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [
+    [
+      "achievement",
+      [
+        [
+          "achievement",
+          "festival",
+          "==",
+          "constant",
+          "True"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "globalA",
+          "+=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "achievement",
+      [
+        [
+          "counter",
+          "globalA",
+          ">=",
+          "constant",
+          "achievementCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4228047792,
+  "index": "PCH063",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH063_F_KingOfParty",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "BD2016_KING_OF_PARTY",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

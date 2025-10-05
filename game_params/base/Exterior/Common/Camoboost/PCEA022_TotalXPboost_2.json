@@ -1,0 +1,27 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "boostType": "expFactor",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": 25,
+  "custom": {},
+  "hidden": false,
+  "id": 4271894448,
+  "index": "PCEA022",
+  "isTemplate": false,
+  "modifiers": {
+    "expFactor": 3.0
+  },
+  "name": "PCEA022_TotalXPboost_2",
+  "sortOrder": 2,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Camoboost",
+    "type": "Exterior"
+  }
+}

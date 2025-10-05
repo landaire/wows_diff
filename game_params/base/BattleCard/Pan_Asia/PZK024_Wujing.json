@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4268938448,
+  "index": "PZK024",
+  "maxLevel": 2,
+  "name": "PZK024_Wujing",
+  "personalCardBonus": {
+    "clan": "PCOK006_Balldmg_DAPdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PZSB519_Alsace_Wujing"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

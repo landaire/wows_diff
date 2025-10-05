@@ -1,0 +1,29 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4278375888,
+  "index": "PRK015",
+  "maxLevel": 2,
+  "name": "PRK015_Smolensk",
+  "personalCardBonus": {
+    "clan": "PCOK604_CLAN_CA_Controller"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PRSC610_Smolensk",
+      "PRSC530_Black_Smolensk"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

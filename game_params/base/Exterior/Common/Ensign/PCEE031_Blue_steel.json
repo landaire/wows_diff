@@ -1,0 +1,29 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "blue_steel",
+  "group": 3,
+  "hidden": true,
+  "id": 4262326192,
+  "index": "PCEE031",
+  "isTemplate": false,
+  "name": "PCEE031_Blue_steel",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "anime",
+    "catalogueHiddenIfMissing",
+    "catalogueHidden_CN",
+    "arpeggio"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

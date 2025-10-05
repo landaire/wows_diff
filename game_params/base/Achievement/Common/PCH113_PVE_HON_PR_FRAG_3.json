@@ -1,0 +1,160 @@
+{
+  "battleTypes": [
+    "PVE",
+    "PVE_PREMADE"
+  ],
+  "constants": {
+    "filterKeyShips": {
+      "roles": [
+        "KeyEnemyGroup1",
+        "KeyEnemyGroup2",
+        "KeyEnemyGroup3",
+        "KeyEnemyDestroyer1",
+        "KeyEnemyDestroyer2",
+        "KeyEnemyDestroyer3",
+        "KeyEnemyCruiser1",
+        "KeyEnemyCruiser2",
+        "KeyEnemyCruiser3",
+        "KeyEnemyBattleship1",
+        "KeyEnemyBattleship2",
+        "KeyEnemyBattleship3",
+        "KeyEnemyAirCarrier1",
+        "KeyEnemyAirCarrier2",
+        "KeyEnemyAirCarrier3",
+        "KeyEnemyVessel1",
+        "KeyEnemyVessel2",
+        "KeyEnemyVessel3"
+      ]
+    },
+    "progress": "shipsCount",
+    "shipsCount": 150
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "meKill",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "target",
+          "team",
+          "!=",
+          "me",
+          "team"
+        ],
+        [
+          "target",
+          "appropriate",
+          ":",
+          "constant",
+          "filterKeyShips"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "globalA",
+          "+=",
+          "counter",
+          "a"
+        ],
+        [
+          "sendstat",
+          "pve_ships_killed",
+          "=",
+          "counter",
+          "globalA"
+        ]
+      ]
+    ],
+    [
+      "afterBattle",
+      [
+        [
+          "counter",
+          "globalA",
+          ">=",
+          "constant",
+          "shipsCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4175618992,
+  "index": "PCH113",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH113_PVE_HON_PR_FRAG_3",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": true,
+  "tags": [],
+  "type": "honorable",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "PVE_HON_PR_FRAG_3",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "common"
+}

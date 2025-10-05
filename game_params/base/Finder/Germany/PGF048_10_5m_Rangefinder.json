@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4243778352,
+  "index": "PGF048",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF048_10_5m_Rangefinder/GF048_10_5m_Rangefinder.model",
+  "name": "PGF048_10_5m_Rangefinder",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

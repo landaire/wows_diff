@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA014_BritishCVArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC287_BRITISHCVARC_JUNKERSJU_87C_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3993934768,
+  "index": "PCZC287",
+  "name": "PCZC287_BritishCVArc_JunkersJu_87C",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

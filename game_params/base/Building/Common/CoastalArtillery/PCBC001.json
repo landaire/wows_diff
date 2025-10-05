@@ -1,0 +1,77 @@
+{
+  "apDamageLimitCoeff": 0,
+  "hull": {
+    "acidDamage": 0.0,
+    "acidDuration": 0.0,
+    "armor": {
+      "65580": 150.0
+    },
+    "burnNodes": [],
+    "canBeSuppressed": true,
+    "canReceiveAcid": false,
+    "canReceiveWildFire": false,
+    "coolingOffSpeed": 1.0,
+    "deadModel": "content/location/gameplay/building/LYB004_LookaroudndPillbox/LYB004_LookaroudndPillbox_dead.model",
+    "deathAnimation": "",
+    "deathEffect": "",
+    "deathModelReplacementDelay": 0.0,
+    "deathPlaneEffect": "particles/NF_death_catapult_ships.xml",
+    "effects": {
+      "fire1": []
+    },
+    "health": 999999999.0,
+    "healthRestorationRate": 0,
+    "heatChangeValue": 1.0,
+    "heightIntensityEffects": [],
+    "iconHeight": null,
+    "isBlind": false,
+    "mass": 1.0,
+    "maxHeatValue": 1.0,
+    "minVisionDistance": 0.0,
+    "model": "content/location/gameplay/building/LYB004_LookaroudndPillbox/LYB004_LookaroudndPillbox.model",
+    "numOfParts": 0,
+    "permanentlyRegenerateHealth": true,
+    "permanentlyVisibleByEnemies": true,
+    "permanentlyVisibleByTeammates": true,
+    "smokeScanRadius": 0.0,
+    "spawnAnimation": "",
+    "spawnEffect": "",
+    "startHealthCoeff": 1.0,
+    "startHealthToRegenerationCoeff": 0.5,
+    "suppressionEffect": {
+      "Effect Name": "",
+      "Scene Node": "Scene Root"
+    },
+    "toMineVisionDistance": [
+      600.0,
+      600.0,
+      100.0
+    ],
+    "visibilityCoefATBAByPlane": 2.0,
+    "visibilityCoefAirDefense": 1.3,
+    "visibilityCoefFire": 2.0,
+    "visibilityCoefFireByPlane": 2.0,
+    "visibilityCoefGK": 1e-6,
+    "visibilityCoefGKByPlane": 1e-6,
+    "visibilityCoefGKInSmoke": 1e-6,
+    "visibilityFactor": 20.0,
+    "visibilityFactorByPlane": 1.0,
+    "visibilityFactorInSmoke": 1.0,
+    "visionDistance": 1.0,
+    "visionFlag": 1,
+    "wildFireDamage": 0.0,
+    "wildFireDuration": -1.0
+  },
+  "id": 4293852080,
+  "index": "PCBC001",
+  "level": 11,
+  "name": "PCBC001",
+  "peculiarity": "default",
+  "peculiarityEffects": {},
+  "peculiarityModels": {},
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CoastalArtillery",
+    "type": "Building"
+  }
+}

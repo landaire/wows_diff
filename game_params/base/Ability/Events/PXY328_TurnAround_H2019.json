@@ -1,0 +1,96 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "torpedoReloadTime": 60.0
+    },
+    "numConsumables": 2,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 270.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "H2018_PVP": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "TurnAround_PVP",
+      "titleIDs": "",
+      "torpedoReloadTime": 1.0
+    },
+    "numConsumables": 5,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 270.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "H2019": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "TurnAround_PVP",
+      "titleIDs": "",
+      "torpedoReloadTime": 1.0
+    },
+    "numConsumables": 0,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 1.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 3950157072,
+  "index": "PXY328",
+  "name": "PXY328_TurnAround_H2019",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

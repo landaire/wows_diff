@@ -1,0 +1,37 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "camouflage": "camo_permanent_dazzle",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 1500,
+  "custom": {},
+  "hidden": false,
+  "id": 3872943952,
+  "index": "PFEP402",
+  "isTemplate": false,
+  "name": "PFEP402_LaGalissoniere_Dazzle",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "France",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

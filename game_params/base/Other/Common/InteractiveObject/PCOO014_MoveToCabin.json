@@ -1,0 +1,75 @@
+{
+  "id": 4279814064,
+  "index": "PCOO014",
+  "logic": {
+    "InteractiveObjectEvents": {
+      "OnMouseClick": {
+        "InteractiveObjectActions": {
+          "modelAction": {
+            "actionName": "Off",
+            "deactivationActionName": "",
+            "type": 3
+          },
+          "mousePressAction": {
+            "eventData": {
+              "routeId": "collection_preview"
+            },
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "ui.navigate"
+          },
+          "mousePressAction2": {
+            "eventData": [
+              "io:startrek_transition_to_cabin"
+            ],
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "statistics.log"
+          },
+          "sounAction": {
+            "eventName": "UI_Warp_Transition",
+            "type": 4
+          }
+        },
+        "activeTime": 2.0,
+        "requiredState": "hovered",
+        "targetState": "selected",
+        "type": "onMouseClick"
+      },
+      "OnMouseOver": {
+        "InteractiveObjectActions": {
+          "mousePressAction": {
+            "actionName": "On",
+            "deactivationActionName": "",
+            "type": 3
+          }
+        },
+        "activeTime": -1.0,
+        "requiredState": "idle",
+        "targetState": "hovered",
+        "type": "onMouseOver"
+      },
+      "OnMouseOverEnd": {
+        "InteractiveObjectActions": {
+          "modelAction": {
+            "actionName": "Off",
+            "deactivationActionName": "",
+            "type": 3
+          }
+        },
+        "activeTime": 0.1,
+        "requiredState": "hovered",
+        "targetState": "released",
+        "type": "onMouseOverEnd"
+      }
+    },
+    "state": "idle"
+  },
+  "name": "PCOO014_MoveToCabin",
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "InteractiveObject",
+    "type": "Other"
+  }
+}

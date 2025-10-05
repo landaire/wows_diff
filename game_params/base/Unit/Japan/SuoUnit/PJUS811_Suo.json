@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 1,
+  "id": 3443961552,
+  "index": "PJUS811",
+  "name": "PJUS811_Suo",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

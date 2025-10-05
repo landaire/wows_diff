@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3414011600,
+  "index": "PJUE840",
+  "name": "PJUE840_ENG_MINEGUMO",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

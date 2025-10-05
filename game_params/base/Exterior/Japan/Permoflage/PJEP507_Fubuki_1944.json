@@ -1,0 +1,39 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "camouflage": "camo_permanent_1",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 2500,
+  "custom": {},
+  "hidden": false,
+  "id": 3762843344,
+  "index": "PJEP507",
+  "isTemplate": false,
+  "name": "PJEP507_Fubuki_1944",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHidden"
+  ],
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3765627696,
+  "index": "PGF504",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF504_7m_Bridge_rangefinder_Ice/GF504_7m_Bridge_rangefinder_Ice.model",
+  "name": "PGF504_7m_Bridge_rangefinder_Ice",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

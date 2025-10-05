@@ -1,0 +1,75 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 270.0,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 6,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 180.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
+  "H2017_Chapaev": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 500.0,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 45.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 45.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 4178746640,
+  "index": "PXY110",
+  "name": "PXY110_RLSSearchPremium",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

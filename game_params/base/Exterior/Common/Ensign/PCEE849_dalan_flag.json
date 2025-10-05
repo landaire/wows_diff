@@ -1,0 +1,30 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "dalan_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3404591024,
+  "index": "PCEE849",
+  "isTemplate": false,
+  "name": "PCEE849_dalan_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing",
+    "influencer",
+    "catalogueHidden_NA",
+    "catalogueHidden_EU",
+    "catalogueHidden_ASIA"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

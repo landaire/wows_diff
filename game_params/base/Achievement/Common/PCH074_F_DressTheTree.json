@@ -1,0 +1,89 @@
+{
+  "battleTypes": [
+    "PVP",
+    "COOPERATIVE"
+  ],
+  "constants": {
+    "signalsCount": 100
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [
+    [
+      "spentFlags",
+      [],
+      [
+        [
+          "counter",
+          "globalA",
+          "+=",
+          "spentFlags",
+          "value"
+        ]
+      ]
+    ],
+    [
+      "spentFlags",
+      [
+        [
+          "counter",
+          "globalA",
+          ">=",
+          "constant",
+          "signalsCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4216513456,
+  "index": "PCH074",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH074_F_DressTheTree",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "NY17_DRESS_THE_TREE",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

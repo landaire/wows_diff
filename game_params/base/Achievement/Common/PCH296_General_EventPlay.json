@@ -1,0 +1,66 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "ships": [
+      "PGSB999_Hannover",
+      "PJSB999_Satsuma"
+    ]
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [
+    [
+      "battleEnd",
+      [
+        [
+          "me",
+          "vehicleName",
+          "in",
+          "constant",
+          "ships"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 3983729584,
+  "index": "PCH296",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH296_General_EventPlay",
+  "onePerBattle": true,
+  "shipCategories": [
+    "superShip"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "GENERAL_PLAY",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

@@ -1,0 +1,26 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "akureyri",
+  "group": 3,
+  "hidden": false,
+  "id": 4118671280,
+  "index": "PCEE168",
+  "isTemplate": false,
+  "name": "PCEE168_SeasonFlag08",
+  "needExtraDescription": true,
+  "rankSeasonId": 8,
+  "sortOrder": 2147483647,
+  "tags": [
+    "rank"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

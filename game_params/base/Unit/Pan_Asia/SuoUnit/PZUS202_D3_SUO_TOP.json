@@ -1,0 +1,13 @@
+{
+  "costCR": 52000,
+  "costXP": 400,
+  "id": 4082543824,
+  "index": "PZUS202",
+  "name": "PZUS202_D3_SUO_TOP",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

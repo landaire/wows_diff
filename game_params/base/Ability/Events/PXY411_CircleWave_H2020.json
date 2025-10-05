@@ -1,0 +1,127 @@
+{
+  "H2020": {
+    "availableBuoyancyStates": [],
+    "consumableType": "circleWave",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Halloween2020_CircleWave",
+      "startDistance": 100.0,
+      "titleIDs": "",
+      "waveDistance": 5000,
+      "waveParams": "PXPW001_CirclerWave_2020"
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 45.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "H2020_BOSS": {
+    "availableBuoyancyStates": [],
+    "consumableType": "circleWave",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Halloween2020_CircleWave",
+      "startDistance": 100.0,
+      "titleIDs": "",
+      "waveDistance": 4000,
+      "waveParams": "PXPW005_CirclerWaveBoss_2020"
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 30.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "H2020_MC": {
+    "availableBuoyancyStates": [],
+    "consumableType": "circleWave",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Halloween2020_CircleWave",
+      "startDistance": 100.0,
+      "titleIDs": "",
+      "waveDistance": 5000,
+      "waveParams": "PXPW001_CirclerWave_2020"
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 35.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "SectorWave": {
+    "availableBuoyancyStates": [],
+    "consumableType": "circleWave",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Halloween2020_CircleWave",
+      "startDistance": 100.0,
+      "titleIDs": "",
+      "waveDistance": 5000,
+      "waveParams": "PXPW001_CirclerWave_2020"
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 3863125264,
+  "index": "PXY411",
+  "name": "PXY411_CircleWave_H2020",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

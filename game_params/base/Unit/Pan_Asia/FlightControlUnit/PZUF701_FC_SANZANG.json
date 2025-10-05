@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3559730384,
+  "index": "PZUF701",
+  "name": "PZUF701_FC_SANZANG",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

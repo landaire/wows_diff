@@ -1,0 +1,100 @@
+{
+  "battleTypes": [
+    "PVP"
+  ],
+  "constants": {
+    "battleType": "PVP",
+    "progress": "winCount",
+    "winCount": 100
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "afterBattle",
+      [
+        [
+          "afterBattle",
+          "battleType",
+          "==",
+          "constant",
+          "battleType"
+        ],
+        [
+          "afterBattle",
+          "isWinner"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "globalA",
+          "+=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "afterBattle",
+      [
+        [
+          "counter",
+          "globalA",
+          ">=",
+          "constant",
+          "winCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4262650800,
+  "index": "PCH030",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH030_Winning3",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": true,
+  "tags": [],
+  "type": "honorable",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "VETERAN",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "common"
+}

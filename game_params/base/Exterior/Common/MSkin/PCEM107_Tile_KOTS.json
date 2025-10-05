@@ -1,0 +1,56 @@
+{
+  "RarityCategory": {
+    "name": "Epic"
+  },
+  "camouflage": "camo_RexMaris_tile_01",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "effects": {},
+  "filterIsWhitelist": false,
+  "hidden": true,
+  "hullConfig": {},
+  "id": 4182372272,
+  "index": "PCEM107",
+  "isTemplate": false,
+  "isTileflage": true,
+  "linkedCamouflage": "PCEC086_KOTSCamo",
+  "miscFilter": [],
+  "miscSubTypeSpecification": {},
+  "name": "PCEM107_Tile_KOTS",
+  "nodesConfig": {},
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "default",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "",
+  "peculiarityModels": {},
+  "planesConfig": {},
+  "renderSetsStates": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "styleEffects": {},
+  "styleMiscs": [],
+  "subTypes": [],
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "MSkin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

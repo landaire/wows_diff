@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3525750576,
+  "index": "PGUS733",
+  "name": "PGUS733_SUO_SCHARNHORST_1943",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

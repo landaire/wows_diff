@@ -1,0 +1,65 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "camouflage": "mat_SteelStyle2021",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "effects": {},
+  "filterIsWhitelist": false,
+  "hidden": true,
+  "hullConfig": {},
+  "id": 4277792688,
+  "index": "PCEM016",
+  "isTemplate": false,
+  "isTileflage": false,
+  "linkedCamouflage": null,
+  "miscFilter": [],
+  "miscSubTypeSpecification": {},
+  "name": "PCEM016_Steel_MSkin",
+  "nodesConfig": {},
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "default",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "",
+  "peculiarityModels": {},
+  "planesConfig": {},
+  "renderSetsStates": {
+    "@Bow_wire": true,
+    "@MidBack_wire": true,
+    "@MidFront_wire": true,
+    "@Stern_wire": true
+  },
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": -1,
+  "styleEffects": {},
+  "styleMiscs": [],
+  "subTypes": [
+    "SteelStyle2021"
+  ],
+  "tags": [
+    "catalogueHidden"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "MSkin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_3_tile",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

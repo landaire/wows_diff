@@ -1,0 +1,18 @@
+{
+  "id": 3721054128,
+  "index": "PCOK547",
+  "level_1": {
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityBombAvia": 0.75
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityBombAvia": 0.75
+  },
+  "name": "PCOK547_CLAN_Willem",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

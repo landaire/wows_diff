@@ -1,0 +1,88 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "filterKeyShips": {
+      "roles": [
+        "ReadyForAchievement"
+      ]
+    }
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "battleEnd",
+      [
+        [
+          "me",
+          "alive"
+        ],
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ],
+        [
+          "me",
+          "appropriate",
+          ":",
+          "constant",
+          "filterKeyShips"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 3895649200,
+  "index": "PCH380",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH380_2AIRSHIPS_5MINUTESWINNER",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "2AIRSHIPS_5MINUTESWINNER",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_2AIRSHIPS",
+  "uiType": "service_medal"
+}

@@ -1,0 +1,330 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "camouflage": "mat_BA_Binah",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 4500,
+  "custom": {},
+  "effects": {
+    "A_Hull": {
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_medium.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_big.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_3",
+          "particles/vehicles/Fire_side_medium.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_small_2.xml"
+        ]
+      ],
+      "fireResistance": [
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_3",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_5",
+          "particles/vehicles/Fire_big.xml"
+        ],
+        [
+          "HP_FX_Fire_5_2",
+          "particles/vehicles/Fire_big.xml"
+        ]
+      ],
+      "fixDeluge": [],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_big.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_exhaust_1",
+          "particles/vehicles/Flood_steam_exhaust_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_exhaust_2",
+          "particles/vehicles/Flood_steam_exhaust_big_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_big.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_big.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [
+        [
+          "HP_FX_Lighting",
+          "particles/vehicles/Lightning_KFrancesco_Caracciolo.xml"
+        ]
+      ],
+      "idlePort": [
+        [
+          "HP_FX_Lighting_Port",
+          "particles/vehicles/Lightning_KFrancesco_Caracciolo.xml"
+        ],
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_big.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/idlePort_RunSmoke_big.xml"
+        ]
+      ],
+      "repairLight": [
+        [
+          "HP_FX_RepairLight_left_1",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_left_2",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_1",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_2",
+          "particles/vehicles/RepairLight_big.xml"
+        ]
+      ],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_big_Francesco_Caracciolo.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/RunSmoke_big_Francesco_Caracciolo.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceForward_screw_right_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceForward_screw_left_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": true,
+  "hullConfig": {},
+  "id": 3958828784,
+  "index": "PIES320",
+  "isTemplate": false,
+  "name": "PIES320_BA_Marcantonio_Colonna",
+  "nodesConfig": {},
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "ba",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "ba_marcantonio_colonna_flag",
+  "peculiarityModels": {
+    "content/gameplay/italy/director/ID014_Director_HA_3m/ID014_Director_HA_3m.model": "content/gameplay/italy/director/ID3002_Director_HA_3m_Stern_Blue_Archive/ID3002_Director_HA_3m_Stern_Blue_Archive.model",
+    "content/gameplay/italy/gun/main/IGM078_381mm_50_2barrels_M1934/IGM078_381mm_50_2barrels_M1934.model": "content/gameplay/italy/gun/main/IGM3014_381mm_50_Blue_Archive/IGM3014_381mm_50_Blue_Archive.model",
+    "content/gameplay/italy/gun/main/IGM078_381mm_50_2barrels_M1934/IGM078_381mm_50_2barrels_M1934_dead.model": "content/gameplay/italy/gun/main/IGM3014_381mm_50_Blue_Archive/IGM3014_381mm_50_Blue_Archive_dead.model",
+    "content/gameplay/italy/gun/secondary/IGS014_152mm55_barrels_3_M1936_L/IGS014_152mm55_barrels_3_M1936_L.model": "content/gameplay/italy/gun/secondary/IGS3015_152mm55_Blue_Archive_L/IGS3015_152mm55_Blue_Archive_L.model",
+    "content/gameplay/italy/gun/secondary/IGS014_152mm55_barrels_3_M1936_L/IGS014_152mm55_barrels_3_M1936_L_dead.model": "content/gameplay/italy/gun/secondary/IGS3015_152mm55_Blue_Archive_L/IGS3015_152mm55_Blue_Archive_L_dead.model",
+    "content/gameplay/italy/gun/secondary/IGS017_90mm50_barrels_1_M1939/IGS017_90mm50_barrels_1_M1939.model": "content/gameplay/italy/gun/secondary/IGS3016_90mm50_barrels_Blue_Archive/IGS3016_90mm50_barrels_Blue_Archive.model",
+    "content/gameplay/italy/gun/secondary/IGS017_90mm50_barrels_1_M1939/IGS017_90mm50_barrels_1_M1939_dead.model": "content/gameplay/italy/gun/secondary/IGS3016_90mm50_barrels_Blue_Archive/IGS3016_90mm50_barrels_Blue_Archive_dead.model",
+    "content/gameplay/italy/gun/secondary/IGS023_152mm55_barrels_3_M1936_R/IGS023_152mm55_barrels_3_M1936_R.model": "content/gameplay/italy/gun/secondary/IGS3017_152mm55_Blue_Archive/IGS3017_152mm55_Blue_Archive.model",
+    "content/gameplay/italy/gun/secondary/IGS023_152mm55_barrels_3_M1936_R/IGS023_152mm55_barrels_3_M1936_R_dead.model": "content/gameplay/italy/gun/secondary/IGS3017_152mm55_Blue_Archive/IGS3017_152mm55_Blue_Archive_dead.model",
+    "content/gameplay/italy/ship/battleship/ISB304_Marcantonio_Colonna_1941/ISB304_Marcantonio_Colonna_1941.model": "content/gameplay/italy/ship/battleship/ISB400_BA_Francesco_Caracciolo/ISB400_BA_Francesco_Caracciolo.model"
+  },
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing",
+    "catalogueHidden_CN",
+    "blue archive"
+  ],
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

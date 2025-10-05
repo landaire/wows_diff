@@ -1,0 +1,26 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "armada_del_ecuador_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3751669680,
+  "index": "PCEE518",
+  "isTemplate": false,
+  "name": "PCEE518_Armada_del_Ecuador_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "ship"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

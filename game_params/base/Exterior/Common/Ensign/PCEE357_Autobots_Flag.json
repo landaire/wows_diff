@@ -1,0 +1,29 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "Autobots_Flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3920490416,
+  "index": "PCEE357",
+  "isTemplate": false,
+  "name": "PCEE357_Autobots_Flag",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other",
+    "catalogueHiddenIfMissing",
+    "catalogueHidden_CN",
+    "tf"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

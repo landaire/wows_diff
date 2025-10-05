@@ -1,0 +1,39 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "camo_V-Day_75",
+  "canBuy": true,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 1500,
+  "custom": {},
+  "hidden": false,
+  "id": 4214779344,
+  "index": "PREP076",
+  "isTemplate": false,
+  "name": "PREP076_Oktyabrskaya_Revolutsiya_75",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHidden_CN"
+  ],
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

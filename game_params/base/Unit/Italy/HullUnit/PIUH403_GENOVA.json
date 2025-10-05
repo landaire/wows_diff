@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3872141040,
+  "index": "PIUH403",
+  "name": "PIUH403_GENOVA",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

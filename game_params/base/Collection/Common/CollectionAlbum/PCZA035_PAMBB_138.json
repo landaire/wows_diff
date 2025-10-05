@@ -1,0 +1,30 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 3,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL230_PAMBB_Collection_Free",
+    "PCL231_PAMBB_Collection_Prem"
+  ],
+  "custom": {},
+  "description": "IDS_DESCRIPTION_PCZA035_PAMBB_138",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4258241456,
+  "index": "PCZA035",
+  "isPuzzle": true,
+  "name": "PCZA035_PAMBB_138",
+  "rewards": [
+    "<Crew shipId=\"PVSC101_Hercules\" level=\"10\" crewId=\"PVW100_Lisboa\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

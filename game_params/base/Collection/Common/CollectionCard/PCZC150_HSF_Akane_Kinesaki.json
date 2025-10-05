@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC150_HSF_AKANE_KINESAKI_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4137589680,
+  "index": "PCZC150",
+  "name": "PCZC150_HSF_Akane_Kinesaki",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "camouflage": "camo_british_arc",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 4000,
+  "custom": {},
+  "hidden": false,
+  "id": 4179128272,
+  "index": "PBEP110",
+  "isTemplate": false,
+  "name": "PBEP110_Daring_British",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

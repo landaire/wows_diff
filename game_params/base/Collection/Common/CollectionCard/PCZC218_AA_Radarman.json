@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC218_AA_RADARMAN_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4066286512,
+  "index": "PCZC218",
+  "name": "PCZC218_AA_Radarman",
+  "subAlbums": [
+    7
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

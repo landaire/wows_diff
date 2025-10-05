@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3658672848,
+  "index": "PJF606",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/finder/JF606_Rangefinder_4_5m_HW19/JF606_Rangefinder_4_5m_HW19.model",
+  "name": "PJF606_Rangefinder_4_5m_HW19",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Finder"
+  }
+}

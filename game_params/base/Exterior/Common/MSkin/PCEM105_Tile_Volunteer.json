@@ -1,0 +1,56 @@
+{
+  "RarityCategory": {
+    "name": "Legendary"
+  },
+  "camouflage": "camo_Volunteer_tile_01",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "effects": {},
+  "filterIsWhitelist": false,
+  "hidden": true,
+  "hullConfig": {},
+  "id": 4184469424,
+  "index": "PCEM105",
+  "isTemplate": false,
+  "isTileflage": true,
+  "linkedCamouflage": "PCEC082_Volunteer",
+  "miscFilter": [],
+  "miscSubTypeSpecification": {},
+  "name": "PCEM105_Tile_Volunteer",
+  "nodesConfig": {},
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "default",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "",
+  "peculiarityModels": {},
+  "planesConfig": {},
+  "renderSetsStates": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "styleEffects": {},
+  "styleMiscs": [],
+  "subTypes": [],
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "MSkin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

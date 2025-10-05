@@ -1,0 +1,34 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "deathSoundEvent": "Custom_Death_Firework_NY_2024",
+  "effectOnDeath": {
+    "AirCarrier": "particles/vehicles/Battleship_death_NY2025.xml",
+    "Battleship": "particles/vehicles/Battleship_death_NY2025.xml",
+    "Cruiser": "particles/vehicles/Battleship_death_NY2025.xml",
+    "Destroyer": "particles/vehicles/Battleship_death_NY2025.xml",
+    "Submarine": "particles/vehicles/Submarine_death_NY2025.xml"
+  },
+  "effectOnUnderWaterDeath": "particles/vehicles/Submarine_death.xml",
+  "group": "paintwork",
+  "hidden": false,
+  "id": 4292767664,
+  "index": "PCED002",
+  "isTemplate": false,
+  "name": "PCED002_Firework_NY_2024",
+  "peculiarity": "thematic",
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "ShipDestruction",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "battleTypes": [
+    "PVE",
+    "PVE_PREMADE"
+  ],
+  "constants": {
+    "achievementsNumber": 5,
+    "damageRatio": 1
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "meAttack",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "damage",
+          "value"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ],
+        [
+          "me",
+          "alive"
+        ],
+        [
+          "subInstruction",
+          [
+            "counter",
+            "a",
+            "/",
+            "me",
+            "health"
+          ],
+          ">=",
+          "constant",
+          "damageRatio"
+        ],
+        [
+          "tasks",
+          "secondarySuccessCount",
+          ">=",
+          "constant",
+          "achievementsNumber"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4192396208,
+  "index": "PCH097",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH097_PVE_HON_WIN_ALL_DONE",
+  "onePerBattle": true,
+  "shipCategories": [
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "earlyAccess",
+    "ultimate",
+    "upgradeableUltimate",
+    "superShip"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "honorable",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "PVE_HON_WIN_ALL_DONE",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_OPERATIONS",
+  "uiType": "honorable"
+}

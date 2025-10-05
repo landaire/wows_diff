@@ -1,0 +1,26 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "hawaii",
+  "group": 3,
+  "hidden": false,
+  "id": 4281200560,
+  "index": "PCEE013",
+  "isTemplate": false,
+  "name": "PCEE013_SeasonFlag03",
+  "needExtraDescription": true,
+  "rankSeasonId": 3,
+  "sortOrder": 2147483647,
+  "tags": [
+    "rank"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

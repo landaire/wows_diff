@@ -1,0 +1,243 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "filterKeyShips": {
+      "roles": [
+        "PCH222_EV1APR19_TORPEDO4"
+      ]
+    },
+    "waysToKillCount": 3
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [
+    [
+      "meKill",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "dead",
+          "weaponType",
+          "!=",
+          "weaponType",
+          "MAIN_AP"
+        ],
+        [
+          "dead",
+          "weaponType",
+          "!=",
+          "weaponType",
+          "MAIN_HE"
+        ],
+        [
+          "dead",
+          "weaponType",
+          "!=",
+          "weaponType",
+          "ATBA_AP"
+        ],
+        [
+          "dead",
+          "weaponType",
+          "!=",
+          "weaponType",
+          "ATBA_HE"
+        ],
+        [
+          "subInstruction",
+          [
+            "shipCountersA",
+            "equals",
+            ":",
+            "dead",
+            "weaponType"
+          ],
+          "==",
+          "constant",
+          "0"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "targetA",
+          "=",
+          "dead",
+          "weaponType"
+        ]
+      ]
+    ],
+    [
+      "meKill",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "subInstruction",
+          [
+            "dead",
+            "weaponType",
+            "==",
+            "weaponType",
+            "MAIN_AP"
+          ],
+          "or",
+          "subInstruction",
+          [
+            "dead",
+            "weaponType",
+            "==",
+            "weaponType",
+            "MAIN_HE"
+          ]
+        ],
+        [
+          "subInstruction",
+          [
+            "shipCountersA",
+            "equals",
+            ":",
+            "weaponType",
+            "MAIN_AP"
+          ],
+          "==",
+          "constant",
+          "0"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "targetA",
+          "=",
+          "weaponType",
+          "MAIN_AP"
+        ]
+      ]
+    ],
+    [
+      "meKill",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "subInstruction",
+          [
+            "dead",
+            "weaponType",
+            "==",
+            "weaponType",
+            "ATBA_AP"
+          ],
+          "or",
+          "subInstruction",
+          [
+            "dead",
+            "weaponType",
+            "==",
+            "weaponType",
+            "ATBA_HE"
+          ]
+        ],
+        [
+          "subInstruction",
+          [
+            "shipCountersA",
+            "equals",
+            ":",
+            "weaponType",
+            "ATBA_AP"
+          ],
+          "==",
+          "constant",
+          "0"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "targetA",
+          "=",
+          "weaponType",
+          "ATBA_AP"
+        ]
+      ]
+    ],
+    [
+      "meKill",
+      [
+        [
+          "shipCountersA",
+          "nonZero",
+          ">=",
+          "constant",
+          "waysToKillCount"
+        ],
+        [
+          "me",
+          "appropriate",
+          ":",
+          "constant",
+          "filterKeyShips"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4061324208,
+  "index": "PCH222",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH222_EV1APR19_TORPEDO4",
+  "onePerBattle": true,
+  "shipCategories": [
+    "event"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "EV1APR19_TORPEDO4",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_SPACE_TORPEDOBEAT",
+  "uiType": "service_medal"
+}

@@ -1,0 +1,231 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "airDefenseDisp",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "areaDamageMultiplier": 1.5,
+      "bubbleDamageMultiplier": 4.0,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 40.0
+  },
+  "SU_DD": {
+    "availableBuoyancyStates": [],
+    "consumableType": "airDefenseDisp",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "areaDamageMultiplier": 1.5,
+      "bubbleDamageMultiplier": 4.0,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 40.0
+  },
+  "Stalingrad": {
+    "availableBuoyancyStates": [],
+    "consumableType": "airDefenseDisp",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "areaDamageMultiplier": 1.25,
+      "bubbleDamageMultiplier": 4.0,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 180.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 60.0
+  },
+  "UK_UPs": {
+    "availableBuoyancyStates": [],
+    "consumableType": "airDefenseDisp",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "areaDamageMultiplier": 1.5,
+      "bubbleDamageMultiplier": 4.0,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 40.0
+  },
+  "US_Cruisers": {
+    "availableBuoyancyStates": [],
+    "consumableType": "airDefenseDisp",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "areaDamageMultiplier": 1.5,
+      "bubbleDamageMultiplier": 4.0,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 40.0
+  },
+  "US_Cruisers_Atlanta": {
+    "availableBuoyancyStates": [],
+    "consumableType": "airDefenseDisp",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "areaDamageMultiplier": 1.5,
+      "bubbleDamageMultiplier": 4.0,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 40.0
+  },
+  "US_DD": {
+    "availableBuoyancyStates": [],
+    "consumableType": "airDefenseDisp",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "areaDamageMultiplier": 1.5,
+      "bubbleDamageMultiplier": 4.0,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 40.0
+  },
+  "Yubari": {
+    "availableBuoyancyStates": [],
+    "consumableType": "airDefenseDisp",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "areaDamageMultiplier": 1.5,
+      "bubbleDamageMultiplier": 4.0,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 40.0
+  },
+  "canBuy": false,
+  "costCR": 22500,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 4267876272,
+  "index": "PCY025",
+  "name": "PCY025_AirDefenseDispSuper",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Ability"
+  }
+}

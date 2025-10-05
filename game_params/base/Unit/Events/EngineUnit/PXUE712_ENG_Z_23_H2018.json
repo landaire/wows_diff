@@ -1,0 +1,13 @@
+{
+  "costCR": 635000,
+  "costXP": 0,
+  "id": 3548228880,
+  "index": "PXUE712",
+  "name": "PXUE712_ENG_Z_23_H2018",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

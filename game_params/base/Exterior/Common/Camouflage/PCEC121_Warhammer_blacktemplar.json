@@ -1,0 +1,33 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "camouflage": "camo_Warhammer_BlackTemplar_tile",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "hidden": true,
+  "id": 4168019888,
+  "index": "PCEC121",
+  "isTemplate": false,
+  "name": "PCEC121_Warhammer_blacktemplar",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing",
+    "wh40k"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Camouflage",
+    "type": "Exterior"
+  }
+}

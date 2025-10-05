@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 24000,
+  "id": 4286459600,
+  "index": "PJUD008",
+  "name": "PJUD008_Wakusei",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

@@ -1,0 +1,115 @@
+{
+  "battleTypes": [
+    "COOPERATIVE"
+  ],
+  "constants": {
+    "killCount": 2,
+    "ships": [
+      "PASC004_St_Louis_1906",
+      "PJSD024_Wakatake_1923",
+      "PGSB103_Nassau"
+    ]
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [
+    [
+      "meKill",
+      [
+        [
+          "me",
+          "vehicleName",
+          "in",
+          "constant",
+          "ships"
+        ],
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "meKill",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "counter",
+          "a",
+          ">=",
+          "constant",
+          "killCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4151501744,
+  "index": "PCH136",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH136_BD2_HW2016",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "BD2_HW2016",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

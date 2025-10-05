@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3441274864,
+  "index": "PAUE814",
+  "name": "PAUE814_ENG_BLACK_BLACK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

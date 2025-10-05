@@ -1,0 +1,35 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 6000,
+  "custom": {},
+  "hidden": false,
+  "id": 4250267568,
+  "index": "PCEU042",
+  "isTemplate": false,
+  "modifiers": {
+    "creditsFactor": 1.15,
+    "crewExpFactor": 2.15,
+    "expFactor": 2.15,
+    "freeExpFactor": 2.0
+  },
+  "name": "PCEU042_Multi_Fiji_Klingons",
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [
+      7
+    ],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 1,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Multiboost",
+    "type": "Exterior"
+  }
+}

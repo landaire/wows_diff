@@ -1,0 +1,29 @@
+{
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": 120000,
+  "costGold": -1,
+  "custom": {},
+  "flags": [
+    "india",
+    "delta"
+  ],
+  "group": 0,
+  "hidden": false,
+  "id": 4287459248,
+  "index": "PCEF007",
+  "isTemplate": false,
+  "modifiers": {
+    "planeRegenerationRate": 1.05,
+    "regenerationHPSpeed": 1.2
+  },
+  "name": "PCEF007_ID_SignalFlag",
+  "sortOrder": 9,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Flags",
+    "type": "Exterior"
+  }
+}

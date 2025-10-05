@@ -1,0 +1,39 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "camo_scandinavian_1",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 3750,
+  "custom": {},
+  "hidden": false,
+  "id": 3966267184,
+  "index": "PGEP313",
+  "isTemplate": false,
+  "name": "PGEP313_Odin_Viking",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

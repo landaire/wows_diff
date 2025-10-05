@@ -1,0 +1,13 @@
+{
+  "costCR": 500000,
+  "costXP": 0,
+  "id": 3542986192,
+  "index": "PRUE717",
+  "name": "PRUE717_CV8_ENG",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

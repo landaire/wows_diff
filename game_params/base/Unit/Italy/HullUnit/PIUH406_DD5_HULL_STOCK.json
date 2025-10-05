@@ -1,0 +1,13 @@
+{
+  "costCR": 201000,
+  "costXP": 0,
+  "id": 3868995312,
+  "index": "PIUH406",
+  "name": "PIUH406_DD5_HULL_STOCK",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

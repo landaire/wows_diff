@@ -1,0 +1,116 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "filterKeyShips": {
+      "roles": [
+        "PCH220_EV1APR19_TORPEDO2"
+      ]
+    },
+    "timeInterval": 10.0
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [
+    [
+      "meKill",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "=",
+          "counter",
+          "b"
+        ],
+        [
+          "counter",
+          "b",
+          "=",
+          "environment",
+          "time"
+        ]
+      ]
+    ],
+    [
+      "meKill",
+      [
+        [
+          "me",
+          "appropriate",
+          ":",
+          "constant",
+          "filterKeyShips"
+        ],
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "subInstruction",
+          [
+            "environment",
+            "time",
+            "-",
+            "counter",
+            "a"
+          ],
+          "<=",
+          "constant",
+          "timeInterval"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4063421360,
+  "index": "PCH220",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH220_EV1APR19_TORPEDO2",
+  "onePerBattle": false,
+  "shipCategories": [
+    "event"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "EV1APR19_TORPEDO2",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_SPACE_TORPEDOBEAT",
+  "uiType": "service_medal"
+}

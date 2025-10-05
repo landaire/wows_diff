@@ -1,0 +1,28 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "steam2_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3964530608,
+  "index": "PCEE315",
+  "isTemplate": false,
+  "name": "PCEE315_Steam2_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other",
+    "catalogueHidden_CN",
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "backgroundIconID": 87,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED,CLAN\" />",
+    "<isTotalXP count=\"50000\" />"
+  ],
+  "costUnlock": 15,
+  "custom": {
+    "CN": {
+      "rewards": [
+        "<Crew shipId=\"PASC001_Erie_1936\" level=\"15\" crewId=\"PAW102_Halsey\"/>",
+        "<Add type=\"CREDITS\" count=\"200000\"/>",
+        "<Add type=\"ELITE_XP\" count=\"50000\"/>"
+      ]
+    }
+  },
+  "id": 3718660016,
+  "index": "PCQT549",
+  "isSingleBattle": false,
+  "lootStars": 0,
+  "name": "PCQT549_Key",
+  "rewards": [
+    "<Crew shipId=\"PASC001_Erie_1936\" level=\"15\" crewId=\"PAW102_Halsey\"/>",
+    "<Add type=\"CREDITS\" count=\"200000\"/>",
+    "<Add type=\"ELITE_XP\" count=\"50000\"/>",
+    "<DogTag idx=\"PCNP008\"/> "
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT549_1",
+    "isTotalXP",
+    "IDS_TASKRESTRICTION_PVPCOOPRANKEDCLAN"
+  ],
+  "unlockMissions": []
+}

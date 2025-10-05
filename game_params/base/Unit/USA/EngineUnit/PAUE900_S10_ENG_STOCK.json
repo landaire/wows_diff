@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 0,
+  "id": 3351097328,
+  "index": "PAUE900",
+  "name": "PAUE900_S10_ENG_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

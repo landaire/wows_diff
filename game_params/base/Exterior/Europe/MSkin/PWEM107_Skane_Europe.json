@@ -1,0 +1,70 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "camo_SwedenArc_style",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 3000,
+  "custom": {},
+  "effects": {},
+  "filterIsWhitelist": false,
+  "hidden": true,
+  "hullConfig": {},
+  "id": 4182371632,
+  "index": "PWEM107",
+  "isTemplate": false,
+  "isTileflage": false,
+  "linkedCamouflage": null,
+  "miscFilter": [],
+  "miscSubTypeSpecification": {},
+  "name": "PWEM107_Skane_Europe",
+  "nodesConfig": {},
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "decorative",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "",
+  "peculiarityModels": {},
+  "planesConfig": {},
+  "renderSetsStates": {
+    "@Bow_wire": true,
+    "@MidBack_wire": true,
+    "@MidFront_wire": true,
+    "@Stern_wire": true
+  },
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PWSD107_Skane"
+    ],
+    "subtype": []
+  },
+  "sortOrder": 100,
+  "styleEffects": {},
+  "styleMiscs": [
+    "YMS004_YHXL_L_1",
+    "YMS005_YHXR_L_1",
+    "YMS030_YHAM_M_1",
+    "YMS033_YHAM_S_1"
+  ],
+  "subTypes": [
+    "SwedenArc"
+  ],
+  "tags": [],
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "MSkin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

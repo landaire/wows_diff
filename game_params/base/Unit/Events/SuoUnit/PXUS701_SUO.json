@@ -1,0 +1,13 @@
+{
+  "costCR": 600000,
+  "costXP": 0,
+  "id": 3559304464,
+  "index": "PXUS701",
+  "name": "PXUS701_SUO",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4293056496,
+  "index": "PAK001",
+  "maxLevel": 2,
+  "name": "PAK001_United_States",
+  "personalCardBonus": {
+    "clan": "PCOK011_Balldmg_DplanerocketX2"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PASA111_United_States"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

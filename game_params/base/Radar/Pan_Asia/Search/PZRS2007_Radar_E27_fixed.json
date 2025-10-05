@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2189867216,
+  "index": "PZRS2007",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/radar/search/ZRS2007_Radar_E27_fixed/ZRS2007_Radar_E27_fixed.model",
+  "name": "PZRS2007_Radar_E27_fixed",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

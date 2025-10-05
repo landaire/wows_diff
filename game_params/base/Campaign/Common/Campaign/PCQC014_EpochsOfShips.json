@@ -1,0 +1,26 @@
+{
+  "allMissions": [
+    "PCQM091_Ships",
+    "PCQM092_Ships",
+    "PCQM093_Ships",
+    "PCQM094_Ships",
+    "PCQM095_Ships"
+  ],
+  "custom": {},
+  "enabled": true,
+  "endTime": "",
+  "hidden": false,
+  "id": 4280205232,
+  "index": "PCQC014",
+  "isNarrative": true,
+  "mainTask": "PCQT693_Ships_Key",
+  "name": "PCQC014_EpochsOfShips",
+  "startTime": "",
+  "token": "",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Campaign",
+    "type": "Campaign"
+  },
+  "uiNumber": 4
+}

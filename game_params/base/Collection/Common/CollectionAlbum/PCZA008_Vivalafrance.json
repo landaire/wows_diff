@@ -1,0 +1,59 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 3,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL023_VivaLaFr_Coll_Free",
+    "PCL024_VivaLaFr_Coll_Prem"
+  ],
+  "custom": {},
+  "description": "IDS_DESCRIPTION_PCZA008_VIVALAFRANCE",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4286553008,
+  "index": "PCZA008",
+  "isPuzzle": false,
+  "name": "PCZA008_Vivalafrance",
+  "rewards": [
+    "<Crew shipId=\"PFSC101_Bougainville\" level=\"10\" crewId=\"PFW101_France_Cap\" count=\"1\"/>",
+    "<Item idx=\"PCEE181_Viva_La_France_Flag\" count=\"1\" />"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_VIVALAFRANCESUBCOLLECTION_NAME",
+      "'aa",
+      [
+        "<Item idx=\"PCEM073_Tile_Vive_la_France\" count=\"1\" />",
+        "<Item idx=\"PCEA012_CRboost_2\" count=\"10\" />",
+        "<Item idx=\"PCEA021_TotalXPboost_1\" count=\"10\" />"
+      ]
+    ],
+    [
+      "IDS_SECOND_VIVALAFRANCESUBCOLLECTION_NAME",
+      "'bb",
+      [
+        "<Item idx=\"PCEM050_Tile_Valentine\" count=\"1\" />",
+        "<Item idx=\"PCEA021_TotalXPboost_1\" count=\"10\" />",
+        "<Item idx=\"PCEA032_CrewXPboost_2\" count=\"10\" />"
+      ]
+    ],
+    [
+      "IDS_THIRD_VIVALAFRANCESUBCOLLECTION_NAME",
+      "'cc",
+      [
+        "<Item idx=\"PCEM052_Tile_St_Patrick\" count=\"1\" />",
+        "<Item idx=\"PCEA021_TotalXPboost_1\" count=\"10\" />",
+        "<Item idx=\"PCEA032_CrewXPboost_2\" count=\"10\" />"
+      ]
+    ]
+  ],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

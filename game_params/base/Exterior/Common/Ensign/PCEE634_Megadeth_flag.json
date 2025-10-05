@@ -1,0 +1,28 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "megadeth_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3630034864,
+  "index": "PCEE634",
+  "isTemplate": false,
+  "name": "PCEE634_Megadeth_flag",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "megadeth",
+    "other",
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": 96000,
+  "costGold": -1,
+  "custom": {},
+  "flags": [
+    "india",
+    "yankee"
+  ],
+  "group": 0,
+  "hidden": false,
+  "id": 4286410672,
+  "index": "PCEF008",
+  "isTemplate": false,
+  "modifiers": {
+    "burnTime": 0.8
+  },
+  "name": "PCEF008_IY_SignalFlag",
+  "sortOrder": 11,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Flags",
+    "type": "Exterior"
+  }
+}

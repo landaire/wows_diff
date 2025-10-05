@@ -1,0 +1,35 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 1,
+  "compensationCR": 0,
+  "containersID": [],
+  "custom": {},
+  "description": "IDS_DESCRIPTION_PCZA038_FROM_THE_BOTTOM",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4255095728,
+  "index": "PCZA038",
+  "isPuzzle": false,
+  "name": "PCZA038_From_The_Bottom",
+  "rewards": [
+    "<Crew shipId=\"PASC001_Erie_1936\" level=\"10\" crewId=\"PAW464_Ernest_E_Evans\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_FROM_THE_BOTTOM",
+      "aa",
+      [
+        "<Item idx=\"PCEE821_bottom_johnston_flag\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "camouflage": "camo_british_arc",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 3000,
+  "custom": {},
+  "hidden": false,
+  "id": 4180176848,
+  "index": "PBEP109",
+  "isTemplate": false,
+  "name": "PBEP109_Jutland_British",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

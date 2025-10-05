@@ -1,0 +1,44 @@
+{
+  "allTasks": [
+    "PCQT381",
+    "PCQT382",
+    "PCQT383",
+    "PCQT384",
+    "PCQT385",
+    "PCQT386",
+    "PCQT387",
+    "PCQT388",
+    "PCQT389",
+    "PCQT390_Key"
+  ],
+  "custom": {
+    "ASIA": {
+      "startTime": "23-08-2017 22:00:01"
+    },
+    "EU": {
+      "startTime": "24-08-2017 06:00:01"
+    },
+    "NA": {
+      "startTime": "23-08-2017 11:00:01"
+    },
+    "RU": {
+      "startTime": "23-08-2017 02:00:01"
+    }
+  },
+  "id": 4240031664,
+  "index": "PCQM052",
+  "isStart": false,
+  "mainTask": "PCQT390_Key",
+  "mapPosition": [
+    0.2,
+    0.6
+  ],
+  "name": "PCQM052",
+  "startTime": "",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Mission",
+    "type": "Campaign"
+  },
+  "uiNumber": "2"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3551506416,
+  "index": "PAUA709",
+  "name": "PAUA709_ART_MONTPELIER",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

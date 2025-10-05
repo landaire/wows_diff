@@ -1,0 +1,90 @@
+{
+  "battleTypes": [
+    "PVP",
+    "PVE",
+    "RANKED"
+  ],
+  "constants": {
+    "moneyCount": 1000000
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [
+    [
+      "moneyEarned",
+      [],
+      [
+        [
+          "counter",
+          "globalA",
+          "+=",
+          "moneyEarned",
+          "credits"
+        ]
+      ]
+    ],
+    [
+      "moneyEarned",
+      [
+        [
+          "counter",
+          "globalA",
+          ">=",
+          "constant",
+          "moneyCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4235387824,
+  "index": "PCH056",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH056_F_Snatch",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "BD2016_SNATCH",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

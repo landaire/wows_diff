@@ -1,0 +1,66 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 4,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL160_CNCap120_Coll_Free",
+    "PCL161_CNCap120_Coll_Prem"
+  ],
+  "custom": {},
+  "description": "IDS_DESCRIPTION_PCZA032_PA_SAZHENBING",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4261387184,
+  "index": "PCZA032",
+  "isPuzzle": false,
+  "name": "PCZA032_PA_SAZHENBING",
+  "rewards": [
+    "<Crew shipId=\"PZSC101_Cheng_An\" level=\"10\" crewId=\"PZW426_Sa_Zhenbing\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_PA_SAZHENBING_NAME",
+      "'aa",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_PA_SAZHENBING_NAME",
+      "'bb",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_PA_SAZHENBING_NAME",
+      "'cc",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_PA_SAZHENBING_NAME",
+      "'dd",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FIFTH_PA_SAZHENBING_NAME",
+      "'ee",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

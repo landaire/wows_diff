@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3550326736,
+  "index": "PBUE710",
+  "name": "PBUE710_ENG_HAMPSHIRE",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

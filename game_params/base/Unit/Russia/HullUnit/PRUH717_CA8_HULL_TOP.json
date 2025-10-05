@@ -1,0 +1,13 @@
+{
+  "costCR": 2100000,
+  "costXP": 29000,
+  "id": 3542887888,
+  "index": "PRUH717",
+  "name": "PRUH717_CA8_HULL_TOP",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

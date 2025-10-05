@@ -1,0 +1,13 @@
+{
+  "costCR": 900000,
+  "costXP": 12500,
+  "id": 3757846224,
+  "index": "PJUH512",
+  "name": "PJUH512_Fuso_1943",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

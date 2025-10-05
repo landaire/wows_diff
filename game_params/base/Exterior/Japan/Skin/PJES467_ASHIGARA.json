@@ -1,0 +1,373 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "camouflage": "",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 3500,
+  "custom": {},
+  "effects": {
+    "A_Hull": {
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_medium.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_small_Arpeggio.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_medium_Arpeggio.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_big_Arpeggio.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_medium_Arpeggio.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_medium_Arpeggio.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_medium_Arpeggio.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_medium_Arpeggio.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_3",
+          "particles/vehicles/Fire_side_medium_Arpeggio.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_small_Arpeggio.xml"
+        ]
+      ],
+      "fireResistance": [],
+      "fixDeluge": [
+        [
+          "HP_FX_Flood_water_left",
+          "particles/vehicles/Flood_deluge_up_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_2",
+          "particles/vehicles/Flood_deluge_up_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_3",
+          "particles/vehicles/Flood_deluge_up_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_4",
+          "particles/vehicles/Flood_deluge_up_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right",
+          "particles/vehicles/Flood_deluge_up_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_2",
+          "particles/vehicles/Flood_deluge_up_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_3",
+          "particles/vehicles/Flood_deluge_up_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_4",
+          "particles/vehicles/Flood_deluge_up_small.xml"
+        ]
+      ],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_medium.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_exhaust_1",
+          "particles/vehicles/Flood_steam_exhaust_big_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_exhaust_2",
+          "particles/vehicles/Flood_steam_exhaust_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_medium.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/Horn.xml"
+        ],
+        [
+          "HP_FX_Smoke_3",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Flood_water_left",
+          "particles/vehicles/idlePort_Flood_deluge_up_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_2",
+          "particles/vehicles/idlePort_Flood_deluge_up_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_3",
+          "particles/vehicles/idlePort_Flood_deluge_up_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_4",
+          "particles/vehicles/idlePort_Flood_deluge_up_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right",
+          "particles/vehicles/idlePort_Flood_deluge_up_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_2",
+          "particles/vehicles/idlePort_Flood_deluge_up_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_3",
+          "particles/vehicles/idlePort_Flood_deluge_up_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_4",
+          "particles/vehicles/idlePort_Flood_deluge_up_small.xml"
+        ],
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_small.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/idlePort_RunSmoke_medium.xml"
+        ],
+        [
+          "HP_FX_Smoke_3",
+          "particles/vehicles/idlePort_RunSmoke_medium.xml"
+        ]
+      ],
+      "repairLight": [],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_small_Arpeggio.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/RunSmoke_medium_Arpeggio.xml"
+        ],
+        [
+          "HP_FX_Smoke_3",
+          "particles/vehicles/RunSmoke_medium_Arpeggio.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceForward_screw_right_center.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": true,
+  "hullConfig": {},
+  "id": 3804688080,
+  "index": "PJES467",
+  "isTemplate": false,
+  "name": "PJES467_ASHIGARA",
+  "nodesConfig": {},
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "arpeggio",
+  "peculiarityEffects": {
+    "particles/guns/GK_Purging.xml": "particles/guns/GK_Purging_Arpeggio.xml",
+    "particles/guns/GK_Shot.xml": "particles/guns/GK_Shot_Arpeggio.xml",
+    "particles/guns/PMK_Purging.xml": "particles/guns/PMK_Purging_Arpeggio.xml",
+    "particles/guns/PMK_Shot.xml": "particles/guns/PMK_Shot_Arpeggio.xml",
+    "particles/guns/TORP_Explo_Ground.xml": "particles/guns/TORP_Explo_Ground_ARP.xml",
+    "particles/guns/TORP_Explo_Ship.xml": "particles/guns/TORP_Explo_Ship_ARP.xml",
+    "particles/guns/TORP_Explo_Ship_1.xml": "particles/guns/TORP_Explo_Ship_ARP_1.xml",
+    "particles/guns/TORP_Explo_Ship_2.xml": "particles/guns/TORP_Explo_Ship_ARP_2.xml",
+    "particles/guns/TORP_Explo_Ship_3.xml": "particles/guns/TORP_Explo_Ship_ARP_3.xml",
+    "particles/vehicles/AirCarrier_death.xml": "particles/vehicles/AirCarrier_death_Arpeggio.xml",
+    "particles/vehicles/Battleship_death.xml": "particles/vehicles/Battleship_death_Arpeggio.xml",
+    "particles/vehicles/Cruiser_death.xml": "particles/vehicles/Cruiser_death_Arpeggio.xml",
+    "particles/vehicles/Destroyer_death.xml": "particles/vehicles/Destroyer_death_Arpeggio.xml"
+  },
+  "peculiarityFlag": "",
+  "peculiarityModels": {
+    "content/gameplay/japan/aircraft/fighter/JAF017_Mitsubishi_A6M2_N/JAF017_Mitsubishi_A6M2_N.model": "content/gameplay/japan/aircraft/scout/JAS912_Kawanishi_E15K1_Ashigara/JAS912_Kawanishi_E15K1_Ashigara.model",
+    "content/gameplay/japan/director/JD004_Director_Type_94_1/JD004_Director_Type_94_1.model": "content/gameplay/japan/director/JD506_Director_Type_94_1_Arpeggio/JD506_Director_Type_94_1_Arpeggio.model",
+    "content/gameplay/japan/director/JD008_Director_Type_91/JD008_Director_Type_91.model": "content/gameplay/japan/director/JD509_Director_Type_91_Arpeggio/JD509_Director_Type_91_Arpeggio.model",
+    "content/gameplay/japan/finder/JF021_Rangefinder_6m/JF021_Rangefinder_6m.model": "content/gameplay/japan/finder/JF523_Rangefinder_6m_Arpeggio/JF523_Rangefinder_6m_Arpeggio.model",
+    "content/gameplay/japan/finder/JF063_RF_1_5m_Nav/JF063_RF_1_5m_Nav.model": "content/gameplay/japan/finder/JF565_RF_1_5m_Nav_Arpeggio/JF565_RF_1_5m_Nav_Arpeggio.model",
+    "content/gameplay/japan/gun/main/JGM063_203mm50_Type_C_RF_mod/JGM063_203mm50_Type_C_RF_mod.model": "content/gameplay/japan/gun/main/JGM567_203mm50_Type_C_RF_mod_Arpeggio/JGM567_203mm50_Type_C_RF_mod_Arpeggio.model",
+    "content/gameplay/japan/gun/main/JGM063_203mm50_Type_C_RF_mod/JGM063_203mm50_Type_C_RF_mod_dead.model": "content/gameplay/japan/gun/main/JGM567_203mm50_Type_C_RF_mod_Arpeggio/JGM567_203mm50_Type_C_RF_mod_Arpeggio_dead.model",
+    "content/gameplay/japan/gun/main/JGM064_203mm50_Type_C_mod/JGM064_203mm50_Type_C_mod.model": "content/gameplay/japan/gun/main/JGM568_203mm50_Type_C_mod_Arpeggio/JGM568_203mm50_Type_C_mod_Arpeggio.model",
+    "content/gameplay/japan/gun/main/JGM064_203mm50_Type_C_mod/JGM064_203mm50_Type_C_mod_dead.model": "content/gameplay/japan/gun/main/JGM568_203mm50_Type_C_mod_Arpeggio/JGM568_203mm50_Type_C_mod_Arpeggio_dead.model",
+    "content/gameplay/japan/ship/cruiser/JSC008_Myoko_1945/JSC008_Myoko_1945.model": "content/gameplay/japan/ship/cruiser/JSC503_Ashigara_1945_Arpeggio/JSC503_Ashigara_1945_Arpeggio.model"
+  },
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHidden",
+    "catalogueHidden_CN"
+  ],
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

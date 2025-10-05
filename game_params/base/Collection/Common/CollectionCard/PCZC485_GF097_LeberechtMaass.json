@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA022_GF097",
+  "compensationCR": 0,
+  "description": "IDS_PCZC485_GF097_LEBERECHTMAASS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3786316720,
+  "index": "PCZC485",
+  "name": "PCZC485_GF097_LeberechtMaass",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

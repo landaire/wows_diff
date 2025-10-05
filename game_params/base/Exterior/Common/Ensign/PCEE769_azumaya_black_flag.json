@@ -1,0 +1,28 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "azumaya_black_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3488477104,
+  "index": "PCEE769",
+  "isTemplate": false,
+  "name": "PCEE769_azumaya_black_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "ship",
+    "ingameevent",
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

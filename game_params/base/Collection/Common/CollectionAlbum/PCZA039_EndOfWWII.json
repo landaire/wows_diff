@@ -1,0 +1,56 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 1,
+  "compensationCR": 0,
+  "containersID": [],
+  "custom": {},
+  "description": "IDS_DESCRIPTION_PCZA039_ENDOFWWII",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4254047152,
+  "index": "PCZA039",
+  "isPuzzle": false,
+  "name": "PCZA039_EndOfWWII",
+  "rewards": [
+    "<Add type=\"WOWS_PREM\" count=\"3\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_PCZA039_ENDOFWWII_NAME",
+      "'aa",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_PCZA039_ENDOFWWII_NAME",
+      "'bb",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_PCZA039_ENDOFWWII_NAME",
+      "'cc",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_PCZA039_ENDOFWWII_NAME",
+      "'dd",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

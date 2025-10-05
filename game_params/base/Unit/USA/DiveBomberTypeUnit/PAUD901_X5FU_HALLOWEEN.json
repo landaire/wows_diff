@@ -1,0 +1,13 @@
+{
+  "costCR": 1720000,
+  "costXP": 21000,
+  "id": 3350081520,
+  "index": "PAUD901",
+  "name": "PAUD901_X5FU_HALLOWEEN",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

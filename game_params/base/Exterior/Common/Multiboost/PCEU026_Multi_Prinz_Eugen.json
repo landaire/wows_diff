@@ -1,0 +1,35 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 5000,
+  "custom": {},
+  "hidden": false,
+  "id": 4267044784,
+  "index": "PCEU026",
+  "isTemplate": false,
+  "modifiers": {
+    "creditsFactor": 1.05,
+    "crewExpFactor": 2.0,
+    "expFactor": 1.5,
+    "freeExpFactor": 1.5
+  },
+  "name": "PCEU026_Multi_Prinz_Eugen",
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [
+      8
+    ],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 1,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Multiboost",
+    "type": "Exterior"
+  }
+}

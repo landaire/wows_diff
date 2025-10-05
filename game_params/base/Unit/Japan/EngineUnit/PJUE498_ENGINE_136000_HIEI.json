@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3772624592,
+  "index": "PJUE498",
+  "name": "PJUE498_ENGINE_136000_HIEI",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

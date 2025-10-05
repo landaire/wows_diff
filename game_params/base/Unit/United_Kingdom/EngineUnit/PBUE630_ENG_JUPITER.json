@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3634212816,
+  "index": "PBUE630",
+  "name": "PBUE630_ENG_JUPITER",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

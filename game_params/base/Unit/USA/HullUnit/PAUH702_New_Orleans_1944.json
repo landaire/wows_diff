@@ -1,0 +1,13 @@
+{
+  "costCR": 2100000,
+  "costXP": 28000,
+  "id": 3558617072,
+  "index": "PAUH702",
+  "name": "PAUH702_New_Orleans_1944",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

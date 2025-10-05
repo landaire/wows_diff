@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC302_AZURLANE_MONTPELIER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3978206128,
+  "index": "PCZC302",
+  "name": "PCZC302_AzurLane_Montpelier",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

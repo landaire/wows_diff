@@ -1,0 +1,142 @@
+{
+  "HitLocationPhotonTorpedoesGun": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 1.0,
+    "autoRepairTime": 15,
+    "autoRepairTimeMin": 15,
+    "brokenRepairHealthCoefficient": 0.5,
+    "brokenRepairTime": 45.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": false,
+    "critProb": [
+      0.25,
+      0.25
+    ],
+    "critProbHP": [
+      1.0,
+      0.0
+    ],
+    "damageEffects": [],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "photonTorpedoes_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 1200.0,
+    "moduleCritCoeffCR": 0.0,
+    "moduleCritCoeffXP": 0.0,
+    "parentHL": null,
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 0.5,
+    "splashBoxes": [],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 0.5,
+    "volumeCoeff": 1.0
+  },
+  "HitLocationTorpedo": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 1.0,
+    "autoRepairTime": 15,
+    "autoRepairTimeMin": 15,
+    "brokenRepairHealthCoefficient": 0.5,
+    "brokenRepairTime": 45.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": false,
+    "critProb": [
+      0.0,
+      0.0
+    ],
+    "critProbHP": [
+      1.0,
+      0.0
+    ],
+    "damageEffects": [],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "torpedo_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 100000.0,
+    "moduleCritCoeffCR": 0.0,
+    "moduleCritCoeffXP": 0.0,
+    "parentHL": null,
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 0.5,
+    "splashBoxes": [],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 0.5,
+    "volumeCoeff": 1.0
+  },
+  "additionalAimSector": [
+    -0.0,
+    0.0
+  ],
+  "ammoList": [
+    "PXPT057_PT_GNEISENAU_VULKANS_3"
+  ],
+  "ammoSwitchCoeff": 0.2,
+  "armor": {
+    "65580": 6.0
+  },
+  "barrelDiameter": 0.533,
+  "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+  "customMiscs": {},
+  "damagedEffect": "particles/guns/Gun_Broken_vsmall.xml",
+  "deadMesh": "content/gameplay/germany/gun/torpedo/GGT3071_380mm_SKC_34_Star_Trek/GGT3071_380mm_SKC_34_Star_Trek_dead.model",
+  "deadZone": [],
+  "horizSector": [
+    0.0,
+    0.0
+  ],
+  "id": 4227228944,
+  "index": "PXGT064",
+  "lensEffect": "",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/gun/torpedo/GGT3071_380mm_SKC_34_Star_Trek/GGT3071_380mm_SKC_34_Star_Trek.model",
+  "name": "PXGT064_PT_GNEISENAU_VULKANS_3",
+  "numAmmos": 1000,
+  "numBarrels": 4,
+  "numShots": 4,
+  "position": [
+    0,
+    0
+  ],
+  "purgingEffect": "particles/Empty_FX.xml",
+  "reloadBoostEffect": "particles/guns/Torpedo_Reload.xml",
+  "rotationSpeed": [
+    25.0,
+    25.0
+  ],
+  "shootSector": [
+    0.0,
+    0.0
+  ],
+  "shotDelay": 90.0,
+  "shotEffect": "particles/StarTrek_Photon_Torpedo_Shot_Blue.xml",
+  "shotEffectCap": "particles/Empty_FX.xml",
+  "smallGun": null,
+  "timeBetweenShots": 0.85,
+  "timeToChangeAngle": 1,
+  "timeToChangeSpeed": 1,
+  "torpedoAngles": [
+    1.5,
+    2.4,
+    10
+  ],
+  "typeinfo": {
+    "nation": "Events",
+    "species": "Torpedo",
+    "type": "Gun"
+  },
+  "vertSector": [
+    0.0,
+    1.0
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3660236720,
+  "index": "PCOK605",
+  "level_1": {
+    "burnProb": 0.7,
+    "vulnerabilityMain": 0.85
+  },
+  "level_2": {
+    "burnProb": 0.7,
+    "vulnerabilityMain": 0.85
+  },
+  "name": "PCOK605_CLAN_CA_Kite",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

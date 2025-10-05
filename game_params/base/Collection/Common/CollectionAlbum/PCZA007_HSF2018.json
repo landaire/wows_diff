@@ -1,0 +1,74 @@
+{
+  "background": null,
+  "canCharge": false,
+  "cardCost": 5,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL022_HSF18_Coll"
+  ],
+  "custom": {},
+  "description": "IDS_DESCRIPTION_PCZA007_HSF2018",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4287601584,
+  "index": "PCZA007",
+  "isPuzzle": false,
+  "name": "PCZA007_HSF2018",
+  "rewards": [
+    "<Permoflage shipId=\"PJSB018_Yamato_1944\" idx=\"PJES310_Yamato_HSF\" onlySilver=\"0\" count=\"1\"/>",
+    "<Multiboost shipId=\"PJSB018_Yamato_1944\" idx=\"PCEU010_Multi_std10\" compensationType=\"GOLD\" compensationValue=\"0\" count=\"1\"/>",
+    "<Item idx=\"PCEE173_Kure_Maritime_Flag\" count=\"1\" />"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_HSF2018SUBCOLLECTION_NAME",
+      "'aa",
+      [
+        "<Item idx=\"PCEE045_Yokosuka_Marine_School\" count=\"1\" />"
+      ]
+    ],
+    [
+      "IDS_SECOND_HSF2018SUBCOLLECTION_NAME",
+      "'bb",
+      [
+        "<Item idx=\"PCEE175_Weapons_Department_Flag\" count=\"1\" />"
+      ]
+    ],
+    [
+      "IDS_THIRD_HSF2018SUBCOLLECTION_NAME",
+      "'cc",
+      [
+        "<Item idx=\"PCEE176_Navigation_Department_Flag\" count=\"1\" />"
+      ]
+    ],
+    [
+      "IDS_FOURTH_HSF2018SUBCOLLECTION_NAME",
+      "'dd",
+      [
+        "<Item idx=\"PCEE177_Engineering_Department_Flag\" count=\"1\" />"
+      ]
+    ],
+    [
+      "IDS_FIFTH_HSF2018SUBCOLLECTION_NAME",
+      "'ee",
+      [
+        "<Item idx=\"PCEE178_Logistics_Department_Flag\" count=\"1\" />"
+      ]
+    ],
+    [
+      "IDS_SIXTH_HSF2018SUBCOLLECTION_NAME",
+      "'ff",
+      [
+        "<Item idx=\"PCEE174_HSF_Musashi_Flag\" count=\"1\" />"
+      ]
+    ]
+  ],
+  "subscribeType": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

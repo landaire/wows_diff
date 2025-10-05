@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3350048048,
+  "index": "PWUE901",
+  "name": "PWUE901_ENG_FRIESLAND",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

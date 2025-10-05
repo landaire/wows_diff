@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4278383056,
+  "index": "PRD015",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/director/RD015_1NM_Low_Angle_night_dir/RD015_1NM_Low_Angle_night_dir.model",
+  "name": "PRD015_1NM_Low_Angle_night_dir",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Director"
+  }
+}

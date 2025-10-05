@@ -1,0 +1,29 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "ba_zarya_svobody_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3400396720,
+  "index": "PCEE853",
+  "isTemplate": false,
+  "name": "PCEE853_ba_zarya_svobody_flag",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "anime",
+    "catalogueHidden_CN",
+    "catalogueHiddenIfMissing",
+    "blue archive"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

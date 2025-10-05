@@ -1,0 +1,121 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "reconnaissanceSquad",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "climbAngle": 55,
+      "descIDs": "",
+      "flyAwayTime": 6.0,
+      "iconIDs": "",
+      "onlyAttackVisibleTargets": true,
+      "patrolRadius": 3500.0,
+      "planeName": "PAAD998_CONCORD_BRIDGE",
+      "pursuitRadius": 3500.0,
+      "searchForEnemyRadius": 3500.0,
+      "specialSoundID": "Default",
+      "targetBuildings": false,
+      "timeFromHeaven": 3.0,
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 10.0,
+    "tacticalParams": {
+      "aimRange": 100.0,
+      "usageType": "position",
+      "workRange": 15000.0
+    },
+    "titleIDs": "",
+    "workTime": 10.0
+  },
+  "Operation_3": {
+    "availableBuoyancyStates": [],
+    "consumableType": "reconnaissanceSquad",
+    "descIDs": "PXY604_ReconnaissanceSquad_operation_3",
+    "group": "ship",
+    "iconIDs": "PXY604_ReconnaissanceSquad_operation_3",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "climbAngle": 55,
+      "descIDs": "",
+      "flyAwayTime": 4.0,
+      "iconIDs": "",
+      "onlyAttackVisibleTargets": true,
+      "patrolRadius": 3500.0,
+      "planeName": "PAAD996_Enterprise_Star_Trek",
+      "pursuitRadius": 3500.0,
+      "searchForEnemyRadius": 3500.0,
+      "specialSoundID": "Default",
+      "targetBuildings": false,
+      "timeFromHeaven": 2.0,
+      "titleIDs": ""
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "aimRange": 100.0,
+      "usageType": "position",
+      "workRange": 150000.0
+    },
+    "titleIDs": "PXY604_ReconnaissanceSquad_operation_3",
+    "workTime": 60.0
+  },
+  "Pinata2024": {
+    "availableBuoyancyStates": [],
+    "consumableType": "reconnaissanceSquad",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "SpecialSoundID": "Pinata_ReconSquad",
+      "climbAngle": 55,
+      "descIDs": "",
+      "flyAwayTime": 6.0,
+      "iconIDs": "",
+      "onlyAttackVisibleTargets": true,
+      "patrolRadius": 3500.0,
+      "planeName": "PAAD210_Midway_top",
+      "pursuitRadius": 3500.0,
+      "searchForEnemyRadius": 3500.0,
+      "specialSoundID": "Default",
+      "targetBuildings": false,
+      "timeFromHeaven": 3.0,
+      "titleIDs": ""
+    },
+    "numConsumables": 1,
+    "periodical": true,
+    "preparationTime": 60.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "aimRange": 100.0,
+      "usageType": "position",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 120.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 3660750096,
+  "index": "PXY604",
+  "name": "PXY604_ReconnaissanceSquad_AFD2024",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3764793168,
+  "index": "PFUT505",
+  "name": "PFUT505_C6_TORP_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

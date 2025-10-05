@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4289910224,
+  "index": "PRK004",
+  "maxLevel": 2,
+  "name": "PRK004_Admiral_Ushakov",
+  "personalCardBonus": {
+    "clan": "PCOK006_Balldmg_DAPdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PRSB111_Admiral_Ushakov"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

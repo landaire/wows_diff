@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 1,
+  "id": 3349949712,
+  "index": "PXUH901",
+  "name": "PXUH901_HULL_BOTS",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

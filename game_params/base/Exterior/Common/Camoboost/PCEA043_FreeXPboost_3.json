@@ -1,0 +1,27 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "boostType": "freeExpFactor",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": 100,
+  "custom": {},
+  "hidden": true,
+  "id": 4249874352,
+  "index": "PCEA043",
+  "isTemplate": false,
+  "modifiers": {
+    "freeExpFactor": 25.0
+  },
+  "name": "PCEA043_FreeXPboost_3",
+  "sortOrder": 3,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Camoboost",
+    "type": "Exterior"
+  }
+}

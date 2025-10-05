@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3664620912,
+  "index": "PUUE601",
+  "name": "PUUE601_ENG_YUKON",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

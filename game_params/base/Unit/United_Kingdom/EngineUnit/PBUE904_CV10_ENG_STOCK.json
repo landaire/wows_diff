@@ -1,0 +1,13 @@
+{
+  "costCR": 900000,
+  "costXP": 0,
+  "id": 3346902992,
+  "index": "PBUE904",
+  "name": "PBUE904_CV10_ENG_STOCK",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

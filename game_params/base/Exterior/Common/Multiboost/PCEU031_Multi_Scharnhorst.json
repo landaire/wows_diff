@@ -1,0 +1,35 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 3000,
+  "custom": {},
+  "hidden": false,
+  "id": 4261801904,
+  "index": "PCEU031",
+  "isTemplate": false,
+  "modifiers": {
+    "creditsFactor": 1.05,
+    "crewExpFactor": 2.0,
+    "expFactor": 1.5,
+    "freeExpFactor": 1.5
+  },
+  "name": "PCEU031_Multi_Scharnhorst",
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [
+      7
+    ],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 1,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Multiboost",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "HitLocationTorpedo": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 1.0,
+    "autoRepairTime": 15,
+    "autoRepairTimeMin": 15,
+    "brokenRepairHealthCoefficient": 0.5,
+    "brokenRepairTime": 45.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": true,
+    "critProb": [
+      0.25,
+      0.25
+    ],
+    "critProbHP": [
+      1.0,
+      0.0
+    ],
+    "damageEffects": [],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "torpedo_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 1200.0,
+    "moduleCritCoeffCR": 0.0,
+    "moduleCritCoeffXP": 0.0,
+    "parentHL": null,
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 0.5,
+    "splashBoxes": [],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 0.5,
+    "volumeCoeff": 1.0
+  },
+  "additionalAimSector": [
+    -0.0,
+    0.0
+  ],
+  "ammoList": [
+    "PRPT001_53_36"
+  ],
+  "ammoSwitchCoeff": 0.2,
+  "armor": {
+    "65580": 6.0
+  },
+  "barrelDiameter": 0.533,
+  "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+  "customMiscs": {},
+  "damagedEffect": "particles/guns/Gun_Broken_vvsmall.xml",
+  "deadMesh": "content/gameplay/russia/gun/torpedo/RGT160_533mm_39_U_Torpedo_Tubes_Triple/RGT160_533mm_39_U_Torpedo_Tubes_Triple_dead.model",
+  "deadZone": [],
+  "horizSector": [
+    0.0,
+    0.0
+  ],
+  "id": 4126565840,
+  "index": "PRGT160",
+  "lensEffect": "",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/gun/torpedo/RGT160_533mm_39_U_Torpedo_Tubes_Triple/RGT160_533mm_39_U_Torpedo_Tubes_Triple.model",
+  "name": "PRGT160_533mm_39_U_Torpedo_Tubes_Triple",
+  "numAmmos": 1000,
+  "numBarrels": 3,
+  "position": [
+    0,
+    0
+  ],
+  "purgingEffect": "particles/Empty_FX.xml",
+  "reloadBoostEffect": "particles/guns/Torpedo_Reload.xml",
+  "rotationSpeed": [
+    25.0,
+    25.0
+  ],
+  "shootSector": [
+    0.0,
+    0.0
+  ],
+  "shotDelay": 70.0,
+  "shotEffect": "particles/guns/torpedo.xml",
+  "shotEffectCap": "particles/Empty_FX.xml",
+  "smallGun": null,
+  "timeBetweenShots": 0.2,
+  "timeToChangeAngle": 1,
+  "timeToChangeSpeed": 1,
+  "torpedoAngles": [
+    3.6,
+    12.0
+  ],
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Torpedo",
+    "type": "Gun"
+  },
+  "vertSector": [
+    0.0,
+    1.0
+  ]
+}

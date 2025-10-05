@@ -1,0 +1,129 @@
+{
+  "battleTypes": [
+    "PVP"
+  ],
+  "constants": {
+    "damageRatio": 0.5
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "damage",
+      [
+        [
+          "attacker",
+          "inPrebattleDivision"
+        ],
+        [
+          "attacker",
+          "prebattleDivision",
+          "==",
+          "me",
+          "prebattleDivision"
+        ],
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "damage",
+          "value"
+        ]
+      ]
+    ],
+    [
+      "damage",
+      [
+        [
+          "attacker",
+          "inPrebattleDivision"
+        ],
+        [
+          "attacker",
+          "prebattleDivision",
+          "==",
+          "me",
+          "prebattleDivision"
+        ],
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "subInstruction",
+          [
+            "counter",
+            "a",
+            "/",
+            "me",
+            "enemyTeamHealth"
+          ],
+          ">=",
+          "constant",
+          "damageRatio"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 3912426416,
+  "index": "PCH364",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH364_MainCaliber_Squad",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "squad",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "MAIN_CALIBER_SQUAD",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_PVP_RANKED_SQUAD",
+  "uiType": "squad"
+}

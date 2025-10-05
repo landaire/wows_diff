@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3435113936,
+  "index": "PRUA820",
+  "name": "PRUA820_ART_KOZMA_MININ",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

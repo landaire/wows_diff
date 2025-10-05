@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4285716176,
+  "index": "PJK008",
+  "maxLevel": 2,
+  "name": "PJK008_Bungo",
+  "personalCardBonus": {
+    "clan": "PCOK602_CLAN_BB_Far"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PJSB210_Bungo"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

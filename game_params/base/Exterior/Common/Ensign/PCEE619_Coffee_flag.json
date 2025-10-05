@@ -1,0 +1,27 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "coffee_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3645763504,
+  "index": "PCEE619",
+  "isTemplate": false,
+  "name": "PCEE619_Coffee_flag",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other",
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

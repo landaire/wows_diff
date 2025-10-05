@@ -1,0 +1,42 @@
+{
+  "Default_TimeBased": {
+    "availableBuoyancyStates": [],
+    "capacityRegenCoeff": 0.0,
+    "consumableType": "scout",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 1,
+    "logic": {
+      "artilleryDistCoeff": 1.1,
+      "descIDs": "",
+      "iconIDs": "",
+      "modifiers": null,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "maxCapacity": 400.0,
+    "minWorkTime": 100.0,
+    "preparationTime": 0.0,
+    "reloadTime": 240.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": ""
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 4229078960,
+  "index": "PCY062",
+  "name": "PCY062_SpotterPremium_TimeBased",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Ability"
+  }
+}

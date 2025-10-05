@@ -1,0 +1,35 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 6000,
+  "custom": {},
+  "hidden": false,
+  "id": 4270190512,
+  "index": "PCEU023",
+  "isTemplate": false,
+  "modifiers": {
+    "creditsFactor": 1.15,
+    "crewExpFactor": 2.0,
+    "expFactor": 2.0,
+    "freeExpFactor": 5.0
+  },
+  "name": "PCEU023_Multi_Alabama",
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [
+      8
+    ],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 1,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Multiboost",
+    "type": "Exterior"
+  }
+}

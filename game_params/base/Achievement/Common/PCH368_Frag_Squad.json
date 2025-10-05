@@ -1,0 +1,129 @@
+{
+  "battleTypes": [
+    "PVP"
+  ],
+  "constants": {
+    "victimsCount": 2
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "dead",
+      [
+        [
+          "attacker",
+          "inPrebattleDivision"
+        ],
+        [
+          "attacker",
+          "prebattleDivision",
+          "==",
+          "me",
+          "prebattleDivision"
+        ],
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "attackerA",
+          "+=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "dead",
+      [
+        [
+          "attacker",
+          "inPrebattleDivision"
+        ],
+        [
+          "attacker",
+          "prebattleDivision",
+          "==",
+          "me",
+          "prebattleDivision"
+        ],
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "subInstruction",
+          [
+            "shipCountersA",
+            "moreThan",
+            ":",
+            "constant",
+            "victimsCount"
+          ],
+          "==",
+          "me",
+          "shipsInPrebattleDivision"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 3908232112,
+  "index": "PCH368",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH368_Frag_Squad",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "squad",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "FRAG_SQUAD",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_PVP_RANKED_SQUAD",
+  "uiType": "squad"
+}

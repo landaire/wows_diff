@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3256856272,
+  "index": "PJUA990",
+  "name": "PJUA990_ART_AZUR_SHIMAKAZE",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

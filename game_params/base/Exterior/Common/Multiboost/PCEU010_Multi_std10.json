@@ -1,0 +1,35 @@
+{
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 4800,
+  "custom": {},
+  "hidden": false,
+  "id": 4283822000,
+  "index": "PCEU010",
+  "isTemplate": false,
+  "modifiers": {
+    "creditsFactor": 1.5,
+    "crewExpFactor": 2.0,
+    "expFactor": 2.0,
+    "freeExpFactor": 2.0
+  },
+  "name": "PCEU010_Multi_std10",
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [
+      10
+    ],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 1,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Multiboost",
+    "type": "Exterior"
+  }
+}

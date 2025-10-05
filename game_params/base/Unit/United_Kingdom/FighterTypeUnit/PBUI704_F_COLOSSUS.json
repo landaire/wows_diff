@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3556487120,
+  "index": "PBUI704",
+  "name": "PBUI704_F_COLOSSUS",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

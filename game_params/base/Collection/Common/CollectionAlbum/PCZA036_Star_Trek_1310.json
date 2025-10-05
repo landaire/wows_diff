@@ -1,0 +1,56 @@
+{
+  "background": null,
+  "canCharge": false,
+  "cardCost": 1,
+  "compensationCR": 0,
+  "containersID": [],
+  "custom": {},
+  "description": "IDS_DESCRIPTION_PCZA036_Star_Trek_1310",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4257192880,
+  "index": "PCZA036",
+  "isPuzzle": false,
+  "name": "PCZA036_Star_Trek_1310",
+  "rewards": [
+    "<Item idx=\"PCEM182_Tile_Borg\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_STAR_TREK_1310_NAME",
+      "'aa",
+      [
+        "<DogTag idx=\"PCNP168\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_STAR_TREK_1310_NAME",
+      "'bb",
+      [
+        "<DogTag idx=\"PCNP174\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_STAR_TREK_1310_NAME",
+      "'cc",
+      [
+        "<DogTag idx=\"PCNP166\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_STAR_TREK_1310_NAME",
+      "'dd",
+      [
+        "<DogTag idx=\"PCNP167\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

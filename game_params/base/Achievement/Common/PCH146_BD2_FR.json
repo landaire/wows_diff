@@ -1,0 +1,180 @@
+{
+  "battleTypes": [
+    "PVP"
+  ],
+  "constants": {
+    "damageA": 35000.0,
+    "damageB": 15000.0,
+    "ships": [
+      "PFSC105_Emile_Bertin",
+      "PFSC106_La_Galissonniere",
+      "PFSC107_Algerie",
+      "PFSC108_Charles_Martel",
+      "PFSC109_Saint_Louis",
+      "PFSC110_Henri_IV"
+    ]
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [
+    [
+      "meAttack",
+      [
+        [
+          "me",
+          "vehicleName",
+          "in",
+          "constant",
+          "ships"
+        ],
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "subInstruction",
+          [
+            "damage",
+            "weaponType",
+            "==",
+            "weaponType",
+            "MAIN_AP"
+          ],
+          "or",
+          "subInstruction",
+          [
+            "damage",
+            "weaponType",
+            "==",
+            "weaponType",
+            "MAIN_HE"
+          ]
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "damage",
+          "value"
+        ]
+      ]
+    ],
+    [
+      "meAttack",
+      [
+        [
+          "me",
+          "vehicleName",
+          "in",
+          "constant",
+          "ships"
+        ],
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "damage",
+          "weaponType",
+          "==",
+          "weaponType",
+          "BURN"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "b",
+          "+=",
+          "damage",
+          "value"
+        ]
+      ]
+    ],
+    [
+      "meAttack",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "counter",
+          "a",
+          ">=",
+          "constant",
+          "damageA"
+        ],
+        [
+          "counter",
+          "b",
+          ">=",
+          "constant",
+          "damageB"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4141015984,
+  "index": "PCH146",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH146_BD2_FR",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "BD2_FR",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

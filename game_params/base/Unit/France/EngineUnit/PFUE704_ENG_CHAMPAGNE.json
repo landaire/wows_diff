@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3556618064,
+  "index": "PFUE704",
+  "name": "PFUE704_ENG_CHAMPAGNE",
+  "typeinfo": {
+    "nation": "France",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 115000,
+  "costXP": 1350,
+  "id": 4281052880,
+  "index": "PJUI013",
+  "name": "PJUI013_Nakajima_A2N2",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

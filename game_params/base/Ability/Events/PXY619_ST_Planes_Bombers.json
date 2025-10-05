@@ -1,0 +1,42 @@
+{
+  "StarTrek_Operation_3_PlaneBuff_Bombers": {
+    "availableBuoyancyStates": [],
+    "consumableType": "planeBuff",
+    "descIDs": "",
+    "group": "squadron",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "applyType": "personal",
+      "buff": "PXOM085_Planes_Bombers",
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 135.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 30.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 3645021456,
+  "index": "PXY619",
+  "name": "PXY619_ST_Planes_Bombers",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

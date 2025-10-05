@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3561762160,
+  "index": "PUUH699",
+  "name": "PUUH699_HULL_GAMBRA",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

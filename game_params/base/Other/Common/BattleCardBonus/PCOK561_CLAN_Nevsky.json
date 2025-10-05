@@ -1,0 +1,20 @@
+{
+  "id": 3706374064,
+  "index": "PCOK561",
+  "level_1": {
+    "citadelDamageMultiplierCSAP": 1.2,
+    "vulnerabilityAP": 0.9,
+    "vulnerabilityHE": 0.85
+  },
+  "level_2": {
+    "citadelDamageMultiplierCSAP": 1.2,
+    "vulnerabilityAP": 0.9,
+    "vulnerabilityHE": 0.85
+  },
+  "name": "PCOK561_CLAN_Nevsky",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

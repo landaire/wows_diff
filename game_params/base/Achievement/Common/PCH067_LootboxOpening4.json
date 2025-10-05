@@ -1,0 +1,184 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED"
+  ],
+  "constants": {
+    "dayCount": 5
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "lootboxOpened",
+      [
+        [
+          "counter",
+          "globalA",
+          "==",
+          "constant",
+          "0"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "globalC",
+          "=",
+          "environment",
+          "gameDay"
+        ],
+        [
+          "counter",
+          "globalA",
+          "=",
+          "constant",
+          "1"
+        ],
+        [
+          "sendstat",
+          "days_with_lootbox_opened",
+          "=",
+          "counter",
+          "globalA"
+        ]
+      ]
+    ],
+    [
+      "dockIdle",
+      [
+        [
+          "environment",
+          "gameDay",
+          ">",
+          "subInstruction",
+          [
+            "counter",
+            "globalC",
+            "+",
+            "environment",
+            "gameDayDuration"
+          ]
+        ]
+      ],
+      [
+        [
+          "counter",
+          "globalA",
+          "=",
+          "constant",
+          "0"
+        ],
+        [
+          "sendstat",
+          "days_with_lootbox_opened",
+          "=",
+          "counter",
+          "globalA"
+        ]
+      ]
+    ],
+    [
+      "lootboxOpened",
+      [
+        [
+          "environment",
+          "gameDay",
+          "==",
+          "subInstruction",
+          [
+            "counter",
+            "globalC",
+            "+",
+            "environment",
+            "gameDayDuration"
+          ]
+        ]
+      ],
+      [
+        [
+          "counter",
+          "globalC",
+          "=",
+          "environment",
+          "gameDay"
+        ],
+        [
+          "counter",
+          "globalA",
+          "+=",
+          "constant",
+          "1"
+        ],
+        [
+          "sendstat",
+          "days_with_lootbox_opened",
+          "=",
+          "counter",
+          "globalA"
+        ]
+      ]
+    ],
+    [
+      "lootboxOpened",
+      [
+        [
+          "counter",
+          "globalA",
+          ">=",
+          "constant",
+          "dayCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4223853488,
+  "index": "PCH067",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH067_LootboxOpening4",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": true,
+  "tags": [],
+  "type": "honorable",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "NO_DAY_WITHOUT_ADVENTURE_L",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "common"
+}

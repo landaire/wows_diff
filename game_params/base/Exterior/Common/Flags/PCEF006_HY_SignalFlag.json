@@ -1,0 +1,29 @@
+{
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": 12000,
+  "costGold": -1,
+  "custom": {},
+  "flags": [
+    "hotel",
+    "yankee"
+  ],
+  "group": 0,
+  "hidden": false,
+  "id": 4288507824,
+  "index": "PCEF006",
+  "isTemplate": false,
+  "modifiers": {
+    "collisionDamageApply": 1.5,
+    "collisionDamageNerf": 0.8
+  },
+  "name": "PCEF006_HY_SignalFlag",
+  "sortOrder": 6,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Flags",
+    "type": "Exterior"
+  }
+}

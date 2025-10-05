@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3329634256,
+  "index": "PBUT920",
+  "name": "PBUT920_TORP_SELKIE",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

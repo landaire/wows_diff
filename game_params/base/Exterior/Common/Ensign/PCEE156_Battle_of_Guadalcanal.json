@@ -1,0 +1,26 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "battle_of_guadalcanal",
+  "group": 3,
+  "hidden": true,
+  "id": 4131254192,
+  "index": "PCEE156",
+  "isTemplate": false,
+  "name": "PCEE156_Battle_of_Guadalcanal",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "history"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

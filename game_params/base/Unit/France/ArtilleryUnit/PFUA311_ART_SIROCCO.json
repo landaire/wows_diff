@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3968839504,
+  "index": "PFUA311",
+  "name": "PFUA311_ART_SIROCCO",
+  "typeinfo": {
+    "nation": "France",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

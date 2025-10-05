@@ -1,0 +1,30 @@
+{
+  "RarityCategory": {
+    "name": "Epic"
+  },
+  "camouflage": "camo_navoeval_tile",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "hidden": true,
+  "id": 4166971312,
+  "index": "PCEC122",
+  "isTemplate": false,
+  "name": "PCEC122_Navoeval_camo",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Camouflage",
+    "type": "Exterior"
+  }
+}

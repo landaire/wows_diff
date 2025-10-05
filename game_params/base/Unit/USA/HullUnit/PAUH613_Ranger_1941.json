@@ -1,0 +1,13 @@
+{
+  "costCR": 400000,
+  "costXP": 0,
+  "id": 3651940336,
+  "index": "PAUH613",
+  "name": "PAUH613_Ranger_1941",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

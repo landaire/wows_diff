@@ -1,0 +1,237 @@
+{
+  "battleTypes": [
+    "PVE",
+    "PVE_PREMADE"
+  ],
+  "constants": {
+    "AirCarrier": "AirCarrier",
+    "Battleship": "Battleship",
+    "Cruiser": "Cruiser",
+    "Destroyer": "Destroyer",
+    "mapNames": [
+      "s01_NavalBase",
+      "s02_Naval_Defense",
+      "37_Ridge",
+      "s03_Labyrinth",
+      "s06_Atoll",
+      "s07_Advance",
+      "s09_LePVE"
+    ]
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "mapName",
+          "in",
+          "constant",
+          "mapNames"
+        ],
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ],
+        [
+          "me",
+          "vehicleClass",
+          "==",
+          "constant",
+          "AirCarrier"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "globalA",
+          "=",
+          "constant",
+          "true"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "mapName",
+          "in",
+          "constant",
+          "mapNames"
+        ],
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ],
+        [
+          "me",
+          "vehicleClass",
+          "==",
+          "constant",
+          "Battleship"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "globalB",
+          "=",
+          "constant",
+          "true"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "mapName",
+          "in",
+          "constant",
+          "mapNames"
+        ],
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ],
+        [
+          "me",
+          "vehicleClass",
+          "==",
+          "constant",
+          "Cruiser"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "globalC",
+          "=",
+          "constant",
+          "true"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "mapName",
+          "in",
+          "constant",
+          "mapNames"
+        ],
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ],
+        [
+          "me",
+          "vehicleClass",
+          "==",
+          "constant",
+          "Destroyer"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "globalD",
+          "=",
+          "constant",
+          "true"
+        ]
+      ]
+    ],
+    [
+      "afterBattle",
+      [
+        [
+          "counter",
+          "globalA"
+        ],
+        [
+          "counter",
+          "globalB"
+        ],
+        [
+          "counter",
+          "globalC"
+        ],
+        [
+          "counter",
+          "globalD"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4173521840,
+  "index": "PCH115",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH115_PVE_HON_DONE_CLASS",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "honorable",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "PVE_HON_DONE_CLASS",
+  "uiOutOfDate": true,
+  "uiRestrictionIDS": "",
+  "uiType": "common"
+}

@@ -1,0 +1,32 @@
+{
+  "RarityCategory": {
+    "name": "Epic"
+  },
+  "camouflage": "camo_ET2022_tile",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "hidden": true,
+  "id": 4154388400,
+  "index": "PCEC134",
+  "isTemplate": false,
+  "name": "PCEC134_CN_EliteTournament2022",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Camouflage",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "godzilla_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3874353072,
+  "index": "PCEE401",
+  "isTemplate": false,
+  "name": "PCEE401_Godzilla_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "ingameevent",
+    "catalogueHiddenIfMissing",
+    "godzilla_kong"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

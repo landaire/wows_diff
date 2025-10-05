@@ -1,0 +1,99 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED"
+  ],
+  "constants": {
+    "damageRatio": 1.2,
+    "damagersCount": 4
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "meDamaged",
+      [],
+      [
+        [
+          "counter",
+          "attackerA",
+          "+=",
+          "damage",
+          "ratio"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "me",
+          "alive"
+        ],
+        [
+          "shipCountersA",
+          "sumValues",
+          ">=",
+          "constant",
+          "damageRatio"
+        ],
+        [
+          "shipCountersA",
+          "nonZero",
+          ">=",
+          "constant",
+          "damagersCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4289913776,
+  "index": "PCH004",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH004_Dreadnought",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "heroic",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "DREADNOUGHT",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_PVP_RANKED",
+  "uiType": "heroic"
+}

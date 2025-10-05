@@ -1,0 +1,37 @@
+{
+  "RarityCategory": {
+    "name": "Epic"
+  },
+  "camouflage": "camo_permanent_2",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 6000,
+  "custom": {},
+  "hidden": true,
+  "id": 3341316080,
+  "index": "PAEP909",
+  "isTemplate": false,
+  "name": "PAEP909_Crocodile",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "USA",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

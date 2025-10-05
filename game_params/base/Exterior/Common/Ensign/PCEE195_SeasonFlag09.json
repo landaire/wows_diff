@@ -1,0 +1,26 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "brooklyn",
+  "group": 3,
+  "hidden": false,
+  "id": 4090359728,
+  "index": "PCEE195",
+  "isTemplate": false,
+  "name": "PCEE195_SeasonFlag09",
+  "needExtraDescription": true,
+  "rankSeasonId": 9,
+  "sortOrder": 2147483647,
+  "tags": [
+    "rank"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

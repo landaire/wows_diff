@@ -1,0 +1,26 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "battle_of_vella_gulf",
+  "group": 3,
+  "hidden": true,
+  "id": 4166905776,
+  "index": "PCEE122",
+  "isTemplate": false,
+  "name": "PCEE122_Battle_of_Vella_Gulf",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "history"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

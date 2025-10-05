@@ -1,0 +1,58 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 1,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL156_BD118_Coll"
+  ],
+  "custom": {},
+  "description": "IDS_DESCRIPTION_PCZA031_BD2022_QUEST",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4262435760,
+  "index": "PCZA031",
+  "isPuzzle": false,
+  "name": "PCZA031_BD2022_QUEST",
+  "rewards": [
+    "<Item idx=\"PCEU007_Multi_std7\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_BD2022_QUEST_NAME",
+      "'aa",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_BD2022_QUEST_NAME",
+      "'bb",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_BD2022_QUEST_NAME",
+      "'cc",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_BD2022_QUEST_NAME",
+      "'dd",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

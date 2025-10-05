@@ -1,0 +1,44 @@
+{
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": 96000,
+  "costGold": -1,
+  "custom": {},
+  "flags": [
+    "november",
+    "echo",
+    "setteseven"
+  ],
+  "group": 0,
+  "hidden": false,
+  "id": 4278022064,
+  "index": "PCEF016",
+  "isTemplate": false,
+  "modifiers": {
+    "AAAuraDamage": {
+      "AirCarrier": 1.05,
+      "Auxiliary": 1.05,
+      "Battleship": 1.05,
+      "Cruiser": 1.05,
+      "Destroyer": 1.05,
+      "Submarine": 1.05
+    },
+    "AABubbleDamage": {
+      "AirCarrier": 1.05,
+      "Auxiliary": 1.05,
+      "Battleship": 1.05,
+      "Cruiser": 1.05,
+      "Destroyer": 1.05,
+      "Submarine": 1.05
+    }
+  },
+  "name": "PCEF016_NE7_SignalFlag",
+  "sortOrder": 1,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Flags",
+    "type": "Exterior"
+  }
+}

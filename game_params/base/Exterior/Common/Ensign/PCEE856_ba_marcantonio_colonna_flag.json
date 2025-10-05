@@ -1,0 +1,29 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "ba_marcantonio_colonna_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3397250992,
+  "index": "PCEE856",
+  "isTemplate": false,
+  "name": "PCEE856_ba_marcantonio_colonna_flag",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "anime",
+    "catalogueHidden_CN",
+    "catalogueHiddenIfMissing",
+    "blue archive"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

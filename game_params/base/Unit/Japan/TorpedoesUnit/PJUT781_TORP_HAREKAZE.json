@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3475386064,
+  "index": "PJUT781",
+  "name": "PJUT781_TORP_HAREKAZE",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

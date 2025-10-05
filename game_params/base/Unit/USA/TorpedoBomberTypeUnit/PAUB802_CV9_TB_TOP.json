@@ -1,0 +1,13 @@
+{
+  "costCR": 1720000,
+  "costXP": 21000,
+  "id": 3453956080,
+  "index": "PAUB802",
+  "name": "PAUB802_CV9_TB_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

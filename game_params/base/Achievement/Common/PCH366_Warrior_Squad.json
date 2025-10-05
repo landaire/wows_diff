@@ -1,0 +1,123 @@
+{
+  "battleTypes": [
+    "PVP"
+  ],
+  "constants": {
+    "victimsCount": 7
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "dead",
+      [
+        [
+          "attacker",
+          "inPrebattleDivision"
+        ],
+        [
+          "attacker",
+          "prebattleDivision",
+          "==",
+          "me",
+          "prebattleDivision"
+        ],
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "dead",
+      [
+        [
+          "attacker",
+          "inPrebattleDivision"
+        ],
+        [
+          "attacker",
+          "prebattleDivision",
+          "==",
+          "me",
+          "prebattleDivision"
+        ],
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "counter",
+          "a",
+          ">=",
+          "constant",
+          "victimsCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 3910329264,
+  "index": "PCH366",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH366_Warrior_Squad",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "squad",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "WARRIOR_SQUAD",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_PVP_RANKED_SQUAD",
+  "uiType": "squad"
+}

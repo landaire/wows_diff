@@ -1,0 +1,58 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 4,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL143_Ny2022collection"
+  ],
+  "custom": {},
+  "description": "IDS_DESCRIPTION_PCZA028_NY2022",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4265581488,
+  "index": "PCZA028",
+  "isPuzzle": false,
+  "name": "PCZA028_NY2022",
+  "rewards": [
+    "<Lootbox boxType=\"PCL007_SantaMedium\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_NY2022SUBCOLLECTION_NAME",
+      "'aa",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_NY2022SUBCOLLECTION_NAME",
+      "'bb",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_NY2022SUBCOLLECTION_NAME",
+      "'cc",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_NY2022SUBCOLLECTION_NAME",
+      "'dd",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

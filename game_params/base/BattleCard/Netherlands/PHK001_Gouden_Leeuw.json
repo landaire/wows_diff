@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4293056272,
+  "index": "PHK001",
+  "maxLevel": 2,
+  "name": "PHK001_Gouden_Leeuw",
+  "personalCardBonus": {
+    "clan": "PCOK606_CLAN_CA_Auxiliary"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PHSC110_Gouden_Leeuw"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

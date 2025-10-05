@@ -1,0 +1,40 @@
+{
+  "RarityCategory": {
+    "name": "Legendary"
+  },
+  "camouflage": "Suzuya_VL_Red",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "hidden": true,
+  "id": 3827855056,
+  "index": "PJEP445",
+  "isTemplate": false,
+  "name": "PJEP445_Suzuya_VL_Mdr",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHidden_CN",
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

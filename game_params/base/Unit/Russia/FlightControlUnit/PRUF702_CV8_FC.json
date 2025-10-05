@@ -1,0 +1,13 @@
+{
+  "costCR": 700000,
+  "costXP": 0,
+  "id": 3558682064,
+  "index": "PRUF702",
+  "name": "PRUF702_CV8_FC",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

@@ -1,0 +1,98 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "damageRatio": 2.0,
+    "filterKeyShips": {
+      "roles": [
+        "RogueWaveAchievement"
+      ]
+    }
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "meDamaged",
+      [
+        [
+          "attacker",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "attackerA",
+          "+=",
+          "damage",
+          "ratio"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "me",
+          "appropriate",
+          ":",
+          "constant",
+          "filterKeyShips"
+        ],
+        [
+          "shipCountersA",
+          "sumValues",
+          ">=",
+          "constant",
+          "damageRatio"
+        ],
+        [
+          "me",
+          "alive"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 3975340976,
+  "index": "PCH304",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH304_DREADNOUGHT_PA",
+  "onePerBattle": true,
+  "shipCategories": [
+    "event"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "DREADNOUGHT_PA",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_TEAM_BATTLE_ROYALE",
+  "uiType": "service_medal"
+}

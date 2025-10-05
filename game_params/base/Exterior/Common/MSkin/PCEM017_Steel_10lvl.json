@@ -1,0 +1,73 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "camouflage": "mat_SteelStyle2021",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 7000,
+  "custom": {},
+  "effects": {},
+  "filterIsWhitelist": false,
+  "hidden": true,
+  "hullConfig": {},
+  "id": 4276744112,
+  "index": "PCEM017",
+  "isTemplate": false,
+  "isTileflage": false,
+  "linkedCamouflage": null,
+  "miscFilter": [],
+  "miscSubTypeSpecification": {},
+  "name": "PCEM017_Steel_10lvl",
+  "nodesConfig": {},
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "decorative",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "",
+  "peculiarityModels": {},
+  "planesConfig": {},
+  "renderSetsStates": {
+    "@Bow_wire": true,
+    "@MidBack_wire": true,
+    "@MidFront_wire": true,
+    "@Stern_wire": true
+  },
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [
+      10
+    ],
+    "nations": [],
+    "specificShips": [],
+    "subtype": [
+      "Battleship",
+      "Cruiser",
+      "Destroyer",
+      "Submarine",
+      "AirCarrier"
+    ]
+  },
+  "sortOrder": 210,
+  "styleEffects": {},
+  "styleMiscs": [],
+  "subTypes": [
+    "SteelStyle2021"
+  ],
+  "tags": [
+    "catalogueHidden"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "MSkin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

@@ -1,0 +1,69 @@
+{
+  "RegenCrew": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenCrew",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationHPSpeed": 0.015,
+      "regenerationHPSpeedUnits": 0.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 40.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 10.0
+  },
+  "RegenCrew_TWO": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenCrew",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationHPSpeed": 0.025,
+      "regenerationHPSpeedUnits": 0.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 5,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 30.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 3762461968,
+  "index": "PXY507",
+  "name": "PXY507_RegenCrew_FA2022",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

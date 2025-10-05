@@ -1,0 +1,26 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "hampshire_campign_1_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3726503856,
+  "index": "PCEE542",
+  "isTemplate": false,
+  "name": "PCEE542_Hampshire_campign_1_flag",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

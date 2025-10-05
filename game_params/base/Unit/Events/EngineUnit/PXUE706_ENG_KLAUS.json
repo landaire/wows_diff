@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3554520336,
+  "index": "PXUE706",
+  "name": "PXUE706_ENG_KLAUS",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

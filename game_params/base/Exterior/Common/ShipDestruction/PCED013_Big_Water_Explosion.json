@@ -1,0 +1,34 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "deathSoundEvent": "Custom_Death_Big_Water_Explosion",
+  "effectOnDeath": {
+    "AirCarrier": "particles/WaterExplsoionCustomDeath_AirCarrier_BattleShip.xml",
+    "Battleship": "particles/WaterExplsoionCustomDeath_AirCarrier_BattleShip.xml",
+    "Cruiser": "particles/WaterExplsoionCustomDeath_Cruiser_Destroyer.xml",
+    "Destroyer": "particles/WaterExplsoionCustomDeath_Cruiser_Destroyer.xml",
+    "Submarine": "particles/WaterExplsoionCustomDeath_Submarine.xml"
+  },
+  "effectOnUnderWaterDeath": "particles/vehicles/Submarine_death.xml",
+  "group": "paintwork",
+  "hidden": false,
+  "id": 4281233328,
+  "index": "PCED013",
+  "isTemplate": false,
+  "name": "PCED013_Big_Water_Explosion",
+  "peculiarity": "thematic",
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "ShipDestruction",
+    "type": "Exterior"
+  }
+}

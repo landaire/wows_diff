@@ -1,0 +1,267 @@
+{
+  "alwaysShowIfAchieved": false,
+  "battleTypes": [
+    "PVP"
+  ],
+  "canBuy": false,
+  "canCharge": true,
+  "canUseDoll": true,
+  "clanTag": [
+    false,
+    "",
+    [
+      0,
+      0
+    ]
+  ],
+  "constants": {
+    "battleCount": 100,
+    "battleType": "PVP",
+    "damage": 64000,
+    "progress": [
+      "battleCount",
+      "damage"
+    ],
+    "shipLevels": [
+      10,
+      11
+    ],
+    "shipTypes": [
+      "Destroyer"
+    ]
+  },
+  "costCR": 15000,
+  "costGold": -1,
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "afterBattle",
+      [
+        [
+          "afterBattle",
+          "battleType",
+          "==",
+          "constant",
+          "battleType"
+        ],
+        [
+          "afterBattle",
+          "vehicleClass",
+          "in",
+          "constant",
+          "shipTypes"
+        ],
+        [
+          "afterBattle",
+          "vehicleLevel",
+          "in",
+          "constant",
+          "shipLevels"
+        ],
+        [
+          "counter",
+          "globalA",
+          "<",
+          "constant",
+          "battleCount"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "globalA",
+          "+=",
+          "constant",
+          "1"
+        ],
+        [
+          "counter",
+          "globalB",
+          "*=",
+          "subInstruction",
+          [
+            "counter",
+            "globalA",
+            "-",
+            "constant",
+            "1"
+          ]
+        ],
+        [
+          "counter",
+          "globalB",
+          "+=",
+          "afterBattle",
+          "totalDealtDamage"
+        ],
+        [
+          "counter",
+          "globalB",
+          "/=",
+          "counter",
+          "globalA"
+        ]
+      ]
+    ],
+    [
+      "afterBattle",
+      [
+        [
+          "afterBattle",
+          "battleType",
+          "==",
+          "constant",
+          "battleType"
+        ],
+        [
+          "afterBattle",
+          "vehicleClass",
+          "in",
+          "constant",
+          "shipTypes"
+        ],
+        [
+          "afterBattle",
+          "vehicleLevel",
+          "in",
+          "constant",
+          "shipLevels"
+        ],
+        [
+          "counter",
+          "globalA",
+          ">=",
+          "constant",
+          "battleCount"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "globalA",
+          "+=",
+          "constant",
+          "1"
+        ],
+        [
+          "counter",
+          "globalB",
+          "-=",
+          "subInstruction",
+          [
+            "counter",
+            "globalB",
+            "/",
+            "constant",
+            "battleCount"
+          ]
+        ],
+        [
+          "counter",
+          "globalB",
+          "+=",
+          "subInstruction",
+          [
+            "afterBattle",
+            "totalDealtDamage",
+            "/",
+            "constant",
+            "battleCount"
+          ]
+        ]
+      ]
+    ],
+    [
+      "afterBattle",
+      [
+        [
+          "counter",
+          "globalA",
+          ">=",
+          "constant",
+          "battleCount"
+        ],
+        [
+          "counter",
+          "globalB",
+          ">=",
+          "constant",
+          "damage"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4260744112,
+  "index": "PCNU032",
+  "isTemplate": false,
+  "keepCounters": false,
+  "lootBoxAvailable": false,
+  "maxShipLevel": 11,
+  "minShipLevel": 10,
+  "multiple": false,
+  "name": "PCNU032",
+  "needDescription": true,
+  "onePerBattle": false,
+  "reward": [],
+  "rewardOncePerDay": false,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": true,
+  "symbolOffsetY": 0,
+  "tags": [
+    "emblem"
+  ],
+  "type": "heroic",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Emblem",
+    "type": "DogTag"
+  },
+  "uiCondition": [
+    [
+      "IDS_TASKRESTRICTION_DESTROYER_PVP",
+      true
+    ]
+  ],
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "",
+  "uiOutOfDate": false,
+  "uiQuest": [
+    [
+      "IDS_QUEST_DAMAGECOUNT",
+      "damage"
+    ],
+    [
+      "IDS_QUEST_EXTRA_BATTLELIMIT",
+      "battleCount"
+    ]
+  ],
+  "uiRestrictionIDS": "",
+  "uiType": "common"
+}

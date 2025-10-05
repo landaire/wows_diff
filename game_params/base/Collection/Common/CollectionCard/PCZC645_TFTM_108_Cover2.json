@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA027_TFTM_108",
+  "compensationCR": 0,
+  "description": "IDS_PCZC645_TFTM_108_COVER2_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3618544560,
+  "index": "PCZC645",
+  "name": "PCZC645_TFTM_108_Cover2",
+  "subAlbums": [
+    6
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

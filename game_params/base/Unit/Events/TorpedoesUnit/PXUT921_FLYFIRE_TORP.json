@@ -1,0 +1,13 @@
+{
+  "costCR": 2500000,
+  "costXP": 0,
+  "id": 3328584976,
+  "index": "PXUT921",
+  "name": "PXUT921_FLYFIRE_TORP",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

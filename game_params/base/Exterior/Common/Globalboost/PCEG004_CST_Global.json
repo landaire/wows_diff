@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "hidden": true,
+  "id": 4290572208,
+  "index": "PCEG004",
+  "isTemplate": false,
+  "modifiers": {
+    "creditsFactor": 1.05,
+    "crewExpFactor": 1.1,
+    "expFactor": 1.05
+  },
+  "name": "PCEG004_CST_Global",
+  "sortOrder": 4,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Globalboost",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3452710224,
+  "index": "PVUH803",
+  "name": "PVUH803_VALPARAISO",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

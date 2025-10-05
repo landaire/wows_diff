@@ -1,0 +1,13 @@
+{
+  "costCR": 2100000,
+  "costXP": 28000,
+  "id": 3558616912,
+  "index": "PFUH702",
+  "name": "PFUH702_C8_HULL_B",
+  "typeinfo": {
+    "nation": "France",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

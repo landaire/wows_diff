@@ -1,0 +1,135 @@
+{
+  "battleTypes": [
+    "PVE",
+    "PVE_PREMADE"
+  ],
+  "constants": {
+    "filterKeyShips": {
+      "isAlive": true,
+      "isBot": true,
+      "roles": [
+        "KeyAllyGroup1",
+        "KeyAllyGroup2",
+        "KeyAllyGroup3",
+        "KeyAllyDestroyer1",
+        "KeyAllyDestroyer2",
+        "KeyAllyDestroyer3",
+        "KeyAllyCruiser1",
+        "KeyAllyCruiser2",
+        "KeyAllyCruiser3",
+        "KeyAllyBattleship1",
+        "KeyAllyBattleship2",
+        "KeyAllyBattleship3",
+        "KeyAllyAirCarrier1",
+        "KeyAllyAirCarrier2",
+        "KeyAllyAirCarrier3",
+        "KeyAllyVessel1",
+        "KeyAllyVessel2",
+        "KeyAllyVessel3"
+      ],
+      "team": 0
+    },
+    "progress": "shipsCount",
+    "shipsCount": 120
+  },
+  "custom": {},
+  "enabled": true,
+  "events": [
+    [
+      "battleEnd",
+      [
+        [
+          "me",
+          "alive"
+        ],
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "globalA",
+          "+=",
+          "subInstruction",
+          [
+            "battle",
+            "filteredPlayersCount",
+            ":",
+            "constant",
+            "filterKeyShips"
+          ]
+        ],
+        [
+          "sendstat",
+          "pve_saved_ships",
+          "=",
+          "counter",
+          "globalA"
+        ]
+      ]
+    ],
+    [
+      "afterBattle",
+      [
+        [
+          "counter",
+          "globalA",
+          ">=",
+          "constant",
+          "shipsCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4179813296,
+  "index": "PCH109",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH109_PVE_HON_PR_SAVE_3",
+  "onePerBattle": true,
+  "shipCategories": [
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "earlyAccess",
+    "ultimate",
+    "upgradeableUltimate",
+    "superShip"
+  ],
+  "showProgress": true,
+  "tags": [],
+  "type": "honorable",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "PVE_HON_PR_SAVE_3",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "common"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 6000,
+  "costXP": 3000,
+  "id": 3559796720,
+  "index": "PAUD701",
+  "name": "PAUD701_Curtiss_SB2C",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

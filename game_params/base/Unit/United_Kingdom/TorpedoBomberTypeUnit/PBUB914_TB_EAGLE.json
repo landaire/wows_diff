@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3336515536,
+  "index": "PBUB914",
+  "name": "PBUB914_TB_EAGLE",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

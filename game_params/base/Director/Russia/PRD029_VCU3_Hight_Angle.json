@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4263702992,
+  "index": "PRD029",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/director/RD029_VCU3_Hight_Angle/RD029_VCU3_Hight_Angle.model",
+  "name": "PRD029_VCU3_Hight_Angle",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Director"
+  }
+}

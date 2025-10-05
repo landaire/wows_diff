@@ -1,0 +1,69 @@
+{
+  "Default_TimeBased": {
+    "availableBuoyancyStates": [],
+    "capacityRegenCoeff": 0.0,
+    "consumableType": "regenCrew",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 1,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationHPSpeed": 0.005,
+      "regenerationHPSpeedUnits": 0.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "maxCapacity": 84.0,
+    "minWorkTime": 28.0,
+    "preparationTime": 0.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": ""
+  },
+  "Sibir_heal": {
+    "availableBuoyancyStates": [],
+    "capacityRegenCoeff": 0.0,
+    "consumableType": "regenCrew",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 1,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationHPSpeed": 0.005,
+      "regenerationHPSpeedUnits": 0.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "maxCapacity": 100.0,
+    "minWorkTime": 14.0,
+    "preparationTime": 0.0,
+    "reloadTime": 40.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": ""
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 4232224688,
+  "index": "PCY059",
+  "name": "PCY059_RegenCrewPremium_TimeBased",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Ability"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4271040720,
+  "index": "PZF022",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/finder/ZF022_rangefinder_9ft/ZF022_rangefinder_9ft.model",
+  "name": "PZF022_rangefinder_9ft",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Finder"
+  }
+}

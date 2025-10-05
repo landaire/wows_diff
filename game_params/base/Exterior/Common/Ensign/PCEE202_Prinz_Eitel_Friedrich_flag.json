@@ -1,0 +1,27 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "flag": "Prinz_Eitel_Friedrich",
+  "group": 3,
+  "hidden": true,
+  "id": 4083019696,
+  "index": "PCEE202",
+  "isTemplate": false,
+  "name": "PCEE202_Prinz_Eitel_Friedrich_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "ship",
+    "catalogueHidden_CN"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

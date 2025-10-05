@@ -1,0 +1,34 @@
+{
+  "RarityCategory": {
+    "name": "Epic"
+  },
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "deathSoundEvent": "Death_Custom_PCED015_Thisisfine",
+  "effectOnDeath": {
+    "AirCarrier": "particles/ThisIsFine_CustomDeath_Battleship_AirCarrier.xml",
+    "Battleship": "particles/ThisIsFine_CustomDeath_Battleship_AirCarrier.xml",
+    "Cruiser": "particles/ThisIsFine_CustomDeath_Destroyer_Cruiser.xml",
+    "Destroyer": "particles/ThisIsFine_CustomDeath_Destroyer_Cruiser.xml",
+    "Submarine": "particles/ThisIsFine_CustomDeath_Submarine.xml"
+  },
+  "effectOnUnderWaterDeath": "particles/vehicles/Submarine_death.xml",
+  "group": "paintwork",
+  "hidden": false,
+  "id": 4279136176,
+  "index": "PCED015",
+  "isTemplate": false,
+  "name": "PCED015_ThisIsFine",
+  "peculiarity": "thematic",
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "ShipDestruction",
+    "type": "Exterior"
+  }
+}

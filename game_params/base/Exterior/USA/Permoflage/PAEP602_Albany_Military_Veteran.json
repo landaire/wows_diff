@@ -1,0 +1,39 @@
+{
+  "RarityCategory": {
+    "name": "Legendary"
+  },
+  "camouflage": "camo_permanent_2",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 1000,
+  "custom": {},
+  "hidden": true,
+  "id": 3663228912,
+  "index": "PAEP602",
+  "isTemplate": false,
+  "name": "PAEP602_Albany_Military_Veteran",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "USA",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

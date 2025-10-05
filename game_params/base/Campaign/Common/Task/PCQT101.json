@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 3,
+  "conditions": [
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isMyShip class=\"Cruiser,Submarine\" shipLevel=\"5,6,7,8,9,10,11\" />",
+    "<isKillShips count=\"3\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4188422064,
+  "index": "PCQT101",
+  "isSingleBattle": true,
+  "lootStars": 3,
+  "name": "PCQT101",
+  "rewards": [
+    "<Item idx=\"PCEA031_CrewXPboost_1\" count=\"5\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT101_1",
+    "isKillShips",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

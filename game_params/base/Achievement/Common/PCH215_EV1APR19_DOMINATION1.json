@@ -1,0 +1,78 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "filterKeyShips": {
+      "roles": [
+        "PCH215_EV1APR19_DOMINATION1_Ready"
+      ]
+    }
+  },
+  "custom": {},
+  "enabled": false,
+  "events": [
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ],
+        [
+          "me",
+          "appropriate",
+          ":",
+          "constant",
+          "filterKeyShips"
+        ],
+        [
+          "me",
+          "alive"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4068664240,
+  "index": "PCH215",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH215_EV1APR19_DOMINATION1",
+  "onePerBattle": true,
+  "shipCategories": [
+    "event"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "EV1APR19_DOMINATION1",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_SPACE_DOUBLESTAR",
+  "uiType": "service_medal"
+}

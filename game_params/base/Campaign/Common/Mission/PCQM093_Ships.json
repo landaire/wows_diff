@@ -1,0 +1,47 @@
+{
+  "allTasks": [
+    "PCQT663_Ships",
+    "PCQT664_Ships",
+    "PCQT665_Ships",
+    "PCQT666_Ships",
+    "PCQT667_Ships",
+    "PCQT668_Ships",
+    "PCQT669_Ships",
+    "PCQT670_Ships",
+    "PCQT671_Ships",
+    "PCQT672_Ships_Key"
+  ],
+  "custom": {
+    "ASIA": {
+      "startTime": "14-09-2020 05:00:01"
+    },
+    "CN": {
+      "startTime": "14-09-2020 05:00:01"
+    },
+    "EU": {
+      "startTime": "15-09-2020 21:00:01"
+    },
+    "NA": {
+      "startTime": "14-09-2020 10:00:01"
+    },
+    "RU": {
+      "startTime": "14-09-2020 02:00:01"
+    }
+  },
+  "id": 4197040048,
+  "index": "PCQM093",
+  "isStart": false,
+  "mainTask": "PCQT672_Ships_Key",
+  "mapPosition": [
+    0.35,
+    0.58
+  ],
+  "name": "PCQM093_Ships",
+  "startTime": "",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Mission",
+    "type": "Campaign"
+  },
+  "uiNumber": "3"
+}

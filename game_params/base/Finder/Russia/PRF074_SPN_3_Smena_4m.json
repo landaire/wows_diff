@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4216515024,
+  "index": "PRF074",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/finder/RF074_SPN_3_Smena_4m/RF074_SPN_3_Smena_4m.model",
+  "name": "PRF074_SPN_3_Smena_4m",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Finder"
+  }
+}

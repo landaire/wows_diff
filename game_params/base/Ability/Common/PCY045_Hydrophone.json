@@ -1,0 +1,474 @@
+{
+  "DE_10": {
+    "availableBuoyancyStates": [],
+    "consumableType": "hydrophone",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "hydrophoneWaveRadius": 8000.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "zoneLifetime": 6.0
+    },
+    "numConsumables": -1,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "DE_6_8": {
+    "availableBuoyancyStates": [],
+    "consumableType": "hydrophone",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "hydrophoneWaveRadius": 7000.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "zoneLifetime": 6.0
+    },
+    "numConsumables": -1,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "hydrophone",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "hydrophoneWaveRadius": 6000.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "zoneLifetime": 6.0
+    },
+    "numConsumables": -1,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "JP_I_56": {
+    "availableBuoyancyStates": [],
+    "consumableType": "hydrophone",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "hydrophoneWaveRadius": 7000.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "zoneLifetime": 6.0
+    },
+    "numConsumables": 4,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "JP_I_56_44": {
+    "availableBuoyancyStates": [],
+    "consumableType": "hydrophone",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "hydrophoneWaveRadius": 9000.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "zoneLifetime": 6.0
+    },
+    "numConsumables": 5,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 30.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "PAZ_SS_XZG14": {
+    "availableBuoyancyStates": [],
+    "consumableType": "hydrophone",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "hydrophoneWaveRadius": 7000.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "zoneLifetime": 6.0
+    },
+    "numConsumables": -1,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "RU_10": {
+    "availableBuoyancyStates": [],
+    "consumableType": "hydrophone",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "hydrophoneWaveRadius": 7000.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "zoneLifetime": 6.0
+    },
+    "numConsumables": -1,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "RU_6": {
+    "availableBuoyancyStates": [],
+    "consumableType": "hydrophone",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "hydrophoneWaveRadius": 7000.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "zoneLifetime": 6.0
+    },
+    "numConsumables": -1,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "RU_8": {
+    "availableBuoyancyStates": [],
+    "consumableType": "hydrophone",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "hydrophoneWaveRadius": 7000.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "zoneLifetime": 6.0
+    },
+    "numConsumables": -1,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "RU_S_189": {
+    "availableBuoyancyStates": [],
+    "consumableType": "hydrophone",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "hydrophoneWaveRadius": 7000.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "zoneLifetime": 6.0
+    },
+    "numConsumables": -1,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "UK_10": {
+    "availableBuoyancyStates": [],
+    "consumableType": "hydrophone",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "hydrophoneWaveRadius": 6000.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "zoneLifetime": 6.0
+    },
+    "numConsumables": 6,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 30.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "UK_10_Seal": {
+    "availableBuoyancyStates": [],
+    "consumableType": "hydrophone",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "hydrophoneWaveRadius": 6000.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "zoneLifetime": 6.0
+    },
+    "numConsumables": 6,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 30.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "UK_6": {
+    "availableBuoyancyStates": [],
+    "consumableType": "hydrophone",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "hydrophoneWaveRadius": 6000.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "zoneLifetime": 6.0
+    },
+    "numConsumables": 4,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 30.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "UK_8": {
+    "availableBuoyancyStates": [],
+    "consumableType": "hydrophone",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "hydrophoneWaveRadius": 6000.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "zoneLifetime": 6.0
+    },
+    "numConsumables": 5,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 30.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "US_10": {
+    "availableBuoyancyStates": [],
+    "consumableType": "hydrophone",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "hydrophoneWaveRadius": 9000.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "zoneLifetime": 6.0
+    },
+    "numConsumables": -1,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "US_10_Archerfish": {
+    "availableBuoyancyStates": [],
+    "consumableType": "hydrophone",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "hydrophoneWaveRadius": 8000.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "zoneLifetime": 6.0
+    },
+    "numConsumables": -1,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 90.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "US_6_8": {
+    "availableBuoyancyStates": [],
+    "consumableType": "hydrophone",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "hydrophoneWaveRadius": 8000.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "zoneLifetime": 6.0
+    },
+    "numConsumables": -1,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "custom": {},
+  "freeOfCharge": true,
+  "id": 4246904752,
+  "index": "PCY045",
+  "name": "PCY045_Hydrophone",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Ability"
+  }
+}
