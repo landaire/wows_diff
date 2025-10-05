@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "zao_colorful_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3527274416,
+  "index": "PCEE732",
+  "isTemplate": false,
+  "name": "PCEE732_Zao_Colorful_flag",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

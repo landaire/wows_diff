@@ -1,0 +1,36 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "camo_permanent_2",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 3000,
+  "hidden": false,
+  "id": 3759697712,
+  "index": "PGEP510",
+  "isTemplate": false,
+  "name": "PGEP510_Scharnhorst_CN_forAll",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

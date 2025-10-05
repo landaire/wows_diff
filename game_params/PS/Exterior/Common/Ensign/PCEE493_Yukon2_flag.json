@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "yukon2_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3777884080,
+  "index": "PCEE493",
+  "isTemplate": false,
+  "name": "PCEE493_Yukon2_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

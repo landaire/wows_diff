@@ -1,0 +1,13 @@
+{
+  "costCR": 580000,
+  "costXP": 0,
+  "id": 3507236560,
+  "index": "PJUH751",
+  "name": "PJUH751_Zuikaku_1941",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

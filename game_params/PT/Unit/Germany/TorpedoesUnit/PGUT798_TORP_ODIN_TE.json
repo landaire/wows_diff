@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3457560368,
+  "index": "PGUT798",
+  "name": "PGUT798_TORP_ODIN_TE",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

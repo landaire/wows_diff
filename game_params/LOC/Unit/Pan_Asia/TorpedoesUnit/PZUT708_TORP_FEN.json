@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3551931600,
+  "index": "PZUT708",
+  "name": "PZUT708_TORP_FEN",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

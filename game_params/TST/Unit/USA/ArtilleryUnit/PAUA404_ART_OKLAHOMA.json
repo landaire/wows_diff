@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3871322096,
+  "index": "PAUA404",
+  "name": "PAUA404_ART_OKLAHOMA",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

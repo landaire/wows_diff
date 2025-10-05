@@ -1,0 +1,18 @@
+{
+  "id": 3702179760,
+  "index": "PCOK565",
+  "level_1": {
+    "burnProb": 0.7,
+    "vulnerabilityHE": 0.9
+  },
+  "level_2": {
+    "burnProb": 0.7,
+    "vulnerabilityHE": 0.9
+  },
+  "name": "PCOK565_CLAN_Smolensk",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

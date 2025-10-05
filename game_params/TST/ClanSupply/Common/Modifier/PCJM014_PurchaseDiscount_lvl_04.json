@@ -1,0 +1,20 @@
+{
+  "accumulativeResourceRequired": 0,
+  "bonusType": "purchase_discount",
+  "buildingType": "PCJB002_Shipbuilding_Factory",
+  "buyable": true,
+  "cost": 6000,
+  "id": 4279884720,
+  "index": "PCJM014",
+  "isDummy": false,
+  "name": "PCJM014_PurchaseDiscount_lvl_04",
+  "previousModifier": "PCJM013_PurchaseDiscount_lvl_03",
+  "shipLevelMax": 10,
+  "shipLevelMin": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Modifier",
+    "type": "ClanSupply"
+  },
+  "value": 12
+}

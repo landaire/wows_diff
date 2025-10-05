@@ -1,0 +1,13 @@
+{
+  "costCR": 70000,
+  "costXP": 350,
+  "id": 4081463280,
+  "index": "PAUT203",
+  "name": "PAUT203_D3_TORP_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

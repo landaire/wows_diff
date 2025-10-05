@@ -1,0 +1,29 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4249016272,
+  "index": "PBK043",
+  "maxLevel": 2,
+  "name": "PBK043_Seal",
+  "personalCardBonus": {
+    "clan": "PCOK015_Balldmg_Dtorpdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PBSS710_Seal",
+      "PBSS910_Selkie"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

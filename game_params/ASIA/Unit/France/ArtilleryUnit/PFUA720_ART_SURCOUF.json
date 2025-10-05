@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3539971920,
+  "index": "PFUA720",
+  "name": "PFUA720_ART_SURCOUF",
+  "typeinfo": {
+    "nation": "France",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

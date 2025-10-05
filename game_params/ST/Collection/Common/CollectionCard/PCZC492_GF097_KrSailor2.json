@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA022_GF097",
+  "compensationCR": 0,
+  "description": "IDS_PCZC492_GF097_KRSAILOR2_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3778976688,
+  "index": "PCZC492",
+  "name": "PCZC492_GF097_KrSailor2",
+  "subAlbums": [
+    5
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

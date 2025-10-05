@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3522146096,
+  "index": "PGUA737",
+  "name": "PGUA737_ART_NURNBERG_1944",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

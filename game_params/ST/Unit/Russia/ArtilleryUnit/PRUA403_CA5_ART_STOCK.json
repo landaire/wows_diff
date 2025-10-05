@@ -1,0 +1,13 @@
+{
+  "costCR": 100000,
+  "costXP": 0,
+  "id": 3872370128,
+  "index": "PRUA403",
+  "name": "PRUA403_CA5_ART_STOCK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

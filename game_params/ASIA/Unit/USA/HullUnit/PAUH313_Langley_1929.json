@@ -1,0 +1,13 @@
+{
+  "costCR": 100000,
+  "costXP": 0,
+  "id": 3966513136,
+  "index": "PAUH313",
+  "name": "PAUH313_Langley_1929",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

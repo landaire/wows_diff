@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3347558192,
+  "index": "PGUQ903",
+  "name": "PGUQ903_SONAR_U4501",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

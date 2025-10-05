@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4270242096,
+  "index": "PWRS023",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/radar/search/WRS023_Radar/WRS023_Radar.model",
+  "name": "PWRS023_Radar",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

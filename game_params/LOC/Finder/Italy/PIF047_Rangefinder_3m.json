@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4244826864,
+  "index": "PIF047",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/italy/finder/IF047_Rangefinder_3m/IF047_Rangefinder_3m.model",
+  "name": "PIF047_Rangefinder_3m",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": null,
+    "type": "Finder"
+  }
+}

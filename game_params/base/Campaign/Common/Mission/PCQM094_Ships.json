@@ -11,23 +11,6 @@
     "PCQT681_Ships",
     "PCQT682_Ships_Key"
   ],
-  "custom": {
-    "ASIA": {
-      "startTime": "21-09-2020 05:00:01"
-    },
-    "CN": {
-      "startTime": "21-09-2020 05:00:01"
-    },
-    "EU": {
-      "startTime": "22-09-2020 21:00:01"
-    },
-    "NA": {
-      "startTime": "21-09-2020 10:00:01"
-    },
-    "RU": {
-      "startTime": "21-09-2020 02:00:01"
-    }
-  },
   "id": 4195991472,
   "index": "PCQM094",
   "isStart": false,

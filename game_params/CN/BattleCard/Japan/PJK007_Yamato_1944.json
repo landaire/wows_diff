@@ -1,0 +1,29 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4286764752,
+  "index": "PJK007",
+  "maxLevel": 2,
+  "name": "PJK007_Yamato_1944",
+  "personalCardBonus": {
+    "clan": "PCOK602_CLAN_BB_Far"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PJSB018_Yamato_1944",
+      "PJSB700_ARP_Yamato"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

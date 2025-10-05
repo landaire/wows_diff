@@ -1,0 +1,27 @@
+{
+  "constants": {},
+  "enabled": true,
+  "events": [
+    [
+      "battleEnd",
+      [],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "id": 4263430064,
+  "index": "PCOC030",
+  "keepCounters": false,
+  "name": "PCOC030",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "AchievementCondition",
+    "type": "Other"
+  },
+  "uiDescription": "IDS_ACHIEVEMENT_CONDITION_PCOC030_DESCRIPTION",
+  "uiHeader": "IDS_ACHIEVEMENT_CONDITION_PCOC030_TITLE"
+}

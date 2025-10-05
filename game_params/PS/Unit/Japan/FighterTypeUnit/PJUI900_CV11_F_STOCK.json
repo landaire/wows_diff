@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3350965968,
+  "index": "PJUI900",
+  "name": "PJUI900_CV11_F_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

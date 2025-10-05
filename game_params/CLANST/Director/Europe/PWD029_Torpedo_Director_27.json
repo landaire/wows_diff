@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4263702832,
+  "index": "PWD029",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/director/WD029_Torpedo_Director_27/WD029_Torpedo_Director_27.model",
+  "name": "PWD029_Torpedo_Director_27",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Director"
+  }
+}

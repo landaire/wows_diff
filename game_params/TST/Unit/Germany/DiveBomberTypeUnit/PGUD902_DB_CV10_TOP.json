@@ -1,0 +1,13 @@
+{
+  "costCR": 2500000,
+  "costXP": 38000,
+  "id": 3349032752,
+  "index": "PGUD902",
+  "name": "PGUD902_DB_CV10_TOP",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

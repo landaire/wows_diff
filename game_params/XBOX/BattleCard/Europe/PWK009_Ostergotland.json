@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4284667184,
+  "index": "PWK009",
+  "maxLevel": 2,
+  "name": "PWK009_Ostergotland",
+  "personalCardBonus": {
+    "clan": "PCOK015_Balldmg_Dtorpdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PWSD109_Ostergotland"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

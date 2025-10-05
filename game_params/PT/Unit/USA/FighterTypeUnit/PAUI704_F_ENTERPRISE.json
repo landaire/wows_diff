@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3556487152,
+  "index": "PAUI704",
+  "name": "PAUI704_F_ENTERPRISE",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 4288563120,
+  "index": "PCOD006",
+  "markerNameActive": "consumabletime_active",
+  "markerNameInactive": "consumabletime_inactive",
+  "maxBuffLevel": 0,
+  "name": "PCOD006_ConsumableTime",
+  "payload": {
+    "item_1": {
+      "duration": -1,
+      "level": 1,
+      "params": "PCOM006_ConsumableTime",
+      "type": 1,
+      "weight": 0
+    },
+    "item_2": {
+      "duration": -1,
+      "level": 1,
+      "params": "PCOM022_PlaneConsumableTime",
+      "type": 1,
+      "weight": 0
+    },
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

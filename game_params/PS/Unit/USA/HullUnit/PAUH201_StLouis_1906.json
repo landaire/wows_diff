@@ -1,0 +1,13 @@
+{
+  "costCR": 40000,
+  "costXP": 0,
+  "id": 4083953648,
+  "index": "PAUH201",
+  "name": "PAUH201_StLouis_1906",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

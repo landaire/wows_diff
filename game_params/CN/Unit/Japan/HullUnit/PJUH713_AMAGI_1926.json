@@ -1,0 +1,13 @@
+{
+  "costCR": 1100000,
+  "costXP": 0,
+  "id": 3547082448,
+  "index": "PJUH713",
+  "name": "PJUH713_AMAGI_1926",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

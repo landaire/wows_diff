@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3744655824,
+  "index": "PRF524",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/finder/RF524_SVP_3m_HW19/RF524_SVP_3m_HW19.model",
+  "name": "PRF524_SVP_3m_HW19",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Finder"
+  }
+}

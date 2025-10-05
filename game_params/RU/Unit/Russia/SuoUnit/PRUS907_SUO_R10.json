@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3343298000,
+  "index": "PRUS907",
+  "name": "PRUS907_SUO_R10",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

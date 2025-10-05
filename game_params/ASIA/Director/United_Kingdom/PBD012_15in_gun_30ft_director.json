@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4281529296,
+  "index": "PBD012",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD012_15in_gun_30ft_director/BD012_15in_gun_30ft_director.model",
+  "name": "PBD012_15in_gun_30ft_director",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

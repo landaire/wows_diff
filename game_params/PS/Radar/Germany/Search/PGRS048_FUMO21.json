@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4244028208,
+  "index": "PGRS048",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/radar/search/GRS048_FUMO21/GRS048_FUMO21.model",
+  "name": "PGRS048_FUMO21",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

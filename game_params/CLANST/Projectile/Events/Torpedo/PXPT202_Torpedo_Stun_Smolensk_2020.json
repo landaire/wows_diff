@@ -1,0 +1,94 @@
+{
+  "acidProb": 0.0,
+  "additionalShips": [],
+  "affectedByPTZ": true,
+  "alertDist": 100,
+  "alphaDamage": 70000.0,
+  "alphaPiercingHE": 1000.0,
+  "ammoType": "torpedo",
+  "applyPTZCoeff": true,
+  "armingTime": 1,
+  "blowUpEffect": "particles/guns/TORP_Explo_UWater.xml",
+  "bulletDiametr": 0.533,
+  "buoyancyToDamageCoeff": {
+    "DEEP_WATER": 1.0,
+    "DEEP_WATER_INVUL": 0.0,
+    "PERISCOPE": 1.0,
+    "SURFACE": 1.0
+  },
+  "burnProb": 0.0,
+  "costCR": 0,
+  "customSoundPostfix": "",
+  "customUIPostfix": "_stun_event_hw20",
+  "damage": 0.0,
+  "damageCoeffMaxPing": 2.0,
+  "depth": 0.14,
+  "directDamage": 0.0,
+  "distanceOfDamage": [],
+  "dropToTheGroundEffect": "particles/guns/TORP_Drop_Ground.xml",
+  "fallDistance": 20.0,
+  "fallTime": 20.0,
+  "fallingTimeCoef": 1,
+  "fallingTracerEffect": "particles/Empty_FX.xml",
+  "floodGeneration": true,
+  "ground": "particles/guns/TORP_Explo_Stun_H2020.xml",
+  "hitDecalSize": 0.0,
+  "id": 4082516240,
+  "ignoreBuoyancyStates": [],
+  "ignoreClasses": [],
+  "index": "PXPT202",
+  "isDeepWater": false,
+  "isFeedbackAndMarkerHidden": false,
+  "maneuverDist": 0.0,
+  "maxDist": 166.0,
+  "model": "content/gameplay/events/projectile/torpedo/XPT014_Torpedo_Corsair_2/XPT014_Torpedo_Corsair_2.model",
+  "name": "PXPT202_Torpedo_Stun_Smolensk_2020",
+  "onHit": {
+    "CritModuleEffect": {
+      "critProb": 100.0,
+      "critTime": 5.0,
+      "damageTypes": [
+        "direct",
+        "splash",
+        "depthSplash"
+      ],
+      "hlTypes": [
+        "artillery_hitlocation",
+        "torpedo_hitlocation",
+        "wave_gun_hitlocation"
+      ],
+      "onlyRealHits": false,
+      "type": 2
+    }
+  },
+  "ownTracerEffect": "particles/guns/TORP_Tracer_Stun_H2020.xml",
+  "parachuteHeightCoeff": 0.75,
+  "parachuteModel": "content/location/misc/gameplay/LMY052_Parachute/LMY052_Parachute.model",
+  "parachuteTimeCoeff": 0.95,
+  "planeAmmoType": "torpedo",
+  "projDestroyedEffect": [
+    "particles/guns/TORP_Explo_Stun_H2020.xml"
+  ],
+  "shipDestroyEffect": "particles/guns/TORP_Explo_Stun_H2020.xml",
+  "speed": 100.0,
+  "splashArmorCoeff": 0,
+  "splashCubeSize": 0,
+  "torpedoProjDestroyedEffect": [
+    "particles/guns/TORP_Explo_Stun_H2020.xml"
+  ],
+  "torpedoType": 0,
+  "tracerEffect": "particles/guns/TORP_Tracer_Stun_H2020.xml",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "Torpedo",
+    "type": "Projectile"
+  },
+  "underwaterTracerEffect": "particles/guns/TORP_Tracer_UWater.xml",
+  "useDefaultDepth": true,
+  "useEnhancedRegenerationRules": false,
+  "uwCritical": 0,
+  "visibilityFactor": 2.2,
+  "volume": 0,
+  "water": "particles/Empty_FX.xml",
+  "withParachute": false
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3549179216,
+  "index": "PVUH711",
+  "name": "PVUH711_HULL_COMANDANTE_AGUIRRE",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

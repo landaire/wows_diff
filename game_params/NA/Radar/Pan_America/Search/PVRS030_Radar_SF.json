@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4262902096,
+  "index": "PVRS030",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panamerica/radar/search/VRS030_Radar_SF/VRS030_Radar_SF.model",
+  "name": "PVRS030_Radar_SF",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

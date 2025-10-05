@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3657624272,
+  "index": "PJF607",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/finder/JF607_Rangefinder_1_5m_Red_Arpeggio/JF607_Rangefinder_1_5m_Red_Arpeggio.model",
+  "name": "PJF607_Rangefinder_1_5m_Red_Arpeggio",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Finder"
+  }
+}

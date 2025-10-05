@@ -1,0 +1,13 @@
+{
+  "costCR": 50000,
+  "costXP": 0,
+  "id": 3979292624,
+  "index": "PBUB301",
+  "name": "PBUB301_CV4_TB_STOCK",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

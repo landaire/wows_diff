@@ -1,0 +1,18 @@
+{
+  "id": 4272834480,
+  "index": "PCOD021",
+  "markerNameActive": "",
+  "markerNameInactive": "",
+  "maxBuffLevel": 0,
+  "name": "PCOD021_WeaponChooser_Artillery_AP",
+  "payload": {
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 132000,
+  "costXP": 0,
+  "id": 3735924720,
+  "index": "PAUE533",
+  "name": "PAUE533_B6_ENG_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

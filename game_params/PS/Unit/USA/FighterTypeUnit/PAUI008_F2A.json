@@ -1,0 +1,13 @@
+{
+  "costCR": 50000,
+  "costXP": 1300,
+  "id": 4286296048,
+  "index": "PAUI008",
+  "name": "PAUI008_F2A",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

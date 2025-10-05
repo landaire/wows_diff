@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA019_HappyNewYear2020",
+  "compensationCR": 0,
+  "description": "IDS_PCZC407_NY2020_WELDER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3868105648,
+  "index": "PCZC407",
+  "name": "PCZC407_NY2020_Welder",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

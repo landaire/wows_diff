@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3664719856,
+  "index": "PAUB601",
+  "name": "PAUB601_CV7_TB_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

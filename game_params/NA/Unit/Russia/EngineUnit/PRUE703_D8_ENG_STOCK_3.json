@@ -1,0 +1,13 @@
+{
+  "costCR": 700000,
+  "costXP": 0,
+  "id": 3557666256,
+  "index": "PRUE703",
+  "name": "PRUE703_D8_ENG_STOCK_3",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

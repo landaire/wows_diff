@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3455037136,
+  "index": "PJUA801",
+  "name": "PJUA801_ART_HIZEN",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

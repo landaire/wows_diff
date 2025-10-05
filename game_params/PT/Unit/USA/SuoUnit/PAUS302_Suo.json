@@ -1,0 +1,13 @@
+{
+  "costCR": 110000,
+  "costXP": 600,
+  "id": 3977687024,
+  "index": "PAUS302",
+  "name": "PAUS302_Suo",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

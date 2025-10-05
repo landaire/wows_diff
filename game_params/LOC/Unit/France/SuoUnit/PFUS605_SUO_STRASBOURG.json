@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3659968336,
+  "index": "PFUS605",
+  "name": "PFUS605_SUO_STRASBOURG",
+  "typeinfo": {
+    "nation": "France",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 405000,
+  "costXP": 0,
+  "id": 3663572816,
+  "index": "PFUE602",
+  "name": "PFUE602_D7_ENG_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4286764336,
+  "index": "PWK007",
+  "maxLevel": 2,
+  "name": "PWK007_Halland",
+  "personalCardBonus": {
+    "clan": "PCOK609_CLAN_DD_Torp"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PWSD110_Halland"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 160000,
+  "costXP": 2000,
+  "id": 4065078992,
+  "index": "PJUH219",
+  "name": "PJUH219_FALSE_ALLY_KAWACHI_1919",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

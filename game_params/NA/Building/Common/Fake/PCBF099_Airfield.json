@@ -1,0 +1,132 @@
+{
+  "airArmament": {
+    "auraCoeff": 1.0,
+    "deckPlaceCount": 24,
+    "isIndependentLaunchpad": false,
+    "isParallelLaunch": true,
+    "jointLaunchDelay": 1.0,
+    "jointLaunchOffset": [
+      40.0,
+      40.0
+    ],
+    "jointLaunchPlaneCount": -1,
+    "launchPrepareTime": 0,
+    "launchpadType": "fake",
+    "planesReserveCapacity": 199,
+    "turnCameraToCatapultNode": ""
+  },
+  "airshipPlane": {
+    "planeType": "PXAA001_Airship",
+    "planes": [
+      "PXAA001_Airship"
+    ]
+  },
+  "apDamageLimitCoeff": 0,
+  "flightControl": {
+    "airSupportSquadrons": [],
+    "airships": [
+      "Airship"
+    ],
+    "consumablePlanesReserve": {
+      "Fighter": 1,
+      "Scout": 0
+    },
+    "consumableSquadrons": [],
+    "hasConsumablePlanes": false,
+    "onlyOneSimultaneous": true,
+    "prepareTimeFactor": 1.0,
+    "squadrons": []
+  },
+  "hangarSettings": {
+    "maxValue": 1,
+    "restoreAmount": 1,
+    "startValue": 1,
+    "timeToRestore": 0.1
+  },
+  "hull": {
+    "acidDamage": 0.0,
+    "acidDuration": 0.0,
+    "armor": {},
+    "burnNodes": [],
+    "canBeSuppressed": true,
+    "canReceiveAcid": false,
+    "canReceiveWildFire": false,
+    "coolingOffSpeed": 1.0,
+    "deadModel": "",
+    "deathAnimation": "",
+    "deathEffect": "",
+    "deathModelReplacementDelay": 0.0,
+    "deathPlaneEffect": "particles/NF_death_catapult_ships.xml",
+    "effects": {
+      "fire1": []
+    },
+    "health": 100.0,
+    "healthRestorationRate": 0,
+    "heatChangeValue": 1.0,
+    "heightIntensityEffects": [],
+    "iconHeight": null,
+    "isBlind": false,
+    "mass": 1.0,
+    "maxHeatValue": 1.0,
+    "minVisionDistance": 0.0,
+    "model": "",
+    "numOfParts": 0,
+    "permanentlyRegenerateHealth": true,
+    "permanentlyVisibleByEnemies": true,
+    "permanentlyVisibleByTeammates": true,
+    "smokeScanRadius": 0.0,
+    "spawnAnimation": "",
+    "spawnEffect": "",
+    "startHealthCoeff": 1.0,
+    "startHealthToRegenerationCoeff": 0.5,
+    "suppressionEffect": {
+      "Effect Name": "",
+      "Scene Node": "Scene Root"
+    },
+    "toMineVisionDistance": [
+      600.0,
+      600.0,
+      100.0
+    ],
+    "visibilityCoefATBAByPlane": 2.0,
+    "visibilityCoefAirDefense": 1.3,
+    "visibilityCoefFire": 2.0,
+    "visibilityCoefFireByPlane": 2.0,
+    "visibilityCoefGK": 1e-6,
+    "visibilityCoefGKByPlane": 1e-6,
+    "visibilityCoefGKInSmoke": 1e-6,
+    "visibilityFactor": 10.0,
+    "visibilityFactorByPlane": 1.0,
+    "visibilityFactorInSmoke": 1.0,
+    "visionDistance": 500.0,
+    "visionFlag": 1,
+    "wildFireDamage": 0.0,
+    "wildFireDuration": -1.0
+  },
+  "id": 4190993328,
+  "index": "PCBF099",
+  "level": 11,
+  "modern": {
+    "canCharge": true,
+    "costCR": -1,
+    "excludes": [],
+    "group": [],
+    "modifiers": null,
+    "nation": [],
+    "shiplevel": [],
+    "ships": [],
+    "shiptype": [],
+    "slot": -1,
+    "tags": [],
+    "type": 0
+  },
+  "name": "PCBF099_Airfield",
+  "peculiarity": "default",
+  "peculiarityEffects": {},
+  "peculiarityModels": {},
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Fake",
+    "type": "Building"
+  }
+}

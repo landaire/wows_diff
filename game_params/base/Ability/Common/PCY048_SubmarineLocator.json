@@ -404,6 +404,33 @@
     "titleIDs": "",
     "workTime": 60.0
   },
+  "Surcouf_SubRadar": {
+    "availableBuoyancyStates": [],
+    "consumableType": "submarineLocator",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "distShip": 200.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave_sub.xml"
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 330.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 60.0
+  },
   "US_10_Archerfish": {
     "availableBuoyancyStates": [],
     "consumableType": "submarineLocator",
@@ -434,7 +461,6 @@
   "canBuy": false,
   "costCR": -1,
   "costGold": -1,
-  "custom": {},
   "freeOfCharge": true,
   "id": 4243759024,
   "index": "PCY048",

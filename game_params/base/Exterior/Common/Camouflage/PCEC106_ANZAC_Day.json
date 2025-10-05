@@ -8,13 +8,6 @@
   "canSell": true,
   "costCR": -1,
   "costGold": -1,
-  "custom": {
-    "CN": {
-      "canBuy": false,
-      "canCharge": false,
-      "hidden": true
-    }
-  },
   "hidden": true,
   "id": 4183748528,
   "index": "PCEC106",

@@ -1,0 +1,13 @@
+{
+  "costCR": 1700000,
+  "costXP": 20500,
+  "id": 3453955792,
+  "index": "PJUB802",
+  "name": "PJUB802_CV9_TB_TOP",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

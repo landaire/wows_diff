@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4249016304,
+  "index": "PAK043",
+  "maxLevel": 2,
+  "name": "PAK043_Baltimore_1944",
+  "personalCardBonus": {
+    "clan": "PCOK005_Balldmg_DHEdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PASC108_Baltimore_1944"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

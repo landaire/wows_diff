@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3551374544,
+  "index": "PZUE709",
+  "name": "PZUE709_ENG_WH_ORK",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

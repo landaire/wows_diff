@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3698520784,
+  "index": "PJD568",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/director/JD568_Director_Type_95_Mod3_Arpeggio/JD568_Director_Type_95_Mod3_Arpeggio.model",
+  "name": "PJD568_Director_Type_95_Mod3_Arpeggio",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Director"
+  }
+}

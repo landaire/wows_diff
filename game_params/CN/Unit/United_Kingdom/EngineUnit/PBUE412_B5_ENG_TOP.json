@@ -1,0 +1,13 @@
+{
+  "costCR": 240000,
+  "costXP": 2700,
+  "id": 3862802384,
+  "index": "PBUE412",
+  "name": "PBUE412_B5_ENG_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,104 @@
+{
+  "DDAY_Z34": {
+    "availableBuoyancyStates": [],
+    "consumableType": "sonar",
+    "descIDs": "PCY016_SonarSearchPremium",
+    "group": "ship",
+    "iconIDs": "PCY016_SonarSearchPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "distShip": 200.0,
+      "distTorpedo": 133.3333,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "targetBuoyancyDistances": {
+        "DEEP_WATER_INVUL": 66.6667
+      },
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY016_SonarSearchPremium",
+    "workTime": 120.0
+  },
+  "Post_Apocalypse": {
+    "availableBuoyancyStates": [],
+    "consumableType": "sonar",
+    "descIDs": "PCY016_SonarSearch_Short_Premium",
+    "group": "ship",
+    "iconIDs": "PCY016_SonarSearch_Short_Premium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "distShip": 166.6666,
+      "distTorpedo": 166.6666,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "targetBuoyancyDistances": {
+        "DEEP_WATER_INVUL": 66.6667
+      },
+      "titleIDs": ""
+    },
+    "numConsumables": 0,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY016_SonarSearch_Short_Premium",
+    "workTime": 60.0
+  },
+  "Post_Apocalypse2": {
+    "availableBuoyancyStates": [],
+    "consumableType": "sonar",
+    "descIDs": "PCY016_SonarSearchPremium",
+    "group": "ship",
+    "iconIDs": "PCY016_SonarSearchPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "distShip": 233.3333,
+      "distTorpedo": 233.3333,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "targetBuoyancyDistances": {
+        "DEEP_WATER_INVUL": 66.6667
+      },
+      "titleIDs": ""
+    },
+    "numConsumables": 0,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 30.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY016_SonarSearchPremium",
+    "workTime": 60.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 4267875600,
+  "index": "PXY025",
+  "name": "PXY025_SonarSearch",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

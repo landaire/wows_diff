@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4072517072,
+  "index": "PRUE212",
+  "name": "PRUE212_ENG_OLEG",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC217_AA_ORDINANCEMAN_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4067335088,
+  "index": "PCZC217",
+  "name": "PCZC217_AA_Ordinanceman",
+  "subAlbums": [
+    6
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

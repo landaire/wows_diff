@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3522146256,
+  "index": "PBUA737",
+  "name": "PBUA737_ART_ROYAL_SOVEREIGN",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

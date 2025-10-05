@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4267897808,
+  "index": "PBD025",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD025_Torpedo_director/BD025_Torpedo_director.model",
+  "name": "PBD025_Torpedo_director",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

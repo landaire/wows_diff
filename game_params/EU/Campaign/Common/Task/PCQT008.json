@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 2,
+  "conditions": [
+    "<isMyShip shipLevel=\"3,4,5,6,7,8,9,10,11\"\t/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\"/>",
+    "<isTotalXP count=\"2000\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4285939632,
+  "index": "PCQT008",
+  "isSingleBattle": true,
+  "lootStars": 4,
+  "name": "PCQT008",
+  "rewards": [
+    "<Item idx=\"PCEF030_CK_SignalFlag\" count=\"10\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT008_1",
+    "isTotalXP",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

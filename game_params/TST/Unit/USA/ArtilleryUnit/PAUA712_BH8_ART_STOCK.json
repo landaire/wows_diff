@@ -1,0 +1,13 @@
+{
+  "costCR": 1000000,
+  "costXP": 0,
+  "id": 3548360688,
+  "index": "PAUA712",
+  "name": "PAUA712_BH8_ART_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

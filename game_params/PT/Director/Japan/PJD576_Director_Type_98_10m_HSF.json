@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3690132176,
+  "index": "PJD576",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/director/JD576_Director_Type_98_10m_HSF/JD576_Director_Type_98_10m_HSF.model",
+  "name": "PJD576_Director_Type_98_10m_HSF",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Director"
+  }
+}

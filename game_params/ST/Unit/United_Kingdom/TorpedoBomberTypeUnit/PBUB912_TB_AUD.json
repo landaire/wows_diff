@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3338612688,
+  "index": "PBUB912",
+  "name": "PBUB912_TB_AUD",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

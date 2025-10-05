@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4286525136,
+  "index": "PJUB008",
+  "name": "PJUB008_MITSUBISHI_B1M",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

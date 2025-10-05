@@ -1,0 +1,219 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "Ratio": 2,
+    "damageRatio": 0.5,
+    "filterKeyShipsAttack": {
+      "isAlive": true,
+      "roles": [
+        "roleAttacker"
+      ]
+    },
+    "filterKeyShipsDefend": {
+      "isAlive": true,
+      "roles": [
+        "roleDefender"
+      ]
+    }
+  },
+  "enabled": true,
+  "events": [
+    [
+      "meAttack",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "damage",
+          "value"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ],
+        [
+          "subInstruction",
+          [
+            "counter",
+            "a",
+            "/",
+            "me",
+            "health"
+          ],
+          ">=",
+          "constant",
+          "damageRatio"
+        ],
+        [
+          "me",
+          "alive"
+        ],
+        [
+          "me",
+          "appropriate",
+          ":",
+          "constant",
+          "filterKeyShipsAttack"
+        ],
+        [
+          "subInstruction",
+          [
+            "subInstruction",
+            [
+              "battle",
+              "filteredPlayersCount",
+              ":",
+              "constant",
+              "filterKeyShipsDefend"
+            ],
+            "/",
+            "subInstruction",
+            [
+              "battle",
+              "filteredPlayersCount",
+              ":",
+              "constant",
+              "filterKeyShipsAttack"
+            ]
+          ],
+          ">=",
+          "constant",
+          "Ratio"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ],
+        [
+          "subInstruction",
+          [
+            "counter",
+            "a",
+            "/",
+            "me",
+            "health"
+          ],
+          ">=",
+          "constant",
+          "damageRatio"
+        ],
+        [
+          "me",
+          "alive"
+        ],
+        [
+          "me",
+          "appropriate",
+          ":",
+          "constant",
+          "filterKeyShipsDefend"
+        ],
+        [
+          "subInstruction",
+          [
+            "subInstruction",
+            [
+              "battle",
+              "filteredPlayersCount",
+              ":",
+              "constant",
+              "filterKeyShipsAttack"
+            ],
+            "/",
+            "subInstruction",
+            [
+              "battle",
+              "filteredPlayersCount",
+              ":",
+              "constant",
+              "filterKeyShipsDefend"
+            ]
+          ],
+          ">=",
+          "constant",
+          "Ratio"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 3926057904,
+  "index": "PCH351",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH351_CONVOY_TwoToOne",
+  "onePerBattle": true,
+  "shipCategories": [
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "earlyAccess",
+    "ultimate",
+    "upgradeableUltimate",
+    "superShip"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "CONVOY_TWOTOONE",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_CONVOY_ANYTEAM",
+  "uiType": "service_medal"
+}

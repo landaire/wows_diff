@@ -1,0 +1,24 @@
+{
+  "id": 3750414256,
+  "index": "PCOK519",
+  "level_1": {
+    "GMAPDamageCoeff": 1.05,
+    "GMHEDamageCoeff": 1.05,
+    "GMPenetrationCoeffHE": 1.6,
+    "GSPenetrationCoeffHE": 1.6,
+    "vulnerabilityAtba": 0.9
+  },
+  "level_2": {
+    "GMAPDamageCoeff": 1.05,
+    "GMHEDamageCoeff": 1.05,
+    "GMPenetrationCoeffHE": 1.6,
+    "GSPenetrationCoeffHE": 1.6,
+    "vulnerabilityAtba": 0.9
+  },
+  "name": "PCOK519_CLAN_Preussen",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

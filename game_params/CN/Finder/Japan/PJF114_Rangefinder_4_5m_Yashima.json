@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4174572240,
+  "index": "PJF114",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/finder/JF114_Rangefinder_4_5m_Yashima/JF114_Rangefinder_4_5m_Yashima.model",
+  "name": "PJF114_Rangefinder_4_5m_Yashima",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Finder"
+  }
+}

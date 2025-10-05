@@ -1,0 +1,59 @@
+{
+  "angle": 0.0,
+  "dist": 0.0,
+  "hidePlane": false,
+  "id": 4282578896,
+  "index": "PBC011",
+  "isInvisible": false,
+  "launchEffectName": "particles/Empty_FX.xml",
+  "linkedGunAngles": [],
+  "linkedGunName": null,
+  "linkedRotationSpeedCoeff": 1.0,
+  "model": "content/gameplay/uk/catapult/BC011_Catapult_46ft_SIIH/BC011_Catapult_46ft_SIIH.model",
+  "name": "PBC011_Catapult_46ft_SIIH",
+  "planeOffsets": {
+    "BAS001_Walrus": [
+      [
+        0.0,
+        0.6,
+        -0.7
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "XAF019_Sea_Hurricane_MkIIC_float_Hampshire_Pirates": [
+      [
+        0.0,
+        -0.6,
+        -1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "XAS009_Walrus_Hampshire_Pirate": [
+      [
+        0.0,
+        0.45,
+        -0.45
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  "rotateTime": 0.0,
+  "translateDelay": 0.0,
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Catapult"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4246125008,
+  "index": "PRRS046",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/radar/search/RRS046_Neptun/RRS046_Neptun.model",
+  "name": "PRRS046_Neptun",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

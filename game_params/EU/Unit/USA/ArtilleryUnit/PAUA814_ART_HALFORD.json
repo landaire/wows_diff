@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3441405936,
+  "index": "PAUA814",
+  "name": "PAUA814_ART_HALFORD",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

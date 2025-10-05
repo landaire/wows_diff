@@ -1,0 +1,13 @@
+{
+  "costCR": 550000,
+  "costXP": 0,
+  "id": 3558256368,
+  "index": "PIUS702",
+  "name": "PIUS702_C8_SUO_STOCK",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

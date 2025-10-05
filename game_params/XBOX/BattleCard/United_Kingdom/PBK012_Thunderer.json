@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4281522128,
+  "index": "PBK012",
+  "maxLevel": 2,
+  "name": "PBK012_Thunderer",
+  "personalCardBonus": {
+    "clan": "PCOK602_CLAN_BB_Far"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PBSB510_Thunderer"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

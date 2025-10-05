@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3258724112,
+  "index": "PHUH988",
+  "name": "PHUH988_ADMIRAAL",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

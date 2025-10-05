@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4267890672,
+  "index": "PAK025",
+  "maxLevel": 2,
+  "name": "PAK025_Constellation",
+  "personalCardBonus": {
+    "clan": "PCOK006_Balldmg_DAPdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PASB538_Constellation"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

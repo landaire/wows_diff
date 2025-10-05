@@ -102,6 +102,7 @@
     "PJSC934_Zao_1944",
     "PZSB509_Izumo_Bajie",
     "PZSC518_Martel_Wukong",
+    "PZSC717_Lanzhou",
     "PRSC003_Murmansk_1944",
     "PRSC105_Kirov",
     "PRSC525_Kirov",
@@ -244,7 +245,9 @@
     "PGSC729_Blucher",
     "PJSC710_Yari",
     "PJSC720_Kushiro",
-    "PASB719_Indiana"
+    "PASB719_Indiana",
+    "PGSC720_Bremen",
+    "PFSB709_Roussillon"
   ],
   "shiptype": [],
   "slot": 0,

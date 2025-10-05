@@ -1,0 +1,13 @@
+{
+  "costCR": 125000,
+  "costXP": 0,
+  "id": 3874335952,
+  "index": "PZUE401",
+  "name": "PZUE401_D5_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

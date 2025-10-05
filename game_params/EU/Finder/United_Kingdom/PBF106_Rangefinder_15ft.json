@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4182961104,
+  "index": "PBF106",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/finder/BF106_Rangefinder_15ft/BF106_Rangefinder_15ft.model",
+  "name": "PBF106_Rangefinder_15ft",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Finder"
+  }
+}

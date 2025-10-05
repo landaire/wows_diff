@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3651121104,
+  "index": "PBUA614",
+  "name": "PBUA614_ART_ST_PATRIC_BELFAST",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

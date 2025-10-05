@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3347492624,
+  "index": "PHUS903",
+  "name": "PHUS903_C10_SUO_STOCK",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

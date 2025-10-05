@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2193813840,
+  "index": "PVD2003",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panamerica/director/VD2003_6in_Director_L/VD2003_6in_Director_L.model",
+  "name": "PVD2003_6in_Director_L",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": null,
+    "type": "Director"
+  }
+}

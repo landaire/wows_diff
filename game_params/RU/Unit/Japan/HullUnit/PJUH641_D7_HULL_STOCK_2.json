@@ -1,0 +1,13 @@
+{
+  "costCR": 490000,
+  "costXP": 0,
+  "id": 3622579920,
+  "index": "PJUH641",
+  "name": "PJUH641_D7_HULL_STOCK_2",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

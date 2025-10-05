@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4280479952,
+  "index": "PZD013",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD013_Director_Mk37_Mod2/ZD013_Director_Mk37_Mod2.model",
+  "name": "PZD013_Director_Mk37_Mod2",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

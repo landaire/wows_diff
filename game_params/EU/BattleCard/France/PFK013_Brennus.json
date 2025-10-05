@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4280473424,
+  "index": "PFK013",
+  "maxLevel": 2,
+  "name": "PFK013_Brennus",
+  "personalCardBonus": {
+    "clan": "PCOK605_CLAN_CA_Kite"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PFSC710_Brennus"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

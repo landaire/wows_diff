@@ -1,0 +1,18 @@
+{
+  "id": 3685402544,
+  "index": "PCOK581",
+  "level_1": {
+    "GMIdealRadius": 0.92,
+    "vulnerabilityAP": 0.85
+  },
+  "level_2": {
+    "GMIdealRadius": 0.92,
+    "vulnerabilityAP": 0.85
+  },
+  "name": "PCOK581_CLAN_Plymouth",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

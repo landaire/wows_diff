@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4281282256,
+  "index": "PJUB013",
+  "name": "PJUB013_B5N2_KAGA",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 90000,
+  "costXP": 0,
+  "id": 3979095856,
+  "index": "PGUH301",
+  "name": "PGUH301_KARLSRUHE_A",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

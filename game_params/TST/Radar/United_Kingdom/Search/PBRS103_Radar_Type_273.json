@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4186356688,
+  "index": "PBRS103",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/radar/search/BRS103_Radar_Type_273/BRS103_Radar_Type_273.model",
+  "name": "PBRS103_Radar_Type_273",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

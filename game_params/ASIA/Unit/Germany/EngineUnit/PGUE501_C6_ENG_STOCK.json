@@ -1,0 +1,13 @@
+{
+  "costCR": 180000,
+  "costXP": 0,
+  "id": 3769478960,
+  "index": "PGUE501",
+  "name": "PGUE501_C6_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3342839088,
+  "index": "PWUA908",
+  "name": "PWUA908_ART_SVEA",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

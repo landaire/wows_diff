@@ -1,0 +1,13 @@
+{
+  "costCR": 2200000,
+  "costXP": 30000,
+  "id": 3544068080,
+  "index": "PAUD716",
+  "name": "PAUD716_BH8_DB_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

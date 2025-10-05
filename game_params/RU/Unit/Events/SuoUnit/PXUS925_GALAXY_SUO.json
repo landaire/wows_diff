@@ -1,0 +1,13 @@
+{
+  "costCR": 1800000,
+  "costXP": 0,
+  "id": 3324423440,
+  "index": "PXUS925",
+  "name": "PXUS925_GALAXY_SUO",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

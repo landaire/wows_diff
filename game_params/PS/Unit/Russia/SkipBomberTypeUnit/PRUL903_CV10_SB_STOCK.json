@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3347721680,
+  "index": "PRUL903",
+  "name": "PRUL903_CV10_SB_STOCK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SkipBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_SkipBomber"
+}

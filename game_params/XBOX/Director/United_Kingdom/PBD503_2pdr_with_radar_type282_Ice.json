@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3766678480,
+  "index": "PBD503",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD503_2pdr_with_radar_type282_Ice/BD503_2pdr_with_radar_type282_Ice.model",
+  "name": "PBD503_2pdr_with_radar_type282_Ice",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

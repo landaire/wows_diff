@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA018_ITCA_0810",
+  "compensationCR": 0,
+  "description": "IDS_PCZC384_ITCA_ERITREA_1937_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3892222896,
+  "index": "PCZC384",
+  "name": "PCZC384_ITCA_Eritrea_1937",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

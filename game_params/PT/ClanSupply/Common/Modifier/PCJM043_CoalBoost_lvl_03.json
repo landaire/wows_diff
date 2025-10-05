@@ -1,0 +1,20 @@
+{
+  "accumulativeResourceRequired": 0,
+  "bonusType": "coal_boost",
+  "buildingType": "PCJB005_Coal_Yard",
+  "buyable": true,
+  "cost": 100000,
+  "id": 4249476016,
+  "index": "PCJM043",
+  "isDummy": false,
+  "name": "PCJM043_CoalBoost_lvl_03",
+  "previousModifier": "PCJM042_CoalBoost_lvl_02",
+  "shipLevelMax": null,
+  "shipLevelMin": null,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Modifier",
+    "type": "ClanSupply"
+  },
+  "value": 10
+}

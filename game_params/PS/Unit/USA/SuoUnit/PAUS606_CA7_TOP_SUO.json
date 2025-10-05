@@ -1,0 +1,13 @@
+{
+  "costCR": 820000,
+  "costXP": 10200,
+  "id": 3658919920,
+  "index": "PAUS606",
+  "name": "PAUS606_CA7_TOP_SUO",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

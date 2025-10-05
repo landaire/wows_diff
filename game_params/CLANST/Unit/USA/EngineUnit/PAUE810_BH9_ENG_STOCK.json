@@ -1,0 +1,13 @@
+{
+  "costCR": 1500000,
+  "costXP": 0,
+  "id": 3445469168,
+  "index": "PAUE810",
+  "name": "PAUE810_BH9_ENG_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

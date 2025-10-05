@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4092144912,
+  "index": "PXUN193",
+  "name": "PXUN193_Akizuki_H2020_C",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "SecondaryWeaponsUnit",
+    "type": "Unit"
+  },
+  "ucType": "_SecondaryWeapons"
+}

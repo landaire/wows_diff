@@ -1,0 +1,13 @@
+{
+  "costCR": 730000,
+  "costXP": 0,
+  "id": 3258953712,
+  "index": "PAUA988",
+  "name": "PAUA988_ART_CLEVELAND",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

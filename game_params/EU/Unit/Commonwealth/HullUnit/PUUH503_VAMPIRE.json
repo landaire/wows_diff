@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3767283056,
+  "index": "PUUH503",
+  "name": "PUUH503_VAMPIRE",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,28 @@
+{
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": 24000,
+  "costGold": -1,
+  "flags": [
+    "juliet",
+    "yankee",
+    "bissotwo"
+  ],
+  "group": 0,
+  "hidden": false,
+  "id": 4285362096,
+  "index": "PCEF009",
+  "isTemplate": false,
+  "modifiers": {
+    "floodTime": 0.8
+  },
+  "name": "PCEF009_JY2_SignalFlag",
+  "sortOrder": 10,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Flags",
+    "type": "Exterior"
+  }
+}

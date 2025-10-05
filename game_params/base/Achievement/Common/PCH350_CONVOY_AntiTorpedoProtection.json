@@ -5,7 +5,6 @@
   "constants": {
     "eventName": "PCH350_CONVOY_ANTITORPEDOPROTECTION"
   },
-  "custom": {},
   "enabled": true,
   "events": [
     [

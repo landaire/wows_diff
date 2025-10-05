@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4274181968,
+  "index": "PFK019",
+  "maxLevel": 2,
+  "name": "PFK019_Cherbourg",
+  "personalCardBonus": {
+    "clan": "PCOK006_Balldmg_DAPdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PFSC208_Cherbourg"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

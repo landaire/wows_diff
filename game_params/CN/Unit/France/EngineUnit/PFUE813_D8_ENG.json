@@ -1,0 +1,13 @@
+{
+  "costCR": 700000,
+  "costXP": 0,
+  "id": 3442323280,
+  "index": "PFUE813",
+  "name": "PFUE813_D8_ENG",
+  "typeinfo": {
+    "nation": "France",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

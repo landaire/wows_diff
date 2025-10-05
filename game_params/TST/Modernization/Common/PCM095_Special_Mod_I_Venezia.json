@@ -1,0 +1,29 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4194488240,
+  "index": "PCM095",
+  "modifiers": {
+    "smokeGeneratorAdditionalConsumables": 2,
+    "smokeGeneratorReloadCoeff": 0.45
+  },
+  "name": "PCM095_Special_Mod_I_Venezia",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PISC110_Venezia"
+  ],
+  "shiptype": [],
+  "slot": 4,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

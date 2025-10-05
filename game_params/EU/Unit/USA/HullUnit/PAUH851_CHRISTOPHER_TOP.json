@@ -1,0 +1,13 @@
+{
+  "costCR": 3600000,
+  "costXP": 42000,
+  "id": 3402379248,
+  "index": "PAUH851",
+  "name": "PAUH851_CHRISTOPHER_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

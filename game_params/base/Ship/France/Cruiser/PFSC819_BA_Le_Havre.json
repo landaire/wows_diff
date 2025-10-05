@@ -6166,11 +6166,6 @@
   "battleSignalsOrder": [],
   "canCharge": true,
   "canEquipCamouflage": true,
-  "custom": {
-    "CN": {
-      "group": "disabled"
-    }
-  },
   "defaultCrew": null,
   "flagsScale": 0.6,
   "group": "special",

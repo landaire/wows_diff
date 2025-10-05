@@ -1,0 +1,13 @@
+{
+  "costCR": 2100000,
+  "costXP": 0,
+  "id": 3327569904,
+  "index": "PAUS922",
+  "name": "PAUS922_SUO_MONTANA_2",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

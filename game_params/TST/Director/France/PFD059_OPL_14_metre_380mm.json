@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4232246096,
+  "index": "PFD059",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD059_OPL_14_metre_380mm/FD059_OPL_14_metre_380mm.model",
+  "name": "PFD059_OPL_14_metre_380mm",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

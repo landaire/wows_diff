@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3547738064,
+  "index": "PBUT712",
+  "name": "PBUT712_CA8_TORP_CHESHIRE",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4206278864,
+  "index": "PZRS084",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/radar/search/ZRS084_Radar_SG6/ZRS084_Radar_SG6.model",
+  "name": "PZRS084_Radar_SG6",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

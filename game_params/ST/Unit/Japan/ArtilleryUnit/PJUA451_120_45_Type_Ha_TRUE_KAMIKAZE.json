@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3822038736,
+  "index": "PJUA451",
+  "name": "PJUA451_120_45_Type_Ha_TRUE_KAMIKAZE",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

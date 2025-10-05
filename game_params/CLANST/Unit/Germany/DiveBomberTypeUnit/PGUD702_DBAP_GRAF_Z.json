@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3558747952,
+  "index": "PGUD702",
+  "name": "PGUD702_DBAP_GRAF_Z",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

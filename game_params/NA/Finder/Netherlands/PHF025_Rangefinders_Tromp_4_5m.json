@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4267895568,
+  "index": "PHF025",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/netherlands/finder/HF025_Rangefinders_Tromp_4_5m/HF025_Rangefinders_Tromp_4_5m.model",
+  "name": "PHF025_Rangefinders_Tromp_4_5m",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": null,
+    "type": "Finder"
+  }
+}

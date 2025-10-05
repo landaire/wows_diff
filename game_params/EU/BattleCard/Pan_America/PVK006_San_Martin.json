@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4287812944,
+  "index": "PVK006",
+  "maxLevel": 2,
+  "name": "PVK006_San_Martin",
+  "personalCardBonus": {
+    "clan": "PCOK604_CLAN_CA_Controller"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PVSC110_San_Martin"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

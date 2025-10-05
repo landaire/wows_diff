@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4275910992,
+  "index": "PVRF018",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panamerica/radar/fcontrol/VRF018_Radar_Type_978Q/VRF018_Radar_Type_978Q.model",
+  "name": "PVRF018_Radar_Type_978Q",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "Fire control",
+    "type": "Radar"
+  }
+}

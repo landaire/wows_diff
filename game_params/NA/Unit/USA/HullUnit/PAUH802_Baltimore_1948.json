@@ -1,0 +1,13 @@
+{
+  "costCR": 3020000,
+  "costXP": 40500,
+  "id": 3453759472,
+  "index": "PAUH802",
+  "name": "PAUH802_Baltimore_1948",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

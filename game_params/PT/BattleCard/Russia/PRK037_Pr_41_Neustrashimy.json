@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4255307216,
+  "index": "PRK037",
+  "maxLevel": 2,
+  "name": "PRK037_Pr_41_Neustrashimy",
+  "personalCardBonus": {
+    "clan": "PCOK014_Balldmg_Dalldmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PRSD709_Pr_41_Neustrashimy"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

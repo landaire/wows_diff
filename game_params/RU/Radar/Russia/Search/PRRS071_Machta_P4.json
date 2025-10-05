@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4219910608,
+  "index": "PRRS071",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/radar/search/RRS071_Machta_P4/RRS071_Machta_P4.model",
+  "name": "PRRS071_Machta_P4",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

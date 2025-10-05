@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3340578512,
+  "index": "PJUF910",
+  "name": "PJUF910_FC1_SHINANO",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

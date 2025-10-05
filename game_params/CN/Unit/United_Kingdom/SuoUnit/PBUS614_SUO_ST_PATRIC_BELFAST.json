@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3650531280,
+  "index": "PBUS614",
+  "name": "PBUS614_SUO_ST_PATRIC_BELFAST",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

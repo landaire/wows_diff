@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3555667664,
+  "index": "PJUB705",
+  "name": "PJUB705_TORPER_BLACK_KAGA",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

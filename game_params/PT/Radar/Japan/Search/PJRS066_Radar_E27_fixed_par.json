@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4225153744,
+  "index": "PJRS066",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/radar/search/JRS066_Radar_E27_fixed_par/JRS066_Radar_E27_fixed_par.model",
+  "name": "PJRS066_Radar_E27_fixed_par",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

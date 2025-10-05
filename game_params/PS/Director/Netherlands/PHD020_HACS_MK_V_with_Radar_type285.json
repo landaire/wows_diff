@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4273140496,
+  "index": "PHD020",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/netherlands/director/HD020_HACS_MK_V_with_Radar_type285/HD020_HACS_MK_V_with_Radar_type285.model",
+  "name": "PHD020_HACS_MK_V_with_Radar_type285",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": null,
+    "type": "Director"
+  }
+}

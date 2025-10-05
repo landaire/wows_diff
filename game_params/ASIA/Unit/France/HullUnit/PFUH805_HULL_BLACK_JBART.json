@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3450613584,
+  "index": "PFUH805",
+  "name": "PFUH805_HULL_BLACK_JBART",
+  "typeinfo": {
+    "nation": "France",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

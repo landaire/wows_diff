@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4217813840,
+  "index": "PFRS073",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/radar/search/FRS073_DRBV_20C/FRS073_DRBV_20C.model",
+  "name": "PFRS073_DRBV_20C",
+  "typeinfo": {
+    "nation": "France",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 1500000,
+  "costXP": 0,
+  "id": 3339070736,
+  "index": "PXUT911",
+  "name": "PXUT911_ASTER_TORP_STOCK",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC323_AZURLANE_AYANAMI_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3956186032,
+  "index": "PCZC323",
+  "name": "PCZC323_AzurLane_Ayanami",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

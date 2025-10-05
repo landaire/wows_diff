@@ -1,0 +1,29 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4293055952,
+  "index": "PRK001",
+  "maxLevel": 2,
+  "name": "PRK001_Admiral_Nakhimov",
+  "personalCardBonus": {
+    "clan": "PCOK008_Balldmg_DplanebombX2"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PRSA110_Admiral_Nakhimov",
+      "PRSA990_Admiral_Orlov"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

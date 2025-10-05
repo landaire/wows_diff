@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA022_GF097",
+  "compensationCR": 0,
+  "description": "IDS_PCZC475_GF097_FLEET_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3796802480,
+  "index": "PCZC475",
+  "name": "PCZC475_GF097_Fleet",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

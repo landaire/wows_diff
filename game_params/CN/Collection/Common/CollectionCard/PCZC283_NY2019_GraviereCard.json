@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA013_HappyNewYear2019",
+  "compensationCR": 0,
+  "description": "IDS_PCZC283_NY2019_GRAVIERECARD_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3998129072,
+  "index": "PCZC283",
+  "name": "PCZC283_NY2019_GraviereCard",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

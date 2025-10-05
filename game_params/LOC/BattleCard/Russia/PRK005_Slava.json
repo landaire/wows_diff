@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4288861648,
+  "index": "PRK005",
+  "maxLevel": 2,
+  "name": "PRK005_Slava",
+  "personalCardBonus": {
+    "clan": "PCOK602_CLAN_BB_Far"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PRSB510_Slava"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

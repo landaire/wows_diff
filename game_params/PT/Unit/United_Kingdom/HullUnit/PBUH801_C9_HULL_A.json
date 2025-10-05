@@ -1,0 +1,13 @@
+{
+  "costCR": 1300000,
+  "costXP": 0,
+  "id": 3454808016,
+  "index": "PBUH801",
+  "name": "PBUH801_C9_HULL_A",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

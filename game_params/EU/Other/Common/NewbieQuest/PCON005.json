@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    [
+      "isFreeXPExplore",
+      {
+        "count": 1
+      }
+    ]
+  ],
+  "id": 4289284016,
+  "index": "PCON005",
+  "name": "PCON005",
+  "rewards": [
+    [
+      "Add",
+      {
+        "count": 1500,
+        "type": "FREE_XP"
+      }
+    ]
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "NewbieQuest",
+    "type": "Other"
+  },
+  "unlock": "FREE_EXP_USE"
+}

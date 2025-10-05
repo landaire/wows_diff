@@ -820,7 +820,7 @@
         18.0,
         18.0
       ],
-      "shotDelay": 4.0,
+      "shotDelay": 4.2,
       "shotEffect": "particles/guns/GK_Shot.xml",
       "smallGun": null,
       "smokePenalty": 0.0001,
@@ -937,7 +937,7 @@
         18.0,
         18.0
       ],
-      "shotDelay": 4.0,
+      "shotDelay": 4.2,
       "shotEffect": "particles/guns/GK_Shot.xml",
       "smallGun": null,
       "smokePenalty": 0.0001,
@@ -1054,7 +1054,7 @@
         18.0,
         18.0
       ],
-      "shotDelay": 4.0,
+      "shotDelay": 4.2,
       "shotEffect": "particles/guns/GK_Shot.xml",
       "smallGun": null,
       "smokePenalty": 0.0001,
@@ -1184,7 +1184,7 @@
         18.0,
         18.0
       ],
-      "shotDelay": 4.0,
+      "shotDelay": 4.2,
       "shotEffect": "particles/guns/GK_Shot.xml",
       "smallGun": null,
       "smokePenalty": 0.0001,
@@ -2707,7 +2707,7 @@
     "visibilityCoefFireByPlane": 2.0,
     "visibilityCoefGK": 1e-6,
     "visibilityCoefGKByPlane": 1e-6,
-    "visibilityCoefGKInSmoke": 2.67,
+    "visibilityCoefGKInSmoke": 2.87,
     "visibilityCoefPinger": {
       "0.0": 0.0
     },
@@ -2721,13 +2721,13 @@
     "visibilityCoeffUnderwaterDepthsByPlane": {
       "0.0": 1.0
     },
-    "visibilityFactor": 7.9,
-    "visibilityFactorByPlane": 3.18,
+    "visibilityFactor": 8.32,
+    "visibilityFactorByPlane": 3.39,
     "visibilityFactorInSmoke": 1e-6,
     "visibilityFactorsBySubmarine": {
       "DEEP_WATER": 2.0,
       "DEEP_WATER_INVUL": 0.0,
-      "PERISCOPE": 3.18,
+      "PERISCOPE": 3.39,
       "SEMI_DEEP_WATER": 2.0,
       "SURFACE": 0.0
     },
@@ -2817,6 +2817,13 @@
       "armor": {
         "65580": 6.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -4459,7 +4466,7 @@
       "abils": [
         [
           "PCY015_SpeedBoosterPremium",
-          "Blyska_52_Boost"
+          "Default"
         ]
       ],
       "isSpecial": false,
@@ -4601,7 +4608,6 @@
   "battleSignalsOrder": [],
   "canCharge": true,
   "canEquipCamouflage": true,
-  "custom": {},
   "defaultCrew": null,
   "flagsScale": 0.5,
   "group": "demoWithoutStatsPrem",

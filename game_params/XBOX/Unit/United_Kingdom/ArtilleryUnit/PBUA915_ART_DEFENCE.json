@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3335499728,
+  "index": "PBUA915",
+  "name": "PBUA915_ART_DEFENCE",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

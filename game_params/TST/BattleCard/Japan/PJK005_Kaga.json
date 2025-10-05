@@ -1,0 +1,29 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4288861904,
+  "index": "PJK005",
+  "maxLevel": 2,
+  "name": "PJK005_Kaga",
+  "personalCardBonus": {
+    "clan": "PCOK013_Balldmg_DplanetorpdmgX2"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PJSA518_Kaga",
+      "PJSA598_Black_Kaga"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

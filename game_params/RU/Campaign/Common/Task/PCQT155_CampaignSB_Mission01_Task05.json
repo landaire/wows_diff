@@ -1,0 +1,29 @@
+{
+  "backgroundIconID": 53,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\" class=\"Battleship\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\"/>",
+    "<isEarnBattleAchievements achievements=\"PCH004_Dreadnought\" count=\"3\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 4131798960,
+  "index": "PCQT155",
+  "isSingleBattle": false,
+  "lootStars": 3,
+  "name": "PCQT155_CampaignSB_Mission01_Task05",
+  "rewards": [
+    "<Item idx=\"PCEF030_CK_SignalFlag\" count=\"10\"/>",
+    "<Item idx=\"PCEF007_ID_SignalFlag\" count=\"10\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT155_CAMPAIGNSB_MISSION01_TASK05_1",
+    "isEarnBattleAchievements",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

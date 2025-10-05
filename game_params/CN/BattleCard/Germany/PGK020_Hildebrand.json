@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4273133360,
+  "index": "PGK020",
+  "maxLevel": 2,
+  "name": "PGK020_Hildebrand",
+  "personalCardBonus": {
+    "clan": "PCOK013_Balldmg_DplanetorpdmgX2"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PGSC710_Hildebrand"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4286772016,
+  "index": "PGD007",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/director/GD007_Flak_ZAG/GD007_Flak_ZAG.model",
+  "name": "PGD007_Flak_ZAG",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Director"
+  }
+}

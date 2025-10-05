@@ -1,0 +1,13 @@
+{
+  "costCR": 198500,
+  "costXP": 0,
+  "id": 3759124464,
+  "index": "PAUA511",
+  "name": "PAUA511_D6_ART_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

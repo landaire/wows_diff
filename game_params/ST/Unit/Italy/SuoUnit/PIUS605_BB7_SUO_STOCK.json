@@ -1,0 +1,13 @@
+{
+  "costCR": 400000,
+  "costXP": 0,
+  "id": 3659968240,
+  "index": "PIUS605",
+  "name": "PIUS605_BB7_SUO_STOCK",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

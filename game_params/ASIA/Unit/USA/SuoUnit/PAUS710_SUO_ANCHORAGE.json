@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3549868016,
+  "index": "PAUS710",
+  "name": "PAUS710_SUO_ANCHORAGE",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

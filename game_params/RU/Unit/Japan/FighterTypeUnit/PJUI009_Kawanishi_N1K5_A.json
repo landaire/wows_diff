@@ -1,0 +1,13 @@
+{
+  "costCR": 620000,
+  "costXP": 10500,
+  "id": 4285247184,
+  "index": "PJUI009",
+  "name": "PJUI009_Kawanishi_N1K5_A",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

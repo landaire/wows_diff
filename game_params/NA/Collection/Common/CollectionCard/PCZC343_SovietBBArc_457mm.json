@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA016_SovietBBArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC343_SOVIETBBARC_457MM_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3935214512,
+  "index": "PCZC343",
+  "name": "PCZC343_SovietBBArc_457mm",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4214668016,
+  "index": "PIRS076",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/italy/radar/search/IRS076_Radar_SK2/IRS076_Radar_SK2.model",
+  "name": "PIRS076_Radar_SK2",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 1,
+  "id": 3947245008,
+  "index": "PRUT331",
+  "name": "PRUT331_53_27",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

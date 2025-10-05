@@ -1,0 +1,38 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "camo_scandinavian_1",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 4500,
+  "hidden": false,
+  "id": 3965218608,
+  "index": "PGEP314",
+  "isTemplate": false,
+  "name": "PGEP314_Aegir_Viking",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

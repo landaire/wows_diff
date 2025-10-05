@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4253216976,
+  "index": "PZD039",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD039_VCU3_Hight_Angle/ZD039_VCU3_Hight_Angle.model",
+  "name": "PZD039_VCU3_Hight_Angle",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

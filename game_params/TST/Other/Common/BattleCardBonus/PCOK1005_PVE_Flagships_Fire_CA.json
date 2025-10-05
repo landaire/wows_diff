@@ -1,0 +1,74 @@
+{
+  "id": 3240806320,
+  "index": "PCOK1005",
+  "level_1": {
+    "HEDamageCoeffIfOnFire": 1.1,
+    "burnDamageMultiplier": 1.1,
+    "vulnerabilityMain": 0.95
+  },
+  "level_10": {
+    "HEDamageCoeffIfOnFire": 1.2,
+    "burnDamageMultiplier": 1.5,
+    "burnProb": 0.2,
+    "vulnerabilityMain": 0.7
+  },
+  "level_11": {
+    "HEDamageCoeffIfOnFire": 1.25,
+    "burnDamageMultiplier": 1.5,
+    "burnProb": 0.05,
+    "vulnerabilityMain": 0.7
+  },
+  "level_2": {
+    "HEDamageCoeffIfOnFire": 1.1,
+    "burnDamageMultiplier": 1.15,
+    "vulnerabilityMain": 0.9
+  },
+  "level_3": {
+    "HEDamageCoeffIfOnFire": 1.1,
+    "burnDamageMultiplier": 1.2,
+    "burnProb": 0.8,
+    "vulnerabilityMain": 0.9
+  },
+  "level_4": {
+    "HEDamageCoeffIfOnFire": 1.1,
+    "burnDamageMultiplier": 1.25,
+    "burnProb": 0.8,
+    "vulnerabilityMain": 0.85
+  },
+  "level_5": {
+    "HEDamageCoeffIfOnFire": 1.15,
+    "burnDamageMultiplier": 1.25,
+    "burnProb": 0.6,
+    "vulnerabilityMain": 0.85
+  },
+  "level_6": {
+    "HEDamageCoeffIfOnFire": 1.15,
+    "burnDamageMultiplier": 1.3,
+    "burnProb": 0.6,
+    "vulnerabilityMain": 0.8
+  },
+  "level_7": {
+    "HEDamageCoeffIfOnFire": 1.15,
+    "burnDamageMultiplier": 1.35,
+    "burnProb": 0.4,
+    "vulnerabilityMain": 0.8
+  },
+  "level_8": {
+    "HEDamageCoeffIfOnFire": 1.2,
+    "burnDamageMultiplier": 1.35,
+    "burnProb": 0.4,
+    "vulnerabilityMain": 0.75
+  },
+  "level_9": {
+    "HEDamageCoeffIfOnFire": 1.2,
+    "burnDamageMultiplier": 1.4,
+    "burnProb": 0.2,
+    "vulnerabilityMain": 0.75
+  },
+  "name": "PCOK1005_PVE_Flagships_Fire_CA",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

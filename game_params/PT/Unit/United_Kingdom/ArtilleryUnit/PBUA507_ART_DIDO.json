@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3763318736,
+  "index": "PBUA507",
+  "name": "PBUA507_ART_DIDO",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

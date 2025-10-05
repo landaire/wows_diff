@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3664752368,
+  "index": "PIUA601",
+  "name": "PIUA601_ART_ABRUZZI",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

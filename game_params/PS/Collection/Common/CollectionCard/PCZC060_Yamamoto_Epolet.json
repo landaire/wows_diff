@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC060_YAMAMOTO_EPOLET_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4231961520,
+  "index": "PCZC060",
+  "name": "PCZC060_Yamamoto_Epolet",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

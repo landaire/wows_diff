@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2194062320,
+  "index": "PARS2003",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/radar/search/ARS2003_Antenna_AS_570_Black/ARS2003_Antenna_AS_570_Black.model",
+  "name": "PARS2003_Antenna_AS_570_Black",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

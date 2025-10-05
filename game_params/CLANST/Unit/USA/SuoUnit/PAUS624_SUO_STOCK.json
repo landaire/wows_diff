@@ -1,0 +1,13 @@
+{
+  "costCR": 320000,
+  "costXP": 0,
+  "id": 3640045552,
+  "index": "PAUS624",
+  "name": "PAUS624_SUO_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

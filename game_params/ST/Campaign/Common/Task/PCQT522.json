@@ -1,0 +1,29 @@
+{
+  "backgroundIconID": 55,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\" class=\"Cruiser\"/>",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isPotentialDamage count=\"1250000\"/>",
+    "<isBattleResult battleResult=\"win\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3746971568,
+  "index": "PCQT522",
+  "isSingleBattle": true,
+  "lootStars": 1,
+  "name": "PCQT522",
+  "rewards": [
+    "<Item idx=\"PCEF007_ID_SignalFlag\" count=\"10\" />"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT522_1",
+    "isPotentialDamage",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

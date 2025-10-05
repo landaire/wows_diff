@@ -1,0 +1,13 @@
+{
+  "costCR": 1000000,
+  "costXP": 14000,
+  "id": 3662032176,
+  "index": "PWUT603",
+  "name": "PWUT603_DD7_TORP_TOP",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

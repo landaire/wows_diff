@@ -1,0 +1,31 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4259501776,
+  "index": "PJK033",
+  "maxLevel": 2,
+  "name": "PJK033_Atago_1944",
+  "personalCardBonus": {
+    "clan": "PCOK005_Balldmg_DHEdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PJSC038_Atago_1944",
+      "PJSC598_Black_Atago",
+      "PJSC708_ARP_Takao",
+      "PJSC718_ARP_Maya"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

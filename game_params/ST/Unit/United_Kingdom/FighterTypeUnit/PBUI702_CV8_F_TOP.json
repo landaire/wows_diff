@@ -1,0 +1,13 @@
+{
+  "costCR": 1500000,
+  "costXP": 18000,
+  "id": 3558584272,
+  "index": "PBUI702",
+  "name": "PBUI702_CV8_F_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

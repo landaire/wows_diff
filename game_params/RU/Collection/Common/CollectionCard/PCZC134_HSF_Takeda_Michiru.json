@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC134_HSF_TAKEDA_MICHIRU_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4154366896,
+  "index": "PCZC134",
+  "name": "PCZC134_HSF_Takeda_Michiru",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

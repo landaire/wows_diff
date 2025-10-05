@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4247173584,
+  "index": "PRRS045",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/radar/search/RRS045_Foot_B/RRS045_Foot_B.model",
+  "name": "PRRS045_Foot_B",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

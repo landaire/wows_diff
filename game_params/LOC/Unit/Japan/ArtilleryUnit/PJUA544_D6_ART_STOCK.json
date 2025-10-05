@@ -1,0 +1,13 @@
+{
+  "costCR": 180000,
+  "costXP": 0,
+  "id": 3724521168,
+  "index": "PJUA544",
+  "name": "PJUA544_D6_ART_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

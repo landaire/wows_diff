@@ -1,0 +1,38 @@
+{
+  "RarityCategory": {
+    "name": "Legendary"
+  },
+  "camouflage": "Alabama_Veteran_VL_Yellow",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 4000,
+  "hidden": true,
+  "id": 3946344432,
+  "index": "PAEP332",
+  "isTemplate": false,
+  "name": "PAEP332_Alabama_VL_Mod",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHidden"
+  ],
+  "typeinfo": {
+    "nation": "USA",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

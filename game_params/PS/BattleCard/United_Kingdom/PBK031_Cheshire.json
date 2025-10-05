@@ -1,0 +1,29 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4261599184,
+  "index": "PBK031",
+  "maxLevel": 2,
+  "name": "PBK031_Cheshire",
+  "personalCardBonus": {
+    "clan": "PCOK005_Balldmg_DHEdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PBSC508_Cheshire",
+      "PBSC558_AZUR_Cheshire"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

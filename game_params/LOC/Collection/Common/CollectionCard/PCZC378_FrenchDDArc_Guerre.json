@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA017_FrenchDDArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC378_FRENCHDDARC_GUERRE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3898514352,
+  "index": "PCZC378",
+  "name": "PCZC378_FrenchDDArc_Guerre",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

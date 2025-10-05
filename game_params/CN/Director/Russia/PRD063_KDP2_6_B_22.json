@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4228051408,
+  "index": "PRD063",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/director/RD063_KDP2_6_B_22/RD063_KDP2_6_B_22.model",
+  "name": "PRD063_KDP2_6_B_22",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Director"
+  }
+}

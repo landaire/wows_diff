@@ -1,0 +1,18 @@
+{
+  "id": 3761948592,
+  "index": "PCOK508",
+  "level_1": {
+    "GMIdealRadius": 0.88,
+    "shootShift": 1.2
+  },
+  "level_2": {
+    "GMIdealRadius": 0.88,
+    "shootShift": 1.2
+  },
+  "name": "PCOK508_CLAN_Ragnar",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4271036400,
+  "index": "PAK022",
+  "maxLevel": 2,
+  "name": "PAK022_Delaware",
+  "personalCardBonus": {
+    "clan": "PCOK008_Balldmg_DplanebombX2"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PASB209_Delaware"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

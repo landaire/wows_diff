@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4272084816,
+  "index": "PFK021",
+  "maxLevel": 2,
+  "name": "PFK021_Bayard",
+  "personalCardBonus": {
+    "clan": "PCOK005_Balldmg_DHEdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PFSC508_Bayard"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

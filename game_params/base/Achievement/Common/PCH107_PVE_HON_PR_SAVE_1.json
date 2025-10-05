@@ -32,7 +32,6 @@
     "progress": "shipsCount",
     "shipsCount": 20
   },
-  "custom": {},
   "enabled": true,
   "events": [
     [

@@ -1,0 +1,13 @@
+{
+  "costCR": 450000,
+  "costXP": 0,
+  "id": 3753651568,
+  "index": "PUUH516",
+  "name": "PUUH516_C6_HULL_STOCK",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

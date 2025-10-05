@@ -1,0 +1,13 @@
+{
+  "costCR": 470000,
+  "costXP": 5600,
+  "id": 3852217808,
+  "index": "PRUH422",
+  "name": "PRUH422_GNEVNY_B",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

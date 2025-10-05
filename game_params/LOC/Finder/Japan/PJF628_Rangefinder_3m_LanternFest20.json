@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3635604176,
+  "index": "PJF628",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/finder/JF628_Rangefinder_3m_LanternFest20/JF628_Rangefinder_3m_LanternFest20.model",
+  "name": "PJF628_Rangefinder_3m_LanternFest20",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Finder"
+  }
+}

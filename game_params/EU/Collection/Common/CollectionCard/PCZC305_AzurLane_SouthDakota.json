@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC305_AZURLANE_SOUTHDAKOTA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3975060400,
+  "index": "PCZC305",
+  "name": "PCZC305_AzurLane_SouthDakota",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

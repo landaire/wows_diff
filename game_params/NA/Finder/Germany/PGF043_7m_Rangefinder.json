@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4249021232,
+  "index": "PGF043",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF043_7m_Rangefinder/GF043_7m_Rangefinder.model",
+  "name": "PGF043_7m_Rangefinder",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

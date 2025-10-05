@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA023_BD098",
+  "compensationCR": 0,
+  "description": "IDS_PCZC508_BD098_MYOKO_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3762199472,
+  "index": "PCZC508",
+  "name": "PCZC508_BD098_Myoko",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

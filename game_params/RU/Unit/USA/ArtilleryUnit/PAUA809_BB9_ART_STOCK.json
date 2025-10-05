@@ -1,0 +1,13 @@
+{
+  "costCR": 1200000,
+  "costXP": 0,
+  "id": 3446648816,
+  "index": "PAUA809",
+  "name": "PAUA809_BB9_ART_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

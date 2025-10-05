@@ -1,0 +1,13 @@
+{
+  "costCR": 500000,
+  "costXP": 0,
+  "id": 3554520784,
+  "index": "PJUE706",
+  "name": "PJUE706_CV8_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

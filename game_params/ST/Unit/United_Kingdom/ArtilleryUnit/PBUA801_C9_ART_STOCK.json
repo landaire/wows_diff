@@ -1,0 +1,13 @@
+{
+  "costCR": 1000000,
+  "costXP": 0,
+  "id": 3455037392,
+  "index": "PBUA801",
+  "name": "PBUA801_C9_ART_STOCK",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

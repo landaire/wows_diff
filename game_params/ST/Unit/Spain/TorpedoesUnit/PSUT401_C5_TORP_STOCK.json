@@ -1,0 +1,13 @@
+{
+  "costCR": 134000,
+  "costXP": 0,
+  "id": 3873844656,
+  "index": "PSUT401",
+  "name": "PSUT401_C5_TORP_STOCK",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

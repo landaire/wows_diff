@@ -1,0 +1,13 @@
+{
+  "costCR": 1400000,
+  "costXP": 24000,
+  "id": 3549867216,
+  "index": "PZUS710",
+  "name": "PZUS710_C8_SUO_TOP",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 105000,
+  "costXP": 0,
+  "id": 3979095824,
+  "index": "PHUH301",
+  "name": "PHUH301_C4_HULL_STOCK",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

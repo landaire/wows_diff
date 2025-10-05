@@ -1,0 +1,13 @@
+{
+  "costCR": 400000,
+  "costXP": 0,
+  "id": 3661475568,
+  "index": "PIUE604",
+  "name": "PIUE604_BB7_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,58 @@
+{
+  "constants": {
+    "_shipClassCount": 3
+  },
+  "enabled": true,
+  "events": [
+    [
+      "meKill",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ]
+      ],
+      [
+        [
+          "set",
+          "add",
+          ":",
+          "target",
+          "vehicleClass"
+        ]
+      ]
+    ],
+    [
+      "meKill",
+      [
+        [
+          "set",
+          "len",
+          ">=",
+          "constant",
+          "_shipClassCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "id": 4279158704,
+  "index": "PCOC015",
+  "keepCounters": false,
+  "name": "PCOC015",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "AchievementCondition",
+    "type": "Other"
+  },
+  "uiDescription": "IDS_ACHIEVEMENT_CONDITION_PCOC015_DESCRIPTION",
+  "uiHeader": "IDS_ACHIEVEMENT_CONDITION_PCOC015_TITLE"
+}

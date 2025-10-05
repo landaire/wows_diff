@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 71,
+  "conditions": [
+    "<isMyShip shipIds=\"PASB001_Michigan_1916,PASB004_Arkansas_1912,PRSB104_Gangut,PFSB104_Courbet\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE\"/>",
+    "<isDamage count=\"120000\" damageTypes=\"main\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3615899568,
+  "index": "PCQT647",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT647_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF014_NF_SignalFlag\" count=\"5\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT647_1",
+    "isDamage",
+    "IDS_TASKRESTRICTIONSPECIAL_1EPOCH_BB_1"
+  ],
+  "unlockMissions": []
+}

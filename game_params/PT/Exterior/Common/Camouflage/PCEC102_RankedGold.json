@@ -1,0 +1,29 @@
+{
+  "RarityCategory": {
+    "name": "Epic"
+  },
+  "camouflage": "mat_Ranked_golden",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "hidden": true,
+  "id": 4187942832,
+  "index": "PCEC102",
+  "isTemplate": false,
+  "name": "PCEC102_RankedGold",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Camouflage",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3559370736,
+  "index": "PAUQ701",
+  "name": "PAUQ701_S8_SONAR_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 420000,
+  "costXP": 0,
+  "id": 3727437808,
+  "index": "PAUH541",
+  "name": "PAUH541_New_Mexico_1918",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

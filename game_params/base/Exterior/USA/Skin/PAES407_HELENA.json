@@ -8,12 +8,6 @@
   "canSell": false,
   "costCR": -1,
   "costGold": 3000,
-  "custom": {
-    "CN": {
-      "canBuy": false,
-      "hidden": true
-    }
-  },
   "effects": {
     "A_Hull": {
       "death": [

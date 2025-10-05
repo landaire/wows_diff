@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4220959184,
+  "index": "PRRS070",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/radar/search/RRS070_Korall_14/RRS070_Korall_14.model",
+  "name": "PRRS070_Korall_14",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

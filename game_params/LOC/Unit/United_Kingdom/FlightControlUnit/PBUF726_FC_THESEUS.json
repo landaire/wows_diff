@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3533516752,
+  "index": "PBUF726",
+  "name": "PBUF726_FC_THESEUS",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

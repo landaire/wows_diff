@@ -1,0 +1,29 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4268939248,
+  "index": "PAK024",
+  "maxLevel": 2,
+  "name": "PAK024_Massachusetts",
+  "personalCardBonus": {
+    "clan": "PCOK007_Balldmg_DATBAdmgX2"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PASB518_Massachusetts",
+      "PASB598_Black_Massachusetts"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

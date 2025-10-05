@@ -1,0 +1,13 @@
+{
+  "costCR": 1300000,
+  "costXP": 15500,
+  "id": 4282101744,
+  "index": "PAUI012",
+  "name": "PAUI012_Vought_F4U",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

@@ -1,0 +1,22 @@
+{
+  "canCharge": true,
+  "costCR": 125000,
+  "excludes": [],
+  "group": [],
+  "id": 4260548528,
+  "index": "PCM032",
+  "modifiers": null,
+  "name": "PCM032_PowderMagazine_Mod_I",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [],
+  "shiptype": [],
+  "slot": 0,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

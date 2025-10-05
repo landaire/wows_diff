@@ -1,0 +1,13 @@
+{
+  "costCR": 1500000,
+  "costXP": 18000,
+  "id": 3556716240,
+  "index": "PJUB704",
+  "name": "PJUB704_CV8_TB_TOP",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 10000,
+  "costXP": 270,
+  "id": 4186943280,
+  "index": "PGUA103",
+  "name": "PGUA103_D2_ART_TOP",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

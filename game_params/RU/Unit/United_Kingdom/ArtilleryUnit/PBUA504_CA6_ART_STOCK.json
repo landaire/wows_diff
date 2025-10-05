@@ -1,0 +1,13 @@
+{
+  "costCR": 200000,
+  "costXP": 0,
+  "id": 3766464464,
+  "index": "PBUA504",
+  "name": "PBUA504_CA6_ART_STOCK",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

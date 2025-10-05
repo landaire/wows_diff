@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4293898000,
+  "index": "PHUA001",
+  "name": "PHUA001_C1_ART_STOCK",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

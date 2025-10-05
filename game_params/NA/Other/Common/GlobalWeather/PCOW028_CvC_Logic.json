@@ -1,0 +1,42 @@
+{
+  "audio": {
+    "effect": "Morning",
+    "intensity": 100.0
+  },
+  "changeDist": 125.0,
+  "changeStart": 75.0,
+  "graphics": "Morning",
+  "id": 4264871856,
+  "index": "PCOW028",
+  "logic": {
+    "AAMaxDist": 1.0,
+    "GMIdealRadius": 1.0,
+    "GSIdealRadius": 1.0,
+    "GSMIdealRadius": 1.0,
+    "airDefenseVisibilityTime": 2,
+    "bad": 1.0,
+    "burnDamage": 1.0,
+    "burnTime": 1.0,
+    "maxPlaneVisionDistance": 266.6664,
+    "maxShipVisionDistance": 466.6662,
+    "maxVisibilityDistance": 2000.0,
+    "maxVisibilityDistanceByPlane": 2000.0,
+    "mgVisibilityTime": 20,
+    "planeMaxVisibilityDistance": 2000.0,
+    "planeMaxVisibilityDistanceByPlane": 2000.0,
+    "planeSpeed": 1.0,
+    "planeVisibilityFactor": 1.0,
+    "planeVisibilityFactorByPlane": 1.0,
+    "shootShift": 1.0,
+    "speedCoef": 1.0,
+    "transparency": 1.0,
+    "visibilityFactor": 1.0,
+    "visibilityFactorByPlane": 1.0
+  },
+  "name": "PCOW028_CvC_Logic",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "GlobalWeather",
+    "type": "Other"
+  }
+}

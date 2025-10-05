@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4271036240,
+  "index": "PFK022",
+  "maxLevel": 2,
+  "name": "PFK022_Charles_Martel",
+  "personalCardBonus": {
+    "clan": "PCOK005_Balldmg_DHEdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PFSC108_Charles_Martel"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

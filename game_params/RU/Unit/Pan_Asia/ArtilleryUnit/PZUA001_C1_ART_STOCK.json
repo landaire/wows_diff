@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4293897424,
+  "index": "PZUA001",
+  "name": "PZUA001_C1_ART_STOCK",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

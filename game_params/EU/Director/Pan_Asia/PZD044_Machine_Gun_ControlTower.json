@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4247974096,
+  "index": "PZD044",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD044_Machine_Gun_ControlTower/ZD044_Machine_Gun_ControlTower.model",
+  "name": "PZD044_Machine_Gun_ControlTower",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

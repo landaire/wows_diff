@@ -1,0 +1,13 @@
+{
+  "costCR": 1500000,
+  "costXP": 0,
+  "id": 3342249424,
+  "index": "PRUS908",
+  "name": "PRUS908_D10_SUO_STOCK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

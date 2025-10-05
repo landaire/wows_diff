@@ -1,0 +1,13 @@
+{
+  "costCR": 1,
+  "costXP": 1,
+  "id": 4191956688,
+  "index": "PJUH098",
+  "name": "PJUH098_HULL_TEST",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

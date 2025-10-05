@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3559894768,
+  "index": "PIUA701",
+  "name": "PIUA701_ART_ROMA",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

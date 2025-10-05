@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC153_HSF_MINAMI_KABURAGI_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4134443952,
+  "index": "PCZC153",
+  "name": "PCZC153_HSF_Minami_Kaburagi",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

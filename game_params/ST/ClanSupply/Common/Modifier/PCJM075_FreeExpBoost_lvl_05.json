@@ -1,0 +1,20 @@
+{
+  "accumulativeResourceRequired": 0,
+  "bonusType": "free_exp_boost",
+  "buildingType": "PCJB008_Design_Department",
+  "buyable": true,
+  "cost": 15000,
+  "id": 4215921584,
+  "index": "PCJM075",
+  "isDummy": false,
+  "name": "PCJM075_FreeExpBoost_lvl_05",
+  "previousModifier": "PCJM074_FreeExpBoost_lvl_04",
+  "shipLevelMax": 10,
+  "shipLevelMin": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Modifier",
+    "type": "ClanSupply"
+  },
+  "value": 40
+}

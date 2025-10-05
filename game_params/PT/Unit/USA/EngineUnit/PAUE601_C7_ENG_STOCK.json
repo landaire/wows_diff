@@ -1,0 +1,13 @@
+{
+  "costCR": 390000,
+  "costXP": 0,
+  "id": 3664621552,
+  "index": "PAUE601",
+  "name": "PAUE601_C7_ENG_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

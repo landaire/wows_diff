@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 0,
+  "id": 3341659920,
+  "index": "PHUE909",
+  "name": "PHUE909_ENG_UTRECHT",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

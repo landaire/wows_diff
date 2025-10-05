@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA025_GERDD_1004",
+  "compensationCR": 0,
+  "description": "IDS_PCZC543_GERDD_1004_SCHULTZ_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3725499312,
+  "index": "PCZC543",
+  "name": "PCZC543_GERDD_1004_Schultz",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

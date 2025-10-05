@@ -1,0 +1,13 @@
+{
+  "costCR": 200000,
+  "costXP": 0,
+  "id": 3758534480,
+  "index": "PFUS511",
+  "name": "PFUS511_C6_SUO_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2194862864,
+  "index": "PHD2002",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/netherlands/director/HD2002_Flak_ZAG/HD2002_Flak_ZAG.model",
+  "name": "PHD2002_Flak_ZAG",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": null,
+    "type": "Director"
+  }
+}

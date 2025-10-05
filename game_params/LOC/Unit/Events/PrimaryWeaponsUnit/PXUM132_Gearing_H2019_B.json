@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4156140816,
+  "index": "PXUM132",
+  "name": "PXUM132_Gearing_H2019_B",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "PrimaryWeaponsUnit",
+    "type": "Unit"
+  },
+  "ucType": "_PrimaryWeapons"
+}

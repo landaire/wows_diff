@@ -1,0 +1,13 @@
+{
+  "costCR": 480000,
+  "costXP": 6300,
+  "id": 3841732304,
+  "index": "PJUH432",
+  "name": "PJUH432_Furutaka_1930",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

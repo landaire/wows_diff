@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3559370192,
+  "index": "PRUQ701",
+  "name": "PRUQ701_SONAR_S189",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

@@ -1,0 +1,121 @@
+{
+  "alwaysShowIfAchieved": false,
+  "battleTypes": [
+    "RANKED"
+  ],
+  "canBuy": false,
+  "canCharge": true,
+  "canUseDoll": true,
+  "clanTag": [
+    false,
+    "",
+    [
+      0,
+      0
+    ]
+  ],
+  "constants": {
+    "progress": [
+      "uniqueStars"
+    ],
+    "uniqueStars": 30
+  },
+  "costCR": 15000,
+  "costGold": -1,
+  "enabled": true,
+  "events": [
+    [
+      "afterBattle",
+      [],
+      [
+        [
+          "counter",
+          "globalA",
+          "+=",
+          "afterBattle",
+          "uniqueStars"
+        ]
+      ]
+    ],
+    [
+      "afterBattle",
+      [
+        [
+          "counter",
+          "globalA",
+          ">=",
+          "constant",
+          "uniqueStars"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4238724016,
+  "index": "PCNU053",
+  "isTemplate": false,
+  "keepCounters": false,
+  "lootBoxAvailable": false,
+  "maxShipLevel": 11,
+  "minShipLevel": 1,
+  "multiple": false,
+  "name": "PCNU053",
+  "needDescription": true,
+  "onePerBattle": false,
+  "reward": [],
+  "rewardOncePerDay": false,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": true,
+  "symbolOffsetY": 0,
+  "tags": [
+    "emblem"
+  ],
+  "type": "heroic",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Emblem",
+    "type": "DogTag"
+  },
+  "uiCondition": [
+    [
+      "IDS_TASKRESTRICTION_RANKEDONLY",
+      true
+    ]
+  ],
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "",
+  "uiOutOfDate": false,
+  "uiQuest": [
+    [
+      "IDS_QUEST_UNIQUE_STARS",
+      "uniqueStars"
+    ]
+  ],
+  "uiRestrictionIDS": "",
+  "uiType": "common"
+}

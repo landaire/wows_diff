@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3862343120,
+  "index": "PRUS412",
+  "name": "PRUS412_SUO_OHOTNIK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

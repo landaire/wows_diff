@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC090_YAMAMOTO_LOCKHEED_P_38G_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4200504240,
+  "index": "PCZC090",
+  "name": "PCZC090_Yamamoto_Lockheed_P_38G",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

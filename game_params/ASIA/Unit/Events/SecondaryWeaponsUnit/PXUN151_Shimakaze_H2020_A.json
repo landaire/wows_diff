@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4136185104,
+  "index": "PXUN151",
+  "name": "PXUN151_Shimakaze_H2020_A",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "SecondaryWeaponsUnit",
+    "type": "Unit"
+  },
+  "ucType": "_SecondaryWeapons"
+}

@@ -1,0 +1,29 @@
+{
+  "backgroundIconID": 36,
+  "conditions": [
+    "<isMyShip shipLevel=\"10,11\"/>",
+    "<isBattleType battleTypes=\"PVP,RANKED\"/>",
+    "<isTopXP rank=\"1\" topType=\"team\"/>",
+    "<isBattleResultCount battleResult=\"win\" count=\"1\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 4088807344,
+  "index": "PCQT196",
+  "isSingleBattle": true,
+  "lootStars": 4,
+  "name": "PCQT196_CampaignSB_Mission05_Task06",
+  "rewards": [
+    "<Item idx=\"PCM014_Torpedo_Mod_III\" count=\"1\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT196_CAMPAIGNSB_MISSION05_TASK06_1",
+    "isBattleResultCount",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

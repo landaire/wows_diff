@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4180863952,
+  "index": "PBF108",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/finder/BF108_Rangefinder_10ft/BF108_Rangefinder_10ft.model",
+  "name": "PBF108_Rangefinder_10ft",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Finder"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4229097776,
+  "index": "PWF062",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/finder/WF062_3m_Rangefinder_covered/WF062_3m_Rangefinder_covered.model",
+  "name": "PWF062_3m_Rangefinder_covered",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Finder"
+  }
+}

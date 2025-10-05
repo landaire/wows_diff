@@ -1,0 +1,33 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "deathSoundEvent": "Custom_Death_Pinata",
+  "effectOnDeath": {
+    "AirCarrier": "particles/vehicles/CustomDeath_Pinata_AirCarrier_BattleShip.xml",
+    "Battleship": "particles/vehicles/CustomDeath_Pinata_AirCarrier_BattleShip.xml",
+    "Cruiser": "particles/vehicles/CustomDeath_Pinata_Destroyer_Cruiser.xml",
+    "Destroyer": "particles/vehicles/CustomDeath_Pinata_Destroyer_Cruiser.xml",
+    "Submarine": "particles/vehicles/CustomDeath_Pinata_Submarin.xml"
+  },
+  "effectOnUnderWaterDeath": "particles/vehicles/Submarine_death.xml",
+  "group": "paintwork",
+  "hidden": false,
+  "id": 4289621936,
+  "index": "PCED005",
+  "isTemplate": false,
+  "name": "PCED005_1st_April_2025",
+  "peculiarity": "thematic",
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "ShipDestruction",
+    "type": "Exterior"
+  }
+}

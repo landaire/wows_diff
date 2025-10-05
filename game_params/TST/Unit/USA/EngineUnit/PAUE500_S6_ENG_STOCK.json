@@ -1,0 +1,13 @@
+{
+  "costCR": 350000,
+  "costXP": 0,
+  "id": 3770527728,
+  "index": "PAUE500",
+  "name": "PAUE500_S6_ENG_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

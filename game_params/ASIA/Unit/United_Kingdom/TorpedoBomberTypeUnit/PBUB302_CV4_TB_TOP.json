@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3978244048,
+  "index": "PBUB302",
+  "name": "PBUB302_CV4_TB_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

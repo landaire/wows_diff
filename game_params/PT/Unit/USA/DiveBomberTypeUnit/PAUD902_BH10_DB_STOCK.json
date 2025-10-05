@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 0,
+  "id": 3349032944,
+  "index": "PAUD902",
+  "name": "PAUD902_BH10_DB_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

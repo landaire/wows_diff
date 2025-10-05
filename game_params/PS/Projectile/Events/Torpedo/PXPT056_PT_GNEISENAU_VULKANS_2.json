@@ -1,0 +1,117 @@
+{
+  "PhotonTorpedoParams": {
+    "affectedByPTZ": true,
+    "applyPTZCoeff": true,
+    "attackDistance": 3500.0,
+    "flyHeight": 4.0,
+    "launchInertiaTime": 2.0,
+    "launchSpeed": 100.0,
+    "launchTime": 0.15,
+    "maxDepthLevel": 0.0,
+    "maxVerticalSpeed": 200.0,
+    "maxYaw": 75.0,
+    "outerSalvoSize": [
+      0.0,
+      0.0
+    ],
+    "searchAngle": 45.0,
+    "speedDecrCoef": 0.9,
+    "startAccelerationTime": 5.0,
+    "useEnhancedRegenerationRules": false,
+    "verticalAcceleration": 20.0,
+    "yawChangeSpeed": 30.0
+  },
+  "acidProb": 0.0,
+  "additionalShips": [],
+  "affectedByPTZ": false,
+  "alertDist": 100,
+  "alphaDamage": 10750.0,
+  "alphaPiercingHE": 1000.0,
+  "ammoType": "torpedo_photon",
+  "applyPTZCoeff": false,
+  "armingTime": 1,
+  "blowUpEffect": "particles/StarTrek_Photon_Torpedoe_Explo_White.xml",
+  "bulletDiametr": 0.3,
+  "buoyancyToDamageCoeff": {
+    "DEEP_WATER": 1.0,
+    "DEEP_WATER_INVUL": 1.0,
+    "PERISCOPE": 1.0,
+    "SEMI_DEEP_WATER": 1.0,
+    "SURFACE": 1.0
+  },
+  "burnProb": 0.15,
+  "costCR": 0,
+  "customSoundPostfix": "_Pt_STK",
+  "customUIPostfix": "",
+  "damage": 0.0,
+  "damageCoeffMaxPing": 2.0,
+  "depth": 0.14,
+  "depthSplashRadius": 3.0,
+  "directDamage": 0.0,
+  "distanceOfDamage": [],
+  "dropToTheGroundEffect": "particles/StarTrek_Photon_Torpedoe_Explo_White.xml",
+  "fallDistance": 20.0,
+  "fallTime": 20.0,
+  "fallingTimeCoef": 1,
+  "fallingTracerEffect": "particles/Empty_FX.xml",
+  "floodGeneration": false,
+  "ground": "particles/StarTrek_Photon_Torpedoe_Explo_White.xml",
+  "hitDecalSize": 0.0,
+  "id": 4235608336,
+  "ignoreBuoyancyStates": [],
+  "ignoreClasses": [],
+  "index": "PXPT056",
+  "isDeepWater": false,
+  "isFeedbackAndMarkerHidden": false,
+  "maneuverDist": 0.0,
+  "maxDepth": -80,
+  "maxDist": 6000.0,
+  "model": "content/common/YMC001_Dummy/YMC001_Dummy.model",
+  "name": "PXPT056_PT_GNEISENAU_VULKANS_2",
+  "onHit": null,
+  "ownTracerEffect": "particles/Empty_FX.xml",
+  "parachuteHeightCoeff": 0.75,
+  "parachuteModel": "content/location/misc/gameplay/LMY052_Parachute/LMY052_Parachute.model",
+  "parachuteTimeCoeff": 0.95,
+  "planeAmmoType": "torpedo",
+  "pointsOfDamage": [
+    [
+      0,
+      1.0
+    ],
+    [
+      0.999,
+      1.0
+    ],
+    [
+      1.0,
+      0.0
+    ]
+  ],
+  "projDestroyedEffect": [
+    "particles/StarTrek_Photon_Torpedoe_Explo_White.xml"
+  ],
+  "shipDestroyEffect": "particles/Empty_FX.xml",
+  "shotEffect": "particles/StarTrek_Photon_Torpedo_big_BW.xml",
+  "speed": 580.0,
+  "splashArmorCoeff": 0.0,
+  "splashCubeSize": 0.0,
+  "torpedoProjDestroyedEffect": [
+    "particles/StarTrek_Photon_Torpedoe_Explo_White.xml"
+  ],
+  "torpedoType": 2,
+  "tracerEffect": "particles/Empty_FX.xml",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "Torpedo",
+    "type": "Projectile"
+  },
+  "underwaterTracerEffect": "particles/StarTrek_Photon_Torpedo_big_BW.xml",
+  "useDefaultDepth": true,
+  "useEnhancedRegenerationRules": false,
+  "uwCritical": 0.0,
+  "visibilityFactor": 200.0,
+  "volume": 0.0,
+  "water": "particles/StarTrek_Photon_Torpedoe_Water_White.xml",
+  "withParachute": false
+}

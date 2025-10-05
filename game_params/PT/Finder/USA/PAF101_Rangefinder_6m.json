@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4188204016,
+  "index": "PAF101",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/finder/AF101_Rangefinder_6m/AF101_Rangefinder_6m.model",
+  "name": "PAF101_Rangefinder_6m",
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "Finder"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 17,
+  "conditions": [
+    "<isMyShip shipIds=\"PGSD104_V_170,PBSD103_Valkyrie,PBSD104_Wakeful\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE\"/>",
+    "<isRibbons count=\"14\" ribbons=\"TORPEDO\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3601219504,
+  "index": "PCQT661",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT661_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF019_JW1_SignalFlag\" count=\"6\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT661_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_DD_2"
+  ],
+  "unlockMissions": []
+}

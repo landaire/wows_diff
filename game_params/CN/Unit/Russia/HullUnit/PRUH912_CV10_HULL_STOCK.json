@@ -1,0 +1,13 @@
+{
+  "costCR": 3000000,
+  "costXP": 0,
+  "id": 3338415568,
+  "index": "PRUH912",
+  "name": "PRUH912_CV10_HULL_STOCK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

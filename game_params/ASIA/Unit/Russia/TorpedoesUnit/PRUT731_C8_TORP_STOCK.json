@@ -1,0 +1,13 @@
+{
+  "costCR": 800000,
+  "costXP": 0,
+  "id": 3527814608,
+  "index": "PRUT731",
+  "name": "PRUT731_C8_TORP_STOCK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 550000,
+  "costXP": 0,
+  "id": 3350048752,
+  "index": "PAUE901",
+  "name": "PAUE901_B10_ENG_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "backgroundIconID": 48,
+  "conditions": [
+    "<isMyShip shipLevel=\"4,5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isBattleCount count=\"1\" />"
+  ],
+  "costUnlock": 5,
+  "id": 4284891056,
+  "index": "PCQT009",
+  "isSingleBattle": true,
+  "lootStars": 0,
+  "name": "PCQT009_Key",
+  "rewards": [
+    "<Item idx=\"PCM030_MainWeapon_Mod_I\" count=\"1\" />",
+    "<Item idx=\"PCM031_SecondaryWeapon_Mod_I\" count=\"1\" />",
+    "<Item idx=\"PCM084_Pinger_Mod_I\" count=\"1\" />",
+    "<Item idx=\"PCM003_Airplanes_Mod_I\" count=\"1\" />",
+    "<Item idx=\"PCM020_DamageControl_Mod_I\" count=\"1\" />",
+    "<Item idx=\"PCM069_Movement_Mod_I\" count=\"1\" />"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT009_1",
+    "isBattleCount",
+    "IDS_TASKRESTRICTION_PVPCOOPRANKED"
+  ],
+  "unlockMissions": [
+    "PCQM002"
+  ]
+}

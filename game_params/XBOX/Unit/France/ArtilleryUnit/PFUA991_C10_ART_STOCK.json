@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 0,
+  "id": 3255807824,
+  "index": "PFUA991",
+  "name": "PFUA991_C10_ART_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

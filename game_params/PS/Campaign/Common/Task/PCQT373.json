@@ -1,0 +1,29 @@
+{
+  "backgroundIconID": 0,
+  "conditions": [
+    "<isMyShip shipLevel=\"9,10,11\" class=\"Cruiser\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isKillShips count=\"2\" class=\"Destroyer\" />",
+    "<isAlive isAlive=\"true\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3903209392,
+  "index": "PCQT373",
+  "isSingleBattle": true,
+  "lootStars": 3,
+  "name": "PCQT373",
+  "rewards": [
+    "<Item idx=\"PCEF014_NF_SignalFlag\" count=\"25\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT373_1",
+    "isKillShips",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

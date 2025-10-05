@@ -1,0 +1,37 @@
+{
+  "id": 4284008368,
+  "index": "PCOO010",
+  "logic": {
+    "InteractiveObjectEvents": {
+      "OnMouseClick": {
+        "InteractiveObjectActions": null,
+        "activeTime": 2.0,
+        "requiredState": "hovered",
+        "targetState": "selected",
+        "type": "onMouseClick"
+      },
+      "OnMouseOver": {
+        "InteractiveObjectActions": null,
+        "activeTime": 1.0,
+        "requiredState": "idle",
+        "targetState": "hovered",
+        "type": "onMouseOver"
+      },
+      "OnMouseOverEnd": {
+        "InteractiveObjectActions": null,
+        "activeTime": 1.0,
+        "requiredState": "hovered",
+        "targetState": "released",
+        "type": "onMouseOverEnd"
+      }
+    },
+    "state": "idle"
+  },
+  "name": "PCOO010_SwordSoundClick",
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "InteractiveObject",
+    "type": "Other"
+  }
+}

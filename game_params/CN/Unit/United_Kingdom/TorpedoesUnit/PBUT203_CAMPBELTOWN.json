@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4081463248,
+  "index": "PBUT203",
+  "name": "PBUT203_CAMPBELTOWN",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

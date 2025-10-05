@@ -520,6 +520,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -635,6 +642,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -750,6 +764,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -865,6 +886,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -1452,6 +1480,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -1567,6 +1602,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -1682,6 +1724,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -1797,6 +1846,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -2384,6 +2440,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -2499,6 +2562,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -2614,6 +2684,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -2729,6 +2806,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -4375,6 +4459,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -4490,6 +4581,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -4605,6 +4703,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -4720,6 +4825,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -5307,6 +5419,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -5422,6 +5541,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -5537,6 +5663,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -5652,6 +5785,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -6239,6 +6379,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -6354,6 +6501,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -6469,6 +6623,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -6584,6 +6745,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -8366,6 +8534,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -8481,6 +8656,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -8596,6 +8778,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -8711,6 +8900,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -9298,6 +9494,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -9413,6 +9616,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -9528,6 +9738,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -9643,6 +9860,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -10230,6 +10454,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -10345,6 +10576,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -10460,6 +10698,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -10575,6 +10820,13 @@
         "65635": 35.0,
         "65636": 100.0
       },
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -13120,7 +13372,6 @@
   "battleSignalsOrder": [],
   "canCharge": true,
   "canEquipCamouflage": false,
-  "custom": {},
   "defaultCrew": "PXW151_Commander_Smolensk_H2020",
   "flagsScale": 0.55,
   "group": "disabled",

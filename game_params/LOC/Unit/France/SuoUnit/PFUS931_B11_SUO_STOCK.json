@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3318132560,
+  "index": "PFUS931",
+  "name": "PFUS931_B11_SUO_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

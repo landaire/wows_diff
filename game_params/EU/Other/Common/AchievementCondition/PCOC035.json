@@ -1,0 +1,68 @@
+{
+  "constants": {
+    "PlanesKilled": 20
+  },
+  "enabled": true,
+  "events": [
+    [
+      "mePlaneKill",
+      [
+        [
+          "me",
+          "inReferralSquad"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "mePlaneKill",
+      [
+        [
+          "me",
+          "inReferralSquad"
+        ],
+        [
+          "forReferralSquad",
+          [
+            "counter",
+            "a",
+            ">=",
+            "constant",
+            "PlanesKilled"
+          ],
+          "==",
+          "me",
+          "shipsInReferralSquad"
+        ]
+      ],
+      [
+        [
+          "forReferralSquad",
+          [
+            "doAction",
+            "done"
+          ]
+        ]
+      ]
+    ]
+  ],
+  "id": 4258187184,
+  "index": "PCOC035",
+  "keepCounters": false,
+  "name": "PCOC035",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "AchievementCondition",
+    "type": "Other"
+  },
+  "uiDescription": "IDS_ACHIEVEMENT_CONDITION_REF_ANTI_AIR_DIVISION_DESCRIPTION",
+  "uiHeader": "IDS_ACHIEVEMENT_CONDITION_REF_ANTI_AIR_DIVISION_TITLE"
+}

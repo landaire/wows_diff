@@ -1,0 +1,22 @@
+{
+  "angle": 0.0,
+  "dist": 0.0,
+  "hidePlane": false,
+  "id": 4288869584,
+  "index": "PZC005",
+  "isInvisible": false,
+  "launchEffectName": "particles/Empty_FX.xml",
+  "linkedGunAngles": [],
+  "linkedGunName": null,
+  "linkedRotationSpeedCoeff": 1.0,
+  "model": "content/gameplay/panasia/catapult/ZC005_DIIIH_MK_III_91ft/ZC005_DIIIH_MK_III_91ft.model",
+  "name": "PZC005_DIIIH_MK_III_91ft",
+  "planeOffsets": {},
+  "rotateTime": 0.0,
+  "translateDelay": 0.0,
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Catapult"
+  }
+}

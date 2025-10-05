@@ -1,0 +1,13 @@
+{
+  "costCR": 280000,
+  "costXP": 2000,
+  "id": 3975949776,
+  "index": "PRUH304",
+  "name": "PRUH304_B4_HULL_B",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

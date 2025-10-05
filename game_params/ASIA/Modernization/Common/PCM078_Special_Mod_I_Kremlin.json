@@ -1,0 +1,29 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4212314032,
+  "index": "PCM078",
+  "modifiers": {
+    "GMMaxDist": 0.88,
+    "GMShotDelay": 0.82
+  },
+  "name": "PCM078_Special_Mod_I_Kremlin",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PRSB110_Sovetskaya_Rossiya"
+  ],
+  "shiptype": [],
+  "slot": 5,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 1180000,
+  "costXP": 15000,
+  "id": 3453726416,
+  "index": "PJUI802",
+  "name": "PJUI802_CV9_F_TOP",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

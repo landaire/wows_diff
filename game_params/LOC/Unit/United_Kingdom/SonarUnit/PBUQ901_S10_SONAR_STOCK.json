@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 0,
+  "id": 3349655504,
+  "index": "PBUQ901",
+  "name": "PBUQ901_S10_SONAR_STOCK",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

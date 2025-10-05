@@ -7,7 +7,6 @@
   "canSell": true,
   "costCR": -1,
   "costGold": -1,
-  "custom": {},
   "deathSoundEvent": "Custom_Death_Golden_Month_Red",
   "effectOnDeath": {
     "AirCarrier": "particles/Daruma_AirCarrier_Battleship_CustomDeath_Red.xml",

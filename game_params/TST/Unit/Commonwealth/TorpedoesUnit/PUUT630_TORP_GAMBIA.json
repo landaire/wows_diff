@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3633720688,
+  "index": "PUUT630",
+  "name": "PUUT630_TORP_GAMBIA",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

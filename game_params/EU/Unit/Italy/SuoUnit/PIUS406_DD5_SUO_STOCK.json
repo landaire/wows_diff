@@ -1,0 +1,13 @@
+{
+  "costCR": 134000,
+  "costXP": 0,
+  "id": 3868634864,
+  "index": "PIUS406",
+  "name": "PIUS406_DD5_SUO_STOCK",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

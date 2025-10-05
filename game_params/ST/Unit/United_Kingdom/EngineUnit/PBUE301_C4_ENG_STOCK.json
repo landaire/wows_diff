@@ -1,0 +1,13 @@
+{
+  "costCR": 40000,
+  "costXP": 0,
+  "id": 3979194320,
+  "index": "PBUE301",
+  "name": "PBUE301_C4_ENG_STOCK",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

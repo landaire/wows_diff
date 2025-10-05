@@ -1,0 +1,13 @@
+{
+  "costCR": 1100000,
+  "costXP": 0,
+  "id": 3538693584,
+  "index": "PRUH721",
+  "name": "PRUH721_CHAPAEV_A",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 2650000,
+  "costXP": 0,
+  "id": 3339464688,
+  "index": "PAUH911",
+  "name": "PAUH911_Gearing_1945",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

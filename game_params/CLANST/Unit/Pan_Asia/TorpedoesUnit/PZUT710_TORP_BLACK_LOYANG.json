@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3549834448,
+  "index": "PZUT710",
+  "name": "PZUT710_TORP_BLACK_LOYANG",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

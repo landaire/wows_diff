@@ -1,0 +1,73 @@
+{
+  "constants": {
+    "_damage": 60000,
+    "_weaponTypeCount": 4
+  },
+  "enabled": true,
+  "events": [
+    [
+      "meAttack",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "damage",
+          "value"
+        ],
+        [
+          "set",
+          "add",
+          ":",
+          "damage",
+          "weaponType"
+        ]
+      ]
+    ],
+    [
+      "meAttack",
+      [
+        [
+          "counter",
+          "a",
+          ">=",
+          "constant",
+          "_damage"
+        ],
+        [
+          "set",
+          "len",
+          ">=",
+          "constant",
+          "_weaponTypeCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "id": 4278110128,
+  "index": "PCOC016",
+  "keepCounters": false,
+  "name": "PCOC016",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "AchievementCondition",
+    "type": "Other"
+  },
+  "uiDescription": "IDS_ACHIEVEMENT_CONDITION_PCOC016_DESCRIPTION",
+  "uiHeader": "IDS_ACHIEVEMENT_CONDITION_PCOC016_TITLE"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 550000,
+  "costXP": 5000,
+  "id": 3872140752,
+  "index": "PRUH403",
+  "name": "PRUH403_B5_HULL_B",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

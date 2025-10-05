@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3552980432,
+  "index": "PRUT707",
+  "name": "PRUT707_TORP_P_BAGRATION",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

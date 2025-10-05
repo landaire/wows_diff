@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA013_HappyNewYear2019",
+  "compensationCR": 0,
+  "description": "IDS_PCZC274_NY2019_HENRISTAMP_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4007566256,
+  "index": "PCZC274",
+  "name": "PCZC274_NY2019_HenriStamp",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 880000,
+  "costXP": 14000,
+  "id": 4292816592,
+  "index": "PJUB002",
+  "name": "PJUB002_Nakajima_B6N",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

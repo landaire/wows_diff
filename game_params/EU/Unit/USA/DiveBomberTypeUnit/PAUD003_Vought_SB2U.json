@@ -1,0 +1,13 @@
+{
+  "costCR": 715000,
+  "costXP": 9000,
+  "id": 4291702768,
+  "index": "PAUD003",
+  "name": "PAUD003_Vought_SB2U",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

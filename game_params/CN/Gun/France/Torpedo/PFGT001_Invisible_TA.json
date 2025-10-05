@@ -1,0 +1,108 @@
+{
+  "HitLocationTorpedo": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 0.8,
+    "autoRepairTime": 15,
+    "autoRepairTimeMin": 15,
+    "brokenRepairHealthCoefficient": 0.5,
+    "brokenRepairTime": 45.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": false,
+    "critProb": [
+      0.2,
+      0.05
+    ],
+    "critProbHP": [
+      1.0,
+      0.0
+    ],
+    "damageEffects": [],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "torpedo_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 1200.0,
+    "moduleCritCoeffCR": 0.0,
+    "moduleCritCoeffXP": 0.0,
+    "parentHL": null,
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 0.5,
+    "splashBoxes": [],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 0.5,
+    "volumeCoeff": 1.0
+  },
+  "additionalAimSector": [
+    -9.9,
+    9.9
+  ],
+  "ammoList": [
+    "PCPT001_Torpedo"
+  ],
+  "ammoSwitchCoeff": 0.2,
+  "armor": {},
+  "availableBuoyancyStates": [
+    "SURFACE",
+    "PERISCOPE",
+    "SEMI_DEEP_WATER",
+    "DEEP_WATER",
+    "DEEP_WATER_INVUL"
+  ],
+  "barrelDiameter": 0.533,
+  "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+  "customMiscs": {},
+  "damagedEffect": "particles/Empty_FX.xml",
+  "deadMesh": "content/gameplay/common/gun/torpedo/CGT001_Invisible_TA/CGT001_Invisible_TA_dead.model",
+  "deadZone": [],
+  "horizSector": [
+    -0.1,
+    0.1
+  ],
+  "id": 4293289808,
+  "index": "PFGT001",
+  "lensEffect": "",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/common/gun/torpedo/CGT001_Invisible_TA/CGT001_Invisible_TA.model",
+  "name": "PFGT001_Invisible_TA",
+  "numAmmos": 1000,
+  "numBarrels": 1,
+  "position": [
+    0,
+    0
+  ],
+  "purgingEffect": "particles/Empty_FX.xml",
+  "reloadBoostEffect": "particles/guns/Torpedo_Reload.xml",
+  "rotationSpeed": [
+    12.0,
+    12.0
+  ],
+  "shootSector": [
+    -6.0,
+    6.0
+  ],
+  "shotDelay": 50,
+  "shotEffect": "particles/Empty_FX.xml",
+  "shotEffectCap": "particles/dropTorpedo_underwater.xml",
+  "smallGun": null,
+  "timeBetweenShots": 0.2,
+  "timeToChangeAngle": 0.2,
+  "timeToChangeSpeed": 1,
+  "torpedoAngles": [
+    1.0,
+    1.0
+  ],
+  "typeinfo": {
+    "nation": "France",
+    "species": "Torpedo",
+    "type": "Gun"
+  },
+  "vertSector": [
+    0.0,
+    1.0
+  ]
+}

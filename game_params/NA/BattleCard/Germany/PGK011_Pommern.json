@@ -1,0 +1,29 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4282570544,
+  "index": "PGK011",
+  "maxLevel": 2,
+  "name": "PGK011_Pommern",
+  "personalCardBonus": {
+    "clan": "PCOK007_Balldmg_DATBAdmgX2"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PGSB509_Pommern",
+      "PGSB599_Black_Pommern"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 180000,
+  "costXP": 0,
+  "id": 3756436944,
+  "index": "PRUS513",
+  "name": "PRUS513_D6_SUO_STOCK_2",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

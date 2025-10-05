@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 87,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED,CLAN\" />",
+    "<isTotalCrewXP count=\"60000\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3759554480,
+  "index": "PCQT510",
+  "isSingleBattle": false,
+  "lootStars": 1,
+  "name": "PCQT510",
+  "rewards": [
+    "<Item idx=\"PCEA031_CrewXPboost_1\" count=\"14\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT510_1",
+    "isTotalCrewXP",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4245877584,
+  "index": "PFD046",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD046_SGC_Director_3m/FD046_SGC_Director_3m.model",
+  "name": "PFD046_SGC_Director_3m",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

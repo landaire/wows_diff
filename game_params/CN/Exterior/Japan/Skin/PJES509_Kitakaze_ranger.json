@@ -1,0 +1,345 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "VehicleVisualStateModule": {
+    "GameLogicTriggerVisibility": {
+      "Action": {
+        "activeValue": "2",
+        "inactiveValue": "1",
+        "statePartName": "stage",
+        "type": "SwitchVehicleVisualStateAction"
+      },
+      "Activator": {
+        "isVisible": true,
+        "requiredCount": 1,
+        "separateTracking": true,
+        "timeLimit": 0.0,
+        "type": "VisibilityChangedActivator"
+      },
+      "startEnabled": true,
+      "type": "SwitchTrigger"
+    },
+    "VehicleVisualStateDetected": {
+      "artilleryShotEffect": "particles/guns/GK_Shot_Kitakaze.xml",
+      "atbaShotEffect": "",
+      "colorSwitchTime": 1.5,
+      "condition": {
+        "stage": "2"
+      },
+      "emissiveColor": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "fromStates": [
+        "VehicleVisualStateNotDetected"
+      ],
+      "soundSwitch": "On",
+      "stateSwitchTime": 10.0
+    },
+    "VehicleVisualStateNotDetected": {
+      "artilleryShotEffect": "",
+      "atbaShotEffect": "",
+      "colorSwitchTime": 1.5,
+      "condition": {
+        "stage": "1"
+      },
+      "emissiveColor": [
+        0.25,
+        0.75,
+        1.15,
+        0.75
+      ],
+      "fromStates": [
+        "VehicleVisualStateDetected"
+      ],
+      "soundSwitch": "Off",
+      "stateSwitchTime": 10.0
+    },
+    "dockStateSwitchInterval": 15.0,
+    "initialState": "VehicleVisualStateNotDetected",
+    "stateSwitchSound": "UI_Skin_Mode"
+  },
+  "camouflage": "mat_Kitakaze_Rangers",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 5250,
+  "effects": {
+    "A_Hull": {
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_small.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_small.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_small.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_vsmall.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_small.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_small.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_small.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_3",
+          "particles/vehicles/Fire_side_small.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_small.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_small.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_small.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_vsmall_2.xml"
+        ]
+      ],
+      "fireResistance": [],
+      "fixDeluge": [
+        [
+          "HP_FX_Flood_water_left",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ]
+      ],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_small.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_exhaust_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_exhaust_small_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_small.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Flood_water_left",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_medium.xml"
+        ]
+      ],
+      "repairLight": [],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_medium.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back_wide_1.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": true,
+  "hullConfig": {
+    "A_Hull": {
+      "caps": {},
+      "customMiscs": {},
+      "model": "content/gameplay/japan/ship/destroyer/JSD055_Kitakaze_Rangers/JSD055_Kitakaze_Rangers.model"
+    }
+  },
+  "id": 3760647888,
+  "index": "PJES509",
+  "isTemplate": false,
+  "name": "PJES509_Kitakaze_ranger",
+  "nodesConfig": {
+    "A_Artillery": {
+      "HP_JGM_1": {
+        "deadMesh": "content/gameplay/japan/gun/main/JGM827_100mm65_Type98_Rangers/JGM827_100mm65_Type98_Rangers_dead.model",
+        "miscFilter": [],
+        "model": "content/gameplay/japan/gun/main/JGM827_100mm65_Type98_Rangers/JGM827_100mm65_Type98_Rangers.model"
+      },
+      "HP_JGM_2": {
+        "deadMesh": "content/gameplay/japan/gun/main/JGM827_100mm65_Type98_Rangers/JGM827_100mm65_Type98_Rangers_dead.model",
+        "miscFilter": [],
+        "model": "content/gameplay/japan/gun/main/JGM827_100mm65_Type98_Rangers/JGM827_100mm65_Type98_Rangers.model"
+      },
+      "HP_JGM_3": {
+        "deadMesh": "content/gameplay/japan/gun/main/JGM827_100mm65_Type98_Rangers/JGM827_100mm65_Type98_Rangers_dead.model",
+        "miscFilter": [],
+        "model": "content/gameplay/japan/gun/main/JGM827_100mm65_Type98_Rangers/JGM827_100mm65_Type98_Rangers.model"
+      },
+      "HP_JGM_4": {
+        "deadMesh": "content/gameplay/japan/gun/main/JGM827_100mm65_Type98_Rangers/JGM827_100mm65_Type98_Rangers_dead.model",
+        "miscFilter": [],
+        "model": "content/gameplay/japan/gun/main/JGM827_100mm65_Type98_Rangers/JGM827_100mm65_Type98_Rangers.model"
+      }
+    },
+    "A_Torpedoes": {
+      "HP_JGT_1": {
+        "deadMesh": "content/gameplay/japan/gun/torpedo/JGT828_610mm6_Type_93_Rangers/JGT828_610mm6_Type_93_Rangers_dead.model",
+        "miscFilter": [],
+        "model": "content/gameplay/japan/gun/torpedo/JGT828_610mm6_Type_93_Rangers/JGT828_610mm6_Type_93_Rangers.model"
+      }
+    }
+  },
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "rangers",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "color_pink_flag",
+  "peculiarityModels": {
+    "content/gameplay/japan/gun/aaircraft/JGA018_25mm_Type96_single/JGA018_25mm_Type96_single.model": "content/gameplay/japan/gun/aaircraft/JGA829_25mm_Type96_Ranger/JGA829_25mm_Type96_Ranger.model",
+    "content/gameplay/japan/gun/aaircraft/JGA018_25mm_Type96_single/JGA018_25mm_Type96_single_dead.model": "content/gameplay/japan/gun/aaircraft/JGA829_25mm_Type96_Ranger/JGA829_25mm_Type96_Ranger_dead.model",
+    "content/gameplay/japan/gun/aaircraft/JGA096_40mm_Bofors/JGA096_40mm_Bofors.model": "content/gameplay/japan/gun/aaircraft/JGA830_40mm_Bofors_Ranger/JGA830_40mm_Bofors_Ranger.model",
+    "content/gameplay/japan/gun/aaircraft/JGA096_40mm_Bofors/JGA096_40mm_Bofors_dead.model": "content/gameplay/japan/gun/aaircraft/JGA830_40mm_Bofors_Ranger/JGA830_40mm_Bofors_Ranger_dead.model"
+  },
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

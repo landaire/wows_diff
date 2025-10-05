@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4239585584,
+  "index": "PWD052",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/director/WD052_Director_MkIII_DCT_15ft/WD052_Director_MkIII_DCT_15ft.model",
+  "name": "PWD052_Director_MkIII_DCT_15ft",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Director"
+  }
+}

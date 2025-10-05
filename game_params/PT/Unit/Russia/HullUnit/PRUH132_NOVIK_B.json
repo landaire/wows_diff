@@ -1,0 +1,13 @@
+{
+  "costCR": 40000,
+  "costXP": 400,
+  "id": 4156304848,
+  "index": "PRUH132",
+  "name": "PRUH132_NOVIK_B",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

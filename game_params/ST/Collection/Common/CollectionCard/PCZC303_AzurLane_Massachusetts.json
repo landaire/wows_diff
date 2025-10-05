@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC303_AZURLANE_MASSACHUSETTS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3977157552,
+  "index": "PCZC303",
+  "name": "PCZC303_AzurLane_Massachusetts",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

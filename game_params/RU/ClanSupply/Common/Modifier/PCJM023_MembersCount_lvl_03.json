@@ -1,0 +1,20 @@
+{
+  "accumulativeResourceRequired": 0,
+  "bonusType": "members_count",
+  "buildingType": "PCJB003_Headquarters",
+  "buyable": true,
+  "cost": 35000,
+  "id": 4270447536,
+  "index": "PCJM023",
+  "isDummy": false,
+  "name": "PCJM023_MembersCount_lvl_03",
+  "previousModifier": "PCJM022_MembersCount_lvl_02",
+  "shipLevelMax": null,
+  "shipLevelMin": null,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Modifier",
+    "type": "ClanSupply"
+  },
+  "value": 45
+}

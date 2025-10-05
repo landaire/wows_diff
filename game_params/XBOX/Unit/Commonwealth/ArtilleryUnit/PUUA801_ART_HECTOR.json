@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3455036784,
+  "index": "PUUA801",
+  "name": "PUUA801_ART_HECTOR",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

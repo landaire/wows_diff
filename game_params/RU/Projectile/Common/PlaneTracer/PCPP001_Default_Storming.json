@@ -1,0 +1,27 @@
+{
+  "beginDelay": 0.0,
+  "delay": 0.15,
+  "expansion": 110.0,
+  "glow": 3.5,
+  "id": 4293411760,
+  "index": "PCPP001",
+  "isFront": true,
+  "length": 100.5,
+  "name": "PCPP001_Default_Storming",
+  "num": 122,
+  "pitchSpreadingDown": 0.0,
+  "pitchSpreadingUp": 0.0,
+  "speed": 750.0,
+  "startDelay": 0.0,
+  "texture": "particles/trails/Trail_Plane_Storm_Enemy.dds",
+  "thickness": 0.015,
+  "tracerLength": 21.0,
+  "tracerOpacity": 0.55,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "PlaneTracer",
+    "type": "Projectile"
+  },
+  "workTime": 35.5,
+  "yawSpreading": 0.0
+}

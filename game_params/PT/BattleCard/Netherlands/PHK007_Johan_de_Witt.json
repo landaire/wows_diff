@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4286764816,
+  "index": "PHK007",
+  "maxLevel": 2,
+  "name": "PHK007_Johan_de_Witt",
+  "personalCardBonus": {
+    "clan": "PCOK008_Balldmg_DplanebombX2"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PHSC109_Johan_de_Witt"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

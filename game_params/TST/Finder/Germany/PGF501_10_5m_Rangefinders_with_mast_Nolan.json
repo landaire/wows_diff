@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3768773424,
+  "index": "PGF501",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF501_10_5m_Rangefinders_with_mast_Nolan/GF501_10_5m_Rangefinders_with_mast_Nolan.model",
+  "name": "PGF501_10_5m_Rangefinders_with_mast_Nolan",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

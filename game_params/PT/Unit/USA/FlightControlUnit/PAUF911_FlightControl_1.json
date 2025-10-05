@@ -1,0 +1,13 @@
+{
+  "costCR": 1100000,
+  "costXP": 0,
+  "id": 3339530224,
+  "index": "PAUF911",
+  "name": "PAUF911_FlightControl_1",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

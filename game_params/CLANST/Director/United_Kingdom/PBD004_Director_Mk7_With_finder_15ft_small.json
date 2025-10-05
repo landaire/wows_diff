@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4289917904,
+  "index": "PBD004",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD004_Director_Mk7_With_finder_15ft_small/BD004_Director_Mk7_With_finder_15ft_small.model",
+  "name": "PBD004_Director_Mk7_With_finder_15ft_small",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4261604176,
+  "index": "PFF031",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/finder/FF031_3m_Rangefinder/FF031_3m_Rangefinder.model",
+  "name": "PFF031_3m_Rangefinder",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Finder"
+  }
+}

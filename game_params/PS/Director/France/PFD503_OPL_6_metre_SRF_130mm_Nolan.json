@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3766678352,
+  "index": "PFD503",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD503_OPL_6_metre_SRF_130mm_Nolan/FD503_OPL_6_metre_SRF_130mm_Nolan.model",
+  "name": "PFD503_OPL_6_metre_SRF_130mm_Nolan",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

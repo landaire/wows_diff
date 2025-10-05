@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3549834576,
+  "index": "PVUT710",
+  "name": "PVUT710_TORP_LA_PAMPA",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4240634320,
+  "index": "PRD051",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/director/RD051_VKZD_Hight_Angle/RD051_VKZD_Hight_Angle.model",
+  "name": "PRD051_VKZD_Hight_Angle",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Director"
+  }
+}

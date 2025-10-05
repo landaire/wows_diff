@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA011_Ovechkin",
+  "compensationCR": 0,
+  "description": "IDS_PCZC247_OVECHKIN_GOAL_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4035877808,
+  "index": "PCZC247",
+  "name": "PCZC247_Ovechkin_Goal",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

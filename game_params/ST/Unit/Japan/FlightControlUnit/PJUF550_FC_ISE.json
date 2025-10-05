@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3718065872,
+  "index": "PJUF550",
+  "name": "PJUF550_FC_ISE",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

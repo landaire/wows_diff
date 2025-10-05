@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA022_GF097",
+  "compensationCR": 0,
+  "description": "IDS_PCZC489_GF097_IMPERIALSAILOR_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3782122416,
+  "index": "PCZC489",
+  "name": "PCZC489_GF097_ImperialSailor",
+  "subAlbums": [
+    5
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

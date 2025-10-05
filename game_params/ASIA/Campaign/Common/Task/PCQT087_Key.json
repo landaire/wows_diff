@@ -1,0 +1,31 @@
+{
+  "backgroundIconID": 35,
+  "conditions": [
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isBattleCount count=\"1\" />",
+    "<isMyShip shipLevel=\"5,6,7,8,9,10,11\" />",
+    "<isUseModernizations count=\"1\" />"
+  ],
+  "costUnlock": 10,
+  "id": 4203102128,
+  "index": "PCQT087",
+  "isSingleBattle": true,
+  "lootStars": 0,
+  "name": "PCQT087_Key",
+  "rewards": [
+    "<Add type=\"GOLD\" count=\"50\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT087_1",
+    "isBattleCount",
+    "IDS_TASKRESTRICTION_PVPCOOPRANKED"
+  ],
+  "unlockMissions": [
+    "PCQM007"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4198939088,
+  "index": "PRRS091",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/radar/search/RRS091_Turel/RRS091_Turel.model",
+  "name": "PRRS091_Turel",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

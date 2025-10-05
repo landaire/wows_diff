@@ -1,0 +1,13 @@
+{
+  "costCR": 500000,
+  "costXP": 0,
+  "id": 3545083696,
+  "index": "PGUE715",
+  "name": "PGUE715_CV8_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

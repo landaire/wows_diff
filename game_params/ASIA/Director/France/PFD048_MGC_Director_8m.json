@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4243780432,
+  "index": "PFD048",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD048_MGC_Director_8m/FD048_MGC_Director_8m.model",
+  "name": "PFD048_MGC_Director_8m",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

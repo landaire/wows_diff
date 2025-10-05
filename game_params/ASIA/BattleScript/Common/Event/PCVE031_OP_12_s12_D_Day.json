@@ -1,0 +1,72 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "PVEEventBattle",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 0,
+  "gameLogicConfig": {},
+  "id": 4262308784,
+  "index": "PCVE031",
+  "matchmakerConfig": "eventEV31DDay",
+  "name": "PCVE031_OP_12_s12_D_Day",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        -1
+      ],
+      "Battleship": [
+        0,
+        -1
+      ],
+      "Cruiser": [
+        0,
+        -1
+      ],
+      "Destroyer": [
+        0,
+        6
+      ],
+      "Submarine": [
+        0,
+        -1
+      ]
+    },
+    "filters": [
+      {
+        "nations": [
+          "Germany"
+        ],
+        "shipLevels": [
+          5,
+          6,
+          7
+        ],
+        "shipTypes": [
+          "Destroyer"
+        ]
+      }
+    ],
+    "minShips": 6,
+    "totalShips": 6
+  },
+  "scenariosByMap": {
+    "spaces/s11_D_day_2": [
+      "D_Day_operation_2_Hard"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

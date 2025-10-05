@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA010_HappyBirthday2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC233_HB18_SPACE_BATTLE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4050557872,
+  "index": "PCZC233",
+  "name": "PCZC233_HB18_Space_battle",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

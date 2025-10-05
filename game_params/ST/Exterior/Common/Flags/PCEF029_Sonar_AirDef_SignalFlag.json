@@ -1,0 +1,30 @@
+{
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": 120000,
+  "costGold": -1,
+  "flags": [
+    "sierra",
+    "bravo"
+  ],
+  "group": 0,
+  "hidden": false,
+  "id": 4264390576,
+  "index": "PCEF029",
+  "isTemplate": false,
+  "modifiers": {
+    "airDefenseDispReloadCoeff": 0.9,
+    "hydrophoneReloadCoeff": 0.9,
+    "sonarWorkTimeCoeff": 1.1,
+    "submarineLocatorReloadCoeff": 0.9
+  },
+  "name": "PCEF029_Sonar_AirDef_SignalFlag",
+  "sortOrder": 14,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Flags",
+    "type": "Exterior"
+  }
+}

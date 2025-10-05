@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3266752272,
+  "index": "PHUS980",
+  "name": "PHUS980_SUO_NOORD_BRABANT",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

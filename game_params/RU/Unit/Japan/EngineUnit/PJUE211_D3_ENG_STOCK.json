@@ -1,0 +1,13 @@
+{
+  "costCR": 19500,
+  "costXP": 0,
+  "id": 4073565904,
+  "index": "PJUE211",
+  "name": "PJUE211_D3_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

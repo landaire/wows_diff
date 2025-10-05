@@ -1,0 +1,18 @@
+{
+  "id": 3677013936,
+  "index": "PCOK589",
+  "level_1": {
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityMain": 0.9
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityMain": 0.9
+  },
+  "name": "PCOK589_CLAN_Wisconsin",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

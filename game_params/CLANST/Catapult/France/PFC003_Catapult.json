@@ -1,0 +1,22 @@
+{
+  "angle": 0.0,
+  "dist": 0.0,
+  "hidePlane": false,
+  "id": 4290967376,
+  "index": "PFC003",
+  "isInvisible": false,
+  "launchEffectName": "particles/Empty_FX.xml",
+  "linkedGunAngles": [],
+  "linkedGunName": null,
+  "linkedRotationSpeedCoeff": 1.0,
+  "model": "content/gameplay/france/catapult/FC003_Catapult/FC003_Catapult.model",
+  "name": "PFC003_Catapult",
+  "planeOffsets": {},
+  "rotateTime": 0.0,
+  "translateDelay": 0.0,
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Catapult"
+  }
+}

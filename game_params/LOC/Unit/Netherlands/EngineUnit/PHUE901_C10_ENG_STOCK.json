@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 0,
+  "id": 3350048528,
+  "index": "PHUE901",
+  "name": "PHUE901_C10_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

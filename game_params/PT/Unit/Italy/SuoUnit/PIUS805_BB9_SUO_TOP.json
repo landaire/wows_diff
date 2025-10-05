@@ -1,0 +1,13 @@
+{
+  "costCR": 3400000,
+  "costXP": 40000,
+  "id": 3450253040,
+  "index": "PIUS805",
+  "name": "PIUS805_BB9_SUO_TOP",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

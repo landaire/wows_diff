@@ -1,0 +1,18 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4293063664,
+  "index": "PAD001",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/director/AD001_Director_Mk37/AD001_Director_Mk37.model",
+  "name": "PAD001_Director_Mk37",
+  "nation": "America",
+  "otype": "Director",
+  "stype": "",
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "Director"
+  }
+}

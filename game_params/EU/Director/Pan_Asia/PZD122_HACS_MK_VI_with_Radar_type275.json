@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4166185168,
+  "index": "PZD122",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD122_HACS_MK_VI_with_Radar_type275/ZD122_HACS_MK_VI_with_Radar_type275.model",
+  "name": "PZD122_HACS_MK_VI_with_Radar_type275",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

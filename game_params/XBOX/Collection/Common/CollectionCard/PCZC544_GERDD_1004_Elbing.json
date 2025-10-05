@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA025_GERDD_1004",
+  "compensationCR": 0,
+  "description": "IDS_PCZC544_GERDD_1004_ELBING_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3724450736,
+  "index": "PCZC544",
+  "name": "PCZC544_GERDD_1004_Elbing",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

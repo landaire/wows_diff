@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4245877072,
+  "index": "PVD046",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panamerica/director/VD046_RT_C1_4m/VD046_RT_C1_4m.model",
+  "name": "PVD046_RT_C1_4m",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": null,
+    "type": "Director"
+  }
+}

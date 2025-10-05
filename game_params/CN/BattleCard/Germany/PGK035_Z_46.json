@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4257404720,
+  "index": "PGK035",
+  "maxLevel": 2,
+  "name": "PGK035_Z_46",
+  "personalCardBonus": {
+    "clan": "PCOK014_Balldmg_Dalldmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PGSD109_Z_46"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

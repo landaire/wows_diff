@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4286764464,
+  "index": "PSK007",
+  "maxLevel": 2,
+  "name": "PSK007_Alvaro_de_Bazan",
+  "personalCardBonus": {
+    "clan": "PCOK607_CLAN_DD_Art"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PSSD510_Alvaro_de_Bazan"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Spain",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

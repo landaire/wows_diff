@@ -1,0 +1,13 @@
+{
+  "costCR": 1150000,
+  "costXP": 14000,
+  "id": 3558813680,
+  "index": "PAUB702",
+  "name": "PAUB702_CV8_TB_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

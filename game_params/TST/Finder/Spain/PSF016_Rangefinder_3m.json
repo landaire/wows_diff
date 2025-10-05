@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4277332400,
+  "index": "PSF016",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/spain/finder/SF016_Rangefinder_3m/SF016_Rangefinder_3m.model",
+  "name": "PSF016_Rangefinder_3m",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": null,
+    "type": "Finder"
+  }
+}

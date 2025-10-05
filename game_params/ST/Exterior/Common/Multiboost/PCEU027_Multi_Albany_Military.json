@@ -1,0 +1,34 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 1000,
+  "hidden": false,
+  "id": 4265996208,
+  "index": "PCEU027",
+  "isTemplate": false,
+  "modifiers": {
+    "creditsFactor": 1.25,
+    "crewExpFactor": 1.5,
+    "expFactor": 1.5,
+    "freeExpFactor": 1.5
+  },
+  "name": "PCEU027_Multi_Albany_Military",
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [
+      2
+    ],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 1,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Multiboost",
+    "type": "Exterior"
+  }
+}

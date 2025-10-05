@@ -1,0 +1,13 @@
+{
+  "costCR": 350000,
+  "costXP": 0,
+  "id": 3448155408,
+  "index": "PXUS807",
+  "name": "PXUS807_D8_SUO_STOCK",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3559664976,
+  "index": "PVUH701",
+  "name": "PVUH701_ATLANTICO",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

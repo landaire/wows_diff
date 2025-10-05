@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2194487504,
+  "index": "PZRF2003",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/radar/fcontrol/ZRF2003_Radar_Mk27/ZRF2003_Radar_Mk27.model",
+  "name": "PZRF2003_Radar_Mk27",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "Fire control",
+    "type": "Radar"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "accumulativeResourceRequired": 0,
+  "bonusType": "paragon_exp_boost",
+  "buildingType": "PCJB011_Paragon_Yard",
+  "buyable": true,
+  "cost": 140000,
+  "id": 4187610032,
+  "index": "PCJM102",
+  "isDummy": false,
+  "name": "PCJM102_ParagonExpBoost_lvl_02",
+  "previousModifier": "PCJM101_ParagonExpBoost_lvl_01",
+  "shipLevelMax": null,
+  "shipLevelMin": null,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Modifier",
+    "type": "ClanSupply"
+  },
+  "value": 3
+}

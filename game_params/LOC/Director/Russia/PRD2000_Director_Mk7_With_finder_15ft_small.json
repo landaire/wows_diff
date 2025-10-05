@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2196959696,
+  "index": "PRD2000",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/director/RD2000_Director_Mk7_With_finder_15ft_small/RD2000_Director_Mk7_With_finder_15ft_small.model",
+  "name": "PRD2000_Director_Mk7_With_finder_15ft_small",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Director"
+  }
+}

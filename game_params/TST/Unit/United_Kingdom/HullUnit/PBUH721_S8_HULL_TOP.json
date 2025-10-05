@@ -1,0 +1,13 @@
+{
+  "costCR": 3000000,
+  "costXP": 27000,
+  "id": 3538694096,
+  "index": "PBUH721",
+  "name": "PBUH721_S8_HULL_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

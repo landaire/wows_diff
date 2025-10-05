@@ -1,0 +1,13 @@
+{
+  "costCR": 145000,
+  "costXP": 0,
+  "id": 3874238288,
+  "index": "PFUH401",
+  "name": "PFUH401_C5_HULL_A",
+  "typeinfo": {
+    "nation": "France",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

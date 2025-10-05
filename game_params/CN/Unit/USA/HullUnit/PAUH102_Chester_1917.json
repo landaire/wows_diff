@@ -1,0 +1,13 @@
+{
+  "costCR": 31000,
+  "costXP": 280,
+  "id": 4187762672,
+  "index": "PAUH102",
+  "name": "PAUH102_Chester_1917",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

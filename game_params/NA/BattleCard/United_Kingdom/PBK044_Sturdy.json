@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4247967696,
+  "index": "PBK044",
+  "maxLevel": 2,
+  "name": "PBK044_Sturdy",
+  "personalCardBonus": {
+    "clan": "PCOK015_Balldmg_Dtorpdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PBSS108_Sturdy"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3765841904,
+  "index": "PAUT504",
+  "name": "PAUT504_FLINT",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

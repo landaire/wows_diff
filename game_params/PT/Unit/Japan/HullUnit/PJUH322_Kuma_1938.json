@@ -1,0 +1,13 @@
+{
+  "costCR": 300000,
+  "costXP": 2000,
+  "id": 3957075664,
+  "index": "PJUH322",
+  "name": "PJUH322_Kuma_1938",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

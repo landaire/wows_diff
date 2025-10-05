@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4080447440,
+  "index": "PBUS204",
+  "name": "PBUS204_SUO_DRED",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

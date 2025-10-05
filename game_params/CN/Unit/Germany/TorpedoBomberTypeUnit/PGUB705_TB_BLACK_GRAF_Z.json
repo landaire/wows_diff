@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3555667760,
+  "index": "PGUB705",
+  "name": "PGUB705_TB_BLACK_GRAF_Z",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

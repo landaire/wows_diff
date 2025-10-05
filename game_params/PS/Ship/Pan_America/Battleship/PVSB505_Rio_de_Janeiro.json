@@ -1,0 +1,6884 @@
+{
+  "AIParams": {
+    "default_distance": 0,
+    "max_distance": 0,
+    "min_distance": 0
+  },
+  "A_ATBA": {
+    "HP_VGS_1": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA010_152MM_HE_4CRH_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.152,
+      "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_vvsmall.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS008_6in50_MK13_Deck/VGS008_6in50_MK13_Deck_dead.model",
+      "deadZone": [
+        [
+          -5.0,
+          0.0
+        ]
+      ],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        -120.0,
+        0.0
+      ],
+      "id": 4285982032,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS008",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS008_6in50_MK13_Deck/VGS008_6in50_MK13_Deck.model",
+      "name": "PVGS008_6in50_MK13_Deck",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 10.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGS_10": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA007_76MM_HE_MK27M1_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.076,
+      "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_vvsmall.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS006_3in50_QF/VGS006_3in50_QF_dead.model",
+      "deadZone": [
+        [
+          0.0,
+          10.0
+        ]
+      ],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        0.0,
+        110.0
+      ],
+      "id": 4288079184,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS006",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [
+        "MP_VM405_Shield",
+        "MP_VM410_Shield_dead"
+      ],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS006_3in50_QF/VGS006_3in50_QF.model",
+      "name": "PVGS006_3in50_QF",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 5.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        20.0
+      ]
+    },
+    "HP_VGS_11": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA010_152MM_HE_4CRH_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.152,
+      "brokenEffect": "particles/guns/Gun_Damage_side_2.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_side_2.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate_dead.model",
+      "deadZone": [],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        -110.0,
+        0.0
+      ],
+      "id": 4287030608,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS007",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate.model",
+      "name": "PVGS007_6in50_MK13_Casemate",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 10.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGS_12": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA010_152MM_HE_4CRH_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.152,
+      "brokenEffect": "particles/guns/Gun_Damage_side_2.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_side_2.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate_dead.model",
+      "deadZone": [],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        0.0,
+        110.0
+      ],
+      "id": 4287030608,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS007",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate.model",
+      "name": "PVGS007_6in50_MK13_Casemate",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 10.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGS_13": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA010_152MM_HE_4CRH_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.152,
+      "brokenEffect": "particles/guns/Gun_Damage_side_2.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_side_2.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate_dead.model",
+      "deadZone": [],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        -110.0,
+        0.0
+      ],
+      "id": 4287030608,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS007",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate.model",
+      "name": "PVGS007_6in50_MK13_Casemate",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 10.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGS_14": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA010_152MM_HE_4CRH_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.152,
+      "brokenEffect": "particles/guns/Gun_Damage_side_2.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_side_2.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate_dead.model",
+      "deadZone": [],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        0.0,
+        110.0
+      ],
+      "id": 4287030608,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS007",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate.model",
+      "name": "PVGS007_6in50_MK13_Casemate",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 10.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGS_15": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA010_152MM_HE_4CRH_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.152,
+      "brokenEffect": "particles/guns/Gun_Damage_side_2.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_side_2.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate_dead.model",
+      "deadZone": [],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        0.0,
+        110.0
+      ],
+      "id": 4287030608,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS007",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate.model",
+      "name": "PVGS007_6in50_MK13_Casemate",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 10.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGS_16": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA010_152MM_HE_4CRH_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.152,
+      "brokenEffect": "particles/guns/Gun_Damage_side_2.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_side_2.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate_dead.model",
+      "deadZone": [],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        -110.0,
+        0.0
+      ],
+      "id": 4287030608,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS007",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate.model",
+      "name": "PVGS007_6in50_MK13_Casemate",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 10.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGS_17": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA010_152MM_HE_4CRH_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.152,
+      "brokenEffect": "particles/guns/Gun_Damage_side_2.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_side_2.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate_dead.model",
+      "deadZone": [
+        [
+          0.0,
+          10.0
+        ]
+      ],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        0.0,
+        110.0
+      ],
+      "id": 4287030608,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS007",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate.model",
+      "name": "PVGS007_6in50_MK13_Casemate",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 10.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGS_18": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA010_152MM_HE_4CRH_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.152,
+      "brokenEffect": "particles/guns/Gun_Damage_side_2.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_side_2.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate_dead.model",
+      "deadZone": [
+        [
+          -10.0,
+          0.0
+        ]
+      ],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        -110.0,
+        0.0
+      ],
+      "id": 4287030608,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS007",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate.model",
+      "name": "PVGS007_6in50_MK13_Casemate",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 10.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGS_19": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA007_76MM_HE_MK27M1_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.076,
+      "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_vvsmall.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS006_3in50_QF/VGS006_3in50_QF_dead.model",
+      "deadZone": [],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        -110.0,
+        0.0
+      ],
+      "id": 4288079184,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS006",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [
+        "MP_VM405_Shield",
+        "MP_VM410_Shield_dead"
+      ],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS006_3in50_QF/VGS006_3in50_QF.model",
+      "name": "PVGS006_3in50_QF",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 5.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        20.0
+      ]
+    },
+    "HP_VGS_2": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA010_152MM_HE_4CRH_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.152,
+      "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_vvsmall.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS008_6in50_MK13_Deck/VGS008_6in50_MK13_Deck_dead.model",
+      "deadZone": [
+        [
+          0.0,
+          5.0
+        ]
+      ],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        0.0,
+        120.0
+      ],
+      "id": 4285982032,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS008",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS008_6in50_MK13_Deck/VGS008_6in50_MK13_Deck.model",
+      "name": "PVGS008_6in50_MK13_Deck",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 10.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGS_20": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA007_76MM_HE_MK27M1_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.076,
+      "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_vvsmall.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS006_3in50_QF/VGS006_3in50_QF_dead.model",
+      "deadZone": [],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        0.0,
+        110.0
+      ],
+      "id": 4288079184,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS006",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [
+        "MP_VM405_Shield",
+        "MP_VM410_Shield_dead"
+      ],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS006_3in50_QF/VGS006_3in50_QF.model",
+      "name": "PVGS006_3in50_QF",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 5.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        20.0
+      ]
+    },
+    "HP_VGS_21": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA010_152MM_HE_4CRH_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.152,
+      "brokenEffect": "particles/guns/Gun_Damage_side_2.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_side_2.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate_dead.model",
+      "deadZone": [
+        [
+          0.0,
+          10.0
+        ]
+      ],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        0.0,
+        110.0
+      ],
+      "id": 4287030608,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS007",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate.model",
+      "name": "PVGS007_6in50_MK13_Casemate",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 10.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGS_22": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA010_152MM_HE_4CRH_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.152,
+      "brokenEffect": "particles/guns/Gun_Damage_side_2.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_side_2.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate_dead.model",
+      "deadZone": [
+        [
+          -10.0,
+          0.0
+        ]
+      ],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        -110.0,
+        0.0
+      ],
+      "id": 4287030608,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS007",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate.model",
+      "name": "PVGS007_6in50_MK13_Casemate",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 10.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGS_23": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA007_76MM_HE_MK27M1_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.076,
+      "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_vvsmall.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS006_3in50_QF/VGS006_3in50_QF_dead.model",
+      "deadZone": [],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        0.0,
+        150.0
+      ],
+      "id": 4288079184,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS006",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [
+        "MP_VM405_Shield",
+        "MP_VM410_Shield_dead"
+      ],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS006_3in50_QF/VGS006_3in50_QF.model",
+      "name": "PVGS006_3in50_QF",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 5.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        20.0
+      ]
+    },
+    "HP_VGS_24": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA007_76MM_HE_MK27M1_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.076,
+      "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_vvsmall.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS006_3in50_QF/VGS006_3in50_QF_dead.model",
+      "deadZone": [],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        -150.0,
+        0.0
+      ],
+      "id": 4288079184,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS006",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [
+        "MP_VM405_Shield",
+        "MP_VM410_Shield_dead"
+      ],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS006_3in50_QF/VGS006_3in50_QF.model",
+      "name": "PVGS006_3in50_QF",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 5.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        20.0
+      ]
+    },
+    "HP_VGS_25": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA010_152MM_HE_4CRH_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.152,
+      "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_vvsmall.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS008_6in50_MK13_Deck/VGS008_6in50_MK13_Deck_dead.model",
+      "deadZone": [
+        [
+          0.0,
+          10.0
+        ]
+      ],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        0.0,
+        110.0
+      ],
+      "id": 4285982032,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS008",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS008_6in50_MK13_Deck/VGS008_6in50_MK13_Deck.model",
+      "name": "PVGS008_6in50_MK13_Deck",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 10.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGS_26": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA010_152MM_HE_4CRH_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.152,
+      "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_vvsmall.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS008_6in50_MK13_Deck/VGS008_6in50_MK13_Deck_dead.model",
+      "deadZone": [
+        [
+          -10.0,
+          0.0
+        ]
+      ],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        -110.0,
+        0.0
+      ],
+      "id": 4285982032,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS008",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS008_6in50_MK13_Deck/VGS008_6in50_MK13_Deck.model",
+      "name": "PVGS008_6in50_MK13_Deck",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 10.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGS_27": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA007_76MM_HE_MK27M1_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.076,
+      "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_vvsmall.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS006_3in50_QF/VGS006_3in50_QF_dead.model",
+      "deadZone": [],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        0.0,
+        110.0
+      ],
+      "id": 4288079184,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS006",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [
+        "MP_VM405_Shield",
+        "MP_VM410_Shield_dead"
+      ],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS006_3in50_QF/VGS006_3in50_QF.model",
+      "name": "PVGS006_3in50_QF",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 5.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        20.0
+      ]
+    },
+    "HP_VGS_28": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA007_76MM_HE_MK27M1_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.076,
+      "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_vvsmall.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS006_3in50_QF/VGS006_3in50_QF_dead.model",
+      "deadZone": [],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        -110.0,
+        0.0
+      ],
+      "id": 4288079184,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS006",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [
+        "MP_VM405_Shield",
+        "MP_VM410_Shield_dead"
+      ],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS006_3in50_QF/VGS006_3in50_QF.model",
+      "name": "PVGS006_3in50_QF",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 5.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        20.0
+      ]
+    },
+    "HP_VGS_3": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA010_152MM_HE_4CRH_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.152,
+      "brokenEffect": "particles/guns/Gun_Damage_side_2.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_side_2.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate_dead.model",
+      "deadZone": [],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        -110.0,
+        0.0
+      ],
+      "id": 4287030608,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS007",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate.model",
+      "name": "PVGS007_6in50_MK13_Casemate",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 10.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGS_4": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA010_152MM_HE_4CRH_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.152,
+      "brokenEffect": "particles/guns/Gun_Damage_side_2.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_side_2.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate_dead.model",
+      "deadZone": [],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        0.0,
+        110.0
+      ],
+      "id": 4287030608,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS007",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate.model",
+      "name": "PVGS007_6in50_MK13_Casemate",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 10.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGS_5": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA007_76MM_HE_MK27M1_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.076,
+      "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_vvsmall.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS006_3in50_QF/VGS006_3in50_QF_dead.model",
+      "deadZone": [],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        -80.0,
+        0.0
+      ],
+      "id": 4288079184,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS006",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [
+        "MP_VM405_Shield",
+        "MP_VM410_Shield_dead"
+      ],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS006_3in50_QF/VGS006_3in50_QF.model",
+      "name": "PVGS006_3in50_QF",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 5.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        20.0
+      ]
+    },
+    "HP_VGS_6": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA007_76MM_HE_MK27M1_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.076,
+      "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_vvsmall.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS006_3in50_QF/VGS006_3in50_QF_dead.model",
+      "deadZone": [],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        0.0,
+        80.0
+      ],
+      "id": 4288079184,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS006",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [
+        "MP_VM405_Shield",
+        "MP_VM410_Shield_dead"
+      ],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS006_3in50_QF/VGS006_3in50_QF.model",
+      "name": "PVGS006_3in50_QF",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 5.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        20.0
+      ]
+    },
+    "HP_VGS_7": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA010_152MM_HE_4CRH_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.152,
+      "brokenEffect": "particles/guns/Gun_Damage_side_2.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_side_2.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate_dead.model",
+      "deadZone": [],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        -110.0,
+        0.0
+      ],
+      "id": 4287030608,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS007",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate.model",
+      "name": "PVGS007_6in50_MK13_Casemate",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 10.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGS_8": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA010_152MM_HE_4CRH_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.152,
+      "brokenEffect": "particles/guns/Gun_Damage_side_2.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_side_2.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate_dead.model",
+      "deadZone": [],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        0.0,
+        110.0
+      ],
+      "id": 4287030608,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS007",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS007_6in50_MK13_Casemate/VGS007_6in50_MK13_Casemate.model",
+      "name": "PVGS007_6in50_MK13_Casemate",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 10.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGS_9": {
+      "HitLocationATBA": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.8,
+        "autoRepairTime": 10,
+        "autoRepairTimeMin": 5,
+        "brokenRepairHealthCoefficient": 0.75,
+        "brokenRepairTime": 90.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "atba_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 1200.0,
+        "moduleCritCoeffCR": 0.0,
+        "moduleCritCoeffXP": 0.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 0.5,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 1.0
+      },
+      "aiATBAmultiplier": 3,
+      "ammoList": [
+        "PVPA007_76MM_HE_MK27M1_SG"
+      ],
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.076,
+      "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+      "clusterID": 0,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_vvsmall.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/secondary/VGS006_3in50_QF/VGS006_3in50_QF_dead.model",
+      "deadZone": [
+        [
+          -10.0,
+          0.0
+        ]
+      ],
+      "delim": 0.6,
+      "effectIntensityModifier": 1.0,
+      "horizSector": [
+        -110.0,
+        0.0
+      ],
+      "id": 4288079184,
+      "idealDistance": 333.333,
+      "idealRadius": 20,
+      "index": "PVGS006",
+      "lensEffect": "",
+      "minRadius": 1.0,
+      "miscFilter": [
+        "MP_VM405_Shield",
+        "MP_VM410_Shield_dead"
+      ],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/secondary/VGS006_3in50_QF/VGS006_3in50_QF.model",
+      "name": "PVGS006_3in50_QF",
+      "numBarrels": 1,
+      "pitchDeadZones": [],
+      "purgingEffect": "particles/guns/PMK_Purging.xml",
+      "radiusOnDelim": 0.8,
+      "radiusOnMax": 1.0,
+      "radiusOnZero": 0.1,
+      "rotationSpeed": [
+        60.0,
+        20.0
+      ],
+      "shotDelay": 5.0,
+      "shotEffect": "particles/guns/PMK_Shot.xml",
+      "smallGun": true,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Secondary",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        20.0
+      ]
+    },
+    "ammoPool": {
+      "AP": 999999,
+      "CS": 999999,
+      "HE": 999999,
+      "axisLaser": 999999,
+      "chargeLaser": 999999,
+      "impulseLaser": 999999,
+      "phaserLaser": 999999
+    },
+    "artificialOffset": 0,
+    "controlGroups": {},
+    "manualModeModifiers": null,
+    "maxDist": 4960.0,
+    "minDistH": 50.0,
+    "minDistV": 110.0,
+    "sigmaCount": 1.0,
+    "taperDist": 0.0,
+    "targetWeightDist": 1.0,
+    "targetWeightHealth": 1.0,
+    "targetWeightIncoming": 10.0,
+    "targetWeightMaxDist": 2.0,
+    "targetWeightMaxHealth": 1.0,
+    "targetWeightMinDist": 10.0,
+    "targetWeightMinHealth": 5.0,
+    "targetWeightOutcoming": 0.1,
+    "targetWeightYaw": 1.0
+  },
+  "A_AirArmament": {
+    "auraCoeff": 1.0,
+    "deckPlaceCount": 0,
+    "isIndependentLaunchpad": false,
+    "isParallelLaunch": true,
+    "jointLaunchDelay": 1.0,
+    "jointLaunchOffset": [
+      40.0,
+      40.0
+    ],
+    "jointLaunchPlaneCount": -1,
+    "launchPrepareTime": 0,
+    "launchpadType": "fake",
+    "planesReserveCapacity": 0,
+    "turnCameraToCatapultNode": ""
+  },
+  "A_AirSupport": {
+    "ammoList": [
+      "PVAD901_ASW_T5"
+    ],
+    "ammoSwitchCoeff": 1.0,
+    "autoUsage": false,
+    "chargesNum": 1,
+    "climbAngle": 30,
+    "flyAwayTime": 5.0,
+    "maxDist": 8000,
+    "maxPlaneFlightDist": 4300,
+    "minDist": 500,
+    "reloadTime": 20.0,
+    "timeBetweenShots": 2.0,
+    "timeFromHeaven": 2.0
+  },
+  "A_Artillery": {
+    "HP_VGM_1": {
+      "HitLocationArtillery": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.0,
+        "autoRepairTime": 30,
+        "autoRepairTimeMin": 25,
+        "brokenRepairHealthCoefficient": 0.5,
+        "brokenRepairTime": 45.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.05,
+          0.75
+        ],
+        "critProbHP": [
+          1.0,
+          0.02
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "artillery_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 7500.0,
+        "moduleCritCoeffCR": 1.0,
+        "moduleCritCoeffXP": 1.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 1.0,
+        "splashBoxes": [
+          "CM_SB_gk_1_1"
+        ],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 0.1
+      },
+      "aiMGmaxEllipseRanging": 4.0,
+      "aiMGmedEllipseRanging": 3.7,
+      "aiMGminEllipseRanging": 3.5,
+      "ammoList": [
+        "PVPA009_305MM_MX_HE_JANEIRO",
+        "PVPA008_305MM_MX_AP_JANEIRO"
+      ],
+      "ammoSwitchCoeff": 1.0,
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65568": 203.0,
+        "65569": 76.0,
+        "65571": 254.0,
+        "65635": 38.0,
+        "65636": 305.0
+      },
+      "barrelDiameter": 0.305,
+      "brokenEffect": "particles/guns/Gun_Damage_medium.xml",
+      "coeffPerSecondMin": 0.3,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_medium.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/main/VGM009_12in45_MK13/VGM009_12in45_MK13_dead.model",
+      "deadZone": [],
+      "delim": 0.5,
+      "effectIntensityModifier": 1.0,
+      "ellipseRangeMax": 250.0,
+      "ellipseRangeMin": 50.0,
+      "horizSector": [
+        -148.0,
+        148.0
+      ],
+      "id": 4285130064,
+      "idealDistance": 1000.0,
+      "idealRadius": 12.0,
+      "index": "PVGM009",
+      "lensEffect": "particles/guns/GK_Lens.xml",
+      "maxEllipseRanging": 1.003,
+      "medEllipseRanging": 1.002,
+      "minEllipseRanging": 1.001,
+      "minRadius": 2.0,
+      "miscFilter": [
+        "MP_VM406_Stairs_1"
+      ],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/main/VGM009_12in45_MK13/VGM009_12in45_MK13.model",
+      "name": "PVGM009_12in45_MK13",
+      "numBarrels": 2,
+      "onMoveTarPosCoeffDelim": 1.001,
+      "onMoveTarPosCoeffMaxDist": 1.002,
+      "onMoveTarPosCoeffZero": 1.0,
+      "onMoveTarPosDelim": 0.1,
+      "pitchDeadZones": [],
+      "position": [
+        0.0,
+        1.0
+      ],
+      "purgingEffect": "particles/guns/GK_Purging.xml",
+      "radiusOnDelim": 0.5,
+      "radiusOnMax": 0.6,
+      "radiusOnZero": 0.2,
+      "reduceTime": 0.1,
+      "reloadBoostEffect": "particles/guns/GK_Reload.xml",
+      "rotationSpeed": [
+        4.0,
+        5.0
+      ],
+      "shotDelay": 31.0,
+      "shotEffect": "particles/guns/GK_Shot.xml",
+      "smallGun": null,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Main",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGM_2": {
+      "HitLocationArtillery": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.0,
+        "autoRepairTime": 30,
+        "autoRepairTimeMin": 25,
+        "brokenRepairHealthCoefficient": 0.5,
+        "brokenRepairTime": 45.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.05,
+          0.75
+        ],
+        "critProbHP": [
+          1.0,
+          0.02
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "artillery_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 7500.0,
+        "moduleCritCoeffCR": 1.0,
+        "moduleCritCoeffXP": 1.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 1.0,
+        "splashBoxes": [
+          "CM_SB_gk_2_1"
+        ],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 0.1
+      },
+      "aiMGmaxEllipseRanging": 4.0,
+      "aiMGmedEllipseRanging": 3.7,
+      "aiMGminEllipseRanging": 3.5,
+      "ammoList": [
+        "PVPA009_305MM_MX_HE_JANEIRO",
+        "PVPA008_305MM_MX_AP_JANEIRO"
+      ],
+      "ammoSwitchCoeff": 1.0,
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65568": 203.0,
+        "65569": 76.0,
+        "65571": 254.0,
+        "65635": 38.0,
+        "65636": 305.0
+      },
+      "barrelDiameter": 0.305,
+      "brokenEffect": "particles/guns/Gun_Damage_medium.xml",
+      "coeffPerSecondMin": 0.3,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_medium.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/main/VGM009_12in45_MK13/VGM009_12in45_MK13_dead.model",
+      "deadZone": [],
+      "delim": 0.5,
+      "effectIntensityModifier": 1.0,
+      "ellipseRangeMax": 250.0,
+      "ellipseRangeMin": 50.0,
+      "horizSector": [
+        -148.0,
+        148.0
+      ],
+      "id": 4285130064,
+      "idealDistance": 1000.0,
+      "idealRadius": 12.0,
+      "index": "PVGM009",
+      "lensEffect": "particles/guns/GK_Lens.xml",
+      "maxEllipseRanging": 1.003,
+      "medEllipseRanging": 1.002,
+      "minEllipseRanging": 1.001,
+      "minRadius": 2.0,
+      "miscFilter": [
+        "MP_VM406_Stairs_1"
+      ],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/main/VGM009_12in45_MK13/VGM009_12in45_MK13.model",
+      "name": "PVGM009_12in45_MK13",
+      "numBarrels": 2,
+      "onMoveTarPosCoeffDelim": 1.001,
+      "onMoveTarPosCoeffMaxDist": 1.002,
+      "onMoveTarPosCoeffZero": 1.0,
+      "onMoveTarPosDelim": 0.1,
+      "pitchDeadZones": [],
+      "position": [
+        1.0,
+        1.0
+      ],
+      "purgingEffect": "particles/guns/GK_Purging.xml",
+      "radiusOnDelim": 0.5,
+      "radiusOnMax": 0.6,
+      "radiusOnZero": 0.2,
+      "reduceTime": 0.1,
+      "reloadBoostEffect": "particles/guns/GK_Reload.xml",
+      "rotationSpeed": [
+        4.0,
+        5.0
+      ],
+      "shotDelay": 31.0,
+      "shotEffect": "particles/guns/GK_Shot.xml",
+      "smallGun": null,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Main",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGM_3": {
+      "HitLocationArtillery": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.0,
+        "autoRepairTime": 30,
+        "autoRepairTimeMin": 25,
+        "brokenRepairHealthCoefficient": 0.5,
+        "brokenRepairTime": 45.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.05,
+          0.75
+        ],
+        "critProbHP": [
+          1.0,
+          0.02
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "artillery_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 7500.0,
+        "moduleCritCoeffCR": 1.0,
+        "moduleCritCoeffXP": 1.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 1.0,
+        "splashBoxes": [
+          "CM_SB_gk_3_1"
+        ],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 0.1
+      },
+      "aiMGmaxEllipseRanging": 4.0,
+      "aiMGmedEllipseRanging": 3.7,
+      "aiMGminEllipseRanging": 3.5,
+      "ammoList": [
+        "PVPA009_305MM_MX_HE_JANEIRO",
+        "PVPA008_305MM_MX_AP_JANEIRO"
+      ],
+      "ammoSwitchCoeff": 1.0,
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65568": 203.0,
+        "65569": 76.0,
+        "65571": 254.0,
+        "65635": 38.0,
+        "65636": 305.0
+      },
+      "barrelDiameter": 0.305,
+      "brokenEffect": "particles/guns/Gun_Damage_medium.xml",
+      "coeffPerSecondMin": 0.3,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_medium.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/main/VGM009_12in45_MK13/VGM009_12in45_MK13_dead.model",
+      "deadZone": [
+        [
+          -30.0,
+          30.0
+        ]
+      ],
+      "delim": 0.5,
+      "effectIntensityModifier": 1.0,
+      "ellipseRangeMax": 250.0,
+      "ellipseRangeMin": 50.0,
+      "horizSector": [
+        -147.0,
+        147.0
+      ],
+      "id": 4285130064,
+      "idealDistance": 1000.0,
+      "idealRadius": 12.0,
+      "index": "PVGM009",
+      "lensEffect": "particles/guns/GK_Lens.xml",
+      "maxEllipseRanging": 1.003,
+      "medEllipseRanging": 1.002,
+      "minEllipseRanging": 1.001,
+      "minRadius": 2.0,
+      "miscFilter": [
+        "MP_VM406_Stairs_1"
+      ],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/main/VGM009_12in45_MK13/VGM009_12in45_MK13.model",
+      "name": "PVGM009_12in45_MK13",
+      "numBarrels": 2,
+      "onMoveTarPosCoeffDelim": 1.001,
+      "onMoveTarPosCoeffMaxDist": 1.002,
+      "onMoveTarPosCoeffZero": 1.0,
+      "onMoveTarPosDelim": 0.1,
+      "pitchDeadZones": [
+        [
+          -21.0,
+          21.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "position": [
+        2.0,
+        1.0
+      ],
+      "purgingEffect": "particles/guns/GK_Purging.xml",
+      "radiusOnDelim": 0.5,
+      "radiusOnMax": 0.6,
+      "radiusOnZero": 0.2,
+      "reduceTime": 0.1,
+      "reloadBoostEffect": "particles/guns/GK_Reload.xml",
+      "rotationSpeed": [
+        4.0,
+        5.0
+      ],
+      "shotDelay": 31.0,
+      "shotEffect": "particles/guns/GK_Shot.xml",
+      "smallGun": null,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Main",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGM_4": {
+      "HitLocationArtillery": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.0,
+        "autoRepairTime": 30,
+        "autoRepairTimeMin": 25,
+        "brokenRepairHealthCoefficient": 0.5,
+        "brokenRepairTime": 45.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.05,
+          0.75
+        ],
+        "critProbHP": [
+          1.0,
+          0.02
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "artillery_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 7500.0,
+        "moduleCritCoeffCR": 1.0,
+        "moduleCritCoeffXP": 1.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 1.0,
+        "splashBoxes": [
+          "CM_SB_gk_4_1"
+        ],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 0.1
+      },
+      "aiMGmaxEllipseRanging": 4.0,
+      "aiMGmedEllipseRanging": 3.7,
+      "aiMGminEllipseRanging": 3.5,
+      "ammoList": [
+        "PVPA009_305MM_MX_HE_JANEIRO",
+        "PVPA008_305MM_MX_AP_JANEIRO"
+      ],
+      "ammoSwitchCoeff": 1.0,
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65568": 203.0,
+        "65569": 76.0,
+        "65571": 254.0,
+        "65635": 38.0,
+        "65636": 305.0
+      },
+      "barrelDiameter": 0.305,
+      "brokenEffect": "particles/guns/Gun_Damage_medium.xml",
+      "coeffPerSecondMin": 0.3,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_medium.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/main/VGM009_12in45_MK13/VGM009_12in45_MK13_dead.model",
+      "deadZone": [
+        [
+          -30.0,
+          30.0
+        ]
+      ],
+      "delim": 0.5,
+      "effectIntensityModifier": 1.0,
+      "ellipseRangeMax": 250.0,
+      "ellipseRangeMin": 50.0,
+      "horizSector": [
+        -146.0,
+        146.0
+      ],
+      "id": 4285130064,
+      "idealDistance": 1000.0,
+      "idealRadius": 12.0,
+      "index": "PVGM009",
+      "lensEffect": "particles/guns/GK_Lens.xml",
+      "maxEllipseRanging": 1.003,
+      "medEllipseRanging": 1.002,
+      "minEllipseRanging": 1.001,
+      "minRadius": 2.0,
+      "miscFilter": [
+        "MP_VM406_Stairs_1"
+      ],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/main/VGM009_12in45_MK13/VGM009_12in45_MK13.model",
+      "name": "PVGM009_12in45_MK13",
+      "numBarrels": 2,
+      "onMoveTarPosCoeffDelim": 1.001,
+      "onMoveTarPosCoeffMaxDist": 1.002,
+      "onMoveTarPosCoeffZero": 1.0,
+      "onMoveTarPosDelim": 0.1,
+      "pitchDeadZones": [
+        [
+          -23.0,
+          23.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "position": [
+        3.0,
+        1.0
+      ],
+      "purgingEffect": "particles/guns/GK_Purging.xml",
+      "radiusOnDelim": 0.5,
+      "radiusOnMax": 0.6,
+      "radiusOnZero": 0.2,
+      "reduceTime": 0.1,
+      "reloadBoostEffect": "particles/guns/GK_Reload.xml",
+      "rotationSpeed": [
+        4.0,
+        5.0
+      ],
+      "shotDelay": 31.0,
+      "shotEffect": "particles/guns/GK_Shot.xml",
+      "smallGun": null,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Main",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGM_5": {
+      "HitLocationArtillery": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.0,
+        "autoRepairTime": 30,
+        "autoRepairTimeMin": 25,
+        "brokenRepairHealthCoefficient": 0.5,
+        "brokenRepairTime": 45.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.05,
+          0.75
+        ],
+        "critProbHP": [
+          1.0,
+          0.02
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "artillery_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 7500.0,
+        "moduleCritCoeffCR": 1.0,
+        "moduleCritCoeffXP": 1.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 1.0,
+        "splashBoxes": [
+          "CM_SB_gk_5_1"
+        ],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 0.1
+      },
+      "aiMGmaxEllipseRanging": 4.0,
+      "aiMGmedEllipseRanging": 3.7,
+      "aiMGminEllipseRanging": 3.5,
+      "ammoList": [
+        "PVPA009_305MM_MX_HE_JANEIRO",
+        "PVPA008_305MM_MX_AP_JANEIRO"
+      ],
+      "ammoSwitchCoeff": 1.0,
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65568": 203.0,
+        "65569": 76.0,
+        "65571": 254.0,
+        "65635": 38.0,
+        "65636": 305.0
+      },
+      "barrelDiameter": 0.305,
+      "brokenEffect": "particles/guns/Gun_Damage_medium.xml",
+      "coeffPerSecondMin": 0.3,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_medium.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/main/VGM009_12in45_MK13/VGM009_12in45_MK13_dead.model",
+      "deadZone": [
+        [
+          -23.0,
+          23.0
+        ]
+      ],
+      "delim": 0.5,
+      "effectIntensityModifier": 1.0,
+      "ellipseRangeMax": 250.0,
+      "ellipseRangeMin": 50.0,
+      "horizSector": [
+        -144.0,
+        144.0
+      ],
+      "id": 4285130064,
+      "idealDistance": 1000.0,
+      "idealRadius": 12.0,
+      "index": "PVGM009",
+      "lensEffect": "particles/guns/GK_Lens.xml",
+      "maxEllipseRanging": 1.003,
+      "medEllipseRanging": 1.002,
+      "minEllipseRanging": 1.001,
+      "minRadius": 2.0,
+      "miscFilter": [
+        "MP_VM406_Stairs_1"
+      ],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/main/VGM009_12in45_MK13/VGM009_12in45_MK13.model",
+      "name": "PVGM009_12in45_MK13",
+      "numBarrels": 2,
+      "onMoveTarPosCoeffDelim": 1.001,
+      "onMoveTarPosCoeffMaxDist": 1.002,
+      "onMoveTarPosCoeffZero": 1.0,
+      "onMoveTarPosDelim": 0.1,
+      "pitchDeadZones": [],
+      "position": [
+        4.0,
+        1.0
+      ],
+      "purgingEffect": "particles/guns/GK_Purging.xml",
+      "radiusOnDelim": 0.5,
+      "radiusOnMax": 0.6,
+      "radiusOnZero": 0.2,
+      "reduceTime": 0.1,
+      "reloadBoostEffect": "particles/guns/GK_Reload.xml",
+      "rotationSpeed": [
+        4.0,
+        5.0
+      ],
+      "shotDelay": 31.0,
+      "shotEffect": "particles/guns/GK_Shot.xml",
+      "smallGun": null,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Main",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGM_6": {
+      "HitLocationArtillery": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.0,
+        "autoRepairTime": 30,
+        "autoRepairTimeMin": 25,
+        "brokenRepairHealthCoefficient": 0.5,
+        "brokenRepairTime": 45.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.05,
+          0.75
+        ],
+        "critProbHP": [
+          1.0,
+          0.02
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "artillery_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 7500.0,
+        "moduleCritCoeffCR": 1.0,
+        "moduleCritCoeffXP": 1.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 1.0,
+        "splashBoxes": [
+          "CM_SB_gk_6_1"
+        ],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 0.1
+      },
+      "aiMGmaxEllipseRanging": 4.0,
+      "aiMGmedEllipseRanging": 3.7,
+      "aiMGminEllipseRanging": 3.5,
+      "ammoList": [
+        "PVPA009_305MM_MX_HE_JANEIRO",
+        "PVPA008_305MM_MX_AP_JANEIRO"
+      ],
+      "ammoSwitchCoeff": 1.0,
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65568": 203.0,
+        "65569": 76.0,
+        "65571": 254.0,
+        "65635": 38.0,
+        "65636": 305.0
+      },
+      "barrelDiameter": 0.305,
+      "brokenEffect": "particles/guns/Gun_Damage_medium.xml",
+      "coeffPerSecondMin": 0.3,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_medium.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/main/VGM009_12in45_MK13/VGM009_12in45_MK13_dead.model",
+      "deadZone": [
+        [
+          163.0,
+          -163.0
+        ]
+      ],
+      "delim": 0.5,
+      "effectIntensityModifier": 1.0,
+      "ellipseRangeMax": 250.0,
+      "ellipseRangeMin": 50.0,
+      "horizSector": [
+        0.0,
+        0.0
+      ],
+      "id": 4285130064,
+      "idealDistance": 1000.0,
+      "idealRadius": 12.0,
+      "index": "PVGM009",
+      "lensEffect": "particles/guns/GK_Lens.xml",
+      "maxEllipseRanging": 1.003,
+      "medEllipseRanging": 1.002,
+      "minEllipseRanging": 1.001,
+      "minRadius": 2.0,
+      "miscFilter": [
+        "MP_VM407_Stairs_2"
+      ],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/main/VGM009_12in45_MK13/VGM009_12in45_MK13.model",
+      "name": "PVGM009_12in45_MK13",
+      "numBarrels": 2,
+      "onMoveTarPosCoeffDelim": 1.001,
+      "onMoveTarPosCoeffMaxDist": 1.002,
+      "onMoveTarPosCoeffZero": 1.0,
+      "onMoveTarPosDelim": 0.1,
+      "pitchDeadZones": [],
+      "position": [
+        5.0,
+        1.0
+      ],
+      "purgingEffect": "particles/guns/GK_Purging.xml",
+      "radiusOnDelim": 0.5,
+      "radiusOnMax": 0.6,
+      "radiusOnZero": 0.2,
+      "reduceTime": 0.1,
+      "reloadBoostEffect": "particles/guns/GK_Reload.xml",
+      "rotationSpeed": [
+        4.0,
+        5.0
+      ],
+      "shotDelay": 31.0,
+      "shotEffect": "particles/guns/GK_Shot.xml",
+      "smallGun": null,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Main",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "HP_VGM_7": {
+      "HitLocationArtillery": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.0,
+        "autoRepairTime": 30,
+        "autoRepairTimeMin": 25,
+        "brokenRepairHealthCoefficient": 0.5,
+        "brokenRepairTime": 45.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": true,
+        "critProb": [
+          0.05,
+          0.75
+        ],
+        "critProbHP": [
+          1.0,
+          0.02
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "artillery_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 7500.0,
+        "moduleCritCoeffCR": 1.0,
+        "moduleCritCoeffXP": 1.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 1.0,
+        "splashBoxes": [
+          "CM_SB_gk_7_1"
+        ],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 0.1
+      },
+      "aiMGmaxEllipseRanging": 4.0,
+      "aiMGmedEllipseRanging": 3.7,
+      "aiMGminEllipseRanging": 3.5,
+      "ammoList": [
+        "PVPA009_305MM_MX_HE_JANEIRO",
+        "PVPA008_305MM_MX_AP_JANEIRO"
+      ],
+      "ammoSwitchCoeff": 1.0,
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65568": 203.0,
+        "65569": 76.0,
+        "65571": 254.0,
+        "65635": 38.0,
+        "65636": 305.0
+      },
+      "barrelDiameter": 0.305,
+      "brokenEffect": "particles/guns/Gun_Damage_medium.xml",
+      "coeffPerSecondMin": 0.3,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_medium.xml",
+      "deadMesh": "content/gameplay/panamerica/gun/main/VGM009_12in45_MK13/VGM009_12in45_MK13_dead.model",
+      "deadZone": [],
+      "delim": 0.5,
+      "effectIntensityModifier": 1.0,
+      "ellipseRangeMax": 250.0,
+      "ellipseRangeMin": 50.0,
+      "horizSector": [
+        -148.0,
+        148.0
+      ],
+      "id": 4285130064,
+      "idealDistance": 1000.0,
+      "idealRadius": 12.0,
+      "index": "PVGM009",
+      "lensEffect": "particles/guns/GK_Lens.xml",
+      "maxEllipseRanging": 1.003,
+      "medEllipseRanging": 1.002,
+      "minEllipseRanging": 1.001,
+      "minRadius": 2.0,
+      "miscFilter": [
+        "MP_VM406_Stairs_1"
+      ],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/gun/main/VGM009_12in45_MK13/VGM009_12in45_MK13.model",
+      "name": "PVGM009_12in45_MK13",
+      "numBarrels": 2,
+      "onMoveTarPosCoeffDelim": 1.001,
+      "onMoveTarPosCoeffMaxDist": 1.002,
+      "onMoveTarPosCoeffZero": 1.0,
+      "onMoveTarPosDelim": 0.1,
+      "pitchDeadZones": [],
+      "position": [
+        6.0,
+        1.0
+      ],
+      "purgingEffect": "particles/guns/GK_Purging.xml",
+      "radiusOnDelim": 0.5,
+      "radiusOnMax": 0.6,
+      "radiusOnZero": 0.2,
+      "reduceTime": 0.1,
+      "reloadBoostEffect": "particles/guns/GK_Reload.xml",
+      "rotationSpeed": [
+        4.0,
+        5.0
+      ],
+      "shotDelay": 31.0,
+      "shotEffect": "particles/guns/GK_Shot.xml",
+      "smallGun": null,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": "Main",
+        "type": "Gun"
+      },
+      "vertSector": [
+        -1.0,
+        15.0
+      ]
+    },
+    "ammoPool": {
+      "AP": 99999,
+      "CS": 99999,
+      "HE": 99999,
+      "axisLaser": 99999,
+      "chargeLaser": 99999,
+      "impulseLaser": 99999,
+      "phaserLaser": 99999
+    },
+    "artificialOffset": 0,
+    "maxDist": 16100.0,
+    "minDistH": 50.0,
+    "minDistV": 110.0,
+    "normalDistribution": true,
+    "sigmaCount": 1.7,
+    "taperDist": 4000.0,
+    "targetWeightAllyAttacker": 1.0,
+    "targetWeightDist": 1.0,
+    "targetWeightHealth": 1.0,
+    "targetWeightIncoming": 10.0,
+    "targetWeightMaxDist": 2.0,
+    "targetWeightMaxHealth": 1.0,
+    "targetWeightMinDist": 10.0,
+    "targetWeightMinHealth": 5.0,
+    "targetWeightMyAttacker": 1.0,
+    "targetWeightOutcoming": 0.1,
+    "targetWeightYaw": 1.0
+  },
+  "A_Engine": {
+    "HitLocationEngine": {
+      "antiRamCoeff": 1.0,
+      "armorCoeff": 0.0,
+      "autoRepairTime": 60,
+      "autoRepairTimeMin": 60,
+      "brokenRepairHealthCoefficient": 0.5,
+      "brokenRepairTime": 90.0,
+      "buoyancyShipPercent": 0.0,
+      "burnNode": "",
+      "canBeDestroyed": false,
+      "critProb": [
+        0.25,
+        0.1
+      ],
+      "critProbHP": [
+        1.0,
+        0.0
+      ],
+      "damageEffects": [
+        [
+          0.1,
+          ""
+        ],
+        [
+          0.3,
+          ""
+        ],
+        [
+          0.6,
+          ""
+        ]
+      ],
+      "enhancedRegeneratedHPPart": 0.0,
+      "hlType": "engine_hitlocation",
+      "maxBuoyancy": 0.0,
+      "maxHP": 48400.0,
+      "moduleCritCoeffCR": 1.0,
+      "moduleCritCoeffXP": 1.0,
+      "parentHL": null,
+      "ramCoeff": 1.0,
+      "ramExtraDamage": 0.0,
+      "regeneratedHPPart": 0.5,
+      "splashBoxes": [
+        "CM_SB_engine_1_1",
+        "CM_SB_engine_2_1",
+        "CM_SB_engine_2_2"
+      ],
+      "startHPCoeff": 1.0,
+      "tbSkipProbMax": 0.0,
+      "tbSkipProbMin": 0.0,
+      "transmitHPDamageToParentFactor": 1.0,
+      "volume": 10.0,
+      "volumeCoeff": 1.0
+    },
+    "backwardEngineForsag": 2.5,
+    "backwardEngineForsagMaxSpeed": 2.5,
+    "backwardEngineUpTime": 30.0,
+    "backwardSpeedOnFlood": -0.6,
+    "damagedEnginePowerMultiplier": -0.6,
+    "damagedEnginePowerTimeMultiplier": 6.5,
+    "engineType": "SteamTurbine",
+    "forwardEngineForsag": 1.75,
+    "forwardEngineForsagMaxSpeed": 2.5,
+    "forwardEngineUpTime": 52.0,
+    "forwardSpeedOnFlood": -0.3,
+    "histEnginePower": 34000,
+    "sound": "GameLogic.Engines.Battleship.Turbine.Type_1",
+    "speedCoef": 0.0
+  },
+  "A_Finders": {
+    "HP_VF_1": {
+      "customMiscs": {},
+      "gunNode": "",
+      "id": 4284672336,
+      "index": "PVF009",
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/finder/VF009_Rangefinder_1_5m/VF009_Rangefinder_1_5m.model",
+      "name": "PVF009_Rangefinder_1_5m",
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": null,
+        "type": "Finder"
+      }
+    },
+    "HP_VF_2": {
+      "customMiscs": {},
+      "gunNode": "HP_VGM_2",
+      "id": 4285720912,
+      "index": "PVF008",
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/finder/VF008_Rangefinder_9ft/VF008_Rangefinder_9ft.model",
+      "name": "PVF008_Rangefinder_9ft",
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": null,
+        "type": "Finder"
+      }
+    },
+    "HP_VF_3": {
+      "customMiscs": {},
+      "gunNode": "HP_VGM_6",
+      "id": 4285720912,
+      "index": "PVF008",
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/finder/VF008_Rangefinder_9ft/VF008_Rangefinder_9ft.model",
+      "name": "PVF008_Rangefinder_9ft",
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": null,
+        "type": "Finder"
+      }
+    },
+    "HP_VF_4": {
+      "customMiscs": {},
+      "gunNode": "",
+      "id": 4284672336,
+      "index": "PVF009",
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/panamerica/finder/VF009_Rangefinder_1_5m/VF009_Rangefinder_1_5m.model",
+      "name": "PVF009_Rangefinder_1_5m",
+      "typeinfo": {
+        "nation": "Pan_America",
+        "species": null,
+        "type": "Finder"
+      }
+    }
+  },
+  "A_FireControl": {
+    "maxDistCoef": 1.0,
+    "sigmaCountCoef": 1.0
+  },
+  "A_Hull": {
+    "Ammo_1": {
+      "antiRamCoeff": 1.0,
+      "armorCoeff": 0.0,
+      "autoRepairTime": 40,
+      "autoRepairTimeMin": 5,
+      "brokenRepairHealthCoefficient": 0.5,
+      "brokenRepairTime": 90.0,
+      "buoyancyShipPercent": 0.0,
+      "burnNode": "",
+      "canBeDestroyed": true,
+      "coeffReloadDamaged": 1.0,
+      "critProb": [
+        0.0,
+        0.0
+      ],
+      "critProbHP": [
+        1.0,
+        0.0
+      ],
+      "damageEffects": [
+        [
+          0.1,
+          ""
+        ],
+        [
+          0.3,
+          ""
+        ],
+        [
+          0.6,
+          ""
+        ]
+      ],
+      "enhancedRegeneratedHPPart": 0.0,
+      "guns": [],
+      "hlType": "powdermagazine_hitlocation",
+      "maxBuoyancy": 0.0,
+      "maxHP": 24200.0,
+      "moduleCritCoeffCR": 1.0,
+      "moduleCritCoeffXP": 1.0,
+      "parentHL": null,
+      "ramCoeff": 1.0,
+      "ramExtraDamage": 0.0,
+      "regeneratedHPPart": 0.5,
+      "splashBoxes": [
+        "CM_SB_cit_ammo_1_1"
+      ],
+      "startHPCoeff": 1.0,
+      "tbSkipProbMax": 0.0,
+      "tbSkipProbMin": 0.0,
+      "transmitHPDamageToParentFactor": 1.0,
+      "volume": 1.0,
+      "volumeCoeff": 1.0
+    },
+    "Ammo_2": {
+      "antiRamCoeff": 1.0,
+      "armorCoeff": 0.0,
+      "autoRepairTime": 40,
+      "autoRepairTimeMin": 5,
+      "brokenRepairHealthCoefficient": 0.5,
+      "brokenRepairTime": 90.0,
+      "buoyancyShipPercent": 0.0,
+      "burnNode": "",
+      "canBeDestroyed": true,
+      "coeffReloadDamaged": 1.0,
+      "critProb": [
+        0.0,
+        0.0
+      ],
+      "critProbHP": [
+        1.0,
+        0.0
+      ],
+      "damageEffects": [
+        [
+          0.1,
+          ""
+        ],
+        [
+          0.3,
+          ""
+        ],
+        [
+          0.6,
+          ""
+        ]
+      ],
+      "enhancedRegeneratedHPPart": 0.0,
+      "guns": [],
+      "hlType": "powdermagazine_hitlocation",
+      "maxBuoyancy": 0.0,
+      "maxHP": 24200.0,
+      "moduleCritCoeffCR": 1.0,
+      "moduleCritCoeffXP": 1.0,
+      "parentHL": null,
+      "ramCoeff": 1.0,
+      "ramExtraDamage": 0.0,
+      "regeneratedHPPart": 0.5,
+      "splashBoxes": [
+        "CM_SB_cit_ammo_2_1"
+      ],
+      "startHPCoeff": 1.0,
+      "tbSkipProbMax": 0.0,
+      "tbSkipProbMin": 0.0,
+      "transmitHPDamageToParentFactor": 1.0,
+      "volume": 1.0,
+      "volumeCoeff": 1.0
+    },
+    "Ammo_3": {
+      "antiRamCoeff": 1.0,
+      "armorCoeff": 0.0,
+      "autoRepairTime": 40,
+      "autoRepairTimeMin": 5,
+      "brokenRepairHealthCoefficient": 0.5,
+      "brokenRepairTime": 90.0,
+      "buoyancyShipPercent": 0.0,
+      "burnNode": "",
+      "canBeDestroyed": true,
+      "coeffReloadDamaged": 1.0,
+      "critProb": [
+        0.0,
+        0.0
+      ],
+      "critProbHP": [
+        1.0,
+        0.0
+      ],
+      "damageEffects": [
+        [
+          0.1,
+          ""
+        ],
+        [
+          0.3,
+          ""
+        ],
+        [
+          0.6,
+          ""
+        ]
+      ],
+      "enhancedRegeneratedHPPart": 0.0,
+      "guns": [],
+      "hlType": "powdermagazine_hitlocation",
+      "maxBuoyancy": 0.0,
+      "maxHP": 24200.0,
+      "moduleCritCoeffCR": 1.0,
+      "moduleCritCoeffXP": 1.0,
+      "parentHL": null,
+      "ramCoeff": 1.0,
+      "ramExtraDamage": 0.0,
+      "regeneratedHPPart": 0.5,
+      "splashBoxes": [
+        "CM_SB_cit_ammo_3_1"
+      ],
+      "startHPCoeff": 1.0,
+      "tbSkipProbMax": 0.0,
+      "tbSkipProbMin": 0.0,
+      "transmitHPDamageToParentFactor": 1.0,
+      "volume": 1.0,
+      "volumeCoeff": 1.0
+    },
+    "Bow": {
+      "antiRamCoeff": 1.0,
+      "armorCoeff": 0.0,
+      "autoRepairTime": 10,
+      "autoRepairTimeMin": 5,
+      "brokenRepairHealthCoefficient": 0.5,
+      "brokenRepairTime": 90.0,
+      "buoyancyShipPercent": 0.0,
+      "burnNode": "",
+      "canBeDestroyed": false,
+      "critProb": [
+        0.0,
+        0.0
+      ],
+      "critProbHP": [
+        1.0,
+        0.0
+      ],
+      "damageEffects": [
+        [
+          0.1,
+          ""
+        ],
+        [
+          0.3,
+          ""
+        ],
+        [
+          0.6,
+          ""
+        ]
+      ],
+      "enhancedRegeneratedHPPart": 0.0,
+      "hlType": "simple_hitlocation",
+      "maxBuoyancy": 0.0,
+      "maxHP": 1900.0,
+      "moduleCritCoeffCR": 0.0,
+      "moduleCritCoeffXP": 0.0,
+      "parentHL": "Hull",
+      "ramCoeff": 1.0,
+      "ramExtraDamage": 0.0,
+      "regeneratedHPPart": 0.5,
+      "splashBoxes": [
+        "CM_SB_bow_1",
+        "CM_SB_bow_2",
+        "CM_SB_bow_3"
+      ],
+      "startHPCoeff": 1.0,
+      "tbSkipProbMax": 0.0,
+      "tbSkipProbMin": 0.0,
+      "transmitHPDamageToParentFactor": 1.0,
+      "volume": 1.51,
+      "volumeCoeff": 0.165
+    },
+    "Cas": {
+      "antiRamCoeff": 1.0,
+      "armorCoeff": 0.0,
+      "autoRepairTime": 10,
+      "autoRepairTimeMin": 5,
+      "brokenRepairHealthCoefficient": 0.5,
+      "brokenRepairTime": 90.0,
+      "buoyancyShipPercent": 0.0,
+      "burnNode": "",
+      "canBeDestroyed": false,
+      "critProb": [
+        0.0,
+        0.0
+      ],
+      "critProbHP": [
+        1.0,
+        0.0
+      ],
+      "damageEffects": [
+        [
+          0.1,
+          ""
+        ],
+        [
+          0.3,
+          ""
+        ],
+        [
+          0.6,
+          ""
+        ]
+      ],
+      "enhancedRegeneratedHPPart": 0.0,
+      "hlType": "simple_hitlocation",
+      "maxBuoyancy": 0.0,
+      "maxHP": 9700.0,
+      "moduleCritCoeffCR": 0.0,
+      "moduleCritCoeffXP": 0.0,
+      "parentHL": "Hull",
+      "ramCoeff": 1.0,
+      "ramExtraDamage": 0.0,
+      "regeneratedHPPart": 0.5,
+      "splashBoxes": [
+        "CM_SB_cas_1",
+        "CM_SB_cas_2",
+        "CM_SB_cas_3",
+        "CM_SB_cas_4",
+        "CM_SB_cas_5",
+        "CM_SB_cas_6",
+        "CM_SB_cas_7"
+      ],
+      "startHPCoeff": 1.0,
+      "tbSkipProbMax": 0.0,
+      "tbSkipProbMin": 0.0,
+      "transmitHPDamageToParentFactor": 1.0,
+      "volume": 7.64,
+      "volumeCoeff": 0.165
+    },
+    "Cit": {
+      "antiRamCoeff": 1.0,
+      "armorCoeff": 0.0,
+      "autoRepairTime": 10,
+      "autoRepairTimeMin": 5,
+      "brokenRepairHealthCoefficient": 0.5,
+      "brokenRepairTime": 90.0,
+      "buoyancyShipPercent": 0.0,
+      "burnNode": "",
+      "canBeDestroyed": false,
+      "critProb": [
+        0.0,
+        0.0
+      ],
+      "critProbHP": [
+        1.0,
+        0.0
+      ],
+      "damageEffects": [
+        [
+          0.1,
+          ""
+        ],
+        [
+          0.3,
+          ""
+        ],
+        [
+          0.6,
+          ""
+        ]
+      ],
+      "enhancedRegeneratedHPPart": 0.5,
+      "hlType": "citadel_hitlocation",
+      "maxBuoyancy": 0.0,
+      "maxHP": 165500,
+      "moduleCritCoeffCR": 0.0,
+      "moduleCritCoeffXP": 0.0,
+      "parentHL": null,
+      "ramCoeff": 1.0,
+      "ramExtraDamage": 0.0,
+      "regeneratedHPPart": 0.1,
+      "splashBoxes": [
+        "CM_SB_cit_1",
+        "CM_SB_cit_2",
+        "CM_SB_cit_3"
+      ],
+      "startHPCoeff": 1.0,
+      "tbSkipProbMax": 0.0,
+      "tbSkipProbMin": 0.0,
+      "transmitHPDamageToParentFactor": 1.0,
+      "volume": 6.25,
+      "volumeCoeff": 1.0
+    },
+    "Hull": {
+      "antiRamCoeff": 1.0,
+      "armorCoeff": 0.0,
+      "autoRepairTime": 10,
+      "autoRepairTimeMin": 5,
+      "brokenRepairHealthCoefficient": 0.5,
+      "brokenRepairTime": 90.0,
+      "buoyancyShipPercent": 0.0,
+      "burnNode": "",
+      "canBeDestroyed": false,
+      "critProb": [
+        0.0,
+        0.0
+      ],
+      "critProbHP": [
+        1.0,
+        0.0
+      ],
+      "damageEffects": [
+        [
+          0.1,
+          ""
+        ],
+        [
+          0.3,
+          ""
+        ],
+        [
+          0.6,
+          ""
+        ]
+      ],
+      "enhancedRegeneratedHPPart": 0.0,
+      "hlType": "hull_hitlocation",
+      "maxBuoyancy": 0.0,
+      "maxHP": 36300.0,
+      "moduleCritCoeffCR": 0.0,
+      "moduleCritCoeffXP": 0.0,
+      "parentHL": null,
+      "ramCoeff": 1.0,
+      "ramExtraDamage": 0.0,
+      "regeneratedHPPart": 0.5,
+      "splashBoxes": [],
+      "startHPCoeff": 1.0,
+      "tbSkipProbMax": 0.0,
+      "tbSkipProbMin": 0.0,
+      "transmitHPDamageToParentFactor": 1.0,
+      "volume": 1.0,
+      "volumeCoeff": 0.165
+    },
+    "SG": {
+      "antiRamCoeff": 1.0,
+      "armorCoeff": 0.0,
+      "autoRepairTime": 40,
+      "autoRepairTimeMin": 40,
+      "brokenRepairHealthCoefficient": 0.5,
+      "brokenRepairTime": 90.0,
+      "buoyancyShipPercent": 0.0,
+      "burnNode": "",
+      "canBeDestroyed": false,
+      "critProb": [
+        0.65,
+        0.25
+      ],
+      "critProbHP": [
+        1.0,
+        0.0
+      ],
+      "damageEffects": [
+        [
+          0.1,
+          ""
+        ],
+        [
+          0.3,
+          ""
+        ],
+        [
+          0.6,
+          ""
+        ]
+      ],
+      "enhancedRegeneratedHPPart": 0.0,
+      "hlType": "steering_gear_hitlocation",
+      "maxBuoyancy": 0.0,
+      "maxHP": 14500.0,
+      "moduleCritCoeffCR": 0.0,
+      "moduleCritCoeffXP": 0.0,
+      "parentHL": null,
+      "ramCoeff": 1.0,
+      "ramExtraDamage": 0.0,
+      "regeneratedHPPart": 0.5,
+      "splashBoxes": [
+        "CM_SB_ruder_1_1",
+        "CM_SB_ruder_1_2",
+        "CM_SB_ruder_1_3",
+        "CM_SB_ruder_1_4",
+        "CM_SB_ruder_1_5",
+        "CM_SB_ruder_1_6"
+      ],
+      "startHPCoeff": 1.0,
+      "tbSkipProbMax": 0.0,
+      "tbSkipProbMin": 0.0,
+      "transmitHPDamageToParentFactor": 1.0,
+      "volume": 1.0,
+      "volumeCoeff": 1.0
+    },
+    "SS": {
+      "antiRamCoeff": 1.0,
+      "armorCoeff": 0.0,
+      "autoRepairTime": 10,
+      "autoRepairTimeMin": 5,
+      "brokenRepairHealthCoefficient": 0.5,
+      "brokenRepairTime": 90.0,
+      "buoyancyShipPercent": 0.0,
+      "burnNode": "",
+      "canBeDestroyed": false,
+      "critProb": [
+        0.0,
+        0.0
+      ],
+      "critProbHP": [
+        1.0,
+        0.0
+      ],
+      "damageEffects": [
+        [
+          0.1,
+          ""
+        ],
+        [
+          0.3,
+          ""
+        ],
+        [
+          0.6,
+          ""
+        ]
+      ],
+      "enhancedRegeneratedHPPart": 0.0,
+      "hlType": "supersctructure_hitlocation",
+      "maxBuoyancy": 0.0,
+      "maxHP": 1400.0,
+      "moduleCritCoeffCR": 0.0,
+      "moduleCritCoeffXP": 0.0,
+      "parentHL": "Hull",
+      "ramCoeff": 1.0,
+      "ramExtraDamage": 0.0,
+      "regeneratedHPPart": 0.5,
+      "splashBoxes": [
+        "CM_SB_ss_1_1",
+        "CM_SB_ss_1_2",
+        "CM_SB_ss_1_3",
+        "CM_SB_ss_1_4",
+        "CM_SB_ss_1_5",
+        "CM_SB_ss_1_6",
+        "CM_SB_ss_1_7",
+        "CM_SB_ss_3_1",
+        "CM_SB_ss_3_2",
+        "CM_SB_ss_3_3",
+        "CM_SB_ss_3_4",
+        "CM_SB_ss_3_5"
+      ],
+      "startHPCoeff": 1.0,
+      "tbSkipProbMax": 0.0,
+      "tbSkipProbMin": 0.0,
+      "transmitHPDamageToParentFactor": 1.0,
+      "volume": 1.11,
+      "volumeCoeff": 0.165
+    },
+    "St": {
+      "antiRamCoeff": 1.0,
+      "armorCoeff": 0.0,
+      "autoRepairTime": 10,
+      "autoRepairTimeMin": 5,
+      "brokenRepairHealthCoefficient": 0.5,
+      "brokenRepairTime": 90.0,
+      "buoyancyShipPercent": 0.0,
+      "burnNode": "",
+      "canBeDestroyed": false,
+      "critProb": [
+        0.0,
+        0.0
+      ],
+      "critProbHP": [
+        1.0,
+        0.0
+      ],
+      "damageEffects": [
+        [
+          0.1,
+          ""
+        ],
+        [
+          0.3,
+          ""
+        ],
+        [
+          0.6,
+          ""
+        ]
+      ],
+      "enhancedRegeneratedHPPart": 0.0,
+      "hlType": "simple_hitlocation",
+      "maxBuoyancy": 0.0,
+      "maxHP": 1500.0,
+      "moduleCritCoeffCR": 0.0,
+      "moduleCritCoeffXP": 0.0,
+      "parentHL": "Hull",
+      "ramCoeff": 1.0,
+      "ramExtraDamage": 0.0,
+      "regeneratedHPPart": 0.5,
+      "splashBoxes": [
+        "CM_SB_stern_1",
+        "CM_SB_stern_2",
+        "CM_SB_stern_3"
+      ],
+      "startHPCoeff": 1.0,
+      "tbSkipProbMax": 0.0,
+      "tbSkipProbMin": 0.0,
+      "transmitHPDamageToParentFactor": 1.0,
+      "volume": 1.22,
+      "volumeCoeff": 0.165
+    },
+    "acidDamage": 0,
+    "acidDuration": 0,
+    "armor": {
+      "1": 0.0,
+      "131123": 25.0,
+      "131128": 152.0,
+      "131135": 25.0,
+      "131162": 0.0,
+      "131168": 25.0,
+      "131173": 0.0,
+      "131174": 25.0,
+      "131179": 152.0,
+      "131180": 229.0,
+      "131206": 76.0,
+      "131207": 152.0,
+      "131208": 76.0,
+      "131209": 76.0,
+      "131210": 76.0,
+      "131211": 152.0,
+      "131212": 76.0,
+      "131226": 152.0,
+      "131227": 38.0,
+      "131228": 76.0,
+      "131229": 38.0,
+      "131320": 25.0,
+      "131323": 25.0,
+      "196743": 76.0,
+      "196747": 76.0,
+      "196762": 0.0,
+      "196764": 0.0,
+      "65555": 38.0,
+      "65573": 76.0,
+      "65575": 76.0,
+      "65582": 102.0,
+      "65583": 30.0,
+      "65584": 19.0,
+      "65585": 19.0,
+      "65587": 76.0,
+      "65592": 229.0,
+      "65593": 38.0,
+      "65598": 30.0,
+      "65599": 38.0,
+      "65619": 64.0,
+      "65625": 13.0,
+      "65626": 13.0,
+      "65627": 102.0,
+      "65628": 30.0,
+      "65629": 19.0,
+      "65630": 19.0,
+      "65632": 76.0,
+      "65637": 25.0,
+      "65638": 76.0,
+      "65639": 25.0,
+      "65643": 102.0,
+      "65644": 305.0,
+      "65645": 76.0,
+      "65670": 229.0,
+      "65671": 229.0,
+      "65672": 229.0,
+      "65673": 229.0,
+      "65674": 229.0,
+      "65675": 229.0,
+      "65676": 229.0,
+      "65690": 76.0,
+      "65691": 38.0,
+      "65692": 152.0,
+      "65693": 38.0,
+      "65710": 0.0,
+      "65711": 0.0,
+      "65712": 0.0,
+      "65713": 0.0,
+      "65714": 0.0,
+      "65715": 0.0,
+      "65716": 0.0,
+      "65742": 13.0,
+      "65743": 13.0,
+      "65750": 38.0,
+      "65751": 38.0,
+      "65752": 38.0,
+      "65753": 38.0,
+      "65754": 38.0,
+      "65755": 38.0,
+      "65756": 38.0,
+      "65778": 25.0,
+      "65784": 76.0,
+      "65787": 76.0
+    },
+    "armourCas": [
+      -1,
+      -1
+    ],
+    "armourCit": [
+      -1,
+      -1
+    ],
+    "armourDeck": [
+      -1,
+      -1
+    ],
+    "armourExtremities": [
+      -1,
+      -1
+    ],
+    "backwardMovementDragCoef": 0.25,
+    "backwardPowerCoef": 4.0,
+    "barbettes": {
+      "HP_VGM_1": [
+        65670,
+        131206,
+        65710,
+        65750
+      ],
+      "HP_VGM_2": [
+        65671,
+        131207,
+        196743,
+        65711,
+        65751
+      ],
+      "HP_VGM_3": [
+        65672,
+        131208,
+        65712,
+        65752
+      ],
+      "HP_VGM_4": [
+        65673,
+        131209,
+        65713,
+        65753
+      ],
+      "HP_VGM_5": [
+        65674,
+        131210,
+        65714,
+        65754
+      ],
+      "HP_VGM_6": [
+        65675,
+        131211,
+        196747,
+        65715,
+        65755
+      ],
+      "HP_VGM_7": [
+        65676,
+        131212,
+        65716,
+        65756
+      ]
+    },
+    "baseUnderwaterPitchAngle": 0.0,
+    "bodyType": "dynamic",
+    "boilerExplosionPostDeath": "particles/Empty_FX.xml",
+    "buoyancy": 200000,
+    "buoyancyEffects": [],
+    "buoyancyHighlightEffect": "particles/submarines/Sub_location.xml",
+    "buoyancyRudderDepths": [
+      0,
+      -8,
+      -16,
+      -24,
+      -32,
+      -40,
+      -48,
+      -56,
+      -64,
+      -72,
+      -80
+    ],
+    "buoyancyRudderResetTime": 1.0,
+    "buoyancyRudderTime": 1.0,
+    "buoyancyStates": {
+      "DEEP_WATER": [
+        [
+          -34.0,
+          -59.0
+        ],
+        0.63,
+        10.0
+      ],
+      "DEEP_WATER_INVUL": [
+        [
+          -59.0,
+          -80.0
+        ],
+        0.63,
+        10.0
+      ],
+      "PERISCOPE": [
+        [
+          -4.0,
+          -13.0
+        ],
+        0.63,
+        10.0
+      ],
+      "SEMI_DEEP_WATER": [
+        [
+          -13.0,
+          -34.0
+        ],
+        0.63,
+        10.0
+      ],
+      "SURFACE": [
+        [
+          0.0,
+          -4.0
+        ],
+        1.0,
+        1.0
+      ]
+    },
+    "buoyancyStopLine": 10.0,
+    "buoyancyStopLineMinSpeedCoeff": 0.35,
+    "burnNodes": [
+      [
+        0.8335,
+        0.3,
+        60.0
+      ],
+      [
+        0.8335,
+        0.3,
+        60.0
+      ],
+      [
+        0.8335,
+        0.3,
+        60.0
+      ],
+      [
+        0.8335,
+        0.3,
+        60.0
+      ]
+    ],
+    "canReceiveAcid": false,
+    "canReceiveWildFire": true,
+    "chimneyMaxAngle": 45.0,
+    "consumablePlaneTypes": {
+      "fighter": "",
+      "scout": "",
+      "smokePlane": ""
+    },
+    "coolingOffSpeed": 0.1,
+    "crackCoords": [
+      0.25,
+      0.0,
+      -0.25
+    ],
+    "customMiscs": {},
+    "deathBubblesEffect": "particles/NF_BB_seething_bubbles_post_death.xml",
+    "deathFaultEffect": "particles/Empty_FX.xml",
+    "deathFireEffect": "particles/Empty_FX.xml",
+    "deathFoamEffect": "particles/vehicles/Death_foam_medium.xml",
+    "deathFountainsEffect": "particles/NF_BB_water_fountains_post_death.xml",
+    "deathFumingEffect": "particles/NF_BB_fuming_at_flooding_post_death.xml",
+    "deathNodes": [
+      "HP_Ship_death_1",
+      "HP_Ship_death_2",
+      "HP_Ship_death_3"
+    ],
+    "deathPlaneEffect": "particles/NF_AA_death_catapult_ships.xml",
+    "deathPostFireEffect": "particles/NF_BB_fuming_post_fire.xml",
+    "deathSettings": "PCOS001_Default",
+    "deathShellEffect": "particles/Empty_FX.xml",
+    "deathSoundEvent": "Damage_Death",
+    "deathTorpedoEffect": "particles/NF_death_torpedo.xml",
+    "deathUnderWaterBubblesEffects": [
+      "particles/guns/DEPTH_Tracer_UWater.xml",
+      "particles/guns/DEPTH_Tracer_UWater.xml"
+    ],
+    "deckHeight": 4.0,
+    "deepwaterVisionCoeff": {},
+    "deepwaterVisionToPlaneCoeff": {},
+    "defaultCamouflage": "",
+    "dockYOffset": -0.047,
+    "draft": 11,
+    "effectCauldronExplosion": "particles/Empty_FX.xml",
+    "effectOnDeath": "particles/vehicles/Battleship_death.xml",
+    "effectOnFloodDeath": "particles/vehicles/Battleship_death.xml",
+    "effectOnUnderWaterDeath": "particles/vehicles/Submarine_death.xml",
+    "effectShipCracksAndOilPuddle": "particles/Empty_FX.xml",
+    "effects": {
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_medium.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_medium.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_3",
+          "particles/vehicles/Fire_side_medium.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_medium.xml"
+        ]
+      ],
+      "fireResistance": [
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_3",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_5",
+          "particles/vehicles/Fire_big.xml"
+        ],
+        [
+          "HP_FX_Fire_5_2",
+          "particles/vehicles/Fire_big.xml"
+        ]
+      ],
+      "fixDeluge": [
+        [
+          "HP_FX_Flood_water_left",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_1",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_2",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_3",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_1",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_2",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_3",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ]
+      ],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_big.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_exhaust_1",
+          "particles/vehicles/Flood_steam_exhaust_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_exhaust_2",
+          "particles/vehicles/Flood_steam_exhaust_big_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_big.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_big.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Flood_water_left",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_1",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_2",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_3",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_1",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_2",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_3",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_medium.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/idlePort_RunSmoke_medium.xml"
+        ]
+      ],
+      "repairLight": [
+        [
+          "HP_FX_RepairLight_left_1",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_left_2",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_1",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_2",
+          "particles/vehicles/RepairLight_big.xml"
+        ]
+      ],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_medium.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/RunSmoke_medium.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceForward_screw_right_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceForward_screw_left_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ]
+      ]
+    },
+    "elasticity": 0.1,
+    "enemyEngineEffects": false,
+    "enemyVisibilityCoeffByDepth": {
+      "-44.0": 1.0,
+      "0.0": 1.0
+    },
+    "enginePower": 34000.0,
+    "finderBase": 3.0,
+    "finderHeight": 34.0,
+    "flagPoleModelName": "content/gameplay/common/misc/CM500/CM500.model",
+    "floodNodes": [
+      [
+        0.285,
+        0.5,
+        40.0
+      ],
+      [
+        0.285,
+        0.5,
+        40.0
+      ]
+    ],
+    "foghornEffect": "particles/Hooter.xml",
+    "friction": 0.05,
+    "health": 48400.0,
+    "heatChangeValue": 1,
+    "heightIntensityEffects": [],
+    "isBlind": false,
+    "isFakeSubmarine": false,
+    "mass": 31860000.0,
+    "maxBuoyancyLevel": 0.0,
+    "maxBuoyancySpeed": 0.0,
+    "maxHeatValue": 100.0,
+    "maxRudderAngle": 30.0,
+    "maxSpeed": 22.0,
+    "minVisionDistance": 0.0,
+    "model": "content/gameplay/panamerica/ship/battleship/VSB001_Rio_de_Janeiro_1914/VSB001_Rio_de_Janeiro_1914.model",
+    "numOfParts": 0,
+    "oilLeakDuration": 40.0,
+    "oilLeakIntervalInvisible": 5.0,
+    "oilLeakStartDelay": 5.0,
+    "partialHpDecalsAmount": 16,
+    "partialHpHitDecalSize": 0.37,
+    "propellerEffect": "",
+    "propellerEffectReversed": "",
+    "pushingMaxRudderAngle": 16.0,
+    "pushingMinRudderAngle": 1.0,
+    "regenerationHPSpeed": 0.0,
+    "repairingCoeff": 0.0,
+    "rollEffect": 48.0,
+    "rudderPower": 41000000.0,
+    "rudderTime": 17.5,
+    "shipBodySunkDifferenceCoeff": 2.0,
+    "shipBodySunkStartMassCoeff": 1.0,
+    "shipPartSunkDifferenceCoeff": 2.2,
+    "shipPartSunkStartMassCoeff": 2.2,
+    "shipWheelsPresent": false,
+    "sideDragCoef": 1600000.0,
+    "sinkStartTime": [
+      [
+        4.0,
+        10.0
+      ],
+      [
+        2.0,
+        4.0
+      ],
+      [
+        3.0,
+        3.0
+      ],
+      [
+        4.0,
+        1.0
+      ]
+    ],
+    "sinkTime": [
+      [
+        45.0,
+        130.0
+      ],
+      [
+        18.0,
+        30.0
+      ],
+      [
+        21.0,
+        27.0
+      ],
+      [
+        27.0,
+        15.0
+      ]
+    ],
+    "sinkingEffects": "PCXS009_Destroyer",
+    "size": [
+      203.28,
+      28.53,
+      24.0
+    ],
+    "smokeScanRadius": 27.0,
+    "speedCoef": 1.0,
+    "startHealthCoeff": 1.0,
+    "startHealthToRegenerationCoeff": 0.5,
+    "surfaceOilLeakEffect": "particles/OnBomb_Oil.xml",
+    "timeBeforeCauldronExplosion": 4.0,
+    "timeBeforeDeathEffect": 0.2,
+    "toMineVisionDistance": [
+      600.0,
+      600.0,
+      100.0
+    ],
+    "tonnage": 31860.0,
+    "torpedoImpactMassImpulseCoeff": 0.5,
+    "turningRadius": 670.0,
+    "underwaterMaxRudderAngle": 0.0,
+    "underwaterRollEffect": 0.0,
+    "unpeculiarCamouflage": "",
+    "unpeculiarCamouflageColorSchemeId": 0,
+    "visibilityCoefATBAByPlane": 1e-6,
+    "visibilityCoefAirDefense": 1e-6,
+    "visibilityCoefFire": 2.0,
+    "visibilityCoefFireByPlane": 2.0,
+    "visibilityCoefGK": 1e-6,
+    "visibilityCoefGKByPlane": 1e-6,
+    "visibilityCoefGKInSmoke": 11.38,
+    "visibilityCoefPinger": {
+      "0.0": 0.0
+    },
+    "visibilityCoefPingerByPlane": {
+      "0.0": 0.0
+    },
+    "visibilityCoefPingerInSmoke": 1e-6,
+    "visibilityCoeffUnderwaterDepths": {
+      "0.0": 1.0
+    },
+    "visibilityCoeffUnderwaterDepthsByPlane": {
+      "0.0": 1.0
+    },
+    "visibilityFactor": 14.3,
+    "visibilityFactorByPlane": 10.0,
+    "visibilityFactorInSmoke": 1e-6,
+    "visibilityFactorsBySubmarine": {
+      "DEEP_WATER": 2.0,
+      "DEEP_WATER_INVUL": 0.0,
+      "PERISCOPE": 10.0,
+      "SEMI_DEEP_WATER": 2.0,
+      "SURFACE": 0.0
+    },
+    "visionDistance": 0.0,
+    "wildFireDamage": 0.0,
+    "wildFireDuration": -1.0
+  },
+  "BattleUpgradeInfo": null,
+  "Cameras": {
+    "AirSupport": {
+      "InnerTrajectory": {
+        "backwardResistance": [
+          0.0,
+          0.0
+        ],
+        "backwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "bevelAngle": [
+          0.0,
+          0.0
+        ],
+        "bevelRange": [
+          0.0,
+          0.0
+        ],
+        "defaultPitch": [
+          0.0,
+          0.0
+        ],
+        "defaultYaw": [
+          0.0,
+          0.0
+        ],
+        "forwardResistance": [
+          0.0,
+          0.0
+        ],
+        "forwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistance": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "ignoreControllerPitch": true,
+        "ignoreHeightMultiplier": false,
+        "inclineH": [
+          0.0,
+          0.0
+        ],
+        "inclineV": [
+          0.0,
+          0.0
+        ],
+        "lockOnDefaultPitch": false,
+        "lockOnDefaultYaw": false,
+        "maxPitch": [
+          -2.0,
+          -2.0
+        ],
+        "maxYaw": [
+          0.0,
+          0.0
+        ],
+        "minPitch": [
+          -40.0,
+          -40.0
+        ],
+        "minPosY": [
+          0.0,
+          0.0
+        ],
+        "minYaw": [
+          -0.0,
+          -0.0
+        ],
+        "pitchInfluenceOnHeight": [
+          0.0,
+          0.0
+        ],
+        "posCenter": [
+          [
+            0.0,
+            8.0,
+            0.0
+          ],
+          [
+            0.0,
+            8.0,
+            0.0
+          ]
+        ],
+        "semiAxisH": [
+          17.0,
+          17.0
+        ],
+        "semiAxisV": [
+          17.0,
+          17.0
+        ],
+        "verticalResistance": [
+          0.0,
+          0.0
+        ],
+        "verticalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "zoomControllerCoef": [
+          1.0,
+          1.0
+        ]
+      },
+      "castZoom": {},
+      "hulls": [],
+      "tags": "R",
+      "weapons": []
+    },
+    "AirSupportBin": {
+      "InnerTrajectory": {
+        "backwardResistance": [
+          0.0,
+          0.0
+        ],
+        "backwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "bevelAngle": [
+          0.0,
+          0.0
+        ],
+        "bevelRange": [
+          0.0,
+          0.0
+        ],
+        "defaultPitch": [
+          0.0,
+          0.0
+        ],
+        "defaultYaw": [
+          0.0,
+          0.0
+        ],
+        "forwardResistance": [
+          0.0,
+          0.0
+        ],
+        "forwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistance": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "ignoreControllerPitch": true,
+        "ignoreHeightMultiplier": false,
+        "inclineH": [
+          0.0,
+          0.0
+        ],
+        "inclineV": [
+          0.0,
+          0.0
+        ],
+        "lockOnDefaultPitch": false,
+        "lockOnDefaultYaw": false,
+        "maxPitch": [
+          -2.0,
+          -2.0
+        ],
+        "maxYaw": [
+          0.0,
+          0.0
+        ],
+        "minPitch": [
+          -40.0,
+          -40.0
+        ],
+        "minPosY": [
+          0.0,
+          0.0
+        ],
+        "minYaw": [
+          -0.0,
+          -0.0
+        ],
+        "pitchInfluenceOnHeight": [
+          0.0,
+          0.0
+        ],
+        "posCenter": [
+          [
+            0.0,
+            15.0,
+            0.0
+          ],
+          [
+            0.0,
+            15.0,
+            0.0
+          ]
+        ],
+        "semiAxisH": [
+          1.0,
+          1.0
+        ],
+        "semiAxisV": [
+          1.0,
+          1.0
+        ],
+        "verticalResistance": [
+          0.0,
+          0.0
+        ],
+        "verticalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "zoomControllerCoef": [
+          0.5,
+          0.5
+        ]
+      },
+      "castZoom": {},
+      "hulls": [],
+      "tags": "r",
+      "weapons": []
+    },
+    "Artillery": {
+      "InnerTrajectory": {
+        "backwardResistance": [
+          0.0,
+          0.0
+        ],
+        "backwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "bevelAngle": [
+          0.0,
+          0.0
+        ],
+        "bevelRange": [
+          0.0,
+          0.0
+        ],
+        "defaultPitch": [
+          0.0,
+          0.0
+        ],
+        "defaultYaw": [
+          0.0,
+          0.0
+        ],
+        "forwardResistance": [
+          0.0,
+          0.0
+        ],
+        "forwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistance": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "ignoreControllerPitch": false,
+        "ignoreHeightMultiplier": false,
+        "inclineH": [
+          0.0,
+          0.0
+        ],
+        "inclineV": [
+          0.0,
+          0.0
+        ],
+        "lockOnDefaultPitch": false,
+        "lockOnDefaultYaw": false,
+        "maxPitch": [
+          89.0,
+          89.0
+        ],
+        "maxYaw": [
+          0.0,
+          0.0
+        ],
+        "minPitch": [
+          -89.0,
+          -89.0
+        ],
+        "minPosY": [
+          0.0,
+          0.0
+        ],
+        "minYaw": [
+          -0.0,
+          -0.0
+        ],
+        "pitchInfluenceOnHeight": [
+          5.0,
+          2.0
+        ],
+        "posCenter": [
+          [
+            0.0,
+            1.958,
+            0.0
+          ],
+          [
+            0.0,
+            2.008,
+            0.0
+          ]
+        ],
+        "semiAxisH": [
+          2.925,
+          2.67
+        ],
+        "semiAxisV": [
+          8.5,
+          8.5
+        ],
+        "verticalResistance": [
+          0.0,
+          0.0
+        ],
+        "verticalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "zoomControllerCoef": [
+          1.0,
+          1.0
+        ]
+      },
+      "OuterTrajectory": {
+        "backwardResistance": [
+          0.0,
+          0.0
+        ],
+        "backwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "bevelAngle": [
+          0.0,
+          0.0
+        ],
+        "bevelRange": [
+          0.0,
+          0.0
+        ],
+        "defaultPitch": [
+          0.0,
+          0.0
+        ],
+        "defaultYaw": [
+          0.0,
+          0.0
+        ],
+        "forwardResistance": [
+          0.0,
+          0.0
+        ],
+        "forwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistance": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "ignoreControllerPitch": false,
+        "ignoreHeightMultiplier": false,
+        "inclineH": [
+          0.0,
+          0.0
+        ],
+        "inclineV": [
+          0.0,
+          0.0
+        ],
+        "lockOnDefaultPitch": false,
+        "lockOnDefaultYaw": false,
+        "maxPitch": [
+          49.84,
+          73.336
+        ],
+        "maxYaw": [
+          0.0,
+          0.0
+        ],
+        "minPitch": [
+          -89.0,
+          -89.0
+        ],
+        "minPosY": [
+          0.0,
+          0.0
+        ],
+        "minYaw": [
+          -0.0,
+          -0.0
+        ],
+        "pitchInfluenceOnHeight": [
+          10.0,
+          4.0
+        ],
+        "posCenter": [
+          [
+            0.0,
+            4.742,
+            0.0
+          ],
+          [
+            0.0,
+            6.803,
+            0.0
+          ]
+        ],
+        "semiAxisH": [
+          21.375,
+          17.1
+        ],
+        "semiAxisV": [
+          21.375,
+          17.1
+        ],
+        "verticalResistance": [
+          0.0,
+          0.0
+        ],
+        "verticalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "zoomControllerCoef": [
+          1.0,
+          1.0
+        ]
+      },
+      "castZoom": {},
+      "hulls": [],
+      "tags": "AT",
+      "weapons": []
+    },
+    "Death": {
+      "InnerTrajectory": {
+        "backwardResistance": [
+          0.0,
+          0.0
+        ],
+        "backwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "bevelAngle": [
+          0.0,
+          0.0
+        ],
+        "bevelRange": [
+          0.0,
+          0.0
+        ],
+        "defaultPitch": [
+          0.0,
+          0.0
+        ],
+        "defaultYaw": [
+          0.0,
+          0.0
+        ],
+        "forwardResistance": [
+          0.0,
+          0.0
+        ],
+        "forwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistance": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "ignoreControllerPitch": false,
+        "ignoreHeightMultiplier": false,
+        "inclineH": [
+          0.0,
+          0.0
+        ],
+        "inclineV": [
+          0.0,
+          0.0
+        ],
+        "lockOnDefaultPitch": false,
+        "lockOnDefaultYaw": false,
+        "maxPitch": [
+          9.9,
+          57.96
+        ],
+        "maxYaw": [
+          0.0,
+          0.0
+        ],
+        "minPitch": [
+          -90.0,
+          -90.0
+        ],
+        "minPosY": [
+          -10.0,
+          -4.0
+        ],
+        "minYaw": [
+          -0.0,
+          -0.0
+        ],
+        "pitchInfluenceOnHeight": [
+          4.0,
+          2.8
+        ],
+        "posCenter": [
+          [
+            0.0,
+            0.4,
+            0.0
+          ],
+          [
+            0.0,
+            1.36,
+            0.0
+          ]
+        ],
+        "semiAxisH": [
+          7.0,
+          7.0
+        ],
+        "semiAxisV": [
+          12.6,
+          12.6
+        ],
+        "verticalResistance": [
+          0.0,
+          0.0
+        ],
+        "verticalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "zoomControllerCoef": [
+          1.0,
+          1.0
+        ]
+      },
+      "OuterTrajectory": {
+        "backwardResistance": [
+          0.0,
+          0.0
+        ],
+        "backwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "bevelAngle": [
+          0.0,
+          0.0
+        ],
+        "bevelRange": [
+          0.0,
+          0.0
+        ],
+        "defaultPitch": [
+          0.0,
+          0.0
+        ],
+        "defaultYaw": [
+          0.0,
+          0.0
+        ],
+        "forwardResistance": [
+          0.0,
+          0.0
+        ],
+        "forwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistance": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "ignoreControllerPitch": false,
+        "ignoreHeightMultiplier": false,
+        "inclineH": [
+          0.0,
+          0.0
+        ],
+        "inclineV": [
+          0.0,
+          0.0
+        ],
+        "lockOnDefaultPitch": false,
+        "lockOnDefaultYaw": false,
+        "maxPitch": [
+          9.9,
+          57.96
+        ],
+        "maxYaw": [
+          0.0,
+          0.0
+        ],
+        "minPitch": [
+          -90.0,
+          -90.0
+        ],
+        "minPosY": [
+          -5.0,
+          -2.0
+        ],
+        "minYaw": [
+          -0.0,
+          -0.0
+        ],
+        "pitchInfluenceOnHeight": [
+          12.0,
+          6.0
+        ],
+        "posCenter": [
+          [
+            0.0,
+            2.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.0,
+            0.0
+          ]
+        ],
+        "semiAxisH": [
+          21.0,
+          16.8
+        ],
+        "semiAxisV": [
+          21.0,
+          16.8
+        ],
+        "verticalResistance": [
+          0.0,
+          0.0
+        ],
+        "verticalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "zoomControllerCoef": [
+          1.0,
+          1.0
+        ]
+      },
+      "castZoom": {},
+      "hulls": [],
+      "tags": "D",
+      "weapons": []
+    },
+    "Guns1": {
+      "InnerTrajectory": {
+        "backwardResistance": [
+          0.0,
+          0.0
+        ],
+        "backwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "bevelAngle": [
+          0.0,
+          0.0
+        ],
+        "bevelRange": [
+          0.0,
+          0.0
+        ],
+        "defaultPitch": [
+          0.0,
+          0.0
+        ],
+        "defaultYaw": [
+          0.0,
+          0.0
+        ],
+        "forwardResistance": [
+          0.0,
+          0.0
+        ],
+        "forwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistance": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "ignoreControllerPitch": false,
+        "ignoreHeightMultiplier": false,
+        "inclineH": [
+          0.0,
+          0.0
+        ],
+        "inclineV": [
+          8.926,
+          8.926
+        ],
+        "lockOnDefaultPitch": false,
+        "lockOnDefaultYaw": false,
+        "maxPitch": [
+          89.0,
+          89.0
+        ],
+        "maxYaw": [
+          0.0,
+          0.0
+        ],
+        "minPitch": [
+          -89.0,
+          -89.0
+        ],
+        "minPosY": [
+          0.0,
+          0.0
+        ],
+        "minYaw": [
+          -0.0,
+          -0.0
+        ],
+        "pitchInfluenceOnHeight": [
+          0.0,
+          0.0
+        ],
+        "posCenter": [
+          [
+            0.0,
+            1.14,
+            3.925
+          ],
+          [
+            0.0,
+            1.14,
+            3.925
+          ]
+        ],
+        "semiAxisH": [
+          1.677,
+          1.451
+        ],
+        "semiAxisV": [
+          0.943,
+          0.943
+        ],
+        "verticalResistance": [
+          0.0,
+          0.0
+        ],
+        "verticalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "zoomControllerCoef": [
+          1.0,
+          1.0
+        ]
+      },
+      "castZoom": {},
+      "hulls": [],
+      "tags": "Ca",
+      "weapons": [
+        "HP_VGM_1",
+        "HP_VGM_2"
+      ]
+    },
+    "Guns2": {
+      "InnerTrajectory": {
+        "backwardResistance": [
+          0.0,
+          0.0
+        ],
+        "backwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "bevelAngle": [
+          0.0,
+          0.0
+        ],
+        "bevelRange": [
+          0.0,
+          0.0
+        ],
+        "defaultPitch": [
+          0.0,
+          0.0
+        ],
+        "defaultYaw": [
+          0.0,
+          0.0
+        ],
+        "forwardResistance": [
+          0.0,
+          0.0
+        ],
+        "forwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistance": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "ignoreControllerPitch": false,
+        "ignoreHeightMultiplier": false,
+        "inclineH": [
+          0.0,
+          0.0
+        ],
+        "inclineV": [
+          -5.0,
+          -5.0
+        ],
+        "lockOnDefaultPitch": false,
+        "lockOnDefaultYaw": false,
+        "maxPitch": [
+          89.0,
+          89.0
+        ],
+        "maxYaw": [
+          0.0,
+          0.0
+        ],
+        "minPitch": [
+          -89.0,
+          -89.0
+        ],
+        "minPosY": [
+          0.0,
+          0.0
+        ],
+        "minYaw": [
+          -0.0,
+          -0.0
+        ],
+        "pitchInfluenceOnHeight": [
+          0.0,
+          0.0
+        ],
+        "posCenter": [
+          [
+            0.0,
+            1.065,
+            -3.639
+          ],
+          [
+            0.0,
+            1.065,
+            -3.639
+          ]
+        ],
+        "semiAxisH": [
+          1.571,
+          1.359
+        ],
+        "semiAxisV": [
+          0.866,
+          0.866
+        ],
+        "verticalResistance": [
+          0.0,
+          0.0
+        ],
+        "verticalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "zoomControllerCoef": [
+          1.0,
+          1.0
+        ]
+      },
+      "castZoom": {},
+      "hulls": [],
+      "tags": "Ca",
+      "weapons": [
+        "HP_VGM_5",
+        "HP_VGM_6",
+        "HP_VGM_7"
+      ]
+    },
+    "Observe": {
+      "InnerTrajectory": {
+        "backwardResistance": [
+          0.0,
+          0.0
+        ],
+        "backwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "bevelAngle": [
+          0.0,
+          0.0
+        ],
+        "bevelRange": [
+          0.0,
+          0.0
+        ],
+        "defaultPitch": [
+          0.0,
+          0.0
+        ],
+        "defaultYaw": [
+          0.0,
+          0.0
+        ],
+        "forwardResistance": [
+          0.0,
+          0.0
+        ],
+        "forwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistance": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "ignoreControllerPitch": false,
+        "ignoreHeightMultiplier": false,
+        "inclineH": [
+          0.0,
+          0.0
+        ],
+        "inclineV": [
+          0.0,
+          0.0
+        ],
+        "lockOnDefaultPitch": false,
+        "lockOnDefaultYaw": false,
+        "maxPitch": [
+          89.0,
+          89.0
+        ],
+        "maxYaw": [
+          0.0,
+          0.0
+        ],
+        "minPitch": [
+          -89.0,
+          -89.0
+        ],
+        "minPosY": [
+          0.0,
+          0.0
+        ],
+        "minYaw": [
+          -0.0,
+          -0.0
+        ],
+        "pitchInfluenceOnHeight": [
+          5.0,
+          2.0
+        ],
+        "posCenter": [
+          [
+            0.0,
+            0.15,
+            0.0
+          ],
+          [
+            0.0,
+            0.15,
+            0.0
+          ]
+        ],
+        "semiAxisH": [
+          2.925,
+          2.67
+        ],
+        "semiAxisV": [
+          8.5,
+          8.5
+        ],
+        "verticalResistance": [
+          0.0,
+          0.0
+        ],
+        "verticalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "zoomControllerCoef": [
+          1.0,
+          1.0
+        ]
+      },
+      "OuterTrajectory": {
+        "backwardResistance": [
+          0.0,
+          0.0
+        ],
+        "backwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "bevelAngle": [
+          0.0,
+          0.0
+        ],
+        "bevelRange": [
+          0.0,
+          0.0
+        ],
+        "defaultPitch": [
+          0.0,
+          0.0
+        ],
+        "defaultYaw": [
+          0.0,
+          0.0
+        ],
+        "forwardResistance": [
+          0.0,
+          0.0
+        ],
+        "forwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistance": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "ignoreControllerPitch": false,
+        "ignoreHeightMultiplier": false,
+        "inclineH": [
+          0.0,
+          0.0
+        ],
+        "inclineV": [
+          0.0,
+          0.0
+        ],
+        "lockOnDefaultPitch": false,
+        "lockOnDefaultYaw": false,
+        "maxPitch": [
+          49.84,
+          73.336
+        ],
+        "maxYaw": [
+          0.0,
+          0.0
+        ],
+        "minPitch": [
+          -89.0,
+          -89.0
+        ],
+        "minPosY": [
+          0.0,
+          0.0
+        ],
+        "minYaw": [
+          -0.0,
+          -0.0
+        ],
+        "pitchInfluenceOnHeight": [
+          10.0,
+          4.0
+        ],
+        "posCenter": [
+          [
+            0.0,
+            4.742,
+            0.0
+          ],
+          [
+            0.0,
+            6.803,
+            0.0
+          ]
+        ],
+        "semiAxisH": [
+          21.375,
+          17.1
+        ],
+        "semiAxisV": [
+          21.375,
+          17.1
+        ],
+        "verticalResistance": [
+          0.0,
+          0.0
+        ],
+        "verticalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "zoomControllerCoef": [
+          1.0,
+          1.0
+        ]
+      },
+      "castZoom": {},
+      "hulls": [],
+      "tags": "CO",
+      "weapons": []
+    },
+    "Obstacle": {
+      "InnerTrajectory": {
+        "backwardResistance": [
+          0.0,
+          0.0
+        ],
+        "backwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "bevelAngle": [
+          0.0,
+          0.0
+        ],
+        "bevelRange": [
+          0.0,
+          0.0
+        ],
+        "defaultPitch": [
+          0.0,
+          0.0
+        ],
+        "defaultYaw": [
+          0.0,
+          0.0
+        ],
+        "forwardResistance": [
+          0.0,
+          0.0
+        ],
+        "forwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistance": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "ignoreControllerPitch": false,
+        "ignoreHeightMultiplier": false,
+        "inclineH": [
+          0.0,
+          0.0
+        ],
+        "inclineV": [
+          0.0,
+          0.0
+        ],
+        "lockOnDefaultPitch": false,
+        "lockOnDefaultYaw": false,
+        "maxPitch": [
+          89.0,
+          89.0
+        ],
+        "maxYaw": [
+          0.0,
+          0.0
+        ],
+        "minPitch": [
+          -89.0,
+          -89.0
+        ],
+        "minPosY": [
+          0.0,
+          0.0
+        ],
+        "minYaw": [
+          -0.0,
+          -0.0
+        ],
+        "pitchInfluenceOnHeight": [
+          0.0,
+          0.0
+        ],
+        "posCenter": [
+          [
+            0.0,
+            2.5,
+            0.431
+          ],
+          [
+            0.0,
+            2.5,
+            0.431
+          ]
+        ],
+        "semiAxisH": [
+          1.009,
+          1.009
+        ],
+        "semiAxisV": [
+          2.536,
+          2.536
+        ],
+        "verticalResistance": [
+          0.0,
+          0.0
+        ],
+        "verticalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "zoomControllerCoef": [
+          1.0,
+          1.0
+        ]
+      },
+      "castZoom": {},
+      "hulls": [],
+      "tags": "#",
+      "weapons": []
+    },
+    "Spectator": {
+      "InnerTrajectory": {
+        "backwardResistance": [
+          0.0,
+          0.0
+        ],
+        "backwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "bevelAngle": [
+          0.0,
+          0.0
+        ],
+        "bevelRange": [
+          0.0,
+          0.0
+        ],
+        "defaultPitch": [
+          0.0,
+          0.0
+        ],
+        "defaultYaw": [
+          0.0,
+          0.0
+        ],
+        "forwardResistance": [
+          0.0,
+          0.0
+        ],
+        "forwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistance": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "ignoreControllerPitch": false,
+        "ignoreHeightMultiplier": false,
+        "inclineH": [
+          0.0,
+          0.0
+        ],
+        "inclineV": [
+          0.0,
+          0.0
+        ],
+        "lockOnDefaultPitch": false,
+        "lockOnDefaultYaw": false,
+        "maxPitch": [
+          89.0,
+          89.0
+        ],
+        "maxYaw": [
+          0.0,
+          0.0
+        ],
+        "minPitch": [
+          -89.0,
+          -89.0
+        ],
+        "minPosY": [
+          0.0,
+          0.0
+        ],
+        "minYaw": [
+          -0.0,
+          -0.0
+        ],
+        "pitchInfluenceOnHeight": [
+          5.0,
+          2.0
+        ],
+        "posCenter": [
+          [
+            0.0,
+            0.96,
+            0.0
+          ],
+          [
+            0.0,
+            0.984,
+            0.0
+          ]
+        ],
+        "semiAxisH": [
+          2.925,
+          2.67
+        ],
+        "semiAxisV": [
+          8.5,
+          8.5
+        ],
+        "verticalResistance": [
+          0.0,
+          0.0
+        ],
+        "verticalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "zoomControllerCoef": [
+          1.0,
+          1.0
+        ]
+      },
+      "OuterTrajectory": {
+        "backwardResistance": [
+          0.0,
+          0.0
+        ],
+        "backwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "bevelAngle": [
+          0.0,
+          0.0
+        ],
+        "bevelRange": [
+          0.0,
+          0.0
+        ],
+        "defaultPitch": [
+          0.0,
+          0.0
+        ],
+        "defaultYaw": [
+          0.0,
+          0.0
+        ],
+        "forwardResistance": [
+          0.0,
+          0.0
+        ],
+        "forwardResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistance": [
+          0.0,
+          0.0
+        ],
+        "horizontalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "ignoreControllerPitch": false,
+        "ignoreHeightMultiplier": false,
+        "inclineH": [
+          0.0,
+          0.0
+        ],
+        "inclineV": [
+          0.0,
+          0.0
+        ],
+        "lockOnDefaultPitch": false,
+        "lockOnDefaultYaw": false,
+        "maxPitch": [
+          49.84,
+          73.336
+        ],
+        "maxYaw": [
+          0.0,
+          0.0
+        ],
+        "minPitch": [
+          -89.0,
+          -89.0
+        ],
+        "minPosY": [
+          0.0,
+          0.0
+        ],
+        "minYaw": [
+          -0.0,
+          -0.0
+        ],
+        "pitchInfluenceOnHeight": [
+          10.0,
+          4.0
+        ],
+        "posCenter": [
+          [
+            0.0,
+            3.0,
+            0.0
+          ],
+          [
+            0.0,
+            4.8,
+            0.0
+          ]
+        ],
+        "semiAxisH": [
+          19.95,
+          16.98
+        ],
+        "semiAxisV": [
+          19.95,
+          16.98
+        ],
+        "verticalResistance": [
+          0.0,
+          0.0
+        ],
+        "verticalResistanceTime": [
+          0.0,
+          0.0
+        ],
+        "zoomControllerCoef": [
+          1.0,
+          1.0
+        ]
+      },
+      "castZoom": {},
+      "hulls": [],
+      "tags": "S",
+      "weapons": []
+    },
+    "inertialRollCoef": 1.0,
+    "rockingCompensationCoef": 1.0,
+    "smartZoomAngleCoef": 1.0
+  },
+  "DockCamera": {
+    "degree": null,
+    "degreeFar": null,
+    "degreeNear": null,
+    "heightFar": null,
+    "heightNear": null,
+    "length": null,
+    "mouseXFar": null,
+    "mouseXNear": null,
+    "mouseYFar": null,
+    "mouseYNear": null,
+    "observeZFar": null,
+    "observeZNear": null,
+    "pitchDownFar": null,
+    "pitchDownNear": null,
+    "pitchUpFar": null,
+    "pitchUpNear": null,
+    "smoothX": null,
+    "smoothY": null,
+    "smoothZoom": null,
+    "targetBowFar": null,
+    "targetBowNear": null,
+    "targetCoef": null,
+    "targetSternFar": null,
+    "targetSternNear": null,
+    "targetXFar": null,
+    "targetXNear": null,
+    "targetXTopFar": null,
+    "targetXTopNear": null,
+    "targetYFar": null,
+    "targetYNear": null,
+    "zBorder0": null,
+    "zBorder1": null,
+    "zVal0": null,
+    "zVal1": null,
+    "zValCenter": null,
+    "zValMid": null
+  },
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "ShipAbilities": {
+    "AbilitySlot0": {
+      "abils": [
+        [
+          "PCY009_CrashCrewPremium",
+          "B_USA_Gold"
+        ]
+      ],
+      "isSpecial": false,
+      "slot": 0
+    },
+    "AbilitySlot1": {
+      "abils": [
+        [
+          "PCY010_RegenCrewPremium",
+          "B_Gold"
+        ]
+      ],
+      "isSpecial": false,
+      "slot": 1
+    },
+    "AbilitySlot2": {
+      "abils": [],
+      "isSpecial": false,
+      "slot": 2
+    },
+    "AbilitySlot3": {
+      "abils": [],
+      "isSpecial": false,
+      "slot": 3
+    },
+    "AbilitySlot4": {
+      "abils": [],
+      "isSpecial": false,
+      "slot": 4
+    },
+    "AbilitySpecial": {
+      "abils": [],
+      "isSpecial": true,
+      "slot": 5
+    }
+  },
+  "ShipUpgradeInfo": {
+    "PVUA401_ART_RD_JANEIRO": {
+      "canBuy": true,
+      "components": {
+        "artillery": [
+          "A_Artillery"
+        ]
+      },
+      "isDefaultStock": false,
+      "nextShips": [],
+      "prev": "",
+      "ucType": "_Artillery"
+    },
+    "PVUE401_ENG_RD_JANEIRO": {
+      "canBuy": true,
+      "components": {
+        "engine": [
+          "A_Engine"
+        ]
+      },
+      "isDefaultStock": false,
+      "nextShips": [],
+      "prev": "",
+      "ucType": "_Engine"
+    },
+    "PVUH401_RD_JANEIRO": {
+      "canBuy": true,
+      "components": {
+        "airArmament": [
+          "A_AirArmament"
+        ],
+        "airDefense": [],
+        "airSupport": [
+          "A_AirSupport"
+        ],
+        "artillery": [
+          "A_Artillery"
+        ],
+        "atba": [
+          "A_ATBA"
+        ],
+        "depthCharges": [],
+        "directors": [],
+        "finders": [
+          "A_Finders"
+        ],
+        "hull": [
+          "A_Hull"
+        ],
+        "pinger": [],
+        "radars": [],
+        "torpedoes": []
+      },
+      "disabledAbilities": [],
+      "isDefaultStock": false,
+      "nextShips": [],
+      "prev": "",
+      "ucType": "_Hull"
+    },
+    "PVUS401_SUO_RD_JANEIRO": {
+      "canBuy": true,
+      "components": {
+        "fireControl": [
+          "A_FireControl"
+        ]
+      },
+      "isDefaultStock": false,
+      "nextShips": [],
+      "prev": "",
+      "ucType": "_Suo"
+    },
+    "costCR": 0,
+    "costGold": 3500,
+    "costSaleGold": 0,
+    "costXP": 0,
+    "lockedConfig": [],
+    "requiredShip": "",
+    "value": 1
+  },
+  "Specials": {
+    "buffsShiftMaxLevel": 0,
+    "buffsShiftSpeed": 1.0,
+    "buffsStartPool": 0,
+    "modifiers": null
+  },
+  "UnderwaterCamera": {
+    "cameraDragOff": 1000,
+    "cameraDragOffTime": 5,
+    "cameraDragOnTime": 5,
+    "castZoom": {},
+    "maxZoomLength": 5.0,
+    "shipHeigthCoeff": 3.0,
+    "shipLengthCoeff": 1.0,
+    "shipWidthCoeff": 3.0
+  },
+  "alternateFlags": [
+    "brazil"
+  ],
+  "apDamageLimitCoeff": 0,
+  "archetype": "Undefined",
+  "battleSignalsModifiersOrder": [],
+  "battleSignalsOrder": [],
+  "canCharge": true,
+  "canEquipCamouflage": true,
+  "defaultCrew": "PVW003_Default_Brazil",
+  "flagsScale": 0.7,
+  "group": "special",
+  "id": 3765384528,
+  "index": "PVSB505",
+  "isPaperShip": false,
+  "level": 5,
+  "maxEquippedFlags": 8,
+  "multiboosts": [
+    "PCEU005_Multi_std5"
+  ],
+  "name": "PVSB505_Rio_de_Janeiro",
+  "nationFlagScale": 1.3,
+  "nativeMultiboost": "PCEU005_Multi_std5",
+  "nativePermoflage": "PCEP103_Permo_Prem_Low_lvl",
+  "navalFlag": "panamerica",
+  "needShowProjectYear": true,
+  "originShipName": "",
+  "peculiarity": "default",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "",
+  "peculiarityModels": {},
+  "permoflages": [
+    "PCEP103_Permo_Prem_Low_lvl",
+    "PVES306_SWAN"
+  ],
+  "pveAutoPickCard": "",
+  "shipBattleCards": {
+    "brawl": 0,
+    "clan": 0,
+    "cooperative": 0,
+    "event": 0,
+    "intro": 0,
+    "pve": 0,
+    "pvp": 0,
+    "ranked": 0,
+    "test": 0
+  },
+  "steerAngle": [
+    0.2,
+    0.7,
+    1.0
+  ],
+  "steerDist": null,
+  "subnation": "Brazil",
+  "tags": [],
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "Battleship",
+    "type": "Ship"
+  },
+  "unpeculiarShip": "",
+  "usePeculiaritySounds": true
+}

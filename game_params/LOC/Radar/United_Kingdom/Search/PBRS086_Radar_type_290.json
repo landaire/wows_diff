@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4204182480,
+  "index": "PBRS086",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/radar/search/BRS086_Radar_type_290/BRS086_Radar_type_290.model",
+  "name": "PBRS086_Radar_type_290",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

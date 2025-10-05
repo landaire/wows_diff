@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4245877712,
+  "index": "PBD046",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD046_Pom_Pom_director_mk2/BD046_Pom_Pom_director_mk2.model",
+  "name": "PBD046_Pom_Pom_director_mk2",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

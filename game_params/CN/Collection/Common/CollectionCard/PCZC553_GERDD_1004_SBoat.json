@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA025_GERDD_1004",
+  "compensationCR": 0,
+  "description": "IDS_PCZC553_GERDD_1004_SBOAT_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3715013552,
+  "index": "PCZC553",
+  "name": "PCZC553_GERDD_1004_SBoat",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

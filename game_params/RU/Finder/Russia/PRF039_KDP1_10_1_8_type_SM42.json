@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4253215184,
+  "index": "PRF039",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/finder/RF039_KDP1_10_1_8_type_SM42/RF039_KDP1_10_1_8_type_SM42.model",
+  "name": "PRF039_KDP1_10_1_8_type_SM42",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Finder"
+  }
+}

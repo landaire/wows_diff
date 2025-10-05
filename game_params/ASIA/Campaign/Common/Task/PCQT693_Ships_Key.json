@@ -1,0 +1,30 @@
+{
+  "backgroundIconID": 56,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isXP count=\"10000\" />"
+  ],
+  "costUnlock": 16,
+  "id": 3567665072,
+  "index": "PCQT693",
+  "isSingleBattle": false,
+  "lootStars": 0,
+  "name": "PCQT693_Ships_Key",
+  "rewards": [
+    "<Lootbox boxType=\"PCL109_FiveEpochs098_Coll\" count=\"5\"/>",
+    "<Item idx=\"PCEM014_5Years_9lvl\" count=\"1\"/>",
+    "<Item idx=\"PCEU009_Multi_std9\" count=\"1\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT693_1",
+    "isXP",
+    "IDS_TASKRESTRICTION_PVPCOOPRANKED"
+  ],
+  "unlockMissions": []
+}

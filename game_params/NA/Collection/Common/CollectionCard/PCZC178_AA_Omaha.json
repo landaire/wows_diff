@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC178_AA_OMAHA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4108229552,
+  "index": "PCZC178",
+  "name": "PCZC178_AA_Omaha",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

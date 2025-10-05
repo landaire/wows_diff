@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3658460912,
+  "index": "PIUA607",
+  "name": "PIUA607_ART_FRANCESCO_FERRUCCIO",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

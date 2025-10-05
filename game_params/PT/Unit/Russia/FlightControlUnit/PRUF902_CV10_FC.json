@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3348966864,
+  "index": "PRUF902",
+  "name": "PRUF902_CV10_FC",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

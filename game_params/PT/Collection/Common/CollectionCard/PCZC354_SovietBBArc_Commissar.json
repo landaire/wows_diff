@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA016_SovietBBArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC354_SOVIETBBARC_COMMISSAR_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3923680176,
+  "index": "PCZC354",
+  "name": "PCZC354_SovietBBArc_Commissar",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA016_SovietBBArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC348_SOVIETBBARC_SKVORTSOV_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3929971632,
+  "index": "PCZC348",
+  "name": "PCZC348_SovietBBArc_Skvortsov",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

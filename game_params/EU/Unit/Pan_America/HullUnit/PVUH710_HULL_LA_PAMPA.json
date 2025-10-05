@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3550227792,
+  "index": "PVUH710",
+  "name": "PVUH710_HULL_LA_PAMPA",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

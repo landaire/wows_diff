@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4194744528,
+  "index": "PZRS095",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/radar/search/ZRS095_RDF_Type_281_stern/ZRS095_RDF_Type_281_stern.model",
+  "name": "PZRS095_RDF_Type_281_stern",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

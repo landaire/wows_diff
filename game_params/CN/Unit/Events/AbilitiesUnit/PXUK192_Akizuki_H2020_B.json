@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4093291792,
+  "index": "PXUK192",
+  "name": "PXUK192_Akizuki_H2020_B",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "AbilitiesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Abilities"
+}

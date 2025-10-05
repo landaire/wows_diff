@@ -1,0 +1,13 @@
+{
+  "costCR": 3200000,
+  "costXP": 40000,
+  "id": 3663474128,
+  "index": "PRUH602",
+  "name": "PRUH602_UDALOY_B",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

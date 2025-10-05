@@ -1,0 +1,78 @@
+{
+  "id": 4255696816,
+  "index": "PCOO037",
+  "logic": {
+    "InteractiveObjectEvents": {
+      "OnMouseClick": {
+        "InteractiveObjectActions": {
+          "mousePressAction": {
+            "eventData": {
+              "routeId": "ny_christmas_tree"
+            },
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "ui.navigate"
+          },
+          "mousePressAction2": {
+            "eventData": [
+              "io:newyear25_tree_click"
+            ],
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "statistics.log"
+          }
+        },
+        "activeTime": 0.0,
+        "requiredState": "hovered",
+        "targetState": "selected",
+        "type": "onMouseClick"
+      },
+      "OnMouseOver": {
+        "InteractiveObjectActions": null,
+        "activeTime": -1.0,
+        "requiredState": "idle",
+        "targetState": "hovered",
+        "type": "onMouseOver"
+      },
+      "OnMouseOverEnd": {
+        "InteractiveObjectActions": null,
+        "activeTime": 0.0,
+        "requiredState": "hovered",
+        "targetState": "released",
+        "type": "onMouseOverEnd"
+      },
+      "onUIMouseClick": {
+        "InteractiveObjectActions": {
+          "mousePressAction": {
+            "eventData": {
+              "routeId": "ny_christmas_tree"
+            },
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "ui.navigate"
+          },
+          "mousePressAction2": {
+            "eventData": [
+              "io:newyear25_tree_marker_click"
+            ],
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "statistics.log"
+          }
+        },
+        "activeTime": 0.0,
+        "requiredState": "hovered",
+        "targetState": "selected",
+        "type": "onUISelect"
+      }
+    },
+    "state": "idle"
+  },
+  "name": "PCOO037_NewYear25_tree",
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "InteractiveObject",
+    "type": "Other"
+  }
+}

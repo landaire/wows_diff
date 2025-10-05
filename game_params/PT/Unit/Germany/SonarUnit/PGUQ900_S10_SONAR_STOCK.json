@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 0,
+  "id": 3350703920,
+  "index": "PGUQ900",
+  "name": "PGUQ900_S10_SONAR_STOCK",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

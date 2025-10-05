@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4277327696,
+  "index": "PFK016",
+  "maxLevel": 2,
+  "name": "PFK016_Saint_Louis",
+  "personalCardBonus": {
+    "clan": "PCOK005_Balldmg_DHEdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PFSC109_Saint_Louis"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

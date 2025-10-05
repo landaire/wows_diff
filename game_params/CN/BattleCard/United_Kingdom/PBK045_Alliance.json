@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4246919120,
+  "index": "PBK045",
+  "maxLevel": 2,
+  "name": "PBK045_Alliance",
+  "personalCardBonus": {
+    "clan": "PCOK015_Balldmg_Dtorpdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PBSS508_Alliance"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

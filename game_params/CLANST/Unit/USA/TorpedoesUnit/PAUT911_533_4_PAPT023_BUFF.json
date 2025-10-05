@@ -1,0 +1,13 @@
+{
+  "costCR": 1,
+  "costXP": 1,
+  "id": 3339071472,
+  "index": "PAUT911",
+  "name": "PAUT911_533_4_PAPT023_BUFF",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

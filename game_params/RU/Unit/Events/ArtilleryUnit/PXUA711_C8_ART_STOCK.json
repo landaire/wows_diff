@@ -1,0 +1,13 @@
+{
+  "costCR": 700000,
+  "costXP": 0,
+  "id": 3549408528,
+  "index": "PXUA711",
+  "name": "PXUA711_C8_ART_STOCK",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

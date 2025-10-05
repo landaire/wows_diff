@@ -1,0 +1,13 @@
+{
+  "costCR": 1000,
+  "costXP": 1,
+  "id": 3444551376,
+  "index": "PJUA811",
+  "name": "PJUA811_410_45_Type90",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

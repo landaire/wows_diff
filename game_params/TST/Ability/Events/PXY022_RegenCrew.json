@@ -1,0 +1,176 @@
+{
+  "Post_Apocalypse": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenCrew",
+    "descIDs": "PCY010_RegenCrewPremium",
+    "group": "ship",
+    "iconIDs": "PCY010_RegenCrewPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationHPSpeed": 0.02,
+      "regenerationHPSpeedUnits": 0.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 0,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 30.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY010_RegenCrewPremium",
+    "workTime": 15.0
+  },
+  "Post_Apocalypse2": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenCrew",
+    "descIDs": "PCY010_RegenCrew_Eheal_Premium",
+    "group": "ship",
+    "iconIDs": "PCY010_RegenCrew_Eheal_Premium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationHPSpeed": 0.04,
+      "regenerationHPSpeedUnits": 0.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 0,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 15.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY010_RegenCrew_Eheal_Premium",
+    "workTime": 15.0
+  },
+  "StarTrek_BOT": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenCrew",
+    "descIDs": "PXY022_RegenCrew_startrek",
+    "group": "ship",
+    "iconIDs": "PXY022_RegenCrew_startrek",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationHPSpeed": 0.01,
+      "regenerationHPSpeedUnits": 0.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 90.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PXY022_RegenCrew_startrek",
+    "workTime": 14.0
+  },
+  "StarTrek_CA_A0": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenCrew",
+    "descIDs": "PXY022_RegenCrew_startrek",
+    "group": "ship",
+    "iconIDs": "PXY022_RegenCrew_startrek",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationHPSpeed": 0.04,
+      "regenerationHPSpeedUnits": 0.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 0,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 15.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PXY022_RegenCrew_startrek",
+    "workTime": 15.0
+  },
+  "StarTrek_CA_B2": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenCrew",
+    "descIDs": "PXY022_RegenCrew_startrek",
+    "group": "ship",
+    "iconIDs": "PXY022_RegenCrew_startrek",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationHPSpeed": 0.04,
+      "regenerationHPSpeedUnits": 0.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 0,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 15.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PXY022_RegenCrew_startrek",
+    "workTime": 15.0
+  },
+  "StarTrek_DD_B1": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenCrew",
+    "descIDs": "PXY022_RegenCrew_startrek",
+    "group": "ship",
+    "iconIDs": "PXY022_RegenCrew_startrek",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationHPSpeed": 0.04,
+      "regenerationHPSpeedUnits": 0.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 0,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 15.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PXY022_RegenCrew_startrek",
+    "workTime": 15.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 4271021328,
+  "index": "PXY022",
+  "name": "PXY022_RegenCrew",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC193_AA_152MM_UNIVERSAL_MARK32_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4092500912,
+  "index": "PCZC193",
+  "name": "PCZC193_AA_152mm_universal_mark32",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

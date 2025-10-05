@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 24,
+  "conditions": [
+    "<isMyShip shipIds=\"PJSD004_Minekadze_1920,PASD019_Clemson_1920,PRSD104_Izyaslav\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\"/>",
+    "<isRibbons count=\"8\" ribbons=\"BASE_CAPTURE,BASE_CAPTURE_ASSIST\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3602268080,
+  "index": "PCQT660",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT660_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF018_IX_SignalFlag\" count=\"6\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT660_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_DD_1"
+  ],
+  "unlockMissions": []
+}

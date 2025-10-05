@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 34,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED,CLAN\" />",
+    "<isTotalCredits count=\"3000000\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3758505904,
+  "index": "PCQT511",
+  "isSingleBattle": false,
+  "lootStars": 1,
+  "name": "PCQT511",
+  "rewards": [
+    "<Add type=\"CREDITS\" count=\"1250000\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT511_1",
+    "isTotalCredits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

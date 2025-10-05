@@ -1,0 +1,20 @@
+{
+  "id": 3742025648,
+  "index": "PCOK527",
+  "level_1": {
+    "allAlphaMultiplier": 1.125,
+    "vulnerabilityAP": 0.925,
+    "vulnerabilityHE": 0.925
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.125,
+    "vulnerabilityAP": 0.925,
+    "vulnerabilityHE": 0.925
+  },
+  "name": "PCOK527_CLAN_Hoffmann",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

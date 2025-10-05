@@ -1,0 +1,13 @@
+{
+  "costCR": 134000,
+  "costXP": 0,
+  "id": 3873287472,
+  "index": "PWUE402",
+  "name": "PWUE402_D5_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 14500,
+  "costXP": 500,
+  "id": 3873255408,
+  "index": "PAUF402",
+  "name": "PAUF402_FlightControl_2",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

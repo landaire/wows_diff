@@ -1,0 +1,13 @@
+{
+  "costCR": 380000,
+  "costXP": 0,
+  "id": 3752603472,
+  "index": "PFUH517",
+  "name": "PFUH517_HULL_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

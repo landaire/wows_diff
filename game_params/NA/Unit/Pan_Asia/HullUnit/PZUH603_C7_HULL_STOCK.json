@@ -1,0 +1,13 @@
+{
+  "costCR": 855000,
+  "costXP": 0,
+  "id": 3662425296,
+  "index": "PZUH603",
+  "name": "PZUH603_C7_HULL_STOCK",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 400000,
+  "costXP": 6200,
+  "id": 3858509264,
+  "index": "PRUH416",
+  "name": "PRUH416_CA5_HULL_TOP",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

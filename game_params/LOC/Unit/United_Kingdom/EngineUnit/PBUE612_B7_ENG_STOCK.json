@@ -1,0 +1,13 @@
+{
+  "costCR": 650000,
+  "costXP": 0,
+  "id": 3653087184,
+  "index": "PBUE612",
+  "name": "PBUE612_B7_ENG_STOCK",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

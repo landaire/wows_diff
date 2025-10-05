@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3559861456,
+  "index": "PZUB701",
+  "name": "PZUB701_TB_SANZANG",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

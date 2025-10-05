@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA019_HappyNewYear2020",
+  "compensationCR": 0,
+  "description": "IDS_PCZC409_NY2020_HAMMERHEAD_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3866008496,
+  "index": "PCZC409",
+  "name": "PCZC409_NY2020_Hammerhead",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 1,
+  "costXP": 1,
+  "id": 3348541136,
+  "index": "PJUS902",
+  "name": "PJUS902_Suo",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 700000,
+  "costXP": 0,
+  "id": 3556585264,
+  "index": "PGUF704",
+  "name": "PGUF704_FC1_CV8_STOCK",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

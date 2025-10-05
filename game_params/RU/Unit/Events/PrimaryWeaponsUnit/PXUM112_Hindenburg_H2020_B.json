@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4177112336,
+  "index": "PXUM112",
+  "name": "PXUM112_Hindenburg_H2020_B",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "PrimaryWeaponsUnit",
+    "type": "Unit"
+  },
+  "ucType": "_PrimaryWeapons"
+}

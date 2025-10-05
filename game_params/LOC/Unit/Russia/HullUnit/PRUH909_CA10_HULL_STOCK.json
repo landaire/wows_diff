@@ -1,0 +1,13 @@
+{
+  "costCR": 2500000,
+  "costXP": 0,
+  "id": 3341561296,
+  "index": "PRUH909",
+  "name": "PRUH909_CA10_HULL_STOCK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

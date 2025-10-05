@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2196158928,
+  "index": "PRRS2001",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/radar/search/RRS2001_Radar_Type_273/RRS2001_Radar_Type_273.model",
+  "name": "PRRS2001_Radar_Type_273",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

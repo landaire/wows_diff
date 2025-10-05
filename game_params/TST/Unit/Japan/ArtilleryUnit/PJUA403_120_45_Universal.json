@@ -1,0 +1,13 @@
+{
+  "costCR": 320000,
+  "costXP": 4200,
+  "id": 3872370384,
+  "index": "PJUA403",
+  "name": "PJUA403_120_45_Universal",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

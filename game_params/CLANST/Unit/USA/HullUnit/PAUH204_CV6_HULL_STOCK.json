@@ -1,0 +1,13 @@
+{
+  "costCR": 200000,
+  "costXP": 0,
+  "id": 4080807920,
+  "index": "PAUH204",
+  "name": "PAUH204_CV6_HULL_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

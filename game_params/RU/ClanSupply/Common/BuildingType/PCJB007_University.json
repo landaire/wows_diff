@@ -1,0 +1,11 @@
+{
+  "id": 4287585200,
+  "index": "PCJB007",
+  "name": "PCJB007_University",
+  "type": "university",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BuildingType",
+    "type": "ClanSupply"
+  }
+}

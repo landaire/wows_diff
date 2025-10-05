@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4271036208,
+  "index": "PGK022",
+  "maxLevel": 2,
+  "name": "PGK022_Siegfried",
+  "personalCardBonus": {
+    "clan": "PCOK006_Balldmg_DAPdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PGSC509_Siegfried"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

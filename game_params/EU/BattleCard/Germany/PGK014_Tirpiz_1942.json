@@ -1,0 +1,30 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4279424816,
+  "index": "PGK014",
+  "maxLevel": 2,
+  "name": "PGK014_Tirpiz_1942",
+  "personalCardBonus": {
+    "clan": "PCOK007_Balldmg_DATBAdmgX2"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PGSB002_Tirpiz_1942",
+      "PGSB818_BA_Tirpitz",
+      "PGSB598_Black_Tirpitz"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3347918288,
+  "index": "PRUF903",
+  "name": "PRUF903_FC_KOMISSAR",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

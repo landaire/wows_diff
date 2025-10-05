@@ -1,0 +1,25 @@
+{
+  "id": 4248717232,
+  "index": "PCOD044",
+  "markerNameActive": "scrap_active",
+  "markerNameInactive": "scrap_inactive",
+  "maxBuffLevel": 0,
+  "name": "PCOD044_Resist_Damage",
+  "payload": {
+    "item_1": {
+      "duration": -1,
+      "level": 1,
+      "params": "PXOM076_ScrapBuff",
+      "type": 1,
+      "weight": 0
+    },
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

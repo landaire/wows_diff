@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 67,
+  "conditions": [
+    "<isMyShip shipLevel=\"4,5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isEarnBattleAchievements count=\"1\" achievements=\"PCH004_Dreadnought\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4254482352,
+  "index": "PCQT038",
+  "isSingleBattle": true,
+  "lootStars": 4,
+  "name": "PCQT038",
+  "rewards": [
+    "<Item idx=\"PCEA011_CRboost_1\" count=\"10\" />"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT038_1",
+    "isEarnBattleAchievements",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

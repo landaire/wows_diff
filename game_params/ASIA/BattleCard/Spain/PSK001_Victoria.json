@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4293055920,
+  "index": "PSK001",
+  "maxLevel": 2,
+  "name": "PSK001_Victoria",
+  "personalCardBonus": {
+    "clan": "PCOK006_Balldmg_DAPdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PSSB719_Victoria"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Spain",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

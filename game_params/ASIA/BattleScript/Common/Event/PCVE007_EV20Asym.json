@@ -1,0 +1,79 @@
+{
+  "allowDivisions": false,
+  "availableBattleCardType": [],
+  "battleProvider": "AsymBattles",
+  "economics": {
+    "currencyType": "EVENTUM_1",
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {
+      "10": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0
+    },
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 0,
+  "gameLogicConfig": {},
+  "id": 4287474608,
+  "index": "PCVE007",
+  "matchmakerConfig": "eventEV24AsymBattle",
+  "name": "PCVE007_EV20Asym",
+  "restrictions": {
+    "filters": [
+      {
+        "shipLevels": [
+          8,
+          10
+        ],
+        "shipTypes": [
+          "AirCarrier"
+        ]
+      },
+      {
+        "shipLevels": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "shipTypes": [
+          "Battleship",
+          "Cruiser",
+          "Destroyer"
+        ]
+      }
+    ],
+    "minShips": 6,
+    "totalShips": 12
+  },
+  "scenariosByMap": {
+    "spaces/13_OC_new_dawn": [
+      "Domination_3point_Asymm"
+    ],
+    "spaces/16_OC_bees_to_honey": [
+      "Domination_3point_Asymm"
+    ],
+    "spaces/17_NA_fault_line": [
+      "Domination_3point_Asymm"
+    ],
+    "spaces/19_OC_prey": [
+      "Domination_3point_Asymm"
+    ],
+    "spaces/23_Shards": [
+      "Domination_3point_Asymm"
+    ],
+    "spaces/41_Conquest": [
+      "Domination_3point_Asymm"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

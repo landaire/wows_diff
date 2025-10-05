@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    [
+      "isBattleType",
+      {
+        "battleTypes": [
+          "PVE"
+        ]
+      }
+    ],
+    [
+      "isBattleResultCount",
+      {
+        "battleResult": "win",
+        "count": 1
+      }
+    ]
+  ],
+  "id": 4280895408,
+  "index": "PCON013",
+  "name": "PCON013",
+  "rewards": [
+    [
+      "Lootbox",
+      {
+        "boxType": "PCL029_USA_CA_Coll_Free",
+        "count": 5
+      }
+    ]
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "NewbieQuest",
+    "type": "Other"
+  },
+  "unlock": "PVE"
+}

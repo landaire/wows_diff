@@ -1,0 +1,18 @@
+{
+  "id": 4277028784,
+  "index": "PCOD017",
+  "markerNameActive": "",
+  "markerNameInactive": "",
+  "maxBuffLevel": 0,
+  "name": "PCOD017_WeaponChooser_ChargeLaser",
+  "payload": {
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

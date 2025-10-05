@@ -1,0 +1,13 @@
+{
+  "costCR": 84000,
+  "costXP": 0,
+  "id": 3874336496,
+  "index": "PIUE401",
+  "name": "PIUE401_C5_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

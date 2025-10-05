@@ -1,0 +1,92 @@
+{
+  "id": 4280862640,
+  "index": "PCOO013",
+  "logic": {
+    "InteractiveObjectEvents": {
+      "OnMouseClick": {
+        "InteractiveObjectActions": {
+          "modelAction": {
+            "actionName": "Off",
+            "deactivationActionName": "",
+            "type": 3
+          },
+          "mousePressAction": {
+            "eventData": {
+              "routeId": "collection_preview"
+            },
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "ui.navigate"
+          },
+          "mousePressAction2": {
+            "eventData": [
+              "io:startrek_open_collections"
+            ],
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "statistics.log"
+          }
+        },
+        "activeTime": 0.0,
+        "requiredState": "hovered",
+        "targetState": "selected",
+        "type": "onMouseClick"
+      },
+      "OnMouseOver": {
+        "InteractiveObjectActions": {
+          "mousePressAction": {
+            "actionName": "On",
+            "deactivationActionName": "",
+            "type": 3
+          }
+        },
+        "activeTime": -1.0,
+        "requiredState": "idle",
+        "targetState": "hovered",
+        "type": "onMouseOver"
+      },
+      "OnMouseOverEnd": {
+        "InteractiveObjectActions": {
+          "modelAction": {
+            "actionName": "Off",
+            "deactivationActionName": "",
+            "type": 3
+          }
+        },
+        "activeTime": 0,
+        "requiredState": "hovered",
+        "targetState": "released",
+        "type": "onMouseOverEnd"
+      },
+      "onUIMouseClick": {
+        "InteractiveObjectActions": {
+          "modelAction": {
+            "actionName": "Off",
+            "deactivationActionName": "",
+            "type": 3
+          },
+          "mousePressAction": {
+            "eventData": {
+              "routeId": "collection_preview"
+            },
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "ui.navigate"
+          }
+        },
+        "activeTime": 0.0,
+        "requiredState": "hovered",
+        "targetState": "selected",
+        "type": "onUISelect"
+      }
+    },
+    "state": "idle"
+  },
+  "name": "PCOO013_GoToStarTrekCollections",
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "InteractiveObject",
+    "type": "Other"
+  }
+}

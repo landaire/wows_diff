@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 13,
+  "conditions": [
+    "<isMyShip shipIds=\"PRSD206_Pr_7,PGSD107_Leberecht_Maass,PASD029_Sims_1941,PASD597_Black_Sims,PASD008_Benson_1945\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isRibbons count=\"650\" ribbons=\"MAIN_CALIBER\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3581296560,
+  "index": "PCQT680",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT680_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF019_JW1_SignalFlag\" count=\"8\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT680_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_DD_1"
+  ],
+  "unlockMissions": []
+}

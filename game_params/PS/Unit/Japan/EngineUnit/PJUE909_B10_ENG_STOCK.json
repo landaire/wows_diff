@@ -1,0 +1,13 @@
+{
+  "costCR": 200000,
+  "costXP": 0,
+  "id": 3341659856,
+  "index": "PJUE909",
+  "name": "PJUE909_B10_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

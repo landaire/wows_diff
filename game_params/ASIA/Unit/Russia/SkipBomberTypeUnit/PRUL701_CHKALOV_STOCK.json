@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3559534032,
+  "index": "PRUL701",
+  "name": "PRUL701_CHKALOV_STOCK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SkipBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_SkipBomber"
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA022_GF097",
+  "compensationCR": 0,
+  "description": "IDS_PCZC476_GF097_NARVIK_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3795753904,
+  "index": "PCZC476",
+  "name": "PCZC476_GF097_Narvik",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3970776048,
+  "index": "PARF309",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/radar/fcontrol/ARF309_Radar_Mk27_skin/ARF309_Radar_Mk27_skin.model",
+  "name": "PARF309_Radar_Mk27_skin",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "Fire control",
+    "type": "Radar"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4292014416,
+  "index": "PVD002",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panamerica/director/VD002_Director_Mk34_old/VD002_Director_Mk34_old.model",
+  "name": "PVD002_Director_Mk34_old",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": null,
+    "type": "Director"
+  }
+}

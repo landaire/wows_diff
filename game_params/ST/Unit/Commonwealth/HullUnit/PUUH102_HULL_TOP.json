@@ -1,0 +1,13 @@
+{
+  "costCR": 15000,
+  "costXP": 200,
+  "id": 4187762032,
+  "index": "PUUH102",
+  "name": "PUUH102_HULL_TOP",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

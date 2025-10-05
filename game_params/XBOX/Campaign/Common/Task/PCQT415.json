@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 0,
+  "conditions": [
+    "<isMyShip shipLevel=\"9,10,11\" class=\"Cruiser\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isCitadelHits count=\"10\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3859169200,
+  "index": "PCQT415",
+  "isSingleBattle": true,
+  "lootStars": 3,
+  "name": "PCQT415",
+  "rewards": [
+    "<Add type=\"ELITE_XP\" count=\"25000\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT415_1",
+    "isCitadelHits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

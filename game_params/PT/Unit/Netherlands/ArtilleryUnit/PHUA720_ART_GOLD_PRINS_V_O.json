@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3539971856,
+  "index": "PHUA720",
+  "name": "PHUA720_ART_GOLD_PRINS_V_O",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

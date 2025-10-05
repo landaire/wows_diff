@@ -1,0 +1,13 @@
+{
+  "costCR": 140000,
+  "costXP": 0,
+  "id": 3853266928,
+  "index": "PAUH421",
+  "name": "PAUH421_Leader_1919",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

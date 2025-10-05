@@ -1,0 +1,71 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 1,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL146_May_Day_collection_lootbox"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA030_MAY_DAY",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4263484336,
+  "index": "PCZA030",
+  "isPuzzle": false,
+  "name": "PCZA030_May_Day",
+  "rewards": [
+    "<Add type=\"WOWS_PREM\" count=\"3\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_MAY_DAY_NAME",
+      "'aa",
+      [
+        "<Crew shipId=\"PRSC101_Orlan\" level=\"10\" crewId=\"PRW419_May_day_RU\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_MAY_DAY_NAME",
+      "'bb",
+      [
+        "<Crew shipId=\"PBSC101_Black_Swan\" level=\"10\" crewId=\"PBW417_May_day_UK\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_MAY_DAY_NAME",
+      "'cc",
+      [
+        "<Crew shipId=\"PUSC506_Perth_1942\" level=\"10\" crewId=\"PUW405_May_day_CA\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_MAY_DAY_NAME",
+      "'dd",
+      [
+        "<Crew shipId=\"PWSC101_Gryf\" level=\"10\" crewId=\"PWW405_May_day_PL\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FIFTH_MAY_DAY_NAME",
+      "'ee",
+      [
+        "<Crew shipId=\"PFSC101_Bougainville\" level=\"10\" crewId=\"PFW416_May_day_FR\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SIXTH_MAY_DAY_NAME",
+      "'ff",
+      [
+        "<Crew shipId=\"PASC001_Erie_1936\" level=\"10\" crewId=\"PAW441_May_day_US\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4240625584,
+  "index": "PCM051",
+  "modifiers": {
+    "ConsumableReloadTime": {
+      "AirCarrier": 0.9,
+      "Auxiliary": 0.9,
+      "Battleship": 0.9,
+      "Cruiser": 0.9,
+      "Destroyer": 0.9,
+      "Submarine": 0.9
+    },
+    "smokeGeneratorLifeTime": 0.8,
+    "smokeGeneratorWorkTimeCoeff": 4.0,
+    "visibilityDistCoeff": {
+      "AirCarrier": 0.95,
+      "Auxiliary": 0.95,
+      "Battleship": 0.95,
+      "Cruiser": 0.95,
+      "Destroyer": 0.95,
+      "Submarine": 0.95
+    },
+    "visibilityForSubmarineCoeff": 0.95
+  },
+  "name": "PCM051_Special_Mod_I_Minotaur",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PBSC110_Minotaur"
+  ],
+  "shiptype": [],
+  "slot": 4,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

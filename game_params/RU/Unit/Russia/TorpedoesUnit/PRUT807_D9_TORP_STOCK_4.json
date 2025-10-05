@@ -1,0 +1,13 @@
+{
+  "costCR": 1300000,
+  "costXP": 0,
+  "id": 3448122832,
+  "index": "PRUT807",
+  "name": "PRUT807_D9_TORP_STOCK_4",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

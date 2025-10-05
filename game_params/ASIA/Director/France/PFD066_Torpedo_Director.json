@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4224906064,
+  "index": "PFD066",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD066_Torpedo_Director/FD066_Torpedo_Director.model",
+  "name": "PFD066_Torpedo_Director",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

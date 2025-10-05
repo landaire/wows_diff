@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA022_GF097",
+  "compensationCR": 0,
+  "description": "IDS_PCZC465_GF097_EM_KONIGALBERT_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3807288240,
+  "index": "PCZC465",
+  "name": "PCZC465_GF097_em_KonigAlbert",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

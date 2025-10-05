@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4094274832,
+  "index": "PXUM191",
+  "name": "PXUM191_Akizuki_H2020_A",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "PrimaryWeaponsUnit",
+    "type": "Unit"
+  },
+  "ucType": "_PrimaryWeapons"
+}

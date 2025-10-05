@@ -1,0 +1,38 @@
+{
+  "RarityCategory": {
+    "name": "Legendary"
+  },
+  "camouflage": "Alabama_Veteran_VL_Aquamarine",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 4000,
+  "hidden": true,
+  "id": 3944247280,
+  "index": "PAEP334",
+  "isTemplate": false,
+  "name": "PAEP334_Alabama_VL_Ccs",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHidden"
+  ],
+  "typeinfo": {
+    "nation": "USA",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

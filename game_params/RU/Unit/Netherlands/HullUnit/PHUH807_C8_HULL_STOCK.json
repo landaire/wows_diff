@@ -1,0 +1,13 @@
+{
+  "costCR": 1350000,
+  "costXP": 0,
+  "id": 3448516368,
+  "index": "PHUH807",
+  "name": "PHUH807_C8_HULL_STOCK",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

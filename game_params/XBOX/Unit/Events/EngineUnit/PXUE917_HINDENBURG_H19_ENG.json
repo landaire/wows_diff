@@ -1,0 +1,13 @@
+{
+  "costCR": 1400000,
+  "costXP": 0,
+  "id": 3333270800,
+  "index": "PXUE917",
+  "name": "PXUE917_HINDENBURG_H19_ENG",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

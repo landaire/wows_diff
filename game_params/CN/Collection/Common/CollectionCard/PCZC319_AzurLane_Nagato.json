@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC319_AZURLANE_NAGATO_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3960380336,
+  "index": "PCZC319",
+  "name": "PCZC319_AzurLane_Nagato",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

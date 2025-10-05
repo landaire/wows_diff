@@ -1,0 +1,112 @@
+{
+  "HitLocationArtillery": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 1.0,
+    "autoRepairTime": 30,
+    "autoRepairTimeMin": 25,
+    "brokenRepairHealthCoefficient": 0.5,
+    "brokenRepairTime": 45.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": true,
+    "critProb": [
+      0.05,
+      0.75
+    ],
+    "critProbHP": [
+      1.0,
+      0.02
+    ],
+    "damageEffects": [],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "artillery_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 1000.0,
+    "moduleCritCoeffCR": 1.0,
+    "moduleCritCoeffXP": 1.0,
+    "parentHL": null,
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 1.0,
+    "splashBoxes": [],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 0.5,
+    "volumeCoeff": 0.1
+  },
+  "aiMGmaxEllipseRanging": 4.0,
+  "aiMGmedEllipseRanging": 3.7,
+  "aiMGminEllipseRanging": 3.5,
+  "ammoList": [
+    "PGPA027_210MM_HE_SPR_GR_L4_3_BDZ"
+  ],
+  "ammoSwitchCoeff": 1.0,
+  "antiAirAuraDistance": 0.0,
+  "antiAirAuraStrength": 0.0,
+  "armor": {
+    "65580": 6.0
+  },
+  "barrelDiameter": 0.21,
+  "brokenEffect": "particles/guns/Gun_Damage_medium.xml",
+  "coeffPerSecondMin": 0.3,
+  "customMiscs": {},
+  "damagedEffect": "particles/guns/Gun_Broken_medium.xml",
+  "deadMesh": "content/location/gameplay/gun/main/LYGM004_210mm_Mrs_18/LYGM004_210mm_Mrs_18_dead.model",
+  "deadZone": [],
+  "delim": 0.5,
+  "effectIntensityModifier": 1.0,
+  "ellipseRangeMax": 250.0,
+  "ellipseRangeMin": 50.0,
+  "horizSector": [
+    0.0,
+    0.0
+  ],
+  "id": 4290373552,
+  "idealDistance": 1000.0,
+  "idealRadius": 12.0,
+  "index": "PCGM004",
+  "lensEffect": "particles/guns/GK_Lens.xml",
+  "maxEllipseRanging": 1.003,
+  "medEllipseRanging": 1.002,
+  "minEllipseRanging": 1.001,
+  "minRadius": 2.0,
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/location/gameplay/gun/main/LYGM004_210mm_Mrs_18/LYGM004_210mm_Mrs_18.model",
+  "name": "PCGM004_210mm_Mrs_18",
+  "numBarrels": 1,
+  "onMoveTarPosCoeffDelim": 1.001,
+  "onMoveTarPosCoeffMaxDist": 1.002,
+  "onMoveTarPosCoeffZero": 1.0,
+  "onMoveTarPosDelim": 0.1,
+  "pitchDeadZones": [],
+  "position": [
+    0,
+    0
+  ],
+  "purgingEffect": "particles/guns/GK_Purging.xml",
+  "radiusOnDelim": 0.5,
+  "radiusOnMax": 0.6,
+  "radiusOnZero": 0.2,
+  "reduceTime": 0.1,
+  "reloadBoostEffect": "particles/guns/GK_Reload.xml",
+  "rotationSpeed": [
+    60.0,
+    8.0
+  ],
+  "shotDelay": 12.0,
+  "shotEffect": "particles/guns/GK_Shot.xml",
+  "smallGun": null,
+  "smokePenalty": 0.0001,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Main",
+    "type": "Gun"
+  },
+  "vertSector": [
+    -2.0,
+    45.0
+  ]
+}

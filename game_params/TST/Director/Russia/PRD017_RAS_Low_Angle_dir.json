@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4276285904,
+  "index": "PRD017",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/director/RD017_RAS_Low_Angle_dir/RD017_RAS_Low_Angle_dir.model",
+  "name": "PRD017_RAS_Low_Angle_dir",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Director"
+  }
+}

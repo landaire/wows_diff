@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA017_FrenchDDArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC379_FRENCHDDARC_COMMEMORATIVE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3897465776,
+  "index": "PCZC379",
+  "name": "PCZC379_FrenchDDArc_Commemorative",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

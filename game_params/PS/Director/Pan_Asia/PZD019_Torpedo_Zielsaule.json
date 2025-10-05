@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4274188496,
+  "index": "PZD019",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD019_Torpedo_Zielsaule/ZD019_Torpedo_Zielsaule.model",
+  "name": "PZD019_Torpedo_Zielsaule",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

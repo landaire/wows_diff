@@ -1,0 +1,20 @@
+{
+  "accumulativeResourceRequired": 0,
+  "bonusType": "maintenance_discount",
+  "buildingType": "PCJB001_Dry_Dock",
+  "buyable": true,
+  "cost": 50000,
+  "id": 4288273328,
+  "index": "PCJM006",
+  "isDummy": false,
+  "name": "PCJM006_Maintenance_lvl_06",
+  "previousModifier": "PCJM005_Maintenance_lvl_05",
+  "shipLevelMax": 10,
+  "shipLevelMin": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Modifier",
+    "type": "ClanSupply"
+  },
+  "value": 15
+}

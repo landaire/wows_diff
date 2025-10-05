@@ -1,0 +1,239 @@
+{
+  "StarTrekLobby": {
+    "InnerTrajectory": {
+      "backwardResistance": [
+        0.0,
+        0.0
+      ],
+      "backwardResistanceTime": [
+        0.0,
+        0.0
+      ],
+      "bevelAngle": [
+        0.0,
+        0.0
+      ],
+      "bevelRange": [
+        0.0,
+        0.0
+      ],
+      "defaultPitch": [
+        -5.0,
+        -5.0
+      ],
+      "defaultYaw": [
+        40.0,
+        40.0
+      ],
+      "forwardResistance": [
+        0.0,
+        0.0
+      ],
+      "forwardResistanceTime": [
+        0.0,
+        0.0
+      ],
+      "horizontalResistance": [
+        0.0,
+        0.0
+      ],
+      "horizontalResistanceTime": [
+        0.0,
+        0.0
+      ],
+      "ignoreControllerPitch": false,
+      "ignoreHeightMultiplier": false,
+      "inclineH": [
+        0.0,
+        0.0
+      ],
+      "inclineV": [
+        0.0,
+        0.0
+      ],
+      "lockOnDefaultPitch": true,
+      "lockOnDefaultYaw": false,
+      "maxPitch": [
+        -4.97,
+        -4.97
+      ],
+      "maxYaw": [
+        50.0,
+        50.0
+      ],
+      "minPitch": [
+        -5.0,
+        -5.0
+      ],
+      "minPosY": [
+        0.0,
+        0.0
+      ],
+      "minYaw": [
+        16.0,
+        16.0
+      ],
+      "pitchInfluenceOnHeight": [
+        5.0,
+        5.0
+      ],
+      "posCenter": [
+        [
+          -2,
+          5,
+          2
+        ],
+        [
+          -2,
+          0,
+          2
+        ]
+      ],
+      "semiAxisH": [
+        15.0,
+        15.0
+      ],
+      "semiAxisV": [
+        20.0,
+        20.0
+      ],
+      "verticalResistance": [
+        0.0,
+        0.0
+      ],
+      "verticalResistanceTime": [
+        0.0,
+        0.0
+      ],
+      "zoomControllerCoef": [
+        1.0,
+        1.0
+      ]
+    },
+    "OuterTrajectory": {
+      "backwardResistance": [
+        0.0,
+        0.0
+      ],
+      "backwardResistanceTime": [
+        0.0,
+        0.0
+      ],
+      "bevelAngle": [
+        0.0,
+        0.0
+      ],
+      "bevelRange": [
+        0.0,
+        0.0
+      ],
+      "defaultPitch": [
+        -5.0,
+        -5.0
+      ],
+      "defaultYaw": [
+        40.0,
+        40.0
+      ],
+      "forwardResistance": [
+        0.0,
+        0.0
+      ],
+      "forwardResistanceTime": [
+        0.0,
+        0.0
+      ],
+      "horizontalResistance": [
+        0.0,
+        0.0
+      ],
+      "horizontalResistanceTime": [
+        0.0,
+        0.0
+      ],
+      "ignoreControllerPitch": false,
+      "ignoreHeightMultiplier": false,
+      "inclineH": [
+        0.0,
+        0.0
+      ],
+      "inclineV": [
+        0.0,
+        0.0
+      ],
+      "lockOnDefaultPitch": true,
+      "lockOnDefaultYaw": false,
+      "maxPitch": [
+        -4.97,
+        -4.97
+      ],
+      "maxYaw": [
+        50.0,
+        50.0
+      ],
+      "minPitch": [
+        -5.0,
+        -5.0
+      ],
+      "minPosY": [
+        0.0,
+        0.0
+      ],
+      "minYaw": [
+        16.0,
+        16.0
+      ],
+      "pitchInfluenceOnHeight": [
+        5.0,
+        0.0
+      ],
+      "posCenter": [
+        [
+          2,
+          6,
+          -2
+        ],
+        [
+          2,
+          6,
+          -2
+        ]
+      ],
+      "semiAxisH": [
+        15.0,
+        15.0
+      ],
+      "semiAxisV": [
+        20.0,
+        20.0
+      ],
+      "verticalResistance": [
+        0.0,
+        0.0
+      ],
+      "verticalResistanceTime": [
+        0.0,
+        0.0
+      ],
+      "zoomControllerCoef": [
+        1.0,
+        1.0
+      ]
+    },
+    "castZoom": {},
+    "hulls": [],
+    "tags": "",
+    "weapons": []
+  },
+  "id": 4292495280,
+  "index": "PCOL002",
+  "inertialRollCoef": 1.0,
+  "name": "PCOL002_StarTrekLobby",
+  "rockingCompensationCoef": 1.0,
+  "smartZoomAngleCoef": 1.0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CameraEllipse",
+    "type": "Other"
+  }
+}

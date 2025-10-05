@@ -1,0 +1,22 @@
+{
+  "bubbleDeeps": [
+    0.4,
+    1.5
+  ],
+  "foamDeeps": [
+    -0.5,
+    5.0
+  ],
+  "fountainDeeps": [
+    1.2,
+    1.8
+  ],
+  "id": 4284916656,
+  "index": "PCXS009",
+  "name": "PCXS009_Destroyer",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Sinking",
+    "type": "Sfx"
+  }
+}

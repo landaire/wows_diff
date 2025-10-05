@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 0,
+  "id": 3349589776,
+  "index": "PHUS901",
+  "name": "PHUS901_C10_SUO_STOCK",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

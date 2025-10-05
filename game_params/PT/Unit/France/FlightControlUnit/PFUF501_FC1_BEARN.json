@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3769446224,
+  "index": "PFUF501",
+  "name": "PFUF501_FC1_BEARN",
+  "typeinfo": {
+    "nation": "France",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

@@ -454,6 +454,13 @@
       ],
       "ammoSwitchCoeff": 0.2,
       "armor": {},
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.622,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -555,6 +562,13 @@
       ],
       "ammoSwitchCoeff": 0.2,
       "armor": {},
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.622,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -13621,7 +13635,6 @@
   "battleSignalsOrder": [],
   "canCharge": true,
   "canEquipCamouflage": true,
-  "custom": {},
   "defaultCrew": null,
   "flagsScale": 1.0,
   "group": "upgradeable",

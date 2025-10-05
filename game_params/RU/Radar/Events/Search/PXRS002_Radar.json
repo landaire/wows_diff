@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4292262160,
+  "index": "PXRS002",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/events/radar/search/XRS002_Radar/XRS002_Radar.model",
+  "name": "PXRS002_Radar",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

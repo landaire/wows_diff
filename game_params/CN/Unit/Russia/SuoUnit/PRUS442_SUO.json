@@ -1,0 +1,13 @@
+{
+  "costCR": 480000,
+  "costXP": 4500,
+  "id": 3830885840,
+  "index": "PRUS442",
+  "name": "PRUS442_SUO",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

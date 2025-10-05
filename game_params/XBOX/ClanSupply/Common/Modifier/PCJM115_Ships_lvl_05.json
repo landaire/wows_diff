@@ -1,0 +1,20 @@
+{
+  "accumulativeResourceRequired": 0,
+  "bonusType": "vanity",
+  "buildingType": "PCJB012_Ships",
+  "buyable": false,
+  "cost": 0,
+  "id": 4173978544,
+  "index": "PCJM115",
+  "isDummy": false,
+  "name": "PCJM115_Ships_lvl_05",
+  "previousModifier": "PCJM114_Ships_lvl_04",
+  "shipLevelMax": null,
+  "shipLevelMin": null,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Modifier",
+    "type": "ClanSupply"
+  },
+  "value": 0
+}

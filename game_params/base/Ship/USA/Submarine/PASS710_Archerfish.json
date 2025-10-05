@@ -986,6 +986,24 @@
           "particles/vehicles/WakeTraceReverce_screw_small_2.xml"
         ]
       ],
+      "repairLight": [
+        [
+          "HP_FX_RepairLight_left_1",
+          "particles/vehicles/RepairLight_vsmall.xml"
+        ],
+        [
+          "HP_FX_RepairLight_left_2",
+          "particles/vehicles/RepairLight_vsmall.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_1",
+          "particles/vehicles/RepairLight_vsmall.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_2",
+          "particles/vehicles/RepairLight_vsmall.xml"
+        ]
+      ],
       "runoff": [
         [
           "HP_FX_Runoff_deluge_left",
@@ -1594,6 +1612,13 @@
       ],
       "ammoSwitchCoeff": 0.125,
       "armor": {},
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -1696,6 +1721,13 @@
       ],
       "ammoSwitchCoeff": 0.125,
       "armor": {},
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -1798,6 +1830,13 @@
       ],
       "ammoSwitchCoeff": 0.125,
       "armor": {},
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -1900,6 +1939,13 @@
       ],
       "ammoSwitchCoeff": 0.125,
       "armor": {},
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -2002,6 +2048,13 @@
       ],
       "ammoSwitchCoeff": 0.125,
       "armor": {},
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -2104,6 +2157,13 @@
       ],
       "ammoSwitchCoeff": 0.125,
       "armor": {},
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -2206,6 +2266,13 @@
       ],
       "ammoSwitchCoeff": 0.125,
       "armor": {},
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -2308,6 +2375,13 @@
       ],
       "ammoSwitchCoeff": 0.125,
       "armor": {},
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -2410,6 +2484,13 @@
       ],
       "ammoSwitchCoeff": 0.125,
       "armor": {},
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -2512,6 +2593,13 @@
       ],
       "ammoSwitchCoeff": 0.125,
       "armor": {},
+      "availableBuoyancyStates": [
+        "SURFACE",
+        "PERISCOPE",
+        "SEMI_DEEP_WATER",
+        "DEEP_WATER",
+        "DEEP_WATER_INVUL"
+      ],
       "barrelDiameter": 0.533,
       "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
       "customMiscs": {},
@@ -4702,7 +4790,6 @@
   "battleSignalsOrder": [],
   "canCharge": true,
   "canEquipCamouflage": true,
-  "custom": {},
   "defaultCrew": null,
   "flagsScale": 0.3,
   "group": "ultimate",

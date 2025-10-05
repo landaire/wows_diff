@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA025_GERDD_1004",
+  "compensationCR": 0,
+  "description": "IDS_PCZC555_GERDD_1004_MINESWEEPER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3712916400,
+  "index": "PCZC555",
+  "name": "PCZC555_GERDD_1004_Minesweeper",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

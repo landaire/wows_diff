@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3343757040,
+  "index": "PIUE907",
+  "name": "PIUE907_ENG_LAURIA",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,55 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "RoyalBattles",
+  "economics": {
+    "currencyType": "EVENTUM_2",
+    "earningBySelf": 1.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 0,
+  "gameLogicConfig": {},
+  "id": 4284328880,
+  "index": "PCVE010",
+  "matchmakerConfig": {
+    "max_ship_level": 10,
+    "max_ships_in_team": 3,
+    "min_ship_level": 9,
+    "teams_in_battle": 6
+  },
+  "name": "PCVE010_EV20Halloween2BR",
+  "restrictions": {
+    "filters": [
+      {
+        "nations": [
+          "Events"
+        ],
+        "shipLevels": [
+          9,
+          10
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship"
+        ]
+      }
+    ],
+    "totalShips": 18
+  },
+  "scenariosByMap": {
+    "spaces/e11_FreshGameplay_2021": [
+      "Battle_Royale_2"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

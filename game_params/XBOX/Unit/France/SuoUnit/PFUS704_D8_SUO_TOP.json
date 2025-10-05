@@ -1,0 +1,13 @@
+{
+  "costCR": 1550000,
+  "costXP": 25000,
+  "id": 3556159312,
+  "index": "PFUS704",
+  "name": "PFUS704_D8_SUO_TOP",
+  "typeinfo": {
+    "nation": "France",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

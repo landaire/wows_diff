@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA006_HappyNewYear2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC115_NY2018_DUKEOFYORK_SHIP_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4174289840,
+  "index": "PCZC115",
+  "name": "PCZC115_NY2018_DukeOfYork_Ship",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

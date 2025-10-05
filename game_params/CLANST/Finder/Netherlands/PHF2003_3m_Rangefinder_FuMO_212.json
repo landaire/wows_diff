@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2193812240,
+  "index": "PHF2003",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/netherlands/finder/HF2003_3m_Rangefinder_FuMO_212/HF2003_3m_Rangefinder_FuMO_212.model",
+  "name": "PHF2003_3m_Rangefinder_FuMO_212",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": null,
+    "type": "Finder"
+  }
+}

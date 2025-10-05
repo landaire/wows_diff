@@ -1,0 +1,13 @@
+{
+  "costCR": 2200000,
+  "costXP": 0,
+  "id": 3333172496,
+  "index": "PXUH917",
+  "name": "PXUH917_HINDENBURG_H19_HULL",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

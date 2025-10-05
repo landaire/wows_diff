@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4283618640,
+  "index": "PVK010",
+  "maxLevel": 2,
+  "name": "PVK010_La_Pampa",
+  "personalCardBonus": {
+    "clan": "PCOK609_CLAN_DD_Torp"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PVSD710_La_Pampa"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

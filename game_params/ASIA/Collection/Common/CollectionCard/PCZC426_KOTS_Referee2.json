@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA020_Kots",
+  "compensationCR": 0,
+  "description": "IDS_PCZC426_KOTS_REFEREE2_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3848182704,
+  "index": "PCZC426",
+  "name": "PCZC426_KOTS_Referee2",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

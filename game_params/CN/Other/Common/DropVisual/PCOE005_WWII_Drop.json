@@ -1,0 +1,15 @@
+{
+  "buoysCount": 20,
+  "containerModel": "content/location/misc/gameplay/LMY106_Airdrop/LMY106_Airdrop.model",
+  "effect": "particles/Drop_smoke.xml",
+  "id": 4289578928,
+  "index": "PCOE005",
+  "model": "content/location/misc/port/LMP165_Beacon/LMP165_Beacon.model",
+  "name": "PCOE005_WWII_Drop",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "DropVisual",
+    "type": "Other"
+  },
+  "waterPhysicsAffect": 0.5
+}

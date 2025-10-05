@@ -1,0 +1,13 @@
+{
+  "costCR": 230000,
+  "costXP": 0,
+  "id": 3664654032,
+  "index": "PJUD601",
+  "name": "PJUD601_CV7_DB_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

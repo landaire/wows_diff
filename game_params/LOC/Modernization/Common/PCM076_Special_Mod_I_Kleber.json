@@ -1,0 +1,38 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4214411184,
+  "index": "PCM076",
+  "modifiers": {
+    "GMShotDelay": 1.6,
+    "visibilityDistCoeff": {
+      "AirCarrier": 0.8,
+      "Auxiliary": 0.8,
+      "Battleship": 0.8,
+      "Cruiser": 0.8,
+      "Destroyer": 0.8,
+      "Submarine": 0.8
+    },
+    "visibilityForSubmarineCoeff": 0.8
+  },
+  "name": "PCM076_Special_Mod_I_Kleber",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PFSD110_Kleber",
+    "PFSD810_Colorful_Kleber"
+  ],
+  "shiptype": [],
+  "slot": 5,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

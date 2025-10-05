@@ -1,0 +1,13 @@
+{
+  "costCR": 620000,
+  "costXP": 0,
+  "id": 3559272176,
+  "index": "PIUT701",
+  "name": "PIUT701_C8_TORP_STOCK",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

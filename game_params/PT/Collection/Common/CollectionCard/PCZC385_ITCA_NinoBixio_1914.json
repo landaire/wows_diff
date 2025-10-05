@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA018_ITCA_0810",
+  "compensationCR": 0,
+  "description": "IDS_PCZC385_ITCA_NINOBIXIO_1914_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3891174320,
+  "index": "PCZC385",
+  "name": "PCZC385_ITCA_NinoBixio_1914",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 90000,
+  "costXP": 0,
+  "id": 3968609744,
+  "index": "PRUH311",
+  "name": "PRUH311_SVETLANA_A",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

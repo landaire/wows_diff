@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC194_AA_76MM_ANTIAIRCRAFT_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4091452336,
+  "index": "PCZC194",
+  "name": "PCZC194_AA_76mm_antiaircraft",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

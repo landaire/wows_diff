@@ -1,0 +1,13 @@
+{
+  "costCR": 126000,
+  "costXP": 1500,
+  "id": 4281053168,
+  "index": "PAUI013",
+  "name": "PAUI013_Curtiss_F6C_1",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

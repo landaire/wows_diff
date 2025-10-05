@@ -1,0 +1,13 @@
+{
+  "costCR": 640000,
+  "costXP": 0,
+  "id": 3455004656,
+  "index": "PAUB801",
+  "name": "PAUB801_CV9_TB_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3339693840,
+  "index": "PHUA911",
+  "name": "PHUA911_ART_WILLEM_DE_EERSTE",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

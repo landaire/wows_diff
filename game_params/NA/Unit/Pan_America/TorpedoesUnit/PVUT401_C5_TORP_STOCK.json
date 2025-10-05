@@ -1,0 +1,13 @@
+{
+  "costCR": 134000,
+  "costXP": 0,
+  "id": 3873844560,
+  "index": "PVUT401",
+  "name": "PVUT401_C5_TORP_STOCK",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

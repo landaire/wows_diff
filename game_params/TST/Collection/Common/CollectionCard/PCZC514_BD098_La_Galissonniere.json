@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA023_BD098",
+  "compensationCR": 0,
+  "description": "IDS_PCZC514_BD098_LA_GALISSONNIERE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3755908016,
+  "index": "PCZC514",
+  "name": "PCZC514_BD098_La_Galissonniere",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

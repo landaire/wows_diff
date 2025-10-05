@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4153850576,
+  "index": "PJRS134",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/radar/search/JRS134_Radar_Type_A6/JRS134_Radar_Type_A6.model",
+  "name": "PJRS134_Radar_Type_A6",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

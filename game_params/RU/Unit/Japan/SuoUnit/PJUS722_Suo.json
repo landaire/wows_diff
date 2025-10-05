@@ -1,0 +1,13 @@
+{
+  "costCR": 2000,
+  "costXP": 1,
+  "id": 3537284816,
+  "index": "PJUS722",
+  "name": "PJUS722_Suo",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

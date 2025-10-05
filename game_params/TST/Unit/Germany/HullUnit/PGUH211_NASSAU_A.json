@@ -1,0 +1,13 @@
+{
+  "costCR": 74000,
+  "costXP": 0,
+  "id": 4073467696,
+  "index": "PGUH211",
+  "name": "PGUH211_NASSAU_A",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

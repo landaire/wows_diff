@@ -1,0 +1,18 @@
+{
+  "id": 3707422640,
+  "index": "PCOK560",
+  "level_1": {
+    "shootShift": 1.3,
+    "vulnerabilityAP": 0.9
+  },
+  "level_2": {
+    "shootShift": 1.3,
+    "vulnerabilityAP": 0.9
+  },
+  "name": "PCOK560_CLAN_Slava",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

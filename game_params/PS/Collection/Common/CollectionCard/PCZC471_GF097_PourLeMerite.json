@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA022_GF097",
+  "compensationCR": 0,
+  "description": "IDS_PCZC471_GF097_POURLEMERITE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3800996784,
+  "index": "PCZC471",
+  "name": "PCZC471_GF097_PourLeMerite",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

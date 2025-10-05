@@ -1,0 +1,13 @@
+{
+  "costCR": 134000,
+  "costXP": 0,
+  "id": 3874336528,
+  "index": "PHUE401",
+  "name": "PHUE401_C5_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

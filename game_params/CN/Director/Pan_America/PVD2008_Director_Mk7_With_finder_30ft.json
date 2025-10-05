@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2188570960,
+  "index": "PVD2008",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panamerica/director/VD2008_Director_Mk7_With_finder_30ft/VD2008_Director_Mk7_With_finder_30ft.model",
+  "name": "PVD2008_Director_Mk7_With_finder_30ft",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": null,
+    "type": "Director"
+  }
+}

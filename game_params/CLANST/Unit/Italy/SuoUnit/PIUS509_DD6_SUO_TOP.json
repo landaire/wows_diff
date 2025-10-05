@@ -1,0 +1,13 @@
+{
+  "costCR": 540000,
+  "costXP": 8000,
+  "id": 3760631536,
+  "index": "PIUS509",
+  "name": "PIUS509_DD6_SUO_TOP",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

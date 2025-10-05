@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 10,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\"/>",
+    "<isBattleType battleTypes=\"PVP,RANKED\"/>",
+    "<isDamage nation=\"Russia\" count=\"200000\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 4115021744,
+  "index": "PCQT171",
+  "isSingleBattle": false,
+  "lootStars": 1,
+  "name": "PCQT171_CampaignSB_Mission03_Task01",
+  "rewards": [
+    "<Item idx=\"PCEA011_CRboost_1\" count=\"25\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT171_CAMPAIGNSB_MISSION03_TASK01_1",
+    "isDamage",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

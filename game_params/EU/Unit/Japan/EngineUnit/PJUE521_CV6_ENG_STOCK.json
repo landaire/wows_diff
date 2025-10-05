@@ -1,0 +1,13 @@
+{
+  "costCR": 170000,
+  "costXP": 0,
+  "id": 3748507344,
+  "index": "PJUE521",
+  "name": "PJUE521_CV6_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

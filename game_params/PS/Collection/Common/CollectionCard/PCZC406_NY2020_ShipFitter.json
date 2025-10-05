@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA019_HappyNewYear2020",
+  "compensationCR": 0,
+  "description": "IDS_PCZC406_NY2020_SHIPFITTER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3869154224,
+  "index": "PCZC406",
+  "name": "PCZC406_NY2020_ShipFitter",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

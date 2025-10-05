@@ -1,0 +1,13 @@
+{
+  "costCR": 1200000,
+  "costXP": 0,
+  "id": 3308236784,
+  "index": "PAUA941",
+  "name": "PAUA941_203_55_BUFFALO",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

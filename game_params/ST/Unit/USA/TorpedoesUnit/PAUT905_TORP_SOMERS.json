@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3345362928,
+  "index": "PAUT905",
+  "name": "PAUT905_TORP_SOMERS",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

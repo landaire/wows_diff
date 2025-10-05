@@ -1,0 +1,13 @@
+{
+  "costCR": 1450000,
+  "costXP": 0,
+  "id": 3345394960,
+  "index": "PXUS905",
+  "name": "PXUS905_NORMA_SUO",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

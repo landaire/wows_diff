@@ -1,0 +1,13 @@
+{
+  "costCR": 380000,
+  "costXP": 4300,
+  "id": 3852218352,
+  "index": "PAUH422",
+  "name": "PAUH422_Leader_1938",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 2100000,
+  "costXP": 28000,
+  "id": 3642502864,
+  "index": "PJUH622",
+  "name": "PJUH622_Mogami_1943",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

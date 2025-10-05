@@ -1,0 +1,31 @@
+{
+  "backgroundIconID": 67,
+  "conditions": [
+    "<isMyShip shipLevel=\"9,10,11\" nation=\"USA\"/>",
+    "<isBattleType battleTypes=\"PVP,RANKED\"/>",
+    "<isEarnBattleAchievements count=\"12\" type=\"heroic\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3721805744,
+  "index": "PCQT546",
+  "isSingleBattle": false,
+  "lootStars": 3,
+  "name": "PCQT546",
+  "rewards": [
+    "<Item idx=\"PCEM083_Tile_American_Arc\" count=\"1\" />",
+    "<Item idx=\"PCEA023_TotalXPboost_3\" count=\"5\" />",
+    "<Item idx=\"PCEA041_FreeXPboost_1\" count=\"14\" />",
+    "<Item idx=\"PCEA032_CrewXPboost_2\" count=\"15\" />"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT546_1",
+    "isEarnBattleAchievements",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

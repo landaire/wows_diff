@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 34,
+  "conditions": [
+    "<isMyShip shipLevel=\"2,3,4\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE\"/>",
+    "<isTotalCredits count=\"750000\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3617996720,
+  "index": "PCQT645",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT645_Ships",
+  "rewards": [
+    "<Lootbox boxType=\"PCL109_FiveEpochs098_Coll\" count=\"1\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT645_1",
+    "isTotalCredits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

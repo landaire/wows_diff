@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4233294032,
+  "index": "PZD058",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD058_Main_battery_dir_8m/ZD058_Main_battery_dir_8m.model",
+  "name": "PZD058_Main_battery_dir_8m",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

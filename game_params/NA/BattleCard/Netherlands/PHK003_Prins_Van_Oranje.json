@@ -1,0 +1,29 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4290959120,
+  "index": "PHK003",
+  "maxLevel": 2,
+  "name": "PHK003_Prins_Van_Oranje",
+  "personalCardBonus": {
+    "clan": "PCOK605_CLAN_CA_Kite"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PHSC710_Prins_Van_Oranje",
+      "PHSC720_Gold_Prins_Van_Oranje"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

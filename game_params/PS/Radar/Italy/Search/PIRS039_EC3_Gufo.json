@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4253465328,
+  "index": "PIRS039",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/italy/radar/search/IRS039_EC3_Gufo/IRS039_EC3_Gufo.model",
+  "name": "PIRS039_EC3_Gufo",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

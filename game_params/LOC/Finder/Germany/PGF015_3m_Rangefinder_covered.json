@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4278381360,
+  "index": "PGF015",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF015_3m_Rangefinder_covered/GF015_3m_Rangefinder_covered.model",
+  "name": "PGF015_3m_Rangefinder_covered",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

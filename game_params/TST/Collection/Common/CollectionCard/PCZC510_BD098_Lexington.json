@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA023_BD098",
+  "compensationCR": 0,
+  "description": "IDS_PCZC510_BD098_LEXINGTON_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3760102320,
+  "index": "PCZC510",
+  "name": "PCZC510_BD098_Lexington",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

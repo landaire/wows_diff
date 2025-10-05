@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA020_Kots",
+  "compensationCR": 0,
+  "description": "IDS_PCZC421_KOTS_WAITING_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3853425584,
+  "index": "PCZC421",
+  "name": "PCZC421_KOTS_Waiting",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

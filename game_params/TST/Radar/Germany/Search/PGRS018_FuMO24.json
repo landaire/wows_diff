@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4275485488,
+  "index": "PGRS018",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/radar/search/GRS018_FuMO24/GRS018_FuMO24.model",
+  "name": "PGRS018_FuMO24",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

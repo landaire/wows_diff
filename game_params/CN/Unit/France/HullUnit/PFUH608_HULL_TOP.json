@@ -1,0 +1,13 @@
+{
+  "costCR": 1500000,
+  "costXP": 25500,
+  "id": 3657183056,
+  "index": "PFUH608",
+  "name": "PFUH608_HULL_TOP",
+  "typeinfo": {
+    "nation": "France",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

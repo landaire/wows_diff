@@ -1,0 +1,20 @@
+{
+  "id": 3766142896,
+  "index": "PCOK504",
+  "level_1": {
+    "allAlphaMultiplier": 1.075,
+    "burnProb": 0.8,
+    "vulnerabilityHE": 0.9
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.075,
+    "burnProb": 0.8,
+    "vulnerabilityHE": 0.9
+  },
+  "name": "PCOK504_CLAN_Vampire2",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

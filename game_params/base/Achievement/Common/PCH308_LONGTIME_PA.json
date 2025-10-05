@@ -5,7 +5,6 @@
   "constants": {
     "eventName": "PCH308_LONGTIME_PA"
   },
-  "custom": {},
   "enabled": true,
   "events": [
     [

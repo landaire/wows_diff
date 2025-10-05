@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 90,
+  "conditions": [
+    "<isMyShip shipLevel=\"6,7,8,9,10,11\" class=\"AirCarrier\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isModuleHits count=\"3\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4211490736,
+  "index": "PCQT079",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT079",
+  "rewards": [
+    "<Item idx=\"PCEA041_FreeXPboost_1\" count=\"5\" />"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT079_1",
+    "isModuleHits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

@@ -3947,7 +3947,7 @@
     "RageMode": {
       "GameLogicTrigger": {
         "Action": {
-          "progress": 0.2,
+          "progress": 0.4,
           "progressName": "default",
           "type": "RageModeProgressAction"
         },
@@ -3963,15 +3963,19 @@
       },
       "GameLogicTrigger_2": {
         "Action_2": {
-          "progress": 100.0,
-          "progressName": "frag",
+          "progress": 1.0,
+          "progressName": "main_gun_hit",
           "type": "RageModeProgressAction"
         },
         "Activator_2": {
           "requiredCount": 1,
           "separateTracking": true,
           "subRibbons": [
-            5
+            14,
+            15,
+            16,
+            17,
+            28
           ],
           "timeLimit": 0.0,
           "type": "RibbonActivator"
@@ -5704,7 +5708,6 @@
   "battleSignalsOrder": [],
   "canCharge": true,
   "canEquipCamouflage": true,
-  "custom": {},
   "defaultCrew": "PVW007_Default_Peru",
   "flagsScale": 0.6,
   "group": "demoWithoutStatsPrem",

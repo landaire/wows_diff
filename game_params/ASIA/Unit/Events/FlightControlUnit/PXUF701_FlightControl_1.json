@@ -1,0 +1,13 @@
+{
+  "costCR": 495000,
+  "costXP": 0,
+  "id": 3559730448,
+  "index": "PXUF701",
+  "name": "PXUF701_FlightControl_1",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

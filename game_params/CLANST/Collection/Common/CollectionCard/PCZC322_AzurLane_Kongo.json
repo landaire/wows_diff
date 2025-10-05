@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC322_AZURLANE_KONGO_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3957234608,
+  "index": "PCZC322",
+  "name": "PCZC322_AzurLane_Kongo",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

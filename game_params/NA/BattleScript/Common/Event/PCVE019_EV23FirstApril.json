@@ -1,0 +1,77 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "RoyalBattles",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 0,
+  "gameLogicConfig": {},
+  "id": 4274891696,
+  "index": "PCVE019",
+  "matchmakerConfig": {
+    "max_ship_level": 11,
+    "max_ships_in_team": 7,
+    "min_ship_level": 10,
+    "teams_in_battle": 2
+  },
+  "name": "PCVE019_EV23FirstApril",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        -1
+      ],
+      "Battleship": [
+        0,
+        6
+      ],
+      "Cruiser": [
+        0,
+        7
+      ],
+      "Destroyer": [
+        0,
+        4
+      ],
+      "Submarine": [
+        0,
+        -1
+      ]
+    },
+    "filters": [
+      {
+        "nations": [
+          "Events"
+        ],
+        "shipLevels": [
+          10,
+          11
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship"
+        ]
+      }
+    ],
+    "totalShips": 14
+  },
+  "scenariosByMap": {
+    "spaces/e01_Jacuzzi": [
+      "PCVE019_FIRST_APRIL"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

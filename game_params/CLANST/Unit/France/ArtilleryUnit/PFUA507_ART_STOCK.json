@@ -1,0 +1,13 @@
+{
+  "costCR": 170000,
+  "costXP": 0,
+  "id": 3763318608,
+  "index": "PFUA507",
+  "name": "PFUA507_ART_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

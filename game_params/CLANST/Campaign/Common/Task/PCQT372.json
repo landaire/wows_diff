@@ -1,0 +1,29 @@
+{
+  "backgroundIconID": 0,
+  "conditions": [
+    "<isMyShip shipLevel=\"9,10,11\" class=\"Cruiser\"/>",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isPotentialDamage count=\"1500000\"/>",
+    "<isAlive isAlive=\"true\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3904257968,
+  "index": "PCQT372",
+  "isSingleBattle": true,
+  "lootStars": 3,
+  "name": "PCQT372",
+  "rewards": [
+    "<Item idx=\"PCEF016_NE7_SignalFlag\" count=\"25\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT372_1",
+    "isPotentialDamage",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 17000,
+  "costXP": 0,
+  "id": 4074614608,
+  "index": "PFUE210",
+  "name": "PFUE210_B3_ENG_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

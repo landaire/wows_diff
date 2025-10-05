@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA008_Vivalafrance",
+  "compensationCR": 0,
+  "description": "IDS_PCZC175_VIVALAFRANCE_VOUGHTV156F_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4111375280,
+  "index": "PCZC175",
+  "name": "PCZC175_VivaLaFrance_Voughtv156f",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

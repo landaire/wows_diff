@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3550326096,
+  "index": "PVUE710",
+  "name": "PVUE710_ENG_LA_PAMPA",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

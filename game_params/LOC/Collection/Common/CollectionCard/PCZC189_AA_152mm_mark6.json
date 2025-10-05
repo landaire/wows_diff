@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC189_AA_152MM_MARK6_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4096695216,
+  "index": "PCZC189",
+  "name": "PCZC189_AA_152mm_mark6",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

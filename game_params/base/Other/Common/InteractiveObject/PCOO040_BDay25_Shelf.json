@@ -6,6 +6,7 @@
       "OnMouseClick": {
         "InteractiveObjectActions": {
           "cameraAction": {
+            "trajectoryGroup": "",
             "trajectoryName": "BDay25_Shelf",
             "type": 6
           },

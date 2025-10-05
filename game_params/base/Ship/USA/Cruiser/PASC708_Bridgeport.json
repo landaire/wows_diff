@@ -4911,7 +4911,7 @@
     "zValMid": null
   },
   "RarityCategory": {
-    "name": "Common"
+    "name": "Epic"
   },
   "ShipAbilities": {
     "AbilitySlot0": {
@@ -5075,10 +5075,9 @@
   "battleSignalsOrder": [],
   "canCharge": true,
   "canEquipCamouflage": true,
-  "custom": {},
   "defaultCrew": null,
   "flagsScale": 0.6,
-  "group": "demoWithoutStatsPrem",
+  "group": "special",
   "id": 3552491504,
   "index": "PASC708",
   "isPaperShip": true,

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA010_HappyBirthday2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC239_HB18_HAPPY_BDAY_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4044266416,
+  "index": "PCZC239",
+  "name": "PCZC239_HB18_Happy_bday",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

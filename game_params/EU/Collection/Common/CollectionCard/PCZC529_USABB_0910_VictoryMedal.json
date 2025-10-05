@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA024_USABB_0910",
+  "compensationCR": 0,
+  "description": "IDS_PCZC529_USABB_0910_VICTORYMEDAL_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3740179376,
+  "index": "PCZC529",
+  "name": "PCZC529_USABB_0910_VictoryMedal",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

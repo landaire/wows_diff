@@ -1,0 +1,18 @@
+{
+  "id": 3663382448,
+  "index": "PCOK602",
+  "level_1": {
+    "shootShift": 1.4,
+    "vulnerabilityAll": 0.9
+  },
+  "level_2": {
+    "shootShift": 1.4,
+    "vulnerabilityAll": 0.9
+  },
+  "name": "PCOK602_CLAN_BB_Far",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

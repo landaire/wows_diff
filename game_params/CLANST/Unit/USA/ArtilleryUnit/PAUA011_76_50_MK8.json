@@ -1,0 +1,13 @@
+{
+  "costCR": 100,
+  "costXP": 1,
+  "id": 4283412464,
+  "index": "PAUA011",
+  "name": "PAUA011_76_50_MK8",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

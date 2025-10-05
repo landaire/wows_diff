@@ -1,0 +1,76 @@
+{
+  "constants": {
+    "ribbonCount": 4,
+    "ribbonTypes": [
+      "RIBBON_BASE_CAPTURE_ASSIST",
+      "RIBBON_BASE_CAPTURE"
+    ]
+  },
+  "enabled": true,
+  "events": [
+    [
+      "meRibbon",
+      [
+        [
+          "me",
+          "inReferralSquad"
+        ],
+        [
+          "ribbon",
+          "ids",
+          "in",
+          "constant",
+          "ribbonTypes"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "onRibbon",
+      [
+        [
+          "me",
+          "inReferralSquad"
+        ],
+        [
+          "forReferralSquad",
+          [
+            "counter",
+            "a"
+          ],
+          ">=",
+          "constant",
+          "ribbonCount"
+        ]
+      ],
+      [
+        [
+          "forReferralSquad",
+          [
+            "doAction",
+            "done"
+          ]
+        ]
+      ]
+    ]
+  ],
+  "id": 4289644464,
+  "index": "PCOC005",
+  "keepCounters": false,
+  "name": "PCOC005_REF_SQUAD_CAPTURE_RIBBONS",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "AchievementCondition",
+    "type": "Other"
+  },
+  "uiDescription": "IDS_ACHIEVEMENT_CONDITION_REF_SQUAD_CAPTURE_RIBBONS_DESCRIPTION",
+  "uiHeader": "IDS_ACHIEVEMENT_CONDITION_REF_SQUAD_CAPTURE_RIBBONS_TITLE"
+}

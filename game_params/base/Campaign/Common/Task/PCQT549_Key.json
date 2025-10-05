@@ -6,15 +6,6 @@
     "<isTotalXP count=\"50000\" />"
   ],
   "costUnlock": 15,
-  "custom": {
-    "CN": {
-      "rewards": [
-        "<Crew shipId=\"PASC001_Erie_1936\" level=\"15\" crewId=\"PAW102_Halsey\"/>",
-        "<Add type=\"CREDITS\" count=\"200000\"/>",
-        "<Add type=\"ELITE_XP\" count=\"50000\"/>"
-      ]
-    }
-  },
   "id": 3718660016,
   "index": "PCQT549",
   "isSingleBattle": false,

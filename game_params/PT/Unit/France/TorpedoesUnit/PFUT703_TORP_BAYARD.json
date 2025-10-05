@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3557175120,
+  "index": "PFUT703",
+  "name": "PFUT703_TORP_BAYARD",
+  "typeinfo": {
+    "nation": "France",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

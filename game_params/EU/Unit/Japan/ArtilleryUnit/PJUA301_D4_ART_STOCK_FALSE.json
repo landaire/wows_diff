@@ -1,0 +1,13 @@
+{
+  "costCR": 50,
+  "costXP": 1,
+  "id": 3979325136,
+  "index": "PJUA301",
+  "name": "PJUA301_D4_ART_STOCK_FALSE",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

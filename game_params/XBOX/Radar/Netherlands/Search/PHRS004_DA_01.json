@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4290165520,
+  "index": "PHRS004",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/netherlands/radar/search/HRS004_DA_01/HRS004_DA_01.model",
+  "name": "PHRS004_DA_01",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

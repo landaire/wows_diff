@@ -1,0 +1,13 @@
+{
+  "costCR": 3400000,
+  "costXP": 0,
+  "id": 3318493168,
+  "index": "PAUH931",
+  "name": "PAUH931_Montana_1945",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

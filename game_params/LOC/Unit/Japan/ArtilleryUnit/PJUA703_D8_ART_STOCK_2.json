@@ -1,0 +1,13 @@
+{
+  "costCR": 570000,
+  "costXP": 0,
+  "id": 3557797584,
+  "index": "PJUA703",
+  "name": "PJUA703_D8_ART_STOCK_2",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

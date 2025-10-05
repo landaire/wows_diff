@@ -7,14 +7,6 @@
     "PCL091_ITCA0810_Coll_Free",
     "PCL092_ITCA0810_Coll_Prem"
   ],
-  "custom": {
-    "CN": {
-      "cardCost": 3,
-      "rewards": [
-        "<Crew level=\"10\" shipId=\"PISC101_Eritrea\" crewId=\"PIW101_Sansonetti\" count=\"1\"/>"
-      ]
-    }
-  },
   "description": "IDS_DESCRIPTION_PCZA018_ITCA_0810",
   "disabled": false,
   "duplicatesCR": 15000,

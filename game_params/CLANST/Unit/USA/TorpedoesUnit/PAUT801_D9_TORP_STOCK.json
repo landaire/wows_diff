@@ -1,0 +1,13 @@
+{
+  "costCR": 1470000,
+  "costXP": 0,
+  "id": 3454414832,
+  "index": "PAUT801",
+  "name": "PAUT801_D9_TORP_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

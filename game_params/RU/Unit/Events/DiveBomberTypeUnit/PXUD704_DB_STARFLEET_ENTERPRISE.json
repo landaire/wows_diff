@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3556650256,
+  "index": "PXUD704",
+  "name": "PXUD704_DB_STARFLEET_ENTERPRISE",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

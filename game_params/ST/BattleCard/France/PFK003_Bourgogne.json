@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4290959184,
+  "index": "PFK003",
+  "maxLevel": 2,
+  "name": "PFK003_Bourgogne",
+  "personalCardBonus": {
+    "clan": "PCOK601_CLAN_BB_Mid"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PFSB510_Bourgogne"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

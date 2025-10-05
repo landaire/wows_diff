@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 73,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\" class=\"AirCarrier\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isKillPlanes count=\"150\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3726000048,
+  "index": "PCQT542",
+  "isSingleBattle": false,
+  "lootStars": 1,
+  "name": "PCQT542",
+  "rewards": [
+    "<Item idx=\"PCEF016_NE7_SignalFlag\" count=\"10\" />"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT542_1",
+    "isKillPlanes",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

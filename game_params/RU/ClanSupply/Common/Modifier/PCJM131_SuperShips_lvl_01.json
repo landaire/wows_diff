@@ -1,0 +1,20 @@
+{
+  "accumulativeResourceRequired": 0,
+  "bonusType": "exp_boost",
+  "buildingType": "PCJB014_SuperShips_Home",
+  "buyable": true,
+  "cost": 80000,
+  "id": 4157201328,
+  "index": "PCJM131",
+  "isDummy": false,
+  "name": "PCJM131_SuperShips_lvl_01",
+  "previousModifier": "PCJM130_SuperShips_dummy",
+  "shipLevelMax": 11,
+  "shipLevelMin": 11,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Modifier",
+    "type": "ClanSupply"
+  },
+  "value": 10
+}

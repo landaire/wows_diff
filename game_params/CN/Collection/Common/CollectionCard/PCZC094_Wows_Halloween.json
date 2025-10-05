@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA005_HappyBirthday",
+  "compensationCR": 0,
+  "description": "IDS_PCZC094_WOWS_HALLOWEEN_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4196309936,
+  "index": "PCZC094",
+  "name": "PCZC094_Wows_Halloween",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

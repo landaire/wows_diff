@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 64,
+  "conditions": [
+    "<isMyShip shipLevel=\"3,4,5,6,7,8,9,10,11\"\t/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\"/>",
+    "<isDamage count=\"10000\" damageTypes=\"torps\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4290133936,
+  "index": "PCQT004",
+  "isSingleBattle": false,
+  "lootStars": 1,
+  "name": "PCQT004",
+  "rewards": [
+    "<Add type=\"CREDITS\" count=\"50000\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT004_1",
+    "isDamage",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

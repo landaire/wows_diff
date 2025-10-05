@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4279424208,
+  "index": "PZK014",
+  "maxLevel": 2,
+  "name": "PZK014_Lushun",
+  "personalCardBonus": {
+    "clan": "PCOK608_CLAN_DD_Hyb"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PZSD510_Lushun"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

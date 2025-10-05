@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC067_YAMAMOTO_CHRYSANTHEMUM_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4224621488,
+  "index": "PCZC067",
+  "name": "PCZC067_Yamamoto_Chrysanthemum",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

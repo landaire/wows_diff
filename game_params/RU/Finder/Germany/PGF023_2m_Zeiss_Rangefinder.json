@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4269992752,
+  "index": "PGF023",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF023_2m_Zeiss_Rangefinder/GF023_2m_Zeiss_Rangefinder.model",
+  "name": "PGF023_2m_Zeiss_Rangefinder",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

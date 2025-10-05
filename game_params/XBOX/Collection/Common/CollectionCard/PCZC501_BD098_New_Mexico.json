@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA023_BD098",
+  "compensationCR": 0,
+  "description": "IDS_PCZC501_BD098_NEW_MEXICO_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3769539504,
+  "index": "PCZC501",
+  "name": "PCZC501_BD098_New_Mexico",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

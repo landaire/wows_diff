@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC154_HSF_WILHELMINA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4133395376,
+  "index": "PCZC154",
+  "name": "PCZC154_HSF_Wilhelmina",
+  "subAlbums": [
+    5
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

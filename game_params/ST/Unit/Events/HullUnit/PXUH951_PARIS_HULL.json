@@ -1,0 +1,13 @@
+{
+  "costCR": 3400000,
+  "costXP": 0,
+  "id": 3297520912,
+  "index": "PXUH951",
+  "name": "PXUH951_PARIS_HULL",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

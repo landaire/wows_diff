@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3529354704,
+  "index": "PRUE730",
+  "name": "PRUE730_ENG_CYBER_DMITRY_POZHARSKY",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

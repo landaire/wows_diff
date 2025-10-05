@@ -1,0 +1,13 @@
+{
+  "costCR": 150000,
+  "costXP": 1800,
+  "id": 3852906320,
+  "index": "PFUS421",
+  "name": "PFUS421_SUO_TOP",
+  "typeinfo": {
+    "nation": "France",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

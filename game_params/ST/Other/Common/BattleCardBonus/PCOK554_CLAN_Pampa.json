@@ -1,0 +1,18 @@
+{
+  "id": 3713714096,
+  "index": "PCOK554",
+  "level_1": {
+    "allAlphaMultiplier": 1.125,
+    "vulnerabilityTorpedo": 0.875
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.125,
+    "vulnerabilityTorpedo": 0.875
+  },
+  "name": "PCOK554_CLAN_Pampa",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

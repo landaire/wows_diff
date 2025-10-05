@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4135234832,
+  "index": "PXUK152",
+  "name": "PXUK152_Shimakaze_H2020_B",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "AbilitiesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Abilities"
+}

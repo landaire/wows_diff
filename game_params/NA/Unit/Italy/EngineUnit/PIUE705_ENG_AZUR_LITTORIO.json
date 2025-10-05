@@ -1,0 +1,14 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "histEnginePower": 121000,
+  "id": 3555569392,
+  "index": "PIUE705",
+  "name": "PIUE705_ENG_AZUR_LITTORIO",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 620000,
+  "costXP": 0,
+  "id": 3654037296,
+  "index": "PGUH611",
+  "name": "PGUH611_GNEISENAU_A",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

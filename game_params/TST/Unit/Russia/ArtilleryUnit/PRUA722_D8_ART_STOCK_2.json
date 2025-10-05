@@ -1,0 +1,13 @@
+{
+  "costCR": 550000,
+  "costXP": 0,
+  "id": 3537874384,
+  "index": "PRUA722",
+  "name": "PRUA722_D8_ART_STOCK_2",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

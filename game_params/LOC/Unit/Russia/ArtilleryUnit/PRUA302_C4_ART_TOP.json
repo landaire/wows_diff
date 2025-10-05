@@ -1,0 +1,13 @@
+{
+  "costCR": 140000,
+  "costXP": 900,
+  "id": 3978276304,
+  "index": "PRUA302",
+  "name": "PRUA302_C4_ART_TOP",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

@@ -6,8 +6,22 @@
       "OnMouseClick": {
         "InteractiveObjectActions": {
           "cameraAction": {
+            "trajectoryGroup": "",
             "trajectoryName": "R42_MainTable",
             "type": 6
+          },
+          "modelAction": {
+            "actionName": "actionoff",
+            "deactivationActionName": "",
+            "type": 3
+          },
+          "mousePressAction": {
+            "eventData": {
+              "routeId": "naval_base"
+            },
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "ui.navigate"
           }
         },
         "activeTime": 2.0,
@@ -16,21 +30,58 @@
         "type": "onMouseClick"
       },
       "OnMouseOver": {
-        "InteractiveObjectActions": null,
+        "InteractiveObjectActions": {
+          "mousePressAction": {
+            "actionName": "On",
+            "deactivationActionName": "",
+            "type": 3
+          }
+        },
         "activeTime": -1.0,
         "requiredState": "idle",
         "targetState": "hovered",
         "type": "onMouseOver"
       },
       "OnMouseOverEnd": {
-        "InteractiveObjectActions": null,
+        "InteractiveObjectActions": {
+          "modelAction": {
+            "actionName": "Off",
+            "deactivationActionName": "",
+            "type": 3
+          }
+        },
         "activeTime": 0.0,
         "requiredState": "hovered",
         "targetState": "released",
         "type": "onMouseOverEnd"
       },
       "onUIMouseClick": {
-        "InteractiveObjectActions": null,
+        "InteractiveObjectActions": {
+          "cameraAction": {
+            "trajectoryGroup": "",
+            "trajectoryName": "R42_MainTable",
+            "type": 6
+          },
+          "modelAction": {
+            "actionName": "actionoff",
+            "deactivationActionName": "",
+            "type": 3
+          },
+          "mousePressAction": {
+            "eventData": {
+              "routeId": "naval_base"
+            },
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "ui.navigate"
+          },
+          "mousePressAction2": {
+            "eventData": null,
+            "isSFM": true,
+            "type": 5,
+            "uiEvent": "action.navalBaseMarkerClicked"
+          }
+        },
         "activeTime": 0.0,
         "requiredState": "hovered",
         "targetState": "selected",

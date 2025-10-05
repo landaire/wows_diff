@@ -1,0 +1,126 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "ArmsBattles",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 1.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 0,
+  "gameLogicConfig": {},
+  "id": 4259163056,
+  "index": "PCVE034",
+  "matchmakerConfig": "event2Airships",
+  "name": "PCVE034_Skirmish",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        1
+      ],
+      "Battleship": [
+        0,
+        3
+      ],
+      "Cruiser": [
+        0,
+        3
+      ],
+      "Destroyer": [
+        0,
+        3
+      ],
+      "Submarine": [
+        0,
+        2
+      ]
+    },
+    "filters": [
+      {
+        "shipLevels": [
+          8,
+          9,
+          10
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship",
+          "AirCarrier",
+          "Submarine"
+        ]
+      }
+    ],
+    "totalShips": 3
+  },
+  "scenariosByMap": {
+    "spaces/15_NE_north": [
+      "two_airships",
+      "convoy_12x12"
+    ],
+    "spaces/16_OC_bees_to_honey": [
+      "two_airships",
+      "convoy_12x12"
+    ],
+    "spaces/18_NE_ice_islands": [
+      "two_airships",
+      "epicenter_shuffle"
+    ],
+    "spaces/19_OC_prey": [
+      "convoy_12x12",
+      "convoy_12x12_B",
+      "convoy_12x12_W"
+    ],
+    "spaces/20_NE_two_brothers": [
+      "convoy_12x12"
+    ],
+    "spaces/23_Shards": [
+      "two_airships",
+      "epicenter_shuffle"
+    ],
+    "spaces/25_sea_hope": [
+      "two_airships"
+    ],
+    "spaces/28_naval_mission": [
+      "convoy_12x12",
+      "epicenter_shuffle"
+    ],
+    "spaces/38_Canada": [
+      "two_airships"
+    ],
+    "spaces/41_Conquest": [
+      "two_airships",
+      "epicenter_shuffle"
+    ],
+    "spaces/42_Neighbors": [
+      "epicenter_shuffle"
+    ],
+    "spaces/44_Path_warrior": [
+      "two_airships"
+    ],
+    "spaces/46_Estuary": [
+      "two_airships"
+    ],
+    "spaces/50_Gold_harbor": [
+      "convoy_12x12"
+    ],
+    "spaces/52_Britain": [
+      "convoy_12x12",
+      "epicenter_shuffle"
+    ],
+    "spaces/53_Shoreside": [
+      "epicenter_shuffle"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

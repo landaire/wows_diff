@@ -7,7 +7,6 @@
   "canSell": true,
   "costCR": -1,
   "costGold": -1,
-  "custom": {},
   "deathSoundEvent": "Damage_Death_BackFriday_24",
   "effectOnDeath": {
     "AirCarrier": "particles/AirCarrier_death_BlackFriday.xml",

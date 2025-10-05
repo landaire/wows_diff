@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4289917136,
+  "index": "PZD004",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD004_Dip_Compass_dir_TA_ITA/ZD004_Dip_Compass_dir_TA_ITA.model",
+  "name": "PZD004_Dip_Compass_dir_TA_ITA",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4292007280,
+  "index": "PUK002",
+  "maxLevel": 2,
+  "name": "PUK002_Brisbane",
+  "personalCardBonus": {
+    "clan": "PCOK604_CLAN_CA_Controller"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PUSC510_Brisbane",
+      "PUSC810_Black_Brisbane"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

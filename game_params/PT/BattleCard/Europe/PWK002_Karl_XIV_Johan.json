@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4292007216,
+  "index": "PWK002",
+  "maxLevel": 2,
+  "name": "PWK002_Karl_XIV_Johan",
+  "personalCardBonus": {
+    "clan": "PCOK010_Balldmg_DtorpX2"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PWSB509_Karl_XIV_Johan"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

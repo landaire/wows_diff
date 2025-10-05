@@ -1,0 +1,104 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "goalValue": 999,
+    "mapName": "e03_1st_April_2018"
+  },
+  "enabled": false,
+  "events": [
+    [
+      "battleStart",
+      [],
+      [
+        [
+          "counter",
+          "globalA",
+          "=",
+          "constant",
+          "0"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "mapName",
+          "==",
+          "constant",
+          "mapName"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "globalA",
+          "=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "afterBattle",
+      [
+        [
+          "afterBattle",
+          "clearShipExp",
+          ">=",
+          "constant",
+          "goalValue"
+        ],
+        [
+          "counter",
+          "globalA",
+          "==",
+          "constant",
+          "1"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4114801584,
+  "index": "PCH171",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH171_NotSoTroopery",
+  "onePerBattle": true,
+  "shipCategories": [
+    "event"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "FOOLSDAY_TROOPER",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_SPACE",
+  "uiType": "service_medal"
+}

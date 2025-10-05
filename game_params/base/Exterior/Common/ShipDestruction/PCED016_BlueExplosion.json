@@ -7,7 +7,6 @@
   "canSell": true,
   "costCR": -1,
   "costGold": -1,
-  "custom": {},
   "deathSoundEvent": "Death_Custom_PCDE016_BlueExplosion",
   "effectOnDeath": {
     "AirCarrier": "particles/Blue_CustomDeath_Battleship_AirCarrier.xml",

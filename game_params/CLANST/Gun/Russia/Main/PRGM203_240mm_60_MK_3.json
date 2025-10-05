@@ -1,0 +1,120 @@
+{
+  "HitLocationArtillery": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 0.0,
+    "autoRepairTime": 30,
+    "autoRepairTimeMin": 25,
+    "brokenRepairHealthCoefficient": 0.5,
+    "brokenRepairTime": 45.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": true,
+    "critProb": [
+      0.05,
+      0.75
+    ],
+    "critProbHP": [
+      1.0,
+      0.02
+    ],
+    "damageEffects": [],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "artillery_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 7500.0,
+    "moduleCritCoeffCR": 1.0,
+    "moduleCritCoeffXP": 1.0,
+    "parentHL": null,
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 1.0,
+    "splashBoxes": [],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 0.5,
+    "volumeCoeff": 0.1
+  },
+  "aiMGmaxEllipseRanging": 4.0,
+  "aiMGmedEllipseRanging": 3.7,
+  "aiMGminEllipseRanging": 3.5,
+  "ammoList": [
+    "PRPA205_240MM_HE_KOMISSAR",
+    "PRPA206_240MM_AP_KOMISSAR"
+  ],
+  "ammoSwitchCoeff": 1.0,
+  "antiAirAuraDistance": 0.0,
+  "antiAirAuraStrength": 0.0,
+  "armor": {
+    "1": 0.0,
+    "131171": 110.0,
+    "196707": 0.0,
+    "65568": 125.0,
+    "65569": 125.0,
+    "65571": 150.0,
+    "65635": 110.0,
+    "65636": 200.0
+  },
+  "barrelDiameter": 0.24,
+  "brokenEffect": "particles/guns/Gun_Damage_big.xml",
+  "coeffPerSecondMin": 0.3,
+  "customMiscs": {},
+  "damagedEffect": "particles/guns/Gun_Broken_big.xml",
+  "deadMesh": "content/gameplay/russia/gun/main/RGM203_240mm_60_MK_3/RGM203_240mm_60_MK_3_dead.model",
+  "deadZone": [],
+  "delim": 0.5,
+  "effectIntensityModifier": 1.0,
+  "ellipseRangeMax": 250.0,
+  "ellipseRangeMin": 50.0,
+  "horizSector": [
+    -150.0,
+    150.0
+  ],
+  "id": 4081706448,
+  "idealDistance": 1000.0,
+  "idealRadius": 8,
+  "index": "PRGM203",
+  "lensEffect": "particles/guns/GK_Lens.xml",
+  "maxEllipseRanging": 1.003,
+  "medEllipseRanging": 1.002,
+  "minEllipseRanging": 1.001,
+  "minRadius": 1.1,
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/gun/main/RGM203_240mm_60_MK_3/RGM203_240mm_60_MK_3.model",
+  "name": "PRGM203_240mm_60_MK_3",
+  "numBarrels": 3,
+  "onMoveTarPosCoeffDelim": 1.001,
+  "onMoveTarPosCoeffMaxDist": 1.002,
+  "onMoveTarPosCoeffZero": 1.0,
+  "onMoveTarPosDelim": 0.1,
+  "pitchDeadZones": [],
+  "position": [
+    0,
+    0
+  ],
+  "purgingEffect": "particles/guns/GK_Purging.xml",
+  "radiusOnDelim": 0.5,
+  "radiusOnMax": 0.6,
+  "radiusOnZero": 0.2,
+  "reduceTime": 0.1,
+  "reloadBoostEffect": "particles/guns/GK_Reload.xml",
+  "rotationSpeed": [
+    5.5,
+    11.0
+  ],
+  "shotDelay": 15.0,
+  "shotEffect": "particles/guns/GK_Shot.xml",
+  "smallGun": null,
+  "smokePenalty": 0.0001,
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Main",
+    "type": "Gun"
+  },
+  "vertSector": [
+    0.0,
+    50.0
+  ]
+}

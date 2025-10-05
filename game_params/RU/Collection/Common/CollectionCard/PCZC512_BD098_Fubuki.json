@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA023_BD098",
+  "compensationCR": 0,
+  "description": "IDS_PCZC512_BD098_FUBUKI_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3758005168,
+  "index": "PCZC512",
+  "name": "PCZC512_BD098_Fubuki",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

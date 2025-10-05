@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA006_HappyNewYear2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC109_NY2018_SCHARNHORST_RADAR_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4180581296,
+  "index": "PCZC109",
+  "name": "PCZC109_NY2018_Scharnhorst_Radar",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

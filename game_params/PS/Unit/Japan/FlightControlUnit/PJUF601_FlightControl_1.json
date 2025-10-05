@@ -1,0 +1,13 @@
+{
+  "costCR": 340000,
+  "costXP": 0,
+  "id": 3664588496,
+  "index": "PJUF601",
+  "name": "PJUF601_FlightControl_1",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

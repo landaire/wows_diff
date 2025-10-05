@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4203133392,
+  "index": "PRRS087",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/radar/search/RRS087_Foot_N_pr41/RRS087_Foot_N_pr41.model",
+  "name": "PRRS087_Foot_N_pr41",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4264744656,
+  "index": "PJK028",
+  "maxLevel": 2,
+  "name": "PJK028_Azumaya",
+  "personalCardBonus": {
+    "clan": "PCOK005_Balldmg_DHEdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PJSC510_Azumaya",
+      "PJSC519_AZUR_Azuma",
+      "PJSC829_Black_Azumaya"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

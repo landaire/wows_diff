@@ -1,0 +1,13 @@
+{
+  "costCR": 2100000,
+  "costXP": 28000,
+  "id": 3552325616,
+  "index": "PAUH708",
+  "name": "PAUH708_BALTIMORE_B",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

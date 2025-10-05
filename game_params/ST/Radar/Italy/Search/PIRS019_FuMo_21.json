@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4274436848,
+  "index": "PIRS019",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/italy/radar/search/IRS019_FuMo_21/IRS019_FuMo_21.model",
+  "name": "PIRS019_FuMo_21",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

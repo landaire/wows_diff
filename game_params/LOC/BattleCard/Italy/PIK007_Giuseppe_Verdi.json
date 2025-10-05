@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4286764784,
+  "index": "PIK007",
+  "maxLevel": 2,
+  "name": "PIK007_Giuseppe_Verdi",
+  "personalCardBonus": {
+    "clan": "PCOK007_Balldmg_DATBAdmgX2"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PISB519_Giuseppe_Verdi"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Italy",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

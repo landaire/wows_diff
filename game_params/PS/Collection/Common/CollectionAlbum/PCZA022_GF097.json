@@ -1,0 +1,72 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 4,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL104_Ger097_Coll"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA022_GF097",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4271872944,
+  "index": "PCZA022",
+  "isPuzzle": false,
+  "name": "PCZA022_GF097",
+  "rewards": [
+    "<SetUnlock unlockName=\"Multi_Camo_GerAirCarrier\" count=\"1\"/>",
+    "<SetUnlock unlockName=\"Second_Ensign_GerAirCarrier\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_GF097_NAME",
+      "'aa",
+      [
+        "<SetUnlock unlockName=\"Multi_Camo_GerDestroyer\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_GF097_NAME",
+      "'bb",
+      [
+        "<SetUnlock unlockName=\"Multi_Camo_GerCruiser\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_GF097_NAME",
+      "'cc",
+      [
+        "<SetUnlock unlockName=\"Multi_Camo_GerBattleship\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_GF097_NAME",
+      "'dd",
+      [
+        "<SetUnlock unlockName=\"Second_Ensign_GerDestroyer\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FIFTH_GF097_NAME",
+      "'dd",
+      [
+        "<SetUnlock unlockName=\"Second_Ensign_GerCruiser\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SIXTH_GF097_NAME",
+      "'dd",
+      [
+        "<SetUnlock unlockName=\"Second_Ensign_GerBattleship\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

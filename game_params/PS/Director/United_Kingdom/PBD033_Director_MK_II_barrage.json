@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4259509200,
+  "index": "PBD033",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD033_Director_MK_II_barrage/BD033_Director_MK_II_barrage.model",
+  "name": "PBD033_Director_MK_II_barrage",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

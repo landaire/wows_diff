@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3761683408,
+  "index": "PBRS508",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/radar/search/BRS508_RDF_Type_281b_Ice/BRS508_RDF_Type_281b_Ice.model",
+  "name": "PBRS508_RDF_Type_281b_Ice",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

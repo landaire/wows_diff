@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA014_BritishCVArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC296_BRITISHCVARC_HMS_HERMES_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3984497584,
+  "index": "PCZC296",
+  "name": "PCZC296_BritishCVArc_HMS_Hermes",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

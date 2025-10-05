@@ -1,0 +1,13 @@
+{
+  "costCR": 550000,
+  "costXP": 0,
+  "id": 3432885968,
+  "index": "PJUE822",
+  "name": "PJUE822_B9_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

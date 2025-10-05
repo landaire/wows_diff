@@ -1,0 +1,13 @@
+{
+  "costCR": 350000,
+  "costXP": 0,
+  "id": 3770134320,
+  "index": "PGUQ500",
+  "name": "PGUQ500_S6_SONAR_STOCK",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

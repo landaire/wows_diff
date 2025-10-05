@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3539840784,
+  "index": "PHUE720",
+  "name": "PHUE720_ENG_GOLD_PRINS_V_O",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

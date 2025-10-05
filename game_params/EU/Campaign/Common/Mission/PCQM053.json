@@ -1,0 +1,30 @@
+{
+  "allTasks": [
+    "PCQT391",
+    "PCQT392",
+    "PCQT393",
+    "PCQT394",
+    "PCQT395",
+    "PCQT396",
+    "PCQT397",
+    "PCQT398",
+    "PCQT399",
+    "PCQT400_Key"
+  ],
+  "id": 4238983088,
+  "index": "PCQM053",
+  "isStart": false,
+  "mainTask": "PCQT400_Key",
+  "mapPosition": [
+    0.4,
+    0.7
+  ],
+  "name": "PCQM053",
+  "startTime": "06-09-2017 06:00:01",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Mission",
+    "type": "Campaign"
+  },
+  "uiNumber": "3"
+}

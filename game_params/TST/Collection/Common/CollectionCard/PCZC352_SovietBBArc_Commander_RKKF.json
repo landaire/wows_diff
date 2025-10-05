@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA016_SovietBBArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC352_SOVIETBBARC_COMMANDER_RKKF_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3925777328,
+  "index": "PCZC352",
+  "name": "PCZC352_SovietBBArc_Commander_RKKF",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

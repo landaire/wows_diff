@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA021_CAPT",
+  "compensationCR": 0,
+  "description": "IDS_PCZC438_CAPT_1_3_FRIEND_DESCRIPTION",
+  "hasVideo": true,
+  "id": 3835599792,
+  "index": "PCZC438",
+  "name": "PCZC438_CAPT_1_3_friend",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

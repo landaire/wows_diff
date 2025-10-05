@@ -26,7 +26,7 @@
             "type": 5,
             "uiEvent": "statistics.log"
           },
-          "sounAction": {
+          "soundAction": {
             "eventName": "UI_Warp_Transition",
             "type": 4
           }

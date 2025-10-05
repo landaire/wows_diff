@@ -736,7 +736,7 @@
       "phaserLaser": 99999
     },
     "artificialOffset": 0,
-    "maxDist": 14300.0,
+    "maxDist": 15980.0,
     "minDistH": 50.0,
     "minDistV": 110.0,
     "normalDistribution": true,
@@ -3806,7 +3806,6 @@
   "battleSignalsOrder": [],
   "canCharge": true,
   "canEquipCamouflage": true,
-  "custom": {},
   "defaultCrew": null,
   "flagsScale": 0.6,
   "group": "demoWithoutStatsPrem",

@@ -1,0 +1,11 @@
+{
+  "id": 4293876656,
+  "index": "PCJB001",
+  "name": "PCJB001_Dry_Dock",
+  "type": "dry_dock",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BuildingType",
+    "type": "ClanSupply"
+  }
+}

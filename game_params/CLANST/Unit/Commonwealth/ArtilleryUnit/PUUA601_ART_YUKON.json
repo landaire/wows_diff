@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3664751984,
+  "index": "PUUA601",
+  "name": "PUUA601_ART_YUKON",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

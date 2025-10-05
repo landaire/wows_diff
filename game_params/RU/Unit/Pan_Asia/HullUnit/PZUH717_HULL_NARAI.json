@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3542887632,
+  "index": "PZUH717",
+  "name": "PZUH717_HULL_NARAI",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

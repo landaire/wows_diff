@@ -1,0 +1,13 @@
+{
+  "costCR": 50000,
+  "costXP": 0,
+  "id": 3979292464,
+  "index": "PGUB301",
+  "name": "PGUB301_TB_CV4_STOCK",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

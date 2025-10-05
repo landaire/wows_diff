@@ -119,36 +119,6 @@
     "titleIDs": "PCY015_SpeedBooster_Imp_Premium",
     "workTime": 60.0
   },
-  "Blyska_52_Boost": {
-    "availableBuoyancyStates": [],
-    "consumableType": "speedBoosters",
-    "descIDs": "",
-    "group": "ship",
-    "iconIDs": "",
-    "isFake": false,
-    "lifeCycleType": 0,
-    "logic": {
-      "backwardEngineForsag": 4.0,
-      "backwardEngineForsagMaxSpeed": 12.0,
-      "boostCoeff": 0.2,
-      "descIDs": "",
-      "forwardEngineForsag": 2.5,
-      "forwardEngineForsagMaxSpeed": 10.0,
-      "iconIDs": "",
-      "specialSoundID": "Default",
-      "titleIDs": ""
-    },
-    "numConsumables": 2,
-    "periodical": true,
-    "preparationTime": 0.0,
-    "reloadTime": 90.0,
-    "tacticalParams": {
-      "usageType": "default",
-      "workRange": 1000.0
-    },
-    "titleIDs": "",
-    "workTime": 180.0
-  },
   "Cossack": {
     "availableBuoyancyStates": [],
     "consumableType": "speedBoosters",
@@ -551,6 +521,36 @@
       "backwardEngineForsag": 4.0,
       "backwardEngineForsagMaxSpeed": 12.0,
       "boostCoeff": 0.08,
+      "descIDs": "",
+      "forwardEngineForsag": 2.5,
+      "forwardEngineForsagMaxSpeed": 10.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 180.0
+  },
+  "FR_BB_ROUSSILLON_SPEED": {
+    "availableBuoyancyStates": [],
+    "consumableType": "speedBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "backwardEngineForsag": 4.0,
+      "backwardEngineForsagMaxSpeed": 12.0,
+      "boostCoeff": 0.15,
       "descIDs": "",
       "forwardEngineForsag": 2.5,
       "forwardEngineForsagMaxSpeed": 10.0,
@@ -1439,6 +1439,36 @@
     "titleIDs": "PCY015_SpeedBooster_startrek",
     "workTime": 60.0
   },
+  "Surcouf": {
+    "availableBuoyancyStates": [],
+    "consumableType": "speedBoosters",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "backwardEngineForsag": 4.0,
+      "backwardEngineForsagMaxSpeed": 12.0,
+      "boostCoeff": 0.2,
+      "descIDs": "",
+      "forwardEngineForsag": 2.5,
+      "forwardEngineForsagMaxSpeed": 10.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 90.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 180.0
+  },
   "TEMPBRANCH1": {
     "availableBuoyancyStates": [],
     "consumableType": "speedBoosters",
@@ -1712,7 +1742,6 @@
   "canBuy": false,
   "costCR": -1,
   "costGold": -1,
-  "custom": {},
   "freeOfCharge": true,
   "id": 4278362032,
   "index": "PCY015",

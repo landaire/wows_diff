@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4258458416,
+  "index": "PGF034",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF034_10_5m_Forteop_Rangefinder/GF034_10_5m_Forteop_Rangefinder.model",
+  "name": "PGF034_10_5m_Forteop_Rangefinder",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 750000,
+  "costXP": 7000,
+  "id": 3768528688,
+  "index": "PGUB502",
+  "name": "PGUB502_TB_CV6_TOP",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

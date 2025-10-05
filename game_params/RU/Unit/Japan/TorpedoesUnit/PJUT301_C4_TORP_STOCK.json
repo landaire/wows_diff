@@ -1,0 +1,13 @@
+{
+  "costCR": 200000,
+  "costXP": 0,
+  "id": 3978702544,
+  "index": "PJUT301",
+  "name": "PJUT301_C4_TORP_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

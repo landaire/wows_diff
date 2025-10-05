@@ -1,0 +1,13 @@
+{
+  "costCR": 1600000,
+  "costXP": 0,
+  "id": 3349000176,
+  "index": "PAUE902",
+  "name": "PAUE902_C10_ENG_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

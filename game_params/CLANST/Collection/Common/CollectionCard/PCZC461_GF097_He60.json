@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA022_GF097",
+  "compensationCR": 0,
+  "description": "IDS_PCZC461_GF097_HE60_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3811482544,
+  "index": "PCZC461",
+  "name": "PCZC461_GF097_He60",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

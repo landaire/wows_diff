@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA013_HappyNewYear2019",
+  "compensationCR": 0,
+  "description": "IDS_PCZC282_NY2019_MIKASACARD_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3999177648,
+  "index": "PCZC282",
+  "name": "PCZC282_NY2019_MikasaCard",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

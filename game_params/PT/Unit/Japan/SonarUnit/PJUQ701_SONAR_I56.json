@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3559370448,
+  "index": "PJUQ701",
+  "name": "PJUQ701_SONAR_I56",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

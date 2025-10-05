@@ -1,0 +1,51 @@
+{
+  "id": 4220045232,
+  "index": "PCOO071",
+  "logic": {
+    "InteractiveObjectEvents": {
+      "OnMouseClick": {
+        "InteractiveObjectActions": {
+          "mousePressAction": {
+            "eventData": [
+              "io:bday25_radio_click"
+            ],
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "statistics.log"
+          }
+        },
+        "activeTime": 2.0,
+        "requiredState": "hovered",
+        "targetState": "selected",
+        "type": "onMouseClick"
+      },
+      "OnMouseOver": {
+        "InteractiveObjectActions": {
+          "soundAction": {
+            "eventName": "UI_Bday25_Radio_Over",
+            "type": 4
+          }
+        },
+        "activeTime": -1.0,
+        "requiredState": "idle",
+        "targetState": "hovered",
+        "type": "onMouseOver"
+      },
+      "OnMouseOverEnd": {
+        "InteractiveObjectActions": null,
+        "activeTime": 0.3,
+        "requiredState": "hovered",
+        "targetState": "released",
+        "type": "onMouseOverEnd"
+      }
+    },
+    "state": "idle"
+  },
+  "name": "PCOO071_Radio",
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "InteractiveObject",
+    "type": "Other"
+  }
+}

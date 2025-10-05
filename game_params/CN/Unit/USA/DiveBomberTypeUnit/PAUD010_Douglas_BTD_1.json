@@ -1,0 +1,13 @@
+{
+  "costCR": 1720000,
+  "costXP": 21000,
+  "id": 4284362736,
+  "index": "PAUD010",
+  "name": "PAUD010_Douglas_BTD_1",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

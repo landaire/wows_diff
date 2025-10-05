@@ -1,0 +1,18 @@
+{
+  "id": 4279125936,
+  "index": "PCOD015",
+  "markerNameActive": "",
+  "markerNameInactive": "",
+  "maxBuffLevel": 0,
+  "name": "PCOD015_WeaponChooser_WaveGun",
+  "payload": {
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

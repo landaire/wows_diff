@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA012_BritishArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC262_TARIGO1941_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4020149168,
+  "index": "PCZC262",
+  "name": "PCZC262_Tarigo1941",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

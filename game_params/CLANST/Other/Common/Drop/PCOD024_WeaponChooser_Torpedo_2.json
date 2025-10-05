@@ -1,0 +1,18 @@
+{
+  "id": 4269688752,
+  "index": "PCOD024",
+  "markerNameActive": "",
+  "markerNameInactive": "",
+  "maxBuffLevel": 0,
+  "name": "PCOD024_WeaponChooser_Torpedo_2",
+  "payload": {
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

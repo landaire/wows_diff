@@ -1,0 +1,13 @@
+{
+  "costCR": 175000,
+  "costXP": 1900,
+  "id": 3873157104,
+  "index": "PAUI402",
+  "name": "PAUI402_CV5_F_MED",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

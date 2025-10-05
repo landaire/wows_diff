@@ -1,0 +1,285 @@
+{
+  "apDamageLimitCoeff": 0,
+  "artillery": {
+    "HP_GGA_1": {
+      "HitLocationArtillery": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 0.75,
+        "autoRepairTime": 30,
+        "autoRepairTimeMin": 25,
+        "brokenRepairHealthCoefficient": 0.5,
+        "brokenRepairTime": 45.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": false,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          1.0,
+          0.02
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "artillery_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 10000.0,
+        "moduleCritCoeffCR": 1.0,
+        "moduleCritCoeffXP": 1.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 1.0,
+        "splashBoxes": [],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 0.1
+      },
+      "aiMGmaxEllipseRanging": 4.0,
+      "aiMGmedEllipseRanging": 3.7,
+      "aiMGminEllipseRanging": 3.5,
+      "ammoList": [
+        "PCPA147_SHELL_BUILDING_120MM_HE"
+      ],
+      "ammoSwitchCoeff": 1.0,
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "65580": 6.0
+      },
+      "barrelDiameter": 0.12,
+      "brokenEffect": "particles/guns/Gun_Damage_medium.xml",
+      "coeffPerSecondMin": 0.3,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_vsmall.xml",
+      "deadMesh": "content/gameplay/germany/gun/aaircraft/GGA589_D_Day/GGA589_D_Day.model",
+      "deadZone": [],
+      "delim": 0.5,
+      "effectIntensityModifier": 1.0,
+      "ellipseRangeMax": 250.0,
+      "ellipseRangeMin": 50.0,
+      "horizSector": [
+        -64.0,
+        64.0
+      ],
+      "id": 3767134128,
+      "idealDistance": 1000.0,
+      "idealRadius": 11.0,
+      "index": "PCGM503",
+      "lensEffect": "particles/guns/GK_Lens.xml",
+      "maxEllipseRanging": 1.003,
+      "medEllipseRanging": 1.002,
+      "minEllipseRanging": 1.001,
+      "minRadius": 3.0,
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/gameplay/germany/gun/aaircraft/GGA589_D_Day/GGA589_D_Day.model",
+      "name": "PCGM503_D_Day_AntiAircraft",
+      "numBarrels": 1,
+      "onMoveTarPosCoeffDelim": 1.001,
+      "onMoveTarPosCoeffMaxDist": 1.002,
+      "onMoveTarPosCoeffZero": 1.0,
+      "onMoveTarPosDelim": 0.1,
+      "pitchDeadZones": [],
+      "position": [
+        0,
+        0
+      ],
+      "purgingEffect": "particles/guns/GK_Purging.xml",
+      "radiusOnDelim": 0.5,
+      "radiusOnMax": 0.6,
+      "radiusOnZero": 0.2,
+      "reduceTime": 0.1,
+      "reloadBoostEffect": "particles/guns/GK_Reload.xml",
+      "rotationSpeed": [
+        30.0,
+        30.0
+      ],
+      "shotDelay": 2,
+      "shotEffect": "particles/guns/GK_Shot.xml",
+      "smallGun": null,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Common",
+        "species": "Main",
+        "type": "Gun"
+      },
+      "vertSector": [
+        15.0,
+        27.0
+      ]
+    },
+    "ammoPool": {
+      "AP": 99999,
+      "CS": 99999,
+      "HE": 99999,
+      "axisLaser": 99999,
+      "chargeLaser": 99999,
+      "impulseLaser": 99999,
+      "phaserLaser": 99999
+    },
+    "artificialOffset": 0,
+    "maxDist": 15000.0,
+    "minDistH": 550.0,
+    "minDistV": 600.0,
+    "normalDistribution": true,
+    "sigmaCount": 2.0,
+    "taperDist": 0.0,
+    "targetWeightAllyAttacker": 1.0,
+    "targetWeightDist": 1.0,
+    "targetWeightHealth": 1.0,
+    "targetWeightIncoming": 10.0,
+    "targetWeightMaxDist": 2.0,
+    "targetWeightMaxHealth": 1.0,
+    "targetWeightMinDist": 10.0,
+    "targetWeightMinHealth": 5.0,
+    "targetWeightMyAttacker": 1.0,
+    "targetWeightOutcoming": 0.1,
+    "targetWeightYaw": 1.0
+  },
+  "hull": {
+    "OCit": {
+      "antiRamCoeff": 1.0,
+      "armorCoeff": 1.0,
+      "autoRepairTime": 10,
+      "autoRepairTimeMin": 5,
+      "brokenRepairHealthCoefficient": 0.5,
+      "brokenRepairTime": 90.0,
+      "buoyancyShipPercent": 0.0,
+      "burnNode": "",
+      "canBeDestroyed": false,
+      "critProb": [
+        0.0,
+        0.0
+      ],
+      "critProbHP": [
+        1.0,
+        0.0
+      ],
+      "damageEffects": [
+        [
+          0.1,
+          ""
+        ],
+        [
+          0.3,
+          ""
+        ],
+        [
+          0.6,
+          ""
+        ]
+      ],
+      "enhancedRegeneratedHPPart": 0.0,
+      "hlType": "simple_hitlocation",
+      "maxBuoyancy": 0.0,
+      "maxHP": 30000.0,
+      "moduleCritCoeffCR": 0.0,
+      "moduleCritCoeffXP": 0.0,
+      "parentHL": null,
+      "ramCoeff": 1.0,
+      "ramExtraDamage": 0.0,
+      "regeneratedHPPart": 0.0,
+      "splashBoxes": [
+        "CM_SB_ovcit",
+        "CM_SB_ovcit1"
+      ],
+      "startHPCoeff": 1.0,
+      "tbSkipProbMax": 0.0,
+      "tbSkipProbMin": 0.0,
+      "transmitHPDamageToParentFactor": 1.0,
+      "volume": 0.04,
+      "volumeCoeff": 1.0
+    },
+    "acidDamage": 0.0,
+    "acidDuration": 0.0,
+    "armor": {
+      "1": 0.0,
+      "131150": 20.0,
+      "65613": 20.0,
+      "65614": 20.0
+    },
+    "burnNodes": [
+      [
+        0.8,
+        0.42,
+        60.0
+      ]
+    ],
+    "canBeSuppressed": false,
+    "canReceiveAcid": false,
+    "canReceiveWildFire": false,
+    "coolingOffSpeed": 1.0,
+    "deadModel": "content/location/gameplay/building/LYB204_D_Day_GunBuilding_AntiAircraft/LYB204_D_Day_GunBuilding_AntiAircraft.model",
+    "deathAnimation": "",
+    "deathEffect": "particles/Building_death_D_Day.xml",
+    "deathModelReplacementDelay": 0.0,
+    "deathPlaneEffect": "particles/NF_death_catapult_ships.xml",
+    "effects": {
+      "fire1": [
+        [
+          "Scene Root",
+          "particles/vehicles/Fire_LYB031.xml"
+        ]
+      ]
+    },
+    "health": 30000.0,
+    "healthRestorationRate": 0,
+    "heatChangeValue": 1.0,
+    "heightIntensityEffects": [],
+    "iconHeight": null,
+    "isBlind": false,
+    "mass": 1.0,
+    "maxHeatValue": 1.0,
+    "minVisionDistance": 0.0,
+    "model": "content/location/gameplay/building/LYB204_D_Day_GunBuilding_AntiAircraft/LYB204_D_Day_GunBuilding_AntiAircraft.model",
+    "numOfParts": 0,
+    "permanentlyRegenerateHealth": false,
+    "permanentlyVisibleByEnemies": false,
+    "permanentlyVisibleByTeammates": false,
+    "smokeScanRadius": 0.0,
+    "spawnAnimation": "",
+    "spawnEffect": "",
+    "startHealthCoeff": 1.0,
+    "startHealthToRegenerationCoeff": 0.5,
+    "suppressionEffect": {
+      "Effect Name": "particles/vehicles/Suppression_Fort_4.xml",
+      "Scene Node": "Scene Root"
+    },
+    "toMineVisionDistance": [
+      600.0,
+      600.0,
+      100.0
+    ],
+    "visibilityCoefATBAByPlane": 12.0,
+    "visibilityCoefAirDefense": 11.5,
+    "visibilityCoefFire": 2.0,
+    "visibilityCoefFireByPlane": 2.0,
+    "visibilityCoefGK": 1e-6,
+    "visibilityCoefGKByPlane": 1e-6,
+    "visibilityCoefGKInSmoke": 1e-6,
+    "visibilityFactor": 11.0,
+    "visibilityFactorByPlane": 11.0,
+    "visibilityFactorInSmoke": 1.0,
+    "visionDistance": 0.1,
+    "visionFlag": 1,
+    "wildFireDamage": 0.0,
+    "wildFireDuration": -1.0
+  },
+  "id": 4292869040,
+  "index": "PCBA002",
+  "level": 10,
+  "name": "PCBA002",
+  "peculiarity": "default",
+  "peculiarityEffects": {},
+  "peculiarityModels": {},
+  "typeinfo": {
+    "nation": "Common",
+    "species": "AntiAircraft",
+    "type": "Building"
+  }
+}

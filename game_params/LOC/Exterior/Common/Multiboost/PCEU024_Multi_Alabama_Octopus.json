@@ -1,0 +1,34 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 6000,
+  "hidden": false,
+  "id": 4269141936,
+  "index": "PCEU024",
+  "isTemplate": false,
+  "modifiers": {
+    "creditsFactor": 1.25,
+    "crewExpFactor": 2.0,
+    "expFactor": 2.0,
+    "freeExpFactor": 5.0
+  },
+  "name": "PCEU024_Multi_Alabama_Octopus",
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [
+      8
+    ],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 1,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Multiboost",
+    "type": "Exterior"
+  }
+}

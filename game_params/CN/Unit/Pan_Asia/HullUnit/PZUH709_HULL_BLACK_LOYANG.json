@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3551276240,
+  "index": "PZUH709",
+  "name": "PZUH709_HULL_BLACK_LOYANG",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

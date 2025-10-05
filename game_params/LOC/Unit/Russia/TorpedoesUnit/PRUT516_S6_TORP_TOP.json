@@ -1,0 +1,13 @@
+{
+  "costCR": 700000,
+  "costXP": 8000,
+  "id": 3753258448,
+  "index": "PRUT516",
+  "name": "PRUT516_S6_TORP_TOP",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4285720912,
+  "index": "PVF008",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panamerica/finder/VF008_Rangefinder_9ft/VF008_Rangefinder_9ft.model",
+  "name": "PVF008_Rangefinder_9ft",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": null,
+    "type": "Finder"
+  }
+}

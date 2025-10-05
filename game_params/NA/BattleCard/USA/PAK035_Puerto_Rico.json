@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4257404912,
+  "index": "PAK035",
+  "maxLevel": 2,
+  "name": "PAK035_Puerto_Rico",
+  "personalCardBonus": {
+    "clan": "PCOK603_CLAN_CA_Large"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PASC610_Puerto_Rico"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4234591024,
+  "index": "PGRS057",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/radar/search/GRS057_FuMB7_Timor/GRS057_FuMB7_Timor.model",
+  "name": "PGRS057_FuMB7_Timor",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

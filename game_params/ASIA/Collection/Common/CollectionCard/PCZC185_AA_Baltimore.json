@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC185_AA_BALTIMORE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4100889520,
+  "index": "PCZC185",
+  "name": "PCZC185_AA_Baltimore",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

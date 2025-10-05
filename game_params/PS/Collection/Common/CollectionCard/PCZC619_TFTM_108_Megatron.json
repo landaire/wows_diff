@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA027_TFTM_108",
+  "compensationCR": 0,
+  "description": "IDS_PCZC619_TFTM_108_MEGATRON_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3645807536,
+  "index": "PCZC619",
+  "name": "PCZC619_TFTM_108_Megatron",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

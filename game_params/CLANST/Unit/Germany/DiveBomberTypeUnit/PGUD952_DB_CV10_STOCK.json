@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3296603952,
+  "index": "PGUD952",
+  "name": "PGUD952_DB_CV10_STOCK",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

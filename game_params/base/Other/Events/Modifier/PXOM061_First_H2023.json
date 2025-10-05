@@ -164,6 +164,7 @@
     "GSMIdealRadius": 1.0,
     "GSMMaxDist": 1.0,
     "GSMPenetrationCoeffHE": 1.0,
+    "GSMPitchRotationSpeed": 1.0,
     "GSMRotationSpeed": 1.0,
     "GSMShotDelay": 1.0,
     "GSMaxDist": 1.0,

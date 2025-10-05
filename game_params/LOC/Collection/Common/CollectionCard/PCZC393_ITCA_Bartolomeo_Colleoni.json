@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA018_ITCA_0810",
+  "compensationCR": 0,
+  "description": "IDS_PCZC393_ITCA_BARTOLOMEO_COLLEONI_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3882785712,
+  "index": "PCZC393",
+  "name": "PCZC393_ITCA_Bartolomeo_Colleoni",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

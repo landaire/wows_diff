@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4289910064,
+  "index": "PWK004",
+  "maxLevel": 2,
+  "name": "PWK004_Dalarna",
+  "personalCardBonus": {
+    "clan": "PCOK015_Balldmg_Dtorpdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PWSD111_Dalarna"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

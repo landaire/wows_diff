@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3769478576,
+  "index": "PSUE501",
+  "name": "PSUE501_ENG_CANARIAS",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4232243664,
+  "index": "PRF059",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/finder/RF059_KDP2_4_type_B_12/RF059_KDP2_4_type_B_12.model",
+  "name": "PRF059_KDP2_4_type_B_12",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Finder"
+  }
+}

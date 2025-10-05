@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA016_SovietBBArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC367_SOVIETBBARC_BESPOLOV_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3910048688,
+  "index": "PCZC367",
+  "name": "PCZC367_SovietBBArc_Bespolov",
+  "subAlbums": [
+    7
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

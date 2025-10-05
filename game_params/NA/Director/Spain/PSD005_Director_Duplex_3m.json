@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4288868784,
+  "index": "PSD005",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/spain/director/SD005_Director_Duplex_3m/SD005_Director_Duplex_3m.model",
+  "name": "PSD005_Director_Duplex_3m",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": null,
+    "type": "Director"
+  }
+}

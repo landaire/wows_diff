@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4268943696,
+  "index": "PVF024",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panamerica/finder/VF024_Rangefinder_6m/VF024_Rangefinder_6m.model",
+  "name": "PVF024_Rangefinder_6m",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": null,
+    "type": "Finder"
+  }
+}

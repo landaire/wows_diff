@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC215_AA_TORPEDO_MAN_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4069432240,
+  "index": "PCZC215",
+  "name": "PCZC215_AA_Torpedo_man",
+  "subAlbums": [
+    6
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

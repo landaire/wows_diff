@@ -1,0 +1,13 @@
+{
+  "costCR": 2500000,
+  "costXP": 38000,
+  "id": 3336973776,
+  "index": "PRUT913",
+  "name": "PRUT913_S10_TORP_TOP",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

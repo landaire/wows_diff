@@ -1,0 +1,13 @@
+{
+  "costCR": 24000,
+  "costXP": 0,
+  "id": 4084182448,
+  "index": "PSUA201",
+  "name": "PSUA201_C3_ART_STOCK",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

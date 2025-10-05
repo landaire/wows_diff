@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC137_HSF_MAYUMI_UCHIDA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4151221168,
+  "index": "PCZC137",
+  "name": "PCZC137_HSF_Mayumi_Uchida",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

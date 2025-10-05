@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC304_AZURLANE_SARATOGA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3976108976,
+  "index": "PCZC304",
+  "name": "PCZC304_AzurLane_Saratoga",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

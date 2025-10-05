@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA012_BritishArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC261_DUNKIRK1940_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4021197744,
+  "index": "PCZC261",
+  "name": "PCZC261_Dunkirk1940",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

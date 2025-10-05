@@ -1,0 +1,13 @@
+{
+  "costCR": 1050000,
+  "costXP": 12000,
+  "id": 3757846512,
+  "index": "PAUH512",
+  "name": "PAUH512_S6_HULL_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

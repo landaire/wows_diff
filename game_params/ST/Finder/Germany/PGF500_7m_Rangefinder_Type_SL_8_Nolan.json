@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3769822000,
+  "index": "PGF500",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF500_7m_Rangefinder_Type_SL_8_Nolan/GF500_7m_Rangefinder_Type_SL_8_Nolan.model",
+  "name": "PGF500_7m_Rangefinder_Type_SL_8_Nolan",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

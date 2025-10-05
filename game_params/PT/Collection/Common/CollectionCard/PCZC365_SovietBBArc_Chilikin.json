@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA016_SovietBBArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC365_SOVIETBBARC_CHILIKIN_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3912145840,
+  "index": "PCZC365",
+  "name": "PCZC365_SovietBBArc_Chilikin",
+  "subAlbums": [
+    7
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

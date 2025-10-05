@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3767512432,
+  "index": "PUUA503",
+  "name": "PUUA503_ART_VAMPIRE",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

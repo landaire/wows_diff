@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA020_Kots",
+  "compensationCR": 0,
+  "description": "IDS_PCZC420_KOTS_WINNER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3854474160,
+  "index": "PCZC420",
+  "name": "PCZC420_KOTS_Winner",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

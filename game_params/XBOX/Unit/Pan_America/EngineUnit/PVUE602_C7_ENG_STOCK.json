@@ -1,0 +1,13 @@
+{
+  "costCR": 570000,
+  "costXP": 0,
+  "id": 3663572304,
+  "index": "PVUE602",
+  "name": "PVUE602_C7_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

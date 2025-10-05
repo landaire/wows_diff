@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA008_Vivalafrance",
+  "compensationCR": 0,
+  "description": "IDS_PCZC165_VIVALAFRANCE_NORMAND_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4121861040,
+  "index": "PCZC165",
+  "name": "PCZC165_VivaLaFrance_Normand",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

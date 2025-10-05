@@ -1,0 +1,11 @@
+{
+  "id": 4292200368,
+  "index": "PCOU002",
+  "model": "content/location/misc/gameplay/LMY055/LMY055.model",
+  "name": "PCOU002_Buoy_LMY055",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Model",
+    "type": "Other"
+  }
+}

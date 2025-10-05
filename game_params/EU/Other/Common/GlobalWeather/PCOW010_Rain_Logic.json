@@ -1,0 +1,40 @@
+{
+  "audio": {
+    "effect": "Storm",
+    "intensity": 100.0
+  },
+  "graphics": "Rain",
+  "id": 4283746224,
+  "index": "PCOW010",
+  "logic": {
+    "AAMaxDist": 1.0,
+    "GMIdealRadius": 1.0,
+    "GSIdealRadius": 1.0,
+    "GSMIdealRadius": 1.0,
+    "airDefenseVisibilityTime": 2,
+    "bad": 1.0,
+    "burnDamage": 1.0,
+    "burnTime": 1.0,
+    "maxPlaneVisionDistance": 266.6664,
+    "maxShipVisionDistance": 266.6664,
+    "maxVisibilityDistance": 2000.0,
+    "maxVisibilityDistanceByPlane": 2000.0,
+    "mgVisibilityTime": 20,
+    "planeMaxVisibilityDistance": 2000.0,
+    "planeMaxVisibilityDistanceByPlane": 2000.0,
+    "planeSpeed": 1.0,
+    "planeVisibilityFactor": 1.0,
+    "planeVisibilityFactorByPlane": 1.0,
+    "shootShift": 1.0,
+    "speedCoef": 1.0,
+    "transparency": 1.0,
+    "visibilityFactor": 1.0,
+    "visibilityFactorByPlane": 1.0
+  },
+  "name": "PCOW010_Rain_Logic",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "GlobalWeather",
+    "type": "Other"
+  }
+}

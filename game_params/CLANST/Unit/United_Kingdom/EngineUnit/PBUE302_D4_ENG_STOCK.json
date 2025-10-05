@@ -1,0 +1,13 @@
+{
+  "costCR": 43000,
+  "costXP": 0,
+  "id": 3978145744,
+  "index": "PBUE302",
+  "name": "PBUE302_D4_ENG_STOCK",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

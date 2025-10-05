@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4279424752,
+  "index": "PIK014",
+  "maxLevel": 2,
+  "name": "PIK014_Brindisi",
+  "personalCardBonus": {
+    "clan": "PCOK009_Balldmg_DSAPdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PISC109_Brindisi"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Italy",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

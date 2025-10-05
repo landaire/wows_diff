@@ -1,0 +1,13 @@
+{
+  "costCR": 350000,
+  "costXP": 0,
+  "id": 3756437296,
+  "index": "PGUS513",
+  "name": "PGUS513_BB6_SUO_STOCK",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 24000,
+  "id": 3349098480,
+  "index": "PAUB902",
+  "name": "PAUB902_CV10_TB_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

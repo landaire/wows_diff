@@ -1,0 +1,13 @@
+{
+  "costCR": 330000,
+  "costXP": 0,
+  "id": 3647844144,
+  "index": "PGUE617",
+  "name": "PGUE617_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

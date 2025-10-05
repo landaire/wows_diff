@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA020_Kots",
+  "compensationCR": 0,
+  "description": "IDS_PCZC423_KOTS_BUGMAN_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3851328432,
+  "index": "PCZC423",
+  "name": "PCZC423_KOTS_Bugman",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

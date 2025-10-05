@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3319246832,
+  "index": "PAUQ930",
+  "name": "PAUQ930_SONAR_ARCHERFISH",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

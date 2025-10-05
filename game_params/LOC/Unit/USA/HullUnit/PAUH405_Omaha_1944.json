@@ -1,0 +1,13 @@
+{
+  "costCR": 400000,
+  "costXP": 4700,
+  "id": 3870044144,
+  "index": "PAUH405",
+  "name": "PAUH405_Omaha_1944",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4285720880,
+  "index": "PWF008",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/finder/WF008_Telemetro_3m_SW/WF008_Telemetro_3m_SW.model",
+  "name": "PWF008_Telemetro_3m_SW",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Finder"
+  }
+}

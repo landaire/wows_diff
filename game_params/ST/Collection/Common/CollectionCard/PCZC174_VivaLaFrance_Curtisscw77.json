@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA008_Vivalafrance",
+  "compensationCR": 0,
+  "description": "IDS_PCZC174_VIVALAFRANCE_CURTISSCW77_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4112423856,
+  "index": "PCZC174",
+  "name": "PCZC174_VivaLaFrance_Curtisscw77",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

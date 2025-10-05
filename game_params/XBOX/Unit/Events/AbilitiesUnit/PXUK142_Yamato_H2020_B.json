@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4145720592,
+  "index": "PXUK142",
+  "name": "PXUK142_Yamato_H2020_B",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "AbilitiesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Abilities"
+}

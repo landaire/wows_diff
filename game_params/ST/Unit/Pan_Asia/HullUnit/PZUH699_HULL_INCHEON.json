@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3561762000,
+  "index": "PZUH699",
+  "name": "PZUH699_HULL_INCHEON",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

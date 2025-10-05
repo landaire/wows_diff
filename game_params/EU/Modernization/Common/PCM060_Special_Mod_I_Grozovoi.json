@@ -1,0 +1,37 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4231188400,
+  "index": "PCM060",
+  "modifiers": {
+    "GMRotationSpeed": {
+      "AirCarrier": 0.93,
+      "Auxiliary": 0.93,
+      "Battleship": 0.93,
+      "Cruiser": 0.93,
+      "Destroyer": 0.93,
+      "Submarine": 0.93
+    },
+    "GMShotDelay": 0.82,
+    "GTShotDelay": 1.2
+  },
+  "name": "PCM060_Special_Mod_I_Grozovoi",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PRSD210_Grozovoy_pr_40N"
+  ],
+  "shiptype": [],
+  "slot": 5,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

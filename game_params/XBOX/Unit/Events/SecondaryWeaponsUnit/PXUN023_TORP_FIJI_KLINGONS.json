@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4270402832,
+  "index": "PXUN023",
+  "name": "PXUN023_TORP_FIJI_KLINGONS",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "SecondaryWeaponsUnit",
+    "type": "Unit"
+  },
+  "ucType": "_SecondaryWeapons"
+}

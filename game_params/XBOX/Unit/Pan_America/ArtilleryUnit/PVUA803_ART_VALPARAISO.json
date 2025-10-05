@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3452939600,
+  "index": "PVUA803",
+  "name": "PVUA803_ART_VALPARAISO",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

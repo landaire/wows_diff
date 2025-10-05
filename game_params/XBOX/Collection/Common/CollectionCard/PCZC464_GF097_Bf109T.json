@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA022_GF097",
+  "compensationCR": 0,
+  "description": "IDS_PCZC464_GF097_BF109T_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3808336816,
+  "index": "PCZC464",
+  "name": "PCZC464_GF097_Bf109T",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

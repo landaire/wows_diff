@@ -1,0 +1,75 @@
+{
+  "constants": {
+    "_killDistance": 10000.0
+  },
+  "enabled": true,
+  "events": [
+    [
+      "meKill",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "subInstruction",
+          [
+            "me",
+            "position",
+            "distTo",
+            "target",
+            "position"
+          ],
+          "<=",
+          "constant",
+          "_killDistance"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "me",
+          "alive"
+        ],
+        [
+          "counter",
+          "a",
+          "==",
+          "constant",
+          "1"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "id": 4273915824,
+  "index": "PCOC020",
+  "keepCounters": false,
+  "name": "PCOC020",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "AchievementCondition",
+    "type": "Other"
+  },
+  "uiDescription": "IDS_ACHIEVEMENT_CONDITION_PCOC020_DESCRIPTION",
+  "uiHeader": "IDS_ACHIEVEMENT_CONDITION_PCOC020_TITLE"
+}

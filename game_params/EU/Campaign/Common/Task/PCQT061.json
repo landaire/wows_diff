@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 55,
+  "conditions": [
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isKillPlanes count=\"1\" />",
+    "<isMyShip class=\"Cruiser\" shipLevel=\"4,5,6,7,8,9,10,11\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 4230365104,
+  "index": "PCQT061",
+  "isSingleBattle": true,
+  "lootStars": 1,
+  "name": "PCQT061",
+  "rewards": [
+    "<Add type=\"CREDITS\" count=\"50000\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT061_1",
+    "isKillPlanes",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 240000,
+  "costXP": 2000,
+  "id": 3873287888,
+  "index": "PJUE402",
+  "name": "PJUE402_B5_ENG_TOP",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

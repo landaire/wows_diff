@@ -1,0 +1,13 @@
+{
+  "costCR": 1900000,
+  "costXP": 25000,
+  "id": 3652988752,
+  "index": "PFUH612",
+  "name": "PFUH612_B7_HULL_B",
+  "typeinfo": {
+    "nation": "France",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

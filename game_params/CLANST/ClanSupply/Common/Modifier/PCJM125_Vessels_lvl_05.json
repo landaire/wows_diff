@@ -1,0 +1,20 @@
+{
+  "accumulativeResourceRequired": 0,
+  "bonusType": "vanity",
+  "buildingType": "PCJB013_Vessels",
+  "buyable": false,
+  "cost": 0,
+  "id": 4163492784,
+  "index": "PCJM125",
+  "isDummy": false,
+  "name": "PCJM125_Vessels_lvl_05",
+  "previousModifier": "PCJM124_Vessels_lvl_04",
+  "shipLevelMax": null,
+  "shipLevelMin": null,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Modifier",
+    "type": "ClanSupply"
+  },
+  "value": 0
+}

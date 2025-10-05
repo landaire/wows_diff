@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA029_ITDD_0_11_3",
+  "compensationCR": 0,
+  "description": "IDS_PCZC679_ITDD_2_1_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3582892976,
+  "index": "PCZC679",
+  "name": "PCZC679_ITDD_2_1",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

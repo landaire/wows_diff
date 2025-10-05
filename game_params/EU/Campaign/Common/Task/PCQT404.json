@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 0,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\" class=\"Battleship\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isEarnBattleAchievements count=\"7\" achievements=\"PCH011_InstantKill\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3870703536,
+  "index": "PCQT404",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT404",
+  "rewards": [
+    "<Item idx=\"PCEF014_NF_SignalFlag\" count=\"30\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT404_1",
+    "isEarnBattleAchievements",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3764581328,
+  "index": "PBD505",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD505_14in_DCT_secondary_Ice/BD505_14in_DCT_secondary_Ice.model",
+  "name": "PBD505_14in_DCT_secondary_Ice",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

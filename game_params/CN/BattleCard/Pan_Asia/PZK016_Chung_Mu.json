@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4277327056,
+  "index": "PZK016",
+  "maxLevel": 2,
+  "name": "PZK016_Chung_Mu",
+  "personalCardBonus": {
+    "clan": "PCOK015_Balldmg_Dtorpdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PZSD109_Chung_Mu"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

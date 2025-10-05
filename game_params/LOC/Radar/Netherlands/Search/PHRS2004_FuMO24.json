@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2193013520,
+  "index": "PHRS2004",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/netherlands/radar/search/HRS2004_FuMO24/HRS2004_FuMO24.model",
+  "name": "PHRS2004_FuMO24",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

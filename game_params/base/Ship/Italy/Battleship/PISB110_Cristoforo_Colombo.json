@@ -8085,7 +8085,6 @@
   "battleSignalsOrder": [],
   "canCharge": true,
   "canEquipCamouflage": true,
-  "custom": {},
   "defaultCrew": null,
   "flagsScale": 0.7,
   "group": "upgradeable",
@@ -8113,7 +8112,8 @@
     "PCEP120_Permo_Upgr_10_lvl",
     "PCEM017_Steel_10lvl",
     "PCEM188_NY25_10lvl",
-    "PIES310_Colombo_Roman"
+    "PIES310_Colombo_Roman",
+    "PIES321_KOTS18_Cristoforo_Colombo"
   ],
   "pveAutoPickCard": "",
   "shipBattleCards": {

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4252166608,
+  "index": "PRF040",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/finder/RF040_Rangefinder_1_5m/RF040_Rangefinder_1_5m.model",
+  "name": "PRF040_Rangefinder_1_5m",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Finder"
+  }
+}

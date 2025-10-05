@@ -1,0 +1,13 @@
+{
+  "costCR": 140000,
+  "costXP": 0,
+  "id": 3874435056,
+  "index": "PAUB401",
+  "name": "PAUB401_CV5_TB_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

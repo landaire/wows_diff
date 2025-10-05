@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4292007344,
+  "index": "PSK002",
+  "maxLevel": 2,
+  "name": "PSK002_Castilla",
+  "personalCardBonus": {
+    "clan": "PCOK605_CLAN_CA_Kite"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PSSC110_Castilla"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Spain",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

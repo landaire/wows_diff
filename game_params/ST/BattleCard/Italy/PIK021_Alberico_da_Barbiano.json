@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4272084720,
+  "index": "PIK021",
+  "maxLevel": 2,
+  "name": "PIK021_Alberico_da_Barbiano",
+  "personalCardBonus": {
+    "clan": "PCOK607_CLAN_DD_Art"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PISD710_Alberico_da_Barbiano"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Italy",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

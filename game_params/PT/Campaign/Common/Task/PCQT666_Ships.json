@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 47,
+  "conditions": [
+    "<isMyShip shipIds=\"PBSA106_Furious,PASA108_Lexington,PASA106_Ranger,PRSS106_S_1\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\"/>",
+    "<isScoutingDamage count=\"250000\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3595976624,
+  "index": "PCQT666",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT666_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF014_NF_SignalFlag\" count=\"7\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT666_1",
+    "isScoutingDamage",
+    "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_AA"
+  ],
+  "unlockMissions": []
+}

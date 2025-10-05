@@ -1,0 +1,13 @@
+{
+  "costCR": 2450000,
+  "costXP": 0,
+  "id": 3324783888,
+  "index": "PXUH925",
+  "name": "PXUH925_NORMA",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

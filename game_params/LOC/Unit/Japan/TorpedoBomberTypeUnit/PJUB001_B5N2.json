@@ -1,0 +1,13 @@
+{
+  "costCR": 200000,
+  "costXP": 2600,
+  "id": 4293865168,
+  "index": "PJUB001",
+  "name": "PJUB001_B5N2",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

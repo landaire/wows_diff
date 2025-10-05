@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4082299728,
+  "index": "PFD202",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD202_MGC_Director_8m_Transatlantic/FD202_MGC_Director_8m_Transatlantic.model",
+  "name": "PFD202_MGC_Director_8m_Transatlantic",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 250000,
+  "costXP": 0,
+  "id": 3765841872,
+  "index": "PBUT504",
+  "name": "PBUT504_D6_TORP_STOCK",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

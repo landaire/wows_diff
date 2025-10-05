@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 0,
+  "id": 3349589328,
+  "index": "PVUS901",
+  "name": "PVUS901_C10_SUO_STOCK",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

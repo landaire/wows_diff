@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA022_GF097",
+  "compensationCR": 0,
+  "description": "IDS_PCZC470_GF097_EM_GRAFZEPPELIN_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3802045360,
+  "index": "PCZC470",
+  "name": "PCZC470_GF097_em_GrafZeppelin",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

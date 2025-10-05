@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4282569936,
+  "index": "PZK011",
+  "maxLevel": 2,
+  "name": "PZK011_Harbin",
+  "personalCardBonus": {
+    "clan": "PCOK010_Balldmg_DtorpX2"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PZSC108_Harbin"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA017_FrenchDDArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC374_FRENCHDDARC_COMMANDEUR_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3902708656,
+  "index": "PCZC374",
+  "name": "PCZC374_FrenchDDArc_Commandeur",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

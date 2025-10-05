@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2193813808,
+  "index": "PWD2003",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/director/WD2003_SOM_3_metre_S/WD2003_SOM_3_metre_S.model",
+  "name": "PWD2003_SOM_3_metre_S",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Director"
+  }
+}

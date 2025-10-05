@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC210_AA_CONDUCT_MEDAL_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4074675120,
+  "index": "PCZC210",
+  "name": "PCZC210_AA_Conduct_Medal",
+  "subAlbums": [
+    5
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

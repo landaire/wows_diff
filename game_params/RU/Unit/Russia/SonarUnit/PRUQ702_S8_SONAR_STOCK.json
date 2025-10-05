@@ -1,0 +1,13 @@
+{
+  "costCR": 1000000,
+  "costXP": 0,
+  "id": 3558321616,
+  "index": "PRUQ702",
+  "name": "PRUQ702_S8_SONAR_STOCK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

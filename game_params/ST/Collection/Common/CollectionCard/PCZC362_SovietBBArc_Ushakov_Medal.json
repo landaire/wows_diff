@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA016_SovietBBArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC362_SOVIETBBARC_USHAKOV_MEDAL_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3915291568,
+  "index": "PCZC362",
+  "name": "PCZC362_SovietBBArc_Ushakov_Medal",
+  "subAlbums": [
+    6
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4049793872,
+  "index": "PFD233",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD233_OPL_12_metre_SRF_330mm_NY2021/FD233_OPL_12_metre_SRF_330mm_NY2021.model",
+  "name": "PFD233_OPL_12_metre_SRF_330mm_NY2021",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "collectionAlbum": "PCZA002_Bismarck",
+  "compensationCR": 0,
+  "description": "IDS_PCZC031_BISMARCK_MAORI_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4262370224,
+  "index": "PCZC031",
+  "name": "PCZC031_Bismarck_Maori",
+  "subAlbums": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

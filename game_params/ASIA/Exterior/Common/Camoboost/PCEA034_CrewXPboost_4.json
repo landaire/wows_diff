@@ -1,0 +1,26 @@
+{
+  "RarityCategory": {
+    "name": "Epic"
+  },
+  "boostType": "crewExpFactor",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": 250,
+  "hidden": true,
+  "id": 4259311536,
+  "index": "PCEA034",
+  "isTemplate": false,
+  "modifiers": {
+    "crewExpFactor": 17.0
+  },
+  "name": "PCEA034_CrewXPboost_4",
+  "sortOrder": 4,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Camoboost",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3297718064,
+  "index": "PGUB951",
+  "name": "PGUB951_TB_CV10_TOP",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

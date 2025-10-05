@@ -1,0 +1,13 @@
+{
+  "costCR": 1500000,
+  "costXP": 18000,
+  "id": 3557535184,
+  "index": "PRUI703",
+  "name": "PRUI703_CV8_F_TOP",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

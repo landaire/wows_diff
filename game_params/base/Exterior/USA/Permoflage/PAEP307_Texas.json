@@ -8,16 +8,6 @@
   "canSell": false,
   "costCR": -1,
   "costGold": 1500,
-  "custom": {
-    "PT": {
-      "canBuy": false,
-      "hidden": true
-    },
-    "ST": {
-      "canBuy": false,
-      "hidden": true
-    }
-  },
   "hidden": true,
   "id": 3972558832,
   "index": "PAEP307",

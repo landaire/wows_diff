@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 26,
+  "conditions": [
+    "<isMyShip shipIds=\"PGSD102_V_25,PRSD103_Derzky\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE\"/>",
+    "<isRibbons count=\"10\" ribbons=\"TORPEDO\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3611705264,
+  "index": "PCQT651",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT651_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF017_VL_SignalFlag\" count=\"5\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT651_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTIONSPECIAL_1EPOCH_DD_2"
+  ],
+  "unlockMissions": []
+}

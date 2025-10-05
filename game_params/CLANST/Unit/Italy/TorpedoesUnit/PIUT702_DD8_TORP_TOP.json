@@ -1,0 +1,13 @@
+{
+  "costCR": 1400000,
+  "costXP": 22000,
+  "id": 3558223600,
+  "index": "PIUT702",
+  "name": "PIUT702_DD8_TORP_TOP",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

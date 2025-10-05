@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3682792144,
+  "index": "PJD583",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/director/JD583_Director_Type_95_Mod2_HSF/JD583_Director_Type_95_Mod2_HSF.model",
+  "name": "PJD583_Director_Type_95_Mod2_HSF",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Director"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA010_HappyBirthday2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC231_HB18_TRAINING_ROOM_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4052655024,
+  "index": "PCZC231",
+  "name": "PCZC231_HB18_Training_room",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "angle": 0.0,
+  "dist": 0.0,
+  "hidePlane": false,
+  "id": 4284675824,
+  "index": "PIC009",
+  "isInvisible": false,
+  "launchEffectName": "particles/Empty_FX.xml",
+  "linkedGunAngles": [],
+  "linkedGunName": null,
+  "linkedRotationSpeedCoeff": 1.0,
+  "model": "content/gameplay/italy/catapult/IC009_Catapult/IC009_Catapult.model",
+  "name": "PIC009_Catapult",
+  "planeOffsets": {},
+  "rotateTime": 0.0,
+  "translateDelay": 0.0,
+  "typeinfo": {
+    "nation": "Italy",
+    "species": null,
+    "type": "Catapult"
+  }
+}

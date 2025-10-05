@@ -1,0 +1,15 @@
+{
+  "collectionAlbum": "PCZA002_Bismarck",
+  "compensationCR": 0,
+  "description": "IDS_PCZC027_BISMARCK_TARTAR_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4266564528,
+  "index": "PCZC027",
+  "name": "PCZC027_Bismarck_Tartar",
+  "subAlbums": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

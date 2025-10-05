@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA021_CAPT",
+  "compensationCR": 0,
+  "description": "IDS_PCZC455_CAPT_4_2_RAMBO_DESCRIPTION",
+  "hasVideo": true,
+  "id": 3817774000,
+  "index": "PCZC455",
+  "name": "PCZC455_CAPT_4_2_rambo",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

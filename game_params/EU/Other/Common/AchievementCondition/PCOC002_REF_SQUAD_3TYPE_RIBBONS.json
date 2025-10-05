@@ -1,0 +1,80 @@
+{
+  "constants": {
+    "ribbonCount": 6,
+    "ribbonTypes": [
+      "RIBBON_BURN",
+      "RIBBON_FLOOD",
+      "RIBBON_CITADEL"
+    ]
+  },
+  "enabled": true,
+  "events": [
+    [
+      "meRibbon",
+      [
+        [
+          "me",
+          "inReferralSquad"
+        ],
+        [
+          "ribbon",
+          "ids",
+          "in",
+          "constant",
+          "ribbonTypes"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "onRibbon",
+      [
+        [
+          "me",
+          "inReferralSquad"
+        ],
+        [
+          "forReferralSquad",
+          [
+            "counter",
+            "a",
+            ">=",
+            "constant",
+            "ribbonCount"
+          ],
+          "==",
+          "me",
+          "shipsInReferralSquad"
+        ]
+      ],
+      [
+        [
+          "forReferralSquad",
+          [
+            "doAction",
+            "done"
+          ]
+        ]
+      ]
+    ]
+  ],
+  "id": 4292790192,
+  "index": "PCOC002",
+  "keepCounters": false,
+  "name": "PCOC002_REF_SQUAD_3TYPE_RIBBONS",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "AchievementCondition",
+    "type": "Other"
+  },
+  "uiDescription": "IDS_ACHIEVEMENT_CONDITION_REF_SQUAD_3TYPE_RIBBONS_DESCRIPTION",
+  "uiHeader": "IDS_ACHIEVEMENT_CONDITION_REF_SQUAD_3TYPE_RIBBONS_TITLE"
+}

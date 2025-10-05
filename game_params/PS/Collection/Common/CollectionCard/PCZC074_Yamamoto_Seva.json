@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC074_YAMAMOTO_SEVA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4217281456,
+  "index": "PCZC074",
+  "name": "PCZC074_Yamamoto_Seva",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

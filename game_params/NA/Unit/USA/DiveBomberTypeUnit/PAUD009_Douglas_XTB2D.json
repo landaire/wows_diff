@@ -1,0 +1,13 @@
+{
+  "costCR": 2000,
+  "costXP": 1,
+  "id": 4285411312,
+  "index": "PAUD009",
+  "name": "PAUD009_Douglas_XTB2D",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

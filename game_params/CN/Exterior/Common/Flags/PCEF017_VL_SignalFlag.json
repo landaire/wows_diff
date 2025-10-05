@@ -1,0 +1,30 @@
+{
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": 192000,
+  "costGold": -1,
+  "flags": [
+    "victor",
+    "lima"
+  ],
+  "group": 0,
+  "hidden": false,
+  "id": 4276973488,
+  "index": "PCEF017",
+  "isTemplate": false,
+  "modifiers": {
+    "burnChanceFactorBig": 0.01,
+    "burnChanceFactorSmall": 0.005,
+    "floodChanceFactor": 1.04,
+    "floodChanceFactorPlane": 1.04
+  },
+  "name": "PCEF017_VL_SignalFlag",
+  "sortOrder": 5,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Flags",
+    "type": "Exterior"
+  }
+}

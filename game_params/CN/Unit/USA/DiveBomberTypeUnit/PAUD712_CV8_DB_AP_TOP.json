@@ -1,0 +1,13 @@
+{
+  "costCR": 1150000,
+  "costXP": 14000,
+  "id": 3548262384,
+  "index": "PAUD712",
+  "name": "PAUD712_CV8_DB_AP_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

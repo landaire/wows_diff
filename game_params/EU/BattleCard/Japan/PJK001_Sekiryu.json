@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4293056208,
+  "index": "PJK001",
+  "maxLevel": 2,
+  "name": "PJK001_Sekiryu",
+  "personalCardBonus": {
+    "clan": "PCOK013_Balldmg_DplanetorpdmgX2"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PJSA111_Sekiryu"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

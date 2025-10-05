@@ -1,0 +1,13 @@
+{
+  "costCR": 1300000,
+  "costXP": 17800,
+  "id": 3658231792,
+  "index": "PAUH607",
+  "name": "PAUH607_N_ORLEANS_B",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

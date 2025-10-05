@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4280473328,
+  "index": "PIK013",
+  "maxLevel": 2,
+  "name": "PIK013_Ferrante_Gonzaga",
+  "personalCardBonus": {
+    "clan": "PCOK009_Balldmg_DSAPdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PISC719_Ferrante_Gonzaga"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Italy",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

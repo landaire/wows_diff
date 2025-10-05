@@ -1,0 +1,13 @@
+{
+  "costCR": 165000,
+  "costXP": 1400,
+  "id": 3974541136,
+  "index": "PFUS305",
+  "name": "PFUS305_D4_SUO_TOP",
+  "typeinfo": {
+    "nation": "France",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

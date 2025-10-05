@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 16,
+  "conditions": [
+    "<isMyShip shipLevel=\"10,11\"/>",
+    "<isBattleType battleTypes=\"PVP,RANKED\"/>",
+    "<isKillShips count=\"5\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 4087758768,
+  "index": "PCQT197",
+  "isSingleBattle": false,
+  "lootStars": 1,
+  "name": "PCQT197_CampaignSB_Mission05_Task07",
+  "rewards": [
+    "<Item idx=\"PCEA011_CRboost_1\" count=\"25\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT197_CAMPAIGNSB_MISSION05_TASK07_1",
+    "isKillShips",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

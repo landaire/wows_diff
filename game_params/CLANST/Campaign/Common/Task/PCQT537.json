@@ -1,0 +1,29 @@
+{
+  "backgroundIconID": 12,
+  "conditions": [
+    "<isMyShip shipLevel=\"9,10,11\" nation=\"USA\" class=\"Cruiser\"/>",
+    "<isBattleType battleTypes=\"PVP,RANKED\"/>",
+    "<isBattleResult battleResult=\"win\"/>",
+    "<isDamage count=\"500000\" nation=\"Germany\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3731242928,
+  "index": "PCQT537",
+  "isSingleBattle": false,
+  "lootStars": 3,
+  "name": "PCQT537",
+  "rewards": [
+    "<Item idx=\"PCEF007_ID_SignalFlag\" count=\"30\" />"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT537_1",
+    "isDamage",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

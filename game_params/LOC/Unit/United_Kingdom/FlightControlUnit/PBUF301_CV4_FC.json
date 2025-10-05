@@ -1,0 +1,13 @@
+{
+  "costCR": 60000,
+  "costXP": 0,
+  "id": 3979161552,
+  "index": "PBUF301",
+  "name": "PBUF301_CV4_FC",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

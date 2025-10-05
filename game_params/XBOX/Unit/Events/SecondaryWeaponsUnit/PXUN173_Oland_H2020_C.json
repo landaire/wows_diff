@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4113116432,
+  "index": "PXUN173",
+  "name": "PXUN173_Oland_H2020_C",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "SecondaryWeaponsUnit",
+    "type": "Unit"
+  },
+  "ucType": "_SecondaryWeapons"
+}

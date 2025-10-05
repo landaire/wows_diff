@@ -1,0 +1,20 @@
+{
+  "accumulativeResourceRequired": 0,
+  "bonusType": "steel_boost",
+  "buildingType": "PCJB006_Steel_Yard",
+  "buyable": true,
+  "cost": 90000,
+  "id": 4240038832,
+  "index": "PCJM052",
+  "isDummy": false,
+  "name": "PCJM052_SteelBoost_lvl_02",
+  "previousModifier": "PCJM051_SteelBoost_lvl_01",
+  "shipLevelMax": null,
+  "shipLevelMin": null,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Modifier",
+    "type": "ClanSupply"
+  },
+  "value": 7
+}

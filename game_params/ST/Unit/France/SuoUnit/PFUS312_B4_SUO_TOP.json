@@ -1,0 +1,13 @@
+{
+  "costCR": 190000,
+  "costXP": 1350,
+  "id": 3967201104,
+  "index": "PFUS312",
+  "name": "PFUS312_B4_SUO_TOP",
+  "typeinfo": {
+    "nation": "France",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

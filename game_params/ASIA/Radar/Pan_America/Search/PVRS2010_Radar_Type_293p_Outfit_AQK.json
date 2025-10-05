@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2186721616,
+  "index": "PVRS2010",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panamerica/radar/search/VRS2010_Radar_Type_293p_Outfit_AQK/VRS2010_Radar_Type_293p_Outfit_AQK.model",
+  "name": "PVRS2010_Radar_Type_293p_Outfit_AQK",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

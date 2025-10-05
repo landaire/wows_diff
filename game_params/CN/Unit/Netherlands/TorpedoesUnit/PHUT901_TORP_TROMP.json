@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3349557008,
+  "index": "PHUT901",
+  "name": "PHUT901_TORP_TROMP",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

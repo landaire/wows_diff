@@ -1,0 +1,60 @@
+{
+  "audio": {
+    "effect": "Default",
+    "intensity": 100.0
+  },
+  "bounds": {
+    "max": {
+      "height": 1000.0,
+      "radius": 100500.0
+    },
+    "min": {
+      "height": 1000.0,
+      "radius": 20.0
+    },
+    "scale": {
+      "height": 1.0,
+      "radius": 1.0
+    }
+  },
+  "changeDist": 100.0,
+  "changeStart": 150.0,
+  "effects": [
+    "particles/magnetic_storm_APR.xml"
+  ],
+  "graphics": "Default",
+  "id": 4278503344,
+  "index": "PCOW015",
+  "logic1": {
+    "AAMaxDist": null,
+    "GMIdealRadius": null,
+    "GSIdealRadius": null,
+    "GSMIdealRadius": null,
+    "airDefenseVisibilityTime": null,
+    "bad": 1.0,
+    "burnDamage": null,
+    "burnTime": null,
+    "maxPlaneVisionDistance": null,
+    "maxShipVisionDistance": null,
+    "maxVisibilityDistance": null,
+    "maxVisibilityDistanceByPlane": null,
+    "mgVisibilityTime": null,
+    "planeMaxVisibilityDistance": null,
+    "planeMaxVisibilityDistanceByPlane": null,
+    "planeSpeed": null,
+    "planeVisibilityFactor": null,
+    "planeVisibilityFactorByPlane": null,
+    "shootShift": null,
+    "speedCoef": 0.75,
+    "transparency": 1.0,
+    "visibilityFactor": null,
+    "visibilityFactorByPlane": null
+  },
+  "name": "PCOW015_1April_IceCrumbs",
+  "paramsInterpolationDuration": 2.0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "GlobalWeather",
+    "type": "Other"
+  }
+}

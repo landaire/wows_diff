@@ -1,0 +1,40 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {
+      "1": 0,
+      "10": 7000,
+      "11": 10000,
+      "2": 100,
+      "3": 400,
+      "4": 1000,
+      "5": 1500,
+      "6": 2000,
+      "7": 3000,
+      "8": 4000,
+      "9": 5000
+    }
+  },
+  "buffBonus": {},
+  "cardType": "pve",
+  "id": 3241334704,
+  "index": "PCK1004",
+  "maxLevel": 11,
+  "name": "PCK1004_PVE_Flagships_Fire_BB",
+  "personalCardBonus": {
+    "pve": "PCOK1004_PVE_Flagships_Fire_BB"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": [
+      "Battleship"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

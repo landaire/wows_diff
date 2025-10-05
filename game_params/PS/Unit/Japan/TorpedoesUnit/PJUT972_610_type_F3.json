@@ -1,0 +1,13 @@
+{
+  "costCR": 2650,
+  "costXP": 1,
+  "id": 3275108048,
+  "index": "PJUT972",
+  "name": "PJUT972_610_type_F3",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

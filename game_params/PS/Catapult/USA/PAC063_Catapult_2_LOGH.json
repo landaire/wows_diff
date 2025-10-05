@@ -1,0 +1,22 @@
+{
+  "angle": 0.0,
+  "dist": 0.0,
+  "hidePlane": false,
+  "id": 4228052976,
+  "index": "PAC063",
+  "isInvisible": false,
+  "launchEffectName": "particles/Empty_FX.xml",
+  "linkedGunAngles": [],
+  "linkedGunName": null,
+  "linkedRotationSpeedCoeff": 1.0,
+  "model": "content/gameplay/usa/catapult/AC063_Catapult_2_LOGH/AC063_Catapult_2_LOGH.model",
+  "name": "PAC063_Catapult_2_LOGH",
+  "planeOffsets": {},
+  "rotateTime": 0.0,
+  "translateDelay": 0.0,
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "Catapult"
+  }
+}

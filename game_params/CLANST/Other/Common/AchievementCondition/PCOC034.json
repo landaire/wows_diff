@@ -1,0 +1,73 @@
+{
+  "constants": {},
+  "enabled": true,
+  "events": [
+    [
+      "meKill",
+      [
+        [
+          "me",
+          "inReferralSquad"
+        ],
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ]
+      ],
+      [
+        [
+          "forReferralSquad",
+          [
+            "set",
+            "add",
+            ":",
+            "me",
+            "id"
+          ]
+        ]
+      ]
+    ],
+    [
+      "meKill",
+      [
+        [
+          "me",
+          "inReferralSquad"
+        ],
+        [
+          "forReferralSquad",
+          [
+            "set",
+            "len",
+            "==",
+            "me",
+            "shipsInReferralSquad"
+          ]
+        ]
+      ],
+      [
+        [
+          "forReferralSquad",
+          [
+            "doAction",
+            "done"
+          ]
+        ]
+      ]
+    ]
+  ],
+  "id": 4259235760,
+  "index": "PCOC034",
+  "keepCounters": false,
+  "name": "PCOC034",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "AchievementCondition",
+    "type": "Other"
+  },
+  "uiDescription": "IDS_ACHIEVEMENT_CONDITION_REF_EVERYONE_GOT_ONE_DESCRIPTION",
+  "uiHeader": "IDS_ACHIEVEMENT_CONDITION_REF_EVERYONE_GOT_ONE_TITLE"
+}

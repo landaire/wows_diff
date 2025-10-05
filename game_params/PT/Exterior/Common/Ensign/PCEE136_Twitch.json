@@ -1,0 +1,27 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "twitch",
+  "group": 3,
+  "hidden": true,
+  "id": 4152225712,
+  "index": "PCEE136",
+  "isTemplate": false,
+  "name": "PCEE136_Twitch",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other",
+    "catalogueHiddenIfMissing",
+    "catalogueHidden_CN"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

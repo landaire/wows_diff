@@ -1,0 +1,13 @@
+{
+  "costCR": 250000,
+  "costXP": 3000,
+  "id": 3922472656,
+  "index": "PJUH355",
+  "name": "PJUH355_Hosho_1941",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

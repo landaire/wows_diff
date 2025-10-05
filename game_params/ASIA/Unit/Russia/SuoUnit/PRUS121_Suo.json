@@ -1,0 +1,13 @@
+{
+  "costCR": 4500,
+  "costXP": 0,
+  "id": 4167478736,
+  "index": "PRUS121",
+  "name": "PRUS121_Suo",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

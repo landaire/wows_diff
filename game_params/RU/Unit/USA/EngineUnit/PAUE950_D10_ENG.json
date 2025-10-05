@@ -1,0 +1,13 @@
+{
+  "costCR": 1750000,
+  "costXP": 0,
+  "id": 3298668528,
+  "index": "PAUE950",
+  "name": "PAUE950_D10_ENG",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

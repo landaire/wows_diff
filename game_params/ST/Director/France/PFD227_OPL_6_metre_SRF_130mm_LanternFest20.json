@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4056085328,
+  "index": "PFD227",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD227_OPL_6_metre_SRF_130mm_LanternFest20/FD227_OPL_6_metre_SRF_130mm_LanternFest20.model",
+  "name": "PFD227_OPL_6_metre_SRF_130mm_LanternFest20",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

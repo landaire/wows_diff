@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3340611312,
+  "index": "PIUE910",
+  "name": "PIUE910_ENG_CYBER_RUGGIERO_DI_LAURIA",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

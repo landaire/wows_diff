@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 54,
+  "conditions": [
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isMyShip class=\"Battleship,Submarine\" shipLevel=\"5,6,7,8,9,10,11\" />",
+    "<isKillShips count=\"3\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4173742000,
+  "index": "PCQT115",
+  "isSingleBattle": true,
+  "lootStars": 3,
+  "name": "PCQT115",
+  "rewards": [
+    "<Item idx=\"PCEF007_ID_SignalFlag\" count=\"10\" />"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT115_1",
+    "isKillShips",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

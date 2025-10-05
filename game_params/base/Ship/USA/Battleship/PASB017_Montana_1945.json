@@ -9349,7 +9349,6 @@
   "battleSignalsOrder": [],
   "canCharge": true,
   "canEquipCamouflage": true,
-  "custom": {},
   "defaultCrew": null,
   "flagsScale": 0.8,
   "group": "upgradeable",
@@ -9378,7 +9377,8 @@
     "PCEM004_Halloween19_10lvl",
     "PAES600_MONTANA_OPTIMUS",
     "PCEM017_Steel_10lvl",
-    "PCEM188_NY25_10lvl"
+    "PCEM188_NY25_10lvl",
+    "PAES377_USA250_Montana"
   ],
   "pveAutoPickCard": "",
   "shipBattleCards": {

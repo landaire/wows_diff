@@ -1,0 +1,29 @@
+{
+  "RarityCategory": {
+    "name": "Legendary"
+  },
+  "camouflage": "camo_sts_tile",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "hidden": true,
+  "id": 4262391728,
+  "index": "PCEC031",
+  "isTemplate": false,
+  "name": "PCEC031_Deserved_ST",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Camouflage",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4223856848,
+  "index": "PZD067",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD067_4m_Night_rangefinder/ZD067_4m_Night_rangefinder.model",
+  "name": "PZD067_4m_Night_rangefinder",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

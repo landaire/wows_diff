@@ -1,0 +1,13 @@
+{
+  "costCR": 30000,
+  "costXP": 0,
+  "id": 4052496080,
+  "index": "PJUH231",
+  "name": "PJUH231_Wakatake_1923",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

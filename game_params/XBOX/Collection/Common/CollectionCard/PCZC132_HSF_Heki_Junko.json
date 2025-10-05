@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC132_HSF_HEKI_JUNKO_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4156464048,
+  "index": "PCZC132",
+  "name": "PCZC132_HSF_Heki_Junko",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

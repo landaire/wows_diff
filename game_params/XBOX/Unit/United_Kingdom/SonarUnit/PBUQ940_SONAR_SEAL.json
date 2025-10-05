@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3308761040,
+  "index": "PBUQ940",
+  "name": "PBUQ940_SONAR_SEAL",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

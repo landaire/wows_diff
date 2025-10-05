@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC212_AA_TURRET_CAPTAIN_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4072577968,
+  "index": "PCZC212",
+  "name": "PCZC212_AA_Turret_Captain",
+  "subAlbums": [
+    6
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

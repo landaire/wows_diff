@@ -1,0 +1,40 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "camouflage": "camo_permanent_1",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 2500,
+  "hidden": true,
+  "id": 3761794768,
+  "index": "PJEP508",
+  "isTemplate": false,
+  "name": "PJEP508_HSF_Harekaze",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 202,
+  "tags": [
+    "catalogueHiddenIfMissing",
+    "catalogueHidden_CN",
+    "hsf"
+  ],
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "id": 3233466288,
+  "index": "PCOK1012",
+  "level_1": {
+    "GMAPDamageCoeff": 1.1,
+    "GMCSDamageCoeff": 1.1,
+    "GSAPDamageCoeff": 1.1,
+    "GSCSDamageCoeff": 1.1,
+    "apDamageLimitCoeffOnEnemyBonus": 0.02,
+    "bombApAlphaDamageMultiplier": 1.1,
+    "burnProb": 0.9,
+    "floodProb": 0.9,
+    "rocketApAlphaDamageMultiplier": 1.1
+  },
+  "level_10": {
+    "GMAPDamageCoeff": 1.28,
+    "GMCSDamageCoeff": 1.28,
+    "GSAPDamageCoeff": 1.28,
+    "GSCSDamageCoeff": 1.28,
+    "apDamageLimitCoeffOnEnemyBonus": 0.2,
+    "bombApAlphaDamageMultiplier": 1.28,
+    "burnProb": 0.05,
+    "floodProb": 0.05,
+    "rocketApAlphaDamageMultiplier": 1.28,
+    "vulnerabilityTorpedo": 0.75
+  },
+  "level_11": {
+    "GMAPDamageCoeff": 1.3,
+    "GMCSDamageCoeff": 1.3,
+    "GSAPDamageCoeff": 1.3,
+    "GSCSDamageCoeff": 1.3,
+    "apDamageLimitCoeffOnEnemyBonus": 0.22,
+    "bombApAlphaDamageMultiplier": 1.3,
+    "burnProb": 0.05,
+    "floodProb": 0.05,
+    "rocketApAlphaDamageMultiplier": 1.3,
+    "vulnerabilityTorpedo": 0.7
+  },
+  "level_2": {
+    "GMAPDamageCoeff": 1.12,
+    "GMCSDamageCoeff": 1.12,
+    "GSAPDamageCoeff": 1.12,
+    "GSCSDamageCoeff": 1.12,
+    "apDamageLimitCoeffOnEnemyBonus": 0.04,
+    "bombApAlphaDamageMultiplier": 1.12,
+    "burnProb": 0.8,
+    "floodProb": 0.8,
+    "rocketApAlphaDamageMultiplier": 1.12
+  },
+  "level_3": {
+    "GMAPDamageCoeff": 1.14,
+    "GMCSDamageCoeff": 1.14,
+    "GSAPDamageCoeff": 1.14,
+    "GSCSDamageCoeff": 1.14,
+    "apDamageLimitCoeffOnEnemyBonus": 0.06,
+    "bombApAlphaDamageMultiplier": 1.14,
+    "burnProb": 0.8,
+    "floodProb": 0.8,
+    "rocketApAlphaDamageMultiplier": 1.14,
+    "vulnerabilityTorpedo": 0.9
+  },
+  "level_4": {
+    "GMAPDamageCoeff": 1.16,
+    "GMCSDamageCoeff": 1.16,
+    "GSAPDamageCoeff": 1.16,
+    "GSCSDamageCoeff": 1.16,
+    "apDamageLimitCoeffOnEnemyBonus": 0.08,
+    "bombApAlphaDamageMultiplier": 1.16,
+    "burnProb": 0.6,
+    "floodProb": 0.6,
+    "rocketApAlphaDamageMultiplier": 1.16,
+    "vulnerabilityTorpedo": 0.9
+  },
+  "level_5": {
+    "GMAPDamageCoeff": 1.18,
+    "GMCSDamageCoeff": 1.18,
+    "GSAPDamageCoeff": 1.18,
+    "GSCSDamageCoeff": 1.18,
+    "apDamageLimitCoeffOnEnemyBonus": 0.1,
+    "bombApAlphaDamageMultiplier": 1.18,
+    "burnProb": 0.6,
+    "floodProb": 0.6,
+    "rocketApAlphaDamageMultiplier": 1.18,
+    "vulnerabilityTorpedo": 0.85
+  },
+  "level_6": {
+    "GMAPDamageCoeff": 1.2,
+    "GMCSDamageCoeff": 1.2,
+    "GSAPDamageCoeff": 1.2,
+    "GSCSDamageCoeff": 1.2,
+    "apDamageLimitCoeffOnEnemyBonus": 0.12,
+    "bombApAlphaDamageMultiplier": 1.2,
+    "burnProb": 0.4,
+    "floodProb": 0.4,
+    "rocketApAlphaDamageMultiplier": 1.2,
+    "vulnerabilityTorpedo": 0.85
+  },
+  "level_7": {
+    "GMAPDamageCoeff": 1.22,
+    "GMCSDamageCoeff": 1.22,
+    "GSAPDamageCoeff": 1.22,
+    "GSCSDamageCoeff": 1.22,
+    "apDamageLimitCoeffOnEnemyBonus": 0.14,
+    "bombApAlphaDamageMultiplier": 1.22,
+    "burnProb": 0.4,
+    "floodProb": 0.4,
+    "rocketApAlphaDamageMultiplier": 1.22,
+    "vulnerabilityTorpedo": 0.8
+  },
+  "level_8": {
+    "GMAPDamageCoeff": 1.24,
+    "GMCSDamageCoeff": 1.24,
+    "GSAPDamageCoeff": 1.24,
+    "GSCSDamageCoeff": 1.24,
+    "apDamageLimitCoeffOnEnemyBonus": 0.16,
+    "bombApAlphaDamageMultiplier": 1.24,
+    "burnProb": 0.2,
+    "floodProb": 0.2,
+    "rocketApAlphaDamageMultiplier": 1.24,
+    "vulnerabilityTorpedo": 0.8
+  },
+  "level_9": {
+    "GMAPDamageCoeff": 1.26,
+    "GMCSDamageCoeff": 1.26,
+    "GSAPDamageCoeff": 1.26,
+    "GSCSDamageCoeff": 1.26,
+    "apDamageLimitCoeffOnEnemyBonus": 0.18,
+    "bombApAlphaDamageMultiplier": 1.26,
+    "burnProb": 0.2,
+    "floodProb": 0.2,
+    "rocketApAlphaDamageMultiplier": 1.26,
+    "vulnerabilityTorpedo": 0.75
+  },
+  "name": "PCOK1012_PVE_Flagships_APSAP_DD",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "availableBattleCardType": [],
+  "customIconName": "",
+  "customMatchmakerBG": "",
+  "difficulty": "hard",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "id": 4271418288,
+  "index": "PCVO022",
+  "map": "",
+  "name": "PCVO022_EV_HL_17_e02_Halloween_2017_Hard",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        1
+      ],
+      "Battleship": [
+        0,
+        3
+      ],
+      "Cruiser": [
+        0,
+        4
+      ],
+      "Destroyer": [
+        0,
+        3
+      ],
+      "Submarine": [
+        0,
+        -1
+      ]
+    },
+    "filters": [
+      {
+        "nations": [
+          "Events"
+        ],
+        "shipLevels": [
+          8
+        ]
+      }
+    ],
+    "minShips": 4,
+    "totalShips": 7
+  },
+  "scenariosByMap": {
+    "spaces/e02_Halloween_2017": [
+      "PCVO028_EV_HL_17_e02_Halloween_2017_Hard"
+    ]
+  },
+  "subtype": "event",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Operation",
+    "type": "BattleScript"
+  }
+}

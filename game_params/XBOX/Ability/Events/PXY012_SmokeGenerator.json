@@ -1,0 +1,82 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "smokeGenerator",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "height": 5.0,
+      "iconIDs": "",
+      "lifeTime": 60.0,
+      "livePointEffect": "particles/SmokeScreen.xml",
+      "radius": 15.0,
+      "spawnBackwardShift": 0.4,
+      "spawnEffect": "particles/SmokeScreen_generator.xml",
+      "spawnPointEffect": "particles/SmokeScreen_spawn.xml",
+      "specialSoundID": "Default",
+      "speedLimit": 12.5,
+      "startDelayTime": 2.0,
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 240.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "H2016": {
+    "availableBuoyancyStates": [],
+    "consumableType": "smokeGenerator",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "height": 5.0,
+      "iconIDs": "",
+      "lifeTime": 60.0,
+      "livePointEffect": "particles/SmokeScreen.xml",
+      "radius": 15.0,
+      "spawnBackwardShift": 0.4,
+      "spawnEffect": "particles/SmokeScreen_generator.xml",
+      "spawnPointEffect": "particles/SmokeScreen_spawn.xml",
+      "specialSoundID": "Default",
+      "speedLimit": 12.5,
+      "startDelayTime": 2.0,
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 180.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 30.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 4281507088,
+  "index": "PXY012",
+  "name": "PXY012_SmokeGenerator",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

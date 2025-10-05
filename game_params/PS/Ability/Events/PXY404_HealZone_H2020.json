@@ -1,0 +1,86 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "groupAuraBuff",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "allyAuraBuff": "",
+      "descIDs": "",
+      "enemyAuraBuff": "",
+      "iconIDs": "",
+      "selfAuraBuff": "",
+      "source": [
+        "SELF"
+      ],
+      "specialSoundID": "Default",
+      "target": [
+        "SELF",
+        "ALLY"
+      ],
+      "titleIDs": "",
+      "zoneRadius": 0.0
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 30.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 10.0
+  },
+  "H2020": {
+    "availableBuoyancyStates": [],
+    "consumableType": "groupAuraBuff",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "allyAuraBuff": "PCOM051_HEALZONE_REGENERATION",
+      "descIDs": "",
+      "enemyAuraBuff": "",
+      "iconIDs": "",
+      "selfAuraBuff": "PCOM056_HEALZONE_REGENERATION_ZONEOWNER",
+      "source": [
+        "SELF"
+      ],
+      "specialSoundID": "Halloween2020_HealZone",
+      "target": [
+        "SELF",
+        "ALLY"
+      ],
+      "titleIDs": "",
+      "zoneRadius": 166.7
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 3870465296,
+  "index": "PXY404",
+  "name": "PXY404_HealZone_H2020",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

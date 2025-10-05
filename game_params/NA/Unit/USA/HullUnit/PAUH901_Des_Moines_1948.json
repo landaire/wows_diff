@@ -1,0 +1,13 @@
+{
+  "costCR": 2900000,
+  "costXP": 0,
+  "id": 3349950448,
+  "index": "PAUH901",
+  "name": "PAUH901_Des_Moines_1948",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4290958544,
+  "index": "PZK003",
+  "maxLevel": 2,
+  "name": "PZK003_Taihang",
+  "personalCardBonus": {
+    "clan": "PCOK006_Balldmg_DAPdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PZSB709_Taihang"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

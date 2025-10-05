@@ -1,0 +1,13 @@
+{
+  "costCR": 140000,
+  "costXP": 1000,
+  "id": 3976637744,
+  "index": "PWUS303",
+  "name": "PWUS303_DD4_SUO_TOP",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

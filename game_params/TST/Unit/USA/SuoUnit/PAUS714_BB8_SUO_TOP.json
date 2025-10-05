@@ -1,0 +1,13 @@
+{
+  "costCR": 2600000,
+  "costXP": 30000,
+  "id": 3545673712,
+  "index": "PAUS714",
+  "name": "PAUS714_BB8_SUO_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

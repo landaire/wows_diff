@@ -1,0 +1,104 @@
+{
+  "acidProb": 0.0,
+  "additionalShips": [],
+  "affectedByPTZ": true,
+  "alertDist": 100,
+  "alphaDamage": 10000.0,
+  "alphaPiercingHE": 0.0,
+  "ammoType": "depthcharge",
+  "applyPTZCoeff": true,
+  "blowUpEffect": "particles/Duck_jacuzzi_bomb_expl.xml",
+  "bulletSpeed": 300.0,
+  "buoyancyToDamageCoeff": {
+    "DEEP_WATER": 1.0,
+    "DEEP_WATER_INVUL": 1.0,
+    "PERISCOPE": 1.0,
+    "SEMI_DEEP_WATER": 1.0,
+    "SURFACE": 1.0
+  },
+  "burnProb": 0.0,
+  "costCR": 0,
+  "customSoundPostfix": "_april23",
+  "customUIPostfix": "_acid_first_april23",
+  "damage": 10000.0,
+  "depthSplashRadius": 1.0,
+  "directDamage": 0.0,
+  "enemyHitSurfaceEffect": "particles/Duck_jacuzzi_bomb_expl.xml",
+  "enemyHitUnderwaterEffect": "particles/guns/DEPTH_Explo_UWater.xml",
+  "explosivePower": 100.0,
+  "fallDistance": 20.0,
+  "fallTime": 20.0,
+  "fallingTimeCoef": 1.0,
+  "fallingTracerEffect": "particles/guns/DEPTH_Tracer_Plane.xml",
+  "floodGeneration": true,
+  "ground": "particles/Empty_FX.xml",
+  "hitDecalSize": 0.0,
+  "id": 4293804304,
+  "ignoreBuoyancyStates": [],
+  "ignoreClasses": [],
+  "index": "PXPD001",
+  "integralPower": 10,
+  "maxDepth": 0,
+  "model": "content/gameplay/events/projectile/mine/XPM099_Duck_Mine/XPM099_Duck_Mine.model",
+  "name": "PXPD001_DUCK_BOMB",
+  "onHit": null,
+  "ownTracerEffect": "particles/guns/DEPTH_Tracer_UWater.xml",
+  "parachuteHeightCoeff": 0.75,
+  "parachuteTimeCoeff": 0.95,
+  "planeAmmoType": "depthcharge",
+  "pointsOfDamage": [
+    [
+      0.0,
+      1.0
+    ],
+    [
+      0.15,
+      1.0
+    ],
+    [
+      0.151,
+      1.0
+    ],
+    [
+      1.0,
+      1.0
+    ]
+  ],
+  "projDestroyedEffect": "particles/guns/DEPTH_Explo_UWater.xml",
+  "secondsToEffects": [
+    [
+      2.0,
+      "particles/guns/DEPTH_Tracer_UWater_Deep_1.xml"
+    ],
+    [
+      5.0,
+      "particles/guns/DEPTH_Tracer_UWater_Deep_2.xml"
+    ],
+    [
+      8.0,
+      "particles/guns/DEPTH_Tracer_UWater_Deep_3.xml"
+    ]
+  ],
+  "shipDestroyEffect": "particles/Empty_FX.xml",
+  "speed": 0.0,
+  "speedDeltaRelative": 0.2,
+  "splashArmorCoeff": -0.18,
+  "splashCubeSize": 28.0,
+  "timer": 30.0,
+  "timerDeltaAbsolute": 0.5,
+  "tracerAirEffect": "particles/Duck_jacuzzi_bomb_trail.xml",
+  "tracerEffect": "particles/guns/DEPTH_Tracer_UWater.xml",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "DepthCharge",
+    "type": "Projectile"
+  },
+  "useEnhancedRegenerationRules": false,
+  "uwAbility": true,
+  "uwCritical": 1.0,
+  "visibilityFactor": 1.5,
+  "volume": 7.58,
+  "water": "particles/guns/DEPTH_Explo_UWater.xml",
+  "waterHitEffect": "particles/guns/DEPTH_Drop_Water.xml",
+  "withParachute": false
+}

@@ -1,0 +1,34 @@
+{
+  "backgroundIconID": 86,
+  "conditions": [
+    "<isMyShip shipLevel=\"5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isBattleCount count=\"1\" />",
+    "<isUseCrews points=\"7\" />"
+  ],
+  "costUnlock": 15,
+  "id": 4153819056,
+  "index": "PCQT134",
+  "isSingleBattle": true,
+  "lootStars": 0,
+  "name": "PCQT134_Key",
+  "rewards": [
+    "<Item idx=\"PCEM044_Tile_CN_Special\" count=\"1\" />",
+    "<Item idx=\"PCEA011_CRboost_1\" count=\"15\" />",
+    "<Item idx=\"PCEA021_TotalXPboost_1\" count=\"15\" />",
+    "<Item idx=\"PCEA031_CrewXPboost_1\" count=\"15\" />"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT134_1",
+    "isBattleCount",
+    "IDS_TASKRESTRICTION_PVPCOOPRANKED"
+  ],
+  "unlockMissions": [
+    "PCQM010"
+  ]
+}

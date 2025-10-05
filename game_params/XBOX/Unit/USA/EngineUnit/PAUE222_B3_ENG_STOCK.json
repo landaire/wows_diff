@@ -1,0 +1,13 @@
+{
+  "costCR": 17000,
+  "costXP": 0,
+  "id": 4062031856,
+  "index": "PAUE222",
+  "name": "PAUE222_B3_ENG_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

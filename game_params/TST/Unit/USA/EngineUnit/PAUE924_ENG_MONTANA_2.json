@@ -1,0 +1,13 @@
+{
+  "costCR": 550000,
+  "costXP": 0,
+  "id": 3325931504,
+  "index": "PAUE924",
+  "name": "PAUE924_ENG_MONTANA_2",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

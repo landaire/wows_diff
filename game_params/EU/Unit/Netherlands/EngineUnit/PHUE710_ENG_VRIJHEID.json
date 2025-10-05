@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3550326544,
+  "index": "PHUE710",
+  "name": "PHUE710_ENG_VRIJHEID",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

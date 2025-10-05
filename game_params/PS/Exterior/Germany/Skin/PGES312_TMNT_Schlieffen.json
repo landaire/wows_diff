@@ -1,0 +1,625 @@
+{
+  "RarityCategory": {
+    "name": "Epic"
+  },
+  "camouflage": "",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 8000,
+  "effects": {
+    "A_Hull": {
+      "acid": [],
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_big.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_big.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_big.xml"
+        ]
+      ],
+      "descent": [],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_big_Arpeggio.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_big_Arpeggio.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_big_Arpeggio.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_big_Arpeggio.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_big_Arpeggio.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_big_Arpeggio.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_big_Arpeggio.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_big_Arpeggio.xml"
+        ]
+      ],
+      "fireResistance": [
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_big_Arpeggio.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_big_Arpeggio.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_big_Arpeggio.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_big_Arpeggio.xml"
+        ],
+        [
+          "HP_FX_Fire_5",
+          "particles/vehicles/Fire_big_Arpeggio.xml"
+        ],
+        [
+          "HP_FX_Fire_5_1",
+          "particles/vehicles/Fire_big_Arpeggio.xml"
+        ]
+      ],
+      "fixDeluge": [],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_big.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_exhaust_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_3",
+          "particles/vehicles/Flood_steam_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_3",
+          "particles/vehicles/Flood_steam_exhaust_big_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_4",
+          "particles/vehicles/Flood_steam_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_big.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_big.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_big.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/idlePort_RunSmoke_big.xml"
+        ]
+      ],
+      "oil": [],
+      "oilBubble": [],
+      "propellerEffect": [],
+      "propellerEffectReversed": [],
+      "rageMode": [],
+      "rageModeFullScreen": [],
+      "repairLight": [
+        [
+          "HP_FX_RepairLight_left_1",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_left_2",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_1",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_2",
+          "particles/vehicles/RepairLight_big.xml"
+        ]
+      ],
+      "runoff": [],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_medium_Arpeggio.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/RunSmoke_medium_Arpeggio.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceReverce_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceReverce_screw_big.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_left_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceForward_screw_right_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTrace_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTrace_screw_big.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": true,
+  "hullConfig": {
+    "A_Hull": {
+      "caps": {},
+      "customMiscs": {
+        "battle": [
+          "battle"
+        ],
+        "dock": [
+          "dock"
+        ]
+      },
+      "model": "content/gameplay/germany/ship/battleship/GSB414_Schlieffen_Shredder/GSB414_Schlieffen_Shredder.model"
+    }
+  },
+  "id": 3967217456,
+  "index": "PGES312",
+  "isTemplate": false,
+  "name": "PGES312_TMNT_Schlieffen",
+  "nodesConfig": {
+    "A_ATBA": {
+      "HP_GGS_1": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3036_15cm_SK_C28_MPL_C_Shredder_Left/GGS3036_15cm_SK_C28_MPL_C_Shredder_Left_dead.model",
+        "model": "content/gameplay/germany/gun/secondary/GGS3036_15cm_SK_C28_MPL_C_Shredder_Left/GGS3036_15cm_SK_C28_MPL_C_Shredder_Left.model"
+      },
+      "HP_GGS_10": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3039_105_mm_SKC_37_Shredder/GGS3039_105_mm_SKC_37_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/secondary/GGS3039_105_mm_SKC_37_Shredder/GGS3039_105_mm_SKC_37_Shredder.model"
+      },
+      "HP_GGS_11": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3039_105_mm_SKC_37_Shredder/GGS3039_105_mm_SKC_37_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/secondary/GGS3039_105_mm_SKC_37_Shredder/GGS3039_105_mm_SKC_37_Shredder.model"
+      },
+      "HP_GGS_12": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3039_105_mm_SKC_37_Shredder/GGS3039_105_mm_SKC_37_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/secondary/GGS3039_105_mm_SKC_37_Shredder/GGS3039_105_mm_SKC_37_Shredder.model"
+      },
+      "HP_GGS_13": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3039_105_mm_SKC_37_Shredder/GGS3039_105_mm_SKC_37_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/secondary/GGS3039_105_mm_SKC_37_Shredder/GGS3039_105_mm_SKC_37_Shredder.model"
+      },
+      "HP_GGS_14": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3039_105_mm_SKC_37_Shredder/GGS3039_105_mm_SKC_37_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/secondary/GGS3039_105_mm_SKC_37_Shredder/GGS3039_105_mm_SKC_37_Shredder.model"
+      },
+      "HP_GGS_15": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3038_105_mm_SKC_33_Shredder/GGS3038_105_mm_SKC_33_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/secondary/GGS3038_105_mm_SKC_33_Shredder/GGS3038_105_mm_SKC_33_Shredder.model"
+      },
+      "HP_GGS_16": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3038_105_mm_SKC_33_Shredder/GGS3038_105_mm_SKC_33_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/secondary/GGS3038_105_mm_SKC_33_Shredder/GGS3038_105_mm_SKC_33_Shredder.model"
+      },
+      "HP_GGS_17": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3037_15cm_SK_C28_MPL_C_Shredder_Right/GGS3037_15cm_SK_C28_MPL_C_Shredder_Right_dead.model",
+        "model": "content/gameplay/germany/gun/secondary/GGS3037_15cm_SK_C28_MPL_C_Shredder_Right/GGS3037_15cm_SK_C28_MPL_C_Shredder_Right.model"
+      },
+      "HP_GGS_18": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3036_15cm_SK_C28_MPL_C_Shredder_Left/GGS3036_15cm_SK_C28_MPL_C_Shredder_Left_dead.model",
+        "model": "content/gameplay/germany/gun/secondary/GGS3036_15cm_SK_C28_MPL_C_Shredder_Left/GGS3036_15cm_SK_C28_MPL_C_Shredder_Left.model"
+      },
+      "HP_GGS_19": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3037_15cm_SK_C28_MPL_C_Shredder_Right/GGS3037_15cm_SK_C28_MPL_C_Shredder_Right_dead.model",
+        "model": "content/gameplay/germany/gun/secondary/GGS3037_15cm_SK_C28_MPL_C_Shredder_Right/GGS3037_15cm_SK_C28_MPL_C_Shredder_Right.model"
+      },
+      "HP_GGS_2": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3037_15cm_SK_C28_MPL_C_Shredder_Right/GGS3037_15cm_SK_C28_MPL_C_Shredder_Right_dead.model",
+        "model": "content/gameplay/germany/gun/secondary/GGS3037_15cm_SK_C28_MPL_C_Shredder_Right/GGS3037_15cm_SK_C28_MPL_C_Shredder_Right.model"
+      },
+      "HP_GGS_20": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3036_15cm_SK_C28_MPL_C_Shredder_Left/GGS3036_15cm_SK_C28_MPL_C_Shredder_Left_dead.model",
+        "model": "content/gameplay/germany/gun/secondary/GGS3036_15cm_SK_C28_MPL_C_Shredder_Left/GGS3036_15cm_SK_C28_MPL_C_Shredder_Left.model"
+      },
+      "HP_GGS_3": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3036_15cm_SK_C28_MPL_C_Shredder_Left/GGS3036_15cm_SK_C28_MPL_C_Shredder_Left_dead.model",
+        "model": "content/gameplay/germany/gun/secondary/GGS3036_15cm_SK_C28_MPL_C_Shredder_Left/GGS3036_15cm_SK_C28_MPL_C_Shredder_Left.model"
+      },
+      "HP_GGS_4": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3037_15cm_SK_C28_MPL_C_Shredder_Right/GGS3037_15cm_SK_C28_MPL_C_Shredder_Right_dead.model",
+        "model": "content/gameplay/germany/gun/secondary/GGS3037_15cm_SK_C28_MPL_C_Shredder_Right/GGS3037_15cm_SK_C28_MPL_C_Shredder_Right.model"
+      },
+      "HP_GGS_5": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3038_105_mm_SKC_33_Shredder/GGS3038_105_mm_SKC_33_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/secondary/GGS3038_105_mm_SKC_33_Shredder/GGS3038_105_mm_SKC_33_Shredder.model"
+      },
+      "HP_GGS_6": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3038_105_mm_SKC_33_Shredder/GGS3038_105_mm_SKC_33_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/secondary/GGS3038_105_mm_SKC_33_Shredder/GGS3038_105_mm_SKC_33_Shredder.model"
+      },
+      "HP_GGS_7": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3039_105_mm_SKC_37_Shredder/GGS3039_105_mm_SKC_37_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/secondary/GGS3039_105_mm_SKC_37_Shredder/GGS3039_105_mm_SKC_37_Shredder.model"
+      },
+      "HP_GGS_8": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3039_105_mm_SKC_37_Shredder/GGS3039_105_mm_SKC_37_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/secondary/GGS3039_105_mm_SKC_37_Shredder/GGS3039_105_mm_SKC_37_Shredder.model"
+      },
+      "HP_GGS_9": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3039_105_mm_SKC_37_Shredder/GGS3039_105_mm_SKC_37_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/secondary/GGS3039_105_mm_SKC_37_Shredder/GGS3039_105_mm_SKC_37_Shredder.model"
+      }
+    },
+    "A_AirDefense": {
+      "HP_GGA_1": {
+        "deadMesh": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder.model"
+      },
+      "HP_GGA_10": {
+        "deadMesh": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder.model"
+      },
+      "HP_GGA_11": {
+        "deadMesh": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder.model"
+      },
+      "HP_GGA_12": {
+        "deadMesh": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder.model"
+      },
+      "HP_GGA_2": {
+        "deadMesh": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder.model"
+      },
+      "HP_GGA_3": {
+        "deadMesh": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder.model"
+      },
+      "HP_GGA_4": {
+        "deadMesh": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder.model"
+      },
+      "HP_GGA_5": {
+        "deadMesh": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder.model"
+      },
+      "HP_GGA_6": {
+        "deadMesh": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder.model"
+      },
+      "HP_GGA_7": {
+        "deadMesh": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder.model"
+      },
+      "HP_GGA_8": {
+        "deadMesh": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder.model"
+      },
+      "HP_GGA_9": {
+        "deadMesh": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/aaircraft/GGA3048_30mm_Flak_38_Shredder/GGA3048_30mm_Flak_38_Shredder.model"
+      },
+      "HP_GGM_2_HP_GGA_1": {
+        "deadMesh": "content/gameplay/germany/gun/aaircraft/GGA3047_55m_Gerat_twin_Shredder/GGA3047_55m_Gerat_twin_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/aaircraft/GGA3047_55m_Gerat_twin_Shredder/GGA3047_55m_Gerat_twin_Shredder.model"
+      },
+      "HP_GGM_3_HP_GGA_1": {
+        "deadMesh": "content/gameplay/germany/gun/aaircraft/GGA3047_55m_Gerat_twin_Shredder/GGA3047_55m_Gerat_twin_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/aaircraft/GGA3047_55m_Gerat_twin_Shredder/GGA3047_55m_Gerat_twin_Shredder.model"
+      },
+      "HP_GGM_4_HP_GGA_1": {
+        "deadMesh": "content/gameplay/germany/gun/aaircraft/GGA3047_55m_Gerat_twin_Shredder/GGA3047_55m_Gerat_twin_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/aaircraft/GGA3047_55m_Gerat_twin_Shredder/GGA3047_55m_Gerat_twin_Shredder.model"
+      }
+    },
+    "A_Artillery": {
+      "HP_GGM_1": {
+        "deadMesh": "content/gameplay/germany/gun/main/GGM3035_420mm_50_DRH_LC_Shredder/GGM3035_420mm_50_DRH_LC_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/main/GGM3035_420mm_50_DRH_LC_Shredder/GGM3035_420mm_50_DRH_LC_Shredder.model"
+      },
+      "HP_GGM_2": {
+        "deadMesh": "content/gameplay/germany/gun/main/GGM3035_420mm_50_DRH_LC_Shredder/GGM3035_420mm_50_DRH_LC_Shredder_dead.model",
+        "miscFilter": [
+          "MP_GM6033_Gun_Deck_Shredder"
+        ],
+        "model": "content/gameplay/germany/gun/main/GGM3035_420mm_50_DRH_LC_Shredder/GGM3035_420mm_50_DRH_LC_Shredder.model"
+      },
+      "HP_GGM_3": {
+        "deadMesh": "content/gameplay/germany/gun/main/GGM3035_420mm_50_DRH_LC_Shredder/GGM3035_420mm_50_DRH_LC_Shredder_dead.model",
+        "miscFilter": [
+          "MP_GM6033_Gun_Deck_Shredder"
+        ],
+        "model": "content/gameplay/germany/gun/main/GGM3035_420mm_50_DRH_LC_Shredder/GGM3035_420mm_50_DRH_LC_Shredder.model"
+      },
+      "HP_GGM_4": {
+        "deadMesh": "content/gameplay/germany/gun/main/GGM3035_420mm_50_DRH_LC_Shredder/GGM3035_420mm_50_DRH_LC_Shredder_dead.model",
+        "miscFilter": [
+          "MP_GM6033_Gun_Deck_Shredder"
+        ],
+        "model": "content/gameplay/germany/gun/main/GGM3035_420mm_50_DRH_LC_Shredder/GGM3035_420mm_50_DRH_LC_Shredder.model"
+      }
+    },
+    "A_Directors": {
+      "HP_GD_1": {
+        "model": "content/gameplay/germany/director/GD3013_Zeilsaule_Shredder_Night_Dir/GD3013_Zeilsaule_Shredder_Night_Dir.model"
+      },
+      "HP_GD_10": {
+        "model": "content/gameplay/germany/director/GD3012_Flak_Shredder/GD3012_Flak_Shredder.model"
+      },
+      "HP_GD_11": {
+        "model": "content/gameplay/germany/director/GD3012_Flak_Shredder/GD3012_Flak_Shredder.model"
+      },
+      "HP_GD_12": {
+        "model": "content/gameplay/germany/director/GD3012_Flak_Shredder/GD3012_Flak_Shredder.model"
+      },
+      "HP_GD_13": {
+        "model": "content/gameplay/germany/director/GD3012_Flak_Shredder/GD3012_Flak_Shredder.model"
+      },
+      "HP_GD_14": {
+        "model": "content/gameplay/germany/director/GD3012_Flak_Shredder/GD3012_Flak_Shredder.model"
+      },
+      "HP_GD_15": {
+        "model": "content/gameplay/germany/director/GD3012_Flak_Shredder/GD3012_Flak_Shredder.model"
+      },
+      "HP_GD_16": {
+        "model": "content/gameplay/germany/director/GD3013_Zeilsaule_Shredder_Night_Dir/GD3013_Zeilsaule_Shredder_Night_Dir.model"
+      },
+      "HP_GD_17": {
+        "model": "content/gameplay/germany/director/GD3013_Zeilsaule_Shredder_Night_Dir/GD3013_Zeilsaule_Shredder_Night_Dir.model"
+      },
+      "HP_GD_2": {
+        "model": "content/gameplay/germany/director/GD3013_Zeilsaule_Shredder_Night_Dir/GD3013_Zeilsaule_Shredder_Night_Dir.model"
+      },
+      "HP_GD_3": {
+        "model": "content/gameplay/germany/director/GD3013_Zeilsaule_Shredder_Night_Dir/GD3013_Zeilsaule_Shredder_Night_Dir.model"
+      },
+      "HP_GD_4": {
+        "model": "content/gameplay/germany/director/GD3013_Zeilsaule_Shredder_Night_Dir/GD3013_Zeilsaule_Shredder_Night_Dir.model"
+      },
+      "HP_GD_5": {
+        "model": "content/gameplay/germany/director/GD3013_Zeilsaule_Shredder_Night_Dir/GD3013_Zeilsaule_Shredder_Night_Dir.model"
+      },
+      "HP_GD_6": {
+        "model": "content/gameplay/germany/director/GD3012_Flak_Shredder/GD3012_Flak_Shredder.model"
+      },
+      "HP_GD_7": {
+        "model": "content/gameplay/germany/director/GD3012_Flak_Shredder/GD3012_Flak_Shredder.model"
+      },
+      "HP_GD_8": {
+        "model": "content/gameplay/germany/director/GD3012_Flak_Shredder/GD3012_Flak_Shredder.model"
+      },
+      "HP_GD_9": {
+        "model": "content/gameplay/germany/director/GD3012_Flak_Shredder/GD3012_Flak_Shredder.model"
+      }
+    },
+    "A_Finders": {
+      "HP_GF_1": {
+        "model": "content/gameplay/germany/finder/GF3008_7m_Rangefinder_Shredder/GF3008_7m_Rangefinder_Shredder.model"
+      },
+      "HP_GF_2": {
+        "model": "content/gameplay/germany/finder/GF3007_Rangefinder_Shredder/GF3007_Rangefinder_Shredder.model"
+      },
+      "HP_GF_3": {
+        "model": "content/gameplay/germany/finder/GF3010_3m_Rangefinder_Shredder/GF3010_3m_Rangefinder_Shredder.model"
+      },
+      "HP_GF_4": {
+        "model": "content/gameplay/germany/finder/GF3010_3m_Rangefinder_Shredder/GF3010_3m_Rangefinder_Shredder.model"
+      },
+      "HP_GF_5": {
+        "model": "content/gameplay/germany/finder/GF3009_4m_Rangefinder_SL_8_Shredder/GF3009_4m_Rangefinder_SL_8_Shredder.model"
+      },
+      "HP_GF_6": {
+        "model": "content/gameplay/germany/finder/GF3009_4m_Rangefinder_SL_8_Shredder/GF3009_4m_Rangefinder_SL_8_Shredder.model"
+      },
+      "HP_GF_7": {
+        "model": "content/gameplay/germany/finder/GF3009_4m_Rangefinder_SL_8_Shredder/GF3009_4m_Rangefinder_SL_8_Shredder.model"
+      },
+      "HP_GF_8": {
+        "model": "content/gameplay/germany/finder/GF3008_7m_Rangefinder_Shredder/GF3008_7m_Rangefinder_Shredder.model"
+      }
+    },
+    "A_Radars": {
+      "HP_GRS_1": {
+        "model": "content/gameplay/germany/radar/search/GRS3011_FuMO25_Shredder/GRS3011_FuMO25_Shredder.model"
+      }
+    },
+    "A_Torpedoes": {
+      "HP_GGT_1": {
+        "deadMesh": "content/gameplay/germany/gun/torpedo/GGT3046_533mm_Torpedo_Tubes_Quad_Shredder/GGT3046_533mm_Torpedo_Tubes_Quad_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/torpedo/GGT3046_533mm_Torpedo_Tubes_Quad_Shredder/GGT3046_533mm_Torpedo_Tubes_Quad_Shredder.model"
+      },
+      "HP_GGT_2": {
+        "deadMesh": "content/gameplay/germany/gun/torpedo/GGT3046_533mm_Torpedo_Tubes_Quad_Shredder/GGT3046_533mm_Torpedo_Tubes_Quad_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/torpedo/GGT3046_533mm_Torpedo_Tubes_Quad_Shredder/GGT3046_533mm_Torpedo_Tubes_Quad_Shredder.model"
+      },
+      "HP_GGT_3": {
+        "deadMesh": "content/gameplay/germany/gun/torpedo/GGT3046_533mm_Torpedo_Tubes_Quad_Shredder/GGT3046_533mm_Torpedo_Tubes_Quad_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/torpedo/GGT3046_533mm_Torpedo_Tubes_Quad_Shredder/GGT3046_533mm_Torpedo_Tubes_Quad_Shredder.model"
+      },
+      "HP_GGT_4": {
+        "deadMesh": "content/gameplay/germany/gun/torpedo/GGT3046_533mm_Torpedo_Tubes_Quad_Shredder/GGT3046_533mm_Torpedo_Tubes_Quad_Shredder_dead.model",
+        "model": "content/gameplay/germany/gun/torpedo/GGT3046_533mm_Torpedo_Tubes_Quad_Shredder/GGT3046_533mm_Torpedo_Tubes_Quad_Shredder.model"
+      }
+    }
+  },
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "entertainment",
+  "peculiarityEffects": {
+    "particles/guns/GK_Purging.xml": "particles/guns/GK_Purging_Arpeggio.xml",
+    "particles/guns/GK_Shot.xml": "particles/guns/GK_Shot_Arpeggio.xml",
+    "particles/guns/PMK_Purging.xml": "particles/guns/PMK_Purging_Arpeggio.xml",
+    "particles/guns/PMK_Shot.xml": "particles/guns/PMK_Shot_Arpeggio.xml",
+    "particles/guns/TORP_Explo_Ground.xml": "particles/guns/TORP_Explo_Ground_ARP.xml",
+    "particles/guns/TORP_Explo_Ship.xml": "particles/guns/TORP_Explo_Ship_ARP.xml",
+    "particles/guns/TORP_Explo_Ship_1.xml": "particles/guns/TORP_Explo_Ship_ARP_1.xml",
+    "particles/guns/TORP_Explo_Ship_2.xml": "particles/guns/TORP_Explo_Ship_ARP_2.xml",
+    "particles/guns/TORP_Explo_Ship_3.xml": "particles/guns/TORP_Explo_Ship_ARP_3.xml",
+    "particles/vehicles/AirCarrier_death.xml": "particles/vehicles/AirCarrier_death_Arpeggio.xml",
+    "particles/vehicles/Battleship_death.xml": "particles/vehicles/Battleship_death_Arpeggio.xml",
+    "particles/vehicles/Cruiser_death.xml": "particles/vehicles/Cruiser_death_Arpeggio.xml",
+    "particles/vehicles/Destroyer_death.xml": "particles/vehicles/Destroyer_death_Arpeggio.xml"
+  },
+  "peculiarityFlag": "",
+  "peculiarityModels": {},
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

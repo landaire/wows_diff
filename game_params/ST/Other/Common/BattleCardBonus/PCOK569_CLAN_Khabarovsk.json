@@ -1,0 +1,18 @@
+{
+  "id": 3697985456,
+  "index": "PCOK569",
+  "level_1": {
+    "GMIdealRadius": 0.88,
+    "allAlphaMultiplier": 1.1
+  },
+  "level_2": {
+    "GMIdealRadius": 0.88,
+    "allAlphaMultiplier": 1.1
+  },
+  "name": "PCOK569_CLAN_Khabarovsk",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

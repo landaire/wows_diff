@@ -1,0 +1,34 @@
+{
+  "id": 4260251568,
+  "index": "PCOD033",
+  "markerNameActive": "pack_chooser_active",
+  "markerNameInactive": "pack_chooser_inactive",
+  "maxBuffLevel": 0,
+  "name": "PCOD033_PackChooserLvl4",
+  "payload": {
+    "available": 1,
+    "count": 0,
+    "item_1": {
+      "duration": -1,
+      "level": 10,
+      "params": "PCOM041_GSShotDelay",
+      "type": 1,
+      "weight": 0
+    },
+    "item_2": {
+      "duration": -1,
+      "level": 6,
+      "params": "PCOM026_EngineBoost_H2020",
+      "type": 1,
+      "weight": 0
+    },
+    "type": 4,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

@@ -1,0 +1,905 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 3000,
+  "effects": {
+    "A_Hull": {
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_medium.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_vsmall_Space.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_medium_Space.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_medium_Space.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_medium_Space.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_3",
+          "particles/vehicles/Fire_side_medium_Space.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_medium_Space.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_medium_Space.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_medium_Space.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_small_Space.xml"
+        ]
+      ],
+      "fireResistance": [],
+      "fixDeluge": [],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_medium.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_exhaust_big_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_exhaust_2",
+          "particles/vehicles/Flood_steam_exhaust_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_medium.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_medium_Space.xml"
+        ]
+      ],
+      "repairLight": [],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_medium_Space.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_left_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceForward_screw_right_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ]
+      ]
+    },
+    "B_Hull": {
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_medium.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_vsmall_Space.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_medium_Space.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_medium_Space.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_medium_Space.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_3",
+          "particles/vehicles/Fire_side_medium_Space.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_medium_Space.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_medium_Space.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_medium_Space.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_small_Space.xml"
+        ]
+      ],
+      "fireResistance": [],
+      "fixDeluge": [],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_medium.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_exhaust_big_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_exhaust_2",
+          "particles/vehicles/Flood_steam_exhaust_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_medium.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_medium_Space.xml"
+        ]
+      ],
+      "repairLight": [],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_medium_Space.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_left_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceForward_screw_right_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": false,
+  "hullConfig": {
+    "A_Hull": {
+      "caps": {},
+      "customMiscs": {},
+      "model": "content/gameplay/france/ship/cruiser/FSC019_Algerie_1943_Style/FSC019_Algerie_1943_Style.model"
+    },
+    "B_Hull": {
+      "caps": {},
+      "customMiscs": {},
+      "model": "content/gameplay/france/ship/cruiser/FSC019_Algerie_1943_Style/FSC019_Algerie_1943_Style.model"
+    }
+  },
+  "id": 3857117008,
+  "index": "PFES417",
+  "isTemplate": false,
+  "name": "PFES417_SPACE_ALGERIE",
+  "nodesConfig": {
+    "AB1_Artillery": {
+      "HP_FGM_1": {
+        "deadMesh": "content/gameplay/events/gun/main/XGM078_203mm50_Mle_1924_Algerie/XGM078_203mm50_Mle_1924_Algerie_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM125_YGCS_Space_M_1",
+          "MP_XM125_YGCS_Space_M_1_INDEX_1",
+          "MP_XM126_YGFL_space_M_1",
+          "MP_XM126_YGFL_space_M_1_INDEX_1",
+          "MP_XM127_YGRS_Space_M_1",
+          "MP_XM127_YGRS_Space_M_1_INDEX_1",
+          "MP_XM134_YHCC_Space_M_1",
+          "MP_XM166_YGFR_space_M_1",
+          "MP_XM166_YGFR_space_M_1_INDEX_1"
+        ],
+        "model": "content/gameplay/events/gun/main/XGM078_203mm50_Mle_1924_Algerie/XGM078_203mm50_Mle_1924_Algerie.model"
+      },
+      "HP_FGM_2": {
+        "deadMesh": "content/gameplay/events/gun/main/XGM078_203mm50_Mle_1924_Algerie/XGM078_203mm50_Mle_1924_Algerie_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM125_YGCS_Space_M_1",
+          "MP_XM125_YGCS_Space_M_1_INDEX_1",
+          "MP_XM126_YGFL_space_M_1",
+          "MP_XM126_YGFL_space_M_1_INDEX_1",
+          "MP_XM127_YGRS_Space_M_1",
+          "MP_XM127_YGRS_Space_M_1_INDEX_1",
+          "MP_XM134_YHCC_Space_M_1",
+          "MP_XM166_YGFR_space_M_1",
+          "MP_XM166_YGFR_space_M_1_INDEX_1",
+          "MP_XM126_YGFL_space_M_1_INDEX_2",
+          "MP_XM166_YGFR_space_M_1_INDEX_2"
+        ],
+        "model": "content/gameplay/events/gun/main/XGM078_203mm50_Mle_1924_Algerie/XGM078_203mm50_Mle_1924_Algerie.model"
+      },
+      "HP_FGM_3": {
+        "deadMesh": "content/gameplay/events/gun/main/XGM078_203mm50_Mle_1924_Algerie/XGM078_203mm50_Mle_1924_Algerie_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM125_YGCS_Space_M_1",
+          "MP_XM125_YGCS_Space_M_1_INDEX_1",
+          "MP_XM126_YGFL_space_M_1",
+          "MP_XM126_YGFL_space_M_1_INDEX_1",
+          "MP_XM127_YGRS_Space_M_1",
+          "MP_XM127_YGRS_Space_M_1_INDEX_1",
+          "MP_XM134_YHCC_Space_M_1",
+          "MP_XM166_YGFR_space_M_1",
+          "MP_XM166_YGFR_space_M_1_INDEX_1",
+          "MP_XM126_YGFL_space_M_1_INDEX_2",
+          "MP_XM166_YGFR_space_M_1_INDEX_2"
+        ],
+        "model": "content/gameplay/events/gun/main/XGM078_203mm50_Mle_1924_Algerie/XGM078_203mm50_Mle_1924_Algerie.model"
+      },
+      "HP_FGM_4": {
+        "deadMesh": "content/gameplay/events/gun/main/XGM078_203mm50_Mle_1924_Algerie/XGM078_203mm50_Mle_1924_Algerie_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM125_YGCS_Space_M_1",
+          "MP_XM125_YGCS_Space_M_1_INDEX_1",
+          "MP_XM126_YGFL_space_M_1",
+          "MP_XM126_YGFL_space_M_1_INDEX_1",
+          "MP_XM127_YGRS_Space_M_1",
+          "MP_XM127_YGRS_Space_M_1_INDEX_1",
+          "MP_XM134_YHCC_Space_M_1",
+          "MP_XM166_YGFR_space_M_1",
+          "MP_XM166_YGFR_space_M_1_INDEX_1",
+          "MP_XM126_YGFL_space_M_1_INDEX_2",
+          "MP_XM166_YGFR_space_M_1_INDEX_2"
+        ],
+        "model": "content/gameplay/events/gun/main/XGM078_203mm50_Mle_1924_Algerie/XGM078_203mm50_Mle_1924_Algerie.model"
+      }
+    },
+    "AB1_Torpedoes": {
+      "HP_FGT_1": {
+        "deadMesh": "content/gameplay/events/gun/torpedo/XGT080_550mm_3tube_Mle_1928T/XGT080_550mm_3tube_Mle_1928T_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM124_YGBS_Space_M_1",
+          "MP_XM124_YGBS_Space_M_1_INDEX_1",
+          "MP_XM124_YGBS_Space_M_1_INDEX_2",
+          "MP_XM127_YGRS_Space_M_1",
+          "MP_XM127_YGRS_Space_M_1_INDEX_1",
+          "MP_XM127_YGRS_Space_M_1_INDEX_2",
+          "MP_FM420_splash_cover"
+        ],
+        "model": "content/gameplay/events/gun/torpedo/XGT080_550mm_3tube_Mle_1928T/XGT080_550mm_3tube_Mle_1928T.model"
+      },
+      "HP_FGT_2": {
+        "deadMesh": "content/gameplay/events/gun/torpedo/XGT080_550mm_3tube_Mle_1928T/XGT080_550mm_3tube_Mle_1928T_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM124_YGBS_Space_M_1",
+          "MP_XM124_YGBS_Space_M_1_INDEX_1",
+          "MP_XM124_YGBS_Space_M_1_INDEX_2",
+          "MP_XM127_YGRS_Space_M_1",
+          "MP_XM127_YGRS_Space_M_1_INDEX_1",
+          "MP_XM127_YGRS_Space_M_1_INDEX_2",
+          "MP_FM420_splash_cover"
+        ],
+        "model": "content/gameplay/events/gun/torpedo/XGT080_550mm_3tube_Mle_1928T/XGT080_550mm_3tube_Mle_1928T.model"
+      }
+    },
+    "AB_AirArmament": {
+      "HP_FC_1": {
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM176_YCCC_Space_M_1",
+          "MP_XM176_YCCC_Space_M_1_INDEX_1",
+          "MP_XM176_YCCC_Space_M_1_INDEX_2",
+          "MP_XM176_YCCC_Space_M_1_INDEX_3"
+        ],
+        "model": "content/gameplay/events/catapult/XC006_Catapult/XC006_Catapult.model"
+      }
+    },
+    "AB_Finders": {
+      "HP_FF_1": {
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM122_YDSS_Space_S_1",
+          "MP_XM122_YDSS_Space_S_1_INDEX_1"
+        ],
+        "model": "content/gameplay/events/finder/XF012_3m_Rangefinder/XF012_3m_Rangefinder.model"
+      },
+      "HP_FF_2": {
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM119_YDCS_Space_M_2",
+          "MP_XM121_YDSS_Space_M_1",
+          "MP_XM123_YDSS_Space_M_3"
+        ],
+        "model": "content/gameplay/events/finder/XF010_4m_Rangefinder/XF010_4m_Rangefinder.model"
+      },
+      "HP_FF_3": {
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM119_YDCS_Space_M_2",
+          "MP_XM121_YDSS_Space_M_1",
+          "MP_XM123_YDSS_Space_M_3"
+        ],
+        "model": "content/gameplay/events/finder/XF010_4m_Rangefinder/XF010_4m_Rangefinder.model"
+      }
+    },
+    "A_ATBA": {
+      "HP_FGS_1": {
+        "deadMesh": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM125_YGCS_Space_M_1",
+          "MP_XM125_YGCS_Space_M_1_INDEX_1",
+          "MP_XM126_YGFL_space_M_1",
+          "MP_XM127_YGRS_Space_M_1",
+          "MP_XM127_YGRS_Space_M_1_INDEX_1",
+          "MP_XM166_YGFR_space_M_1"
+        ],
+        "model": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930.model"
+      },
+      "HP_FGS_2": {
+        "deadMesh": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM125_YGCS_Space_M_1",
+          "MP_XM125_YGCS_Space_M_1_INDEX_1",
+          "MP_XM126_YGFL_space_M_1",
+          "MP_XM127_YGRS_Space_M_1",
+          "MP_XM127_YGRS_Space_M_1_INDEX_1",
+          "MP_XM166_YGFR_space_M_1"
+        ],
+        "model": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930.model"
+      },
+      "HP_FGS_3": {
+        "deadMesh": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM125_YGCS_Space_M_1",
+          "MP_XM125_YGCS_Space_M_1_INDEX_1",
+          "MP_XM126_YGFL_space_M_1",
+          "MP_XM127_YGRS_Space_M_1",
+          "MP_XM127_YGRS_Space_M_1_INDEX_1",
+          "MP_XM166_YGFR_space_M_1"
+        ],
+        "model": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930.model"
+      },
+      "HP_FGS_4": {
+        "deadMesh": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM125_YGCS_Space_M_1",
+          "MP_XM125_YGCS_Space_M_1_INDEX_1",
+          "MP_XM126_YGFL_space_M_1",
+          "MP_XM127_YGRS_Space_M_1",
+          "MP_XM127_YGRS_Space_M_1_INDEX_1",
+          "MP_XM166_YGFR_space_M_1"
+        ],
+        "model": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930.model"
+      },
+      "HP_FGS_5": {
+        "deadMesh": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM125_YGCS_Space_M_1",
+          "MP_XM125_YGCS_Space_M_1_INDEX_1",
+          "MP_XM126_YGFL_space_M_1",
+          "MP_XM127_YGRS_Space_M_1",
+          "MP_XM127_YGRS_Space_M_1_INDEX_1",
+          "MP_XM166_YGFR_space_M_1"
+        ],
+        "model": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930.model"
+      },
+      "HP_FGS_6": {
+        "deadMesh": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM125_YGCS_Space_M_1",
+          "MP_XM125_YGCS_Space_M_1_INDEX_1",
+          "MP_XM126_YGFL_space_M_1",
+          "MP_XM127_YGRS_Space_M_1",
+          "MP_XM127_YGRS_Space_M_1_INDEX_1",
+          "MP_XM166_YGFR_space_M_1"
+        ],
+        "model": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930.model"
+      }
+    },
+    "A_Directors": {
+      "HP_FD_3": {
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM118_YDCS_Space_M_1",
+          "MP_XM119_YDCS_Space_M_2",
+          "MP_XM121_YDSS_Space_M_1",
+          "MP_XM121_YDSS_Space_M_1_INDEX_1",
+          "MP_XM122_YDSS_Space_S_1",
+          "MP_XM122_YDSS_Space_S_1_INDEX_1",
+          "MP_XM123_YDSS_Space_M_3",
+          "MP_XM123_YDSS_Space_M_3_INDEX_1"
+        ],
+        "model": "content/gameplay/events/director/XD018_DCT_SOM_1930/XD018_DCT_SOM_1930.model"
+      },
+      "HP_FD_4": {
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM119_YDCS_Space_M_2",
+          "MP_XM123_YDSS_Space_M_3",
+          "MP_XM123_YDSS_Space_M_3_INDEX_1"
+        ],
+        "model": "content/gameplay/events/director/XD020_Searchlight_control_positions/XD020_Searchlight_control_positions.model"
+      },
+      "HP_FD_5": {
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM119_YDCS_Space_M_2",
+          "MP_XM123_YDSS_Space_M_3",
+          "MP_XM123_YDSS_Space_M_3_INDEX_1"
+        ],
+        "model": "content/gameplay/events/director/XD020_Searchlight_control_positions/XD020_Searchlight_control_positions.model"
+      }
+    },
+    "B_ATBA": {
+      "HP_FGS_1": {
+        "deadMesh": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM125_YGCS_Space_M_1",
+          "MP_XM125_YGCS_Space_M_1_INDEX_1",
+          "MP_XM126_YGFL_space_M_1",
+          "MP_XM127_YGRS_Space_M_1",
+          "MP_XM127_YGRS_Space_M_1_INDEX_1",
+          "MP_XM166_YGFR_space_M_1"
+        ],
+        "model": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930.model"
+      },
+      "HP_FGS_2": {
+        "deadMesh": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM125_YGCS_Space_M_1",
+          "MP_XM125_YGCS_Space_M_1_INDEX_1",
+          "MP_XM126_YGFL_space_M_1",
+          "MP_XM127_YGRS_Space_M_1",
+          "MP_XM127_YGRS_Space_M_1_INDEX_1",
+          "MP_XM166_YGFR_space_M_1"
+        ],
+        "model": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930.model"
+      },
+      "HP_FGS_3": {
+        "deadMesh": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM125_YGCS_Space_M_1",
+          "MP_XM125_YGCS_Space_M_1_INDEX_1",
+          "MP_XM126_YGFL_space_M_1",
+          "MP_XM127_YGRS_Space_M_1",
+          "MP_XM127_YGRS_Space_M_1_INDEX_1",
+          "MP_XM166_YGFR_space_M_1"
+        ],
+        "model": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930.model"
+      },
+      "HP_FGS_4": {
+        "deadMesh": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM125_YGCS_Space_M_1",
+          "MP_XM125_YGCS_Space_M_1_INDEX_1",
+          "MP_XM126_YGFL_space_M_1",
+          "MP_XM127_YGRS_Space_M_1",
+          "MP_XM127_YGRS_Space_M_1_INDEX_1",
+          "MP_XM166_YGFR_space_M_1"
+        ],
+        "model": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930.model"
+      },
+      "HP_FGS_5": {
+        "deadMesh": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM125_YGCS_Space_M_1",
+          "MP_XM125_YGCS_Space_M_1_INDEX_1",
+          "MP_XM126_YGFL_space_M_1",
+          "MP_XM127_YGRS_Space_M_1",
+          "MP_XM127_YGRS_Space_M_1_INDEX_1",
+          "MP_XM166_YGFR_space_M_1"
+        ],
+        "model": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930.model"
+      },
+      "HP_FGS_6": {
+        "deadMesh": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM125_YGCS_Space_M_1",
+          "MP_XM125_YGCS_Space_M_1_INDEX_1",
+          "MP_XM126_YGFL_space_M_1",
+          "MP_XM127_YGRS_Space_M_1",
+          "MP_XM127_YGRS_Space_M_1_INDEX_1",
+          "MP_XM166_YGFR_space_M_1"
+        ],
+        "model": "content/gameplay/events/gun/secondary/XGS079_100mm_45_Mle_1930/XGS079_100mm_45_Mle_1930.model"
+      }
+    },
+    "B_Directors": {
+      "HP_FD_1": {
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM118_YDCS_Space_M_1",
+          "MP_XM119_YDCS_Space_M_2",
+          "MP_XM123_YDSS_Space_M_3"
+        ],
+        "model": "content/gameplay/events/director/XD019_Dir_HA_RF_2m_ACAD/XD019_Dir_HA_RF_2m_ACAD.model"
+      },
+      "HP_FD_2": {
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM118_YDCS_Space_M_1",
+          "MP_XM119_YDCS_Space_M_2",
+          "MP_XM123_YDSS_Space_M_3"
+        ],
+        "model": "content/gameplay/events/director/XD019_Dir_HA_RF_2m_ACAD/XD019_Dir_HA_RF_2m_ACAD.model"
+      },
+      "HP_FD_3": {
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM118_YDCS_Space_M_1",
+          "MP_XM119_YDCS_Space_M_2",
+          "MP_XM121_YDSS_Space_M_1",
+          "MP_XM121_YDSS_Space_M_1_INDEX_1",
+          "MP_XM122_YDSS_Space_S_1",
+          "MP_XM122_YDSS_Space_S_1_INDEX_1",
+          "MP_XM123_YDSS_Space_M_3",
+          "MP_XM123_YDSS_Space_M_3_INDEX_1"
+        ],
+        "model": "content/gameplay/events/director/XD018_DCT_SOM_1930/XD018_DCT_SOM_1930.model"
+      },
+      "HP_FD_4": {
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM119_YDCS_Space_M_2",
+          "MP_XM123_YDSS_Space_M_3",
+          "MP_XM123_YDSS_Space_M_3_INDEX_1"
+        ],
+        "model": "content/gameplay/events/director/XD020_Searchlight_control_positions/XD020_Searchlight_control_positions.model"
+      },
+      "HP_FD_5": {
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM119_YDCS_Space_M_2",
+          "MP_XM123_YDSS_Space_M_3",
+          "MP_XM123_YDSS_Space_M_3_INDEX_1"
+        ],
+        "model": "content/gameplay/events/director/XD020_Searchlight_control_positions/XD020_Searchlight_control_positions.model"
+      },
+      "HP_FD_6": {
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM118_YDCS_Space_M_1",
+          "MP_XM119_YDCS_Space_M_2",
+          "MP_XM123_YDSS_Space_M_3"
+        ],
+        "model": "content/gameplay/events/director/XD019_Dir_HA_RF_2m_ACAD/XD019_Dir_HA_RF_2m_ACAD.model"
+      },
+      "HP_FD_7": {
+        "filterMode": false,
+        "miscFilter": [
+          "MP_XM118_YDCS_Space_M_1",
+          "MP_XM119_YDCS_Space_M_2",
+          "MP_XM123_YDSS_Space_M_3"
+        ],
+        "model": "content/gameplay/events/director/XD019_Dir_HA_RF_2m_ACAD/XD019_Dir_HA_RF_2m_ACAD.model"
+      }
+    }
+  },
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "april_space",
+  "peculiarityEffects": {
+    "particles/guns/GK_Purging.xml": "particles/guns/GK_Purging_Space.xml",
+    "particles/guns/GK_Reload.xml": "particles/guns/GK_Reload_Space.xml",
+    "particles/guns/GK_Shot.xml": "particles/guns/GK_Shot_Space.xml",
+    "particles/guns/PMK_Purging.xml": "particles/guns/PMK_Purging_Space.xml",
+    "particles/guns/PMK_Shot.xml": "particles/guns/PMK_Shot_Space.xml",
+    "particles/vehicles/AirCarrier_death.xml": "particles/vehicles/AirCarrier_death_Space.xml",
+    "particles/vehicles/Battleship_death.xml": "particles/vehicles/Battleship_death_Space.xml",
+    "particles/vehicles/Cruiser_death.xml": "particles/vehicles/Cruiser_death_Space.xml",
+    "particles/vehicles/Destroyer_death.xml": "particles/vehicles/Destroyer_death_Space.xml"
+  },
+  "peculiarityFlag": "space_warships2018",
+  "peculiarityModels": {
+    "content/gameplay/france/aircraft/fighter/FAF001_Dewoitine_HD780/FAF001_Dewoitine_HD780.model": "content/gameplay/japan/aircraft/fighter/JAF500_Star_Fighter_Space/JAF500_Star_Fighter_Space.model",
+    "content/gameplay/france/catapult/FC002_Catapult/FC002_Catapult.model": "content/gameplay/events/catapult/XC006_Catapult/XC006_Catapult.model",
+    "content/gameplay/france/gun/aaircraft/FGA004_37_50_CAD_Mle_1933/FGA004_37_50_CAD_Mle_1933.model": "content/gameplay/events/gun/aaircraft/XGA064_YGA002_Double_M/XGA064_YGA002_Double_M.model",
+    "content/gameplay/france/gun/aaircraft/FGA004_37_50_CAD_Mle_1933/FGA004_37_50_CAD_Mle_1933_dead.model": "content/gameplay/events/gun/aaircraft/XGA064_YGA002_Double_M/XGA064_YGA002_Double_M_dead.model",
+    "content/gameplay/france/gun/aaircraft/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad.model": "content/gameplay/events/gun/aaircraft/XGA081_YGA005_Quad_S/XGA081_YGA005_Quad_S.model",
+    "content/gameplay/france/gun/aaircraft/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad_dead.model": "content/gameplay/events/gun/aaircraft/XGA081_YGA005_Quad_S/XGA081_YGA005_Quad_S_dead.model",
+    "content/gameplay/france/gun/aaircraft/FGA027_37_50_ACAD/FGA027_37_50_ACAD.model": "content/gameplay/events/gun/aaircraft/XGA064_YGA002_Double_M/XGA064_YGA002_Double_M.model",
+    "content/gameplay/france/gun/aaircraft/FGA027_37_50_ACAD/FGA027_37_50_ACAD_dead.model": "content/gameplay/events/gun/aaircraft/XGA064_YGA002_Double_M/XGA064_YGA002_Double_M_dead.model",
+    "content/gameplay/france/gun/aaircraft/FGA033_25mm_Hotchkiss_Mle_1940/FGA033_25mm_Hotchkiss_Mle_1940.model": "content/gameplay/events/gun/aaircraft/XGA064_YGA002_Double_M/XGA064_YGA002_Double_M.model",
+    "content/gameplay/france/gun/aaircraft/FGA033_25mm_Hotchkiss_Mle_1940/FGA033_25mm_Hotchkiss_Mle_1940_dead.model": "content/gameplay/events/gun/aaircraft/XGA064_YGA002_Double_M/XGA064_YGA002_Double_M_dead.model",
+    "content/gameplay/france/gun/aaircraft/FGA034_13_2mm_76_Browning_CAS/FGA034_13_2mm_76_Browning_CAS.model": "content/gameplay/events/gun/aaircraft/XGA063_YGA001_Single_M/XGA063_YGA001_Single_M.model",
+    "content/gameplay/france/gun/aaircraft/FGA034_13_2mm_76_Browning_CAS/FGA034_13_2mm_76_Browning_CAS_dead.model": "content/gameplay/events/gun/aaircraft/XGA063_YGA001_Single_M/XGA063_YGA001_Single_M_dead.model",
+    "content/gameplay/france/projectile/torpedo/FPT002_Torpedo_55cm_19D/FPT002_Torpedo_55cm_19D.model": "content/gameplay/germany/projectile/torpedo/GPT005_Torpedo_Space/GPT005_Torpedo_Space.model"
+  },
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 110,
+  "tags": [],
+  "typeinfo": {
+    "nation": "France",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

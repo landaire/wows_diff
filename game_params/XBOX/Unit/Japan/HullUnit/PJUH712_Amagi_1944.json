@@ -1,0 +1,13 @@
+{
+  "costCR": 2300000,
+  "costXP": 39000,
+  "id": 3548131024,
+  "index": "PJUH712",
+  "name": "PJUH712_Amagi_1944",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

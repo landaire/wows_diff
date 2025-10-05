@@ -1,0 +1,35 @@
+{
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": 96000,
+  "costGold": -1,
+  "flags": [
+    "november",
+    "foxtrot"
+  ],
+  "group": 0,
+  "hidden": false,
+  "id": 4280119216,
+  "index": "PCEF014",
+  "isTemplate": false,
+  "modifiers": {
+    "ConsumableReloadTime": {
+      "AirCarrier": 0.95,
+      "Auxiliary": 0.95,
+      "Battleship": 0.95,
+      "Cruiser": 0.95,
+      "Destroyer": 0.95,
+      "Submarine": 0.95
+    },
+    "planeConsumableReloadTime": 0.95
+  },
+  "name": "PCEF014_NF_SignalFlag",
+  "sortOrder": 7,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Flags",
+    "type": "Exterior"
+  }
+}

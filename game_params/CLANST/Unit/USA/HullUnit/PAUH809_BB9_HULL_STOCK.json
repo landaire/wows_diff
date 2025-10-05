@@ -1,0 +1,13 @@
+{
+  "costCR": 1800000,
+  "costXP": 0,
+  "id": 3446419440,
+  "index": "PAUH809",
+  "name": "PAUH809_BB9_HULL_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

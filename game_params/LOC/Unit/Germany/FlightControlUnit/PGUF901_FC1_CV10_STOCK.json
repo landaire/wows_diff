@@ -1,0 +1,13 @@
+{
+  "costCR": 1100000,
+  "costXP": 0,
+  "id": 3350015792,
+  "index": "PGUF901",
+  "name": "PGUF901_FC1_CV10_STOCK",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

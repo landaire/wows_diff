@@ -1,0 +1,29 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4285716464,
+  "index": "PAK008",
+  "maxLevel": 2,
+  "name": "PAK008_Hornet",
+  "personalCardBonus": {
+    "clan": "PCOK008_Balldmg_DplanebombX2"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PASA538_Hornet",
+      "PASA898_AZUR_Hornet"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

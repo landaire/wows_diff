@@ -1,0 +1,11 @@
+{
+  "id": 4285488048,
+  "index": "PCJB009",
+  "name": "PCJB009_Monument",
+  "type": "monument",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BuildingType",
+    "type": "ClanSupply"
+  }
+}

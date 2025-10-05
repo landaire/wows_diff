@@ -7,19 +7,6 @@
     "PCL029_USA_CA_Coll_Free",
     "PCL030_USA_CA_Coll_Prem"
   ],
-  "custom": {
-    "CN": {
-      "rewards": [
-        "<Permoflage shipId=\"PASC207_Helena\" idx=\"PAES407_HELENA\" onlySilver=\"0\" count=\"1\"/>",
-        "<Multiboost shipId=\"PASC207_Helena\" idx=\"PCEU007_Multi_std7\" compensationType=\"GOLD\" compensationValue=\"0\" count=\"1\"/>",
-        "<Item idx=\"PCEM083_Tile_American_Arc\" count=\"1\"/>",
-        "<Item idx=\"PCEA022_TotalXPboost_2\" count=\"12\"/>",
-        "<Item idx=\"PCEA032_CrewXPboost_2\" count=\"12\"/>",
-        "<Item idx=\"PCEA041_FreeXPboost_1\" count=\"12\"/>",
-        "<Item idx=\"PCEE191_US_CL_flag\" count=\"1\"/>"
-      ]
-    }
-  },
   "description": "IDS_DESCRIPTION_PCZA009_AMERICAN_ARC",
   "disabled": false,
   "duplicatesCR": 15000,

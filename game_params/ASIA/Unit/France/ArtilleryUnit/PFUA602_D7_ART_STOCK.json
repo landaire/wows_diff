@@ -1,0 +1,13 @@
+{
+  "costCR": 420000,
+  "costXP": 0,
+  "id": 3663703888,
+  "index": "PFUA602",
+  "name": "PFUA602_D7_ART_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

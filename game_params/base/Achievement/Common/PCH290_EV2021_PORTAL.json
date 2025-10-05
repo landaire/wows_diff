@@ -5,7 +5,6 @@
   "constants": {
     "eventName": "PCH290_EV2021_PORTAL"
   },
-  "custom": {},
   "enabled": false,
   "events": [
     [

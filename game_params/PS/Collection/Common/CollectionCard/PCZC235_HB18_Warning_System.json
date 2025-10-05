@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA010_HappyBirthday2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC235_HB18_WARNING_SYSTEM_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4048460720,
+  "index": "PCZC235",
+  "name": "PCZC235_HB18_Warning_System",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

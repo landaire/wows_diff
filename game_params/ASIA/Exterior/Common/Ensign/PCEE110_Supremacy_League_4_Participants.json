@@ -1,0 +1,26 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "supremacy_league_4_participants",
+  "group": 3,
+  "hidden": true,
+  "id": 4179488688,
+  "index": "PCEE110",
+  "isTemplate": false,
+  "name": "PCEE110_Supremacy_League_4_Participants",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "reward",
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

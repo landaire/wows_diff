@@ -1,0 +1,13 @@
+{
+  "costCR": 3000000,
+  "costXP": 27000,
+  "id": 3546034160,
+  "index": "PAUH714",
+  "name": "PAUH714_Lexington_1944",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

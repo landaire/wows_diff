@@ -1,0 +1,38 @@
+{
+  "RarityCategory": {
+    "name": "Legendary"
+  },
+  "camouflage": "camo_permanent_2",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 4000,
+  "hidden": false,
+  "id": 3958927344,
+  "index": "PAEP320",
+  "isTemplate": false,
+  "name": "PAEP320_Alabama_ST",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHidden"
+  ],
+  "typeinfo": {
+    "nation": "USA",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

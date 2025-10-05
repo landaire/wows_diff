@@ -1,0 +1,84 @@
+{
+  "canCharge": true,
+  "costCR": 1250000,
+  "excludes": [
+    "PASS206_Cachalot",
+    "PASS208_Salmon",
+    "PASS210_Balao",
+    "PASS910_Balao_2",
+    "PASS510_Gato",
+    "PBSS106_Undine",
+    "PBSS108_Sturdy",
+    "PBSS508_Alliance",
+    "PBSS110_Thrasher",
+    "PRSS106_S_1",
+    "PRSS108_L20",
+    "PRSS110_K_type",
+    "PRSS508_S_189",
+    "PFSS710_Surcouf"
+  ],
+  "group": [
+    "upgradeable",
+    "peculiar",
+    "disabled",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "event",
+    "specialUnsellable",
+    "demoWithoutStats",
+    "demoWithoutStatsPrem",
+    "demoWithoutStatsTemporary",
+    "experimental",
+    "clan",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "superShip",
+    "notForBattle",
+    "coopOnly"
+  ],
+  "id": 4186099632,
+  "index": "PCM103",
+  "modifiers": {
+    "subsEnergyFreezeWorkTimeCoeff": 1.2
+  },
+  "name": "PCM103_SubsEnergyFreeze_Mod_I",
+  "nation": [
+    "France",
+    "USA",
+    "Russia",
+    "Japan",
+    "United_Kingdom",
+    "Germany",
+    "Europe",
+    "Netherlands",
+    "Spain",
+    "Pan_Asia",
+    "Pan_America",
+    "Commonwealth",
+    "Italy"
+  ],
+  "shiplevel": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "ships": [],
+  "shiptype": [
+    "Submarine"
+  ],
+  "slot": 1,
+  "tags": [
+    "special"
+  ],
+  "type": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

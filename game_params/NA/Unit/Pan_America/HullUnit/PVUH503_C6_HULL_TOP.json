@@ -1,0 +1,13 @@
+{
+  "costCR": 810000,
+  "costXP": 13500,
+  "id": 3767283024,
+  "index": "PVUH503",
+  "name": "PVUH503_C6_HULL_TOP",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

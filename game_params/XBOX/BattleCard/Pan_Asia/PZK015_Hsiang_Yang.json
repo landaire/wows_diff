@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4278375632,
+  "index": "PZK015",
+  "maxLevel": 2,
+  "name": "PZK015_Hsiang_Yang",
+  "personalCardBonus": {
+    "clan": "PCOK609_CLAN_DD_Torp"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PZSD110_Hsiang_Yang"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

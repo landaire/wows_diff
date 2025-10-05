@@ -1,0 +1,13 @@
+{
+  "costCR": 990000,
+  "costXP": 0,
+  "id": 3350146768,
+  "index": "PJUB901",
+  "name": "PJUB901_CV10_TB_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

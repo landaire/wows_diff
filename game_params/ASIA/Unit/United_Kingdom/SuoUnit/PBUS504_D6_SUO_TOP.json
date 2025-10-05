@@ -1,0 +1,13 @@
+{
+  "costCR": 510000,
+  "costXP": 6500,
+  "id": 3765874640,
+  "index": "PBUS504",
+  "name": "PBUS504_D6_SUO_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

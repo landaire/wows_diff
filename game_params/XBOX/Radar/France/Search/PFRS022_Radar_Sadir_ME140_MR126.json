@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4271291216,
+  "index": "PFRS022",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/radar/search/FRS022_Radar_Sadir_ME140_MR126/FRS022_Radar_Sadir_ME140_MR126.model",
+  "name": "PFRS022_Radar_Sadir_ME140_MR126",
+  "typeinfo": {
+    "nation": "France",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

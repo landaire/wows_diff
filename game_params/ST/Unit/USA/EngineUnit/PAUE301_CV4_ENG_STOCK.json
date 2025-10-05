@@ -1,0 +1,13 @@
+{
+  "costCR": 20000,
+  "costXP": 0,
+  "id": 3979194352,
+  "index": "PAUE301",
+  "name": "PAUE301_CV4_ENG_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

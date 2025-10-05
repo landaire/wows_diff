@@ -1,0 +1,135 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "convoyShips": 6,
+    "damageRatio": 0.5,
+    "filterKeyShips": {
+      "isAlive": true,
+      "roles": [
+        "roleConvoy"
+      ]
+    },
+    "filterKeyShipsMe": {
+      "roles": [
+        "roleDefender"
+      ]
+    }
+  },
+  "enabled": true,
+  "events": [
+    [
+      "meAttack",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "damage",
+          "value"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ],
+        [
+          "subInstruction",
+          [
+            "counter",
+            "a",
+            "/",
+            "me",
+            "health"
+          ],
+          ">=",
+          "constant",
+          "damageRatio"
+        ],
+        [
+          "me",
+          "appropriate",
+          ":",
+          "constant",
+          "filterKeyShipsMe"
+        ],
+        [
+          "subInstruction",
+          [
+            "battle",
+            "filteredPlayersCount",
+            ":",
+            "constant",
+            "filterKeyShips"
+          ],
+          "==",
+          "constant",
+          "convoyShips"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 3929203632,
+  "index": "PCH348",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH348_CONVOY_TransportsAreAlive",
+  "onePerBattle": true,
+  "shipCategories": [
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "earlyAccess",
+    "ultimate",
+    "upgradeableUltimate",
+    "superShip"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "CONVOY_TRANSPORTSAREALIVE",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_CONVOY_DEFENDERS",
+  "uiType": "service_medal"
+}

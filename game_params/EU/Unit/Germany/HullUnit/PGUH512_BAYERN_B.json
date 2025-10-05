@@ -1,0 +1,13 @@
+{
+  "costCR": 1000000,
+  "costXP": 16500,
+  "id": 3757846320,
+  "index": "PGUH512",
+  "name": "PGUH512_BAYERN_B",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

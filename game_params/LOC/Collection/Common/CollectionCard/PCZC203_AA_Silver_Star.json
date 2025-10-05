@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC203_AA_SILVER_STAR_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4082015152,
+  "index": "PCZC203",
+  "name": "PCZC203_AA_Silver_Star",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 1200000,
+  "costXP": 16000,
+  "id": 3504779248,
+  "index": "PAUS753",
+  "name": "PAUS753_SUO_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

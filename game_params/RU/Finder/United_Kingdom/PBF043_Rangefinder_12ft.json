@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4249021392,
+  "index": "PBF043",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/finder/BF043_Rangefinder_12ft/BF043_Rangefinder_12ft.model",
+  "name": "PBF043_Rangefinder_12ft",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Finder"
+  }
+}

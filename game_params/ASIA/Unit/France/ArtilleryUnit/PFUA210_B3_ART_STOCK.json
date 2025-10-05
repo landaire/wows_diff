@@ -1,0 +1,13 @@
+{
+  "costCR": 30000,
+  "costXP": 0,
+  "id": 4074745680,
+  "index": "PFUA210",
+  "name": "PFUA210_B3_ART_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

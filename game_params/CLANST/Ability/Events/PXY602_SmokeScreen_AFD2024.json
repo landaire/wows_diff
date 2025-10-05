@@ -1,0 +1,89 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "smokePlane",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "climbAngle": 55,
+      "descIDs": "",
+      "flyAwayTime": 6.0,
+      "iconIDs": "",
+      "lifeTime": 90.0,
+      "livePointEffect": "particles/SmokeScreen.xml",
+      "planeName": "PAAC999_SmokePlane",
+      "pointHeight": 300.0,
+      "pointRadius": 1000.0,
+      "smokeRadius": 1000.0,
+      "spawnPointEffect": "particles/SmokeScreen_spawn.xml",
+      "specialSoundID": "Default",
+      "startDelayTime": 2.0,
+      "timeFromHeaven": 3.0,
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "aimRange": 100.0,
+      "usageType": "position",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 40.0
+  },
+  "Pinata2024": {
+    "availableBuoyancyStates": [],
+    "consumableType": "smokePlane",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "SpecialSoundID": "Pinata_SmokeScreen",
+      "climbAngle": 55,
+      "descIDs": "",
+      "flyAwayTime": 6.0,
+      "iconIDs": "",
+      "lifeTime": 120.0,
+      "livePointEffect": "particles/SmokeScreen.xml",
+      "planeName": "PAAC999_SmokePlane",
+      "pointHeight": 300.0,
+      "pointRadius": 1000.0,
+      "smokeRadius": 1000.0,
+      "spawnPointEffect": "particles/SmokeScreen_spawn.xml",
+      "specialSoundID": "Default",
+      "startDelayTime": 2.0,
+      "timeFromHeaven": 3.0,
+      "titleIDs": ""
+    },
+    "numConsumables": 1,
+    "periodical": true,
+    "preparationTime": 30.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "aimRange": 100.0,
+      "usageType": "position",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 3662847248,
+  "index": "PXY602",
+  "name": "PXY602_SmokeScreen_AFD2024",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

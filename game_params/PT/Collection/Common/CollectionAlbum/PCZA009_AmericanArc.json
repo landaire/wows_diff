@@ -1,0 +1,88 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 5,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL029_USA_CA_Coll_Free",
+    "PCL030_USA_CA_Coll_Prem"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA009_AMERICAN_ARC",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4285504432,
+  "index": "PCZA009",
+  "isPuzzle": false,
+  "name": "PCZA009_AmericanArc",
+  "rewards": [
+    "<Permoflage shipId=\"PASC208_Cleveland\" idx=\"PAES408_FREEDOM_CLEVELAND\" onlySilver=\"0\" count=\"1\"/>",
+    "<Multiboost shipId=\"PASC208_Cleveland\" idx=\"PCEU008_Multi_std8\" compensationType=\"GOLD\" compensationValue=\"0\" count=\"1\"/>",
+    "<Item idx=\"PCEE191_US_CL_flag\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_AMERICAN_ARCSUBCOLLECTION_NAME",
+      "'aa",
+      [
+        "<SetUnlock unlockName=\"Second_Ensign_USCruiser\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_AMERICAN_ARCSUBCOLLECTION_NAME",
+      "'bb",
+      [
+        "<SetUnlock unlockName=\"Second_Ensign_USBattleship\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_AMERICAN_ARCSUBCOLLECTION_NAME",
+      "'cc",
+      [
+        "<SetUnlock unlockName=\"Second_Ensign_USAirCarrier\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_AMERICAN_ARCSUBCOLLECTION_NAME",
+      "'dd",
+      [
+        "<SetUnlock unlockName=\"Second_Ensign_USDestroyer\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FIFTH_AMERICAN_ARCSUBCOLLECTION_NAME",
+      "'ee",
+      [
+        "<SetUnlock unlockName=\"Multi_Camo_USCruiser\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SIXTH_AMERICAN_ARCSUBCOLLECTION_NAME",
+      "'ff",
+      [
+        "<SetUnlock unlockName=\"Multi_Camo_USBattleship\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SEVENTH_AMERICAN_ARCSUBCOLLECTION_NAME",
+      "'gg",
+      [
+        "<SetUnlock unlockName=\"Multi_Camo_USAirCarrier\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_EIGHTH_AMERICAN_ARCSUBCOLLECTION_NAME",
+      "'hh",
+      [
+        "<SetUnlock unlockName=\"Multi_Camo_USDestroyer\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC053_YAMAMOTO_LIEUTENANT_COMMANDER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4239301552,
+  "index": "PCZC053",
+  "name": "PCZC053_Yamamoto_Lieutenant_Commander",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

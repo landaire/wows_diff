@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2194860496,
+  "index": "PRF2002",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/finder/RF2002_rangefinder_9ft/RF2002_rangefinder_9ft.model",
+  "name": "PRF2002_rangefinder_9ft",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Finder"
+  }
+}

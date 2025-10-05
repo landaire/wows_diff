@@ -1,0 +1,13 @@
+{
+  "costCR": 1500000,
+  "costXP": 18000,
+  "id": 3557764560,
+  "index": "PRUB703",
+  "name": "PRUB703_CV8_TB_TOP",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

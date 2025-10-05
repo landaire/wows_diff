@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA016_SovietBBArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC338_SOVIETBBARC_BALTIETS_PISTOL_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3940457392,
+  "index": "PCZC338",
+  "name": "PCZC338_SovietBBArc_Baltiets_Pistol",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

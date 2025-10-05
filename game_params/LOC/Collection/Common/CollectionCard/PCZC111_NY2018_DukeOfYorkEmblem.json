@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA006_HappyNewYear2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC111_NY2018_DUKEOFYORKEMBLEM_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4178484144,
+  "index": "PCZC111",
+  "name": "PCZC111_NY2018_DukeOfYorkEmblem",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

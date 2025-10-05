@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA021_CAPT",
+  "compensationCR": 0,
+  "description": "IDS_PCZC448_CAPT_3_1_HALLOWEEN_DESCRIPTION",
+  "hasVideo": true,
+  "id": 3825114032,
+  "index": "PCZC448",
+  "name": "PCZC448_CAPT_3_1_halloween",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

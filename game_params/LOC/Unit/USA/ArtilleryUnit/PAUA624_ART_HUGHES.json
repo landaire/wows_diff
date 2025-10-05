@@ -1,0 +1,13 @@
+{
+  "costCR": 420000,
+  "costXP": 0,
+  "id": 3640635376,
+  "index": "PAUA624",
+  "name": "PAUA624_ART_HUGHES",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

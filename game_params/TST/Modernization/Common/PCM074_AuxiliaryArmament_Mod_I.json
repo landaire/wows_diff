@@ -1,0 +1,122 @@
+{
+  "canCharge": true,
+  "costCR": 3000000,
+  "excludes": [
+    "PXSA005_Hellcarrier",
+    "PXSB006_Paris",
+    "PXSB007_Alldestroyer",
+    "PXSC004_Galaxy",
+    "PXSC005_Zaya",
+    "PXSC006_Norma",
+    "PXSC007_Aurora",
+    "PXSD004_FlyFire",
+    "PXSD005_Blue_Aster",
+    "PXSD002_Benson_1945_H2017",
+    "PXSD009_Kiev_H2018",
+    "PXSD008_Z_23_H2018",
+    "PXSC009_Mogami_H2018",
+    "PXSC002_Charles_Martel_H2017",
+    "PXSB008_North_Carolina_H2018",
+    "PXSB005_Bismarck_H2017",
+    "PXSB002_Rasputin",
+    "PXSB011_Montana_H2019",
+    "PXSB009_Yamato_H2019",
+    "PGSB920_Schlieffen",
+    "PXSD025_Berserk",
+    "PXSC101_Hindenburg_H2020",
+    "PXSB103_France_H2020",
+    "PXSC016_Monster_Cruiser",
+    "PXSC102_Smolensk_H2020",
+    "PXSB015_Crab_Battleship",
+    "PWSD990_Sodermanland",
+    "PRSC990_Petrozavodsk",
+    "PGSD990_Lubeck",
+    "PHSC990_Vrijheid",
+    "PGSA990_Otto_Lilienthal",
+    "PISB990_Amerigo_Vespucci",
+    "PRSC980_Vladimir_Monomakh"
+  ],
+  "group": [
+    "upgradeable",
+    "disabled",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "event",
+    "specialUnsellable",
+    "demoWithoutStats",
+    "demoWithoutStatsPrem",
+    "demoWithoutStatsTemporary",
+    "experimental",
+    "start",
+    "peculiar",
+    "clan",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "superShip",
+    "demoWithStats",
+    "notForBattle",
+    "coopOnly"
+  ],
+  "id": 4216508336,
+  "index": "PCM074",
+  "modifiers": {
+    "AAAuraDamage": {
+      "AirCarrier": 1.15,
+      "Auxiliary": 1.15,
+      "Battleship": 1.15,
+      "Cruiser": 1.15,
+      "Destroyer": 1.15,
+      "Submarine": 1.15
+    },
+    "AABubbleDamage": {
+      "AirCarrier": 1.15,
+      "Auxiliary": 1.15,
+      "Battleship": 1.15,
+      "Cruiser": 1.15,
+      "Destroyer": 1.15,
+      "Submarine": 1.15
+    },
+    "AAInnerExtraBubbles": 2,
+    "GSShotDelay": 0.8
+  },
+  "name": "PCM074_AuxiliaryArmament_Mod_I",
+  "nation": [
+    "France",
+    "USA",
+    "Russia",
+    "Japan",
+    "United_Kingdom",
+    "Germany",
+    "Italy",
+    "Europe",
+    "Netherlands",
+    "Spain",
+    "Pan_Asia",
+    "Pan_America",
+    "Commonwealth"
+  ],
+  "shiplevel": [
+    9,
+    10,
+    11
+  ],
+  "ships": [
+    "PASB013_Arkansas_1912"
+  ],
+  "shiptype": [
+    "Battleship",
+    "Cruiser",
+    "Destroyer",
+    "AirCarrier"
+  ],
+  "slot": 5,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

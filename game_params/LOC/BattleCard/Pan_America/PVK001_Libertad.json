@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4293055824,
+  "index": "PVK001",
+  "maxLevel": 2,
+  "name": "PVK001_Libertad",
+  "personalCardBonus": {
+    "clan": "PCOK600_CLAN_BB_Close"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PVSB010_Libertad"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

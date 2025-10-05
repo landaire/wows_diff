@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC065_YAMAMOTO_PISTOL_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4226718640,
+  "index": "PCZC065",
+  "name": "PCZC065_Yamamoto_Pistol",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

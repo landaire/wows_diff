@@ -1,0 +1,13 @@
+{
+  "costCR": 42000,
+  "costXP": 0,
+  "id": 3977096912,
+  "index": "PJUE303",
+  "name": "PJUE303_B4_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

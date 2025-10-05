@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4287812912,
+  "index": "PWK006",
+  "maxLevel": 2,
+  "name": "PWK006_Ragnar",
+  "personalCardBonus": {
+    "clan": "PCOK607_CLAN_DD_Art"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PWSD710_Ragnar"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

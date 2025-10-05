@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4258458064,
+  "index": "PRF034",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/finder/RF034_SPN2_4m_RF_Low_Angle/RF034_SPN2_4m_RF_Low_Angle.model",
+  "name": "PRF034_SPN2_4m_RF_Low_Angle",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Finder"
+  }
+}

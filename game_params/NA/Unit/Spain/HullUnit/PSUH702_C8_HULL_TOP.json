@@ -1,0 +1,13 @@
+{
+  "costCR": 2100000,
+  "costXP": 36000,
+  "id": 3558616496,
+  "index": "PSUH702",
+  "name": "PSUH702_C8_HULL_TOP",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

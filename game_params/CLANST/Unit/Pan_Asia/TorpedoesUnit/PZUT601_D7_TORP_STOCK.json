@@ -1,0 +1,13 @@
+{
+  "costCR": 430000,
+  "costXP": 0,
+  "id": 3664129232,
+  "index": "PZUT601",
+  "name": "PZUT601_D7_TORP_STOCK",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

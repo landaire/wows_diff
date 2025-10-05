@@ -44,7 +44,7 @@
   "customMiscs": {},
   "customShotSoundType": "",
   "damagedEffect": "",
-  "deadMesh": "",
+  "deadMesh": "content/gameplay/panasia/gun/dcharge/ZGB548_Depth_Charge_Thrower_L/ZGB548_Depth_Charge_Thrower_L_dead.model",
   "deadZone": [],
   "disabledNodes": [],
   "fallRollAcceleration": 0.0,

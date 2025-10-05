@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4188450128,
+  "index": "PVUS101",
+  "name": "PVUS101_SUO_ALMIRANTE_ABREU",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

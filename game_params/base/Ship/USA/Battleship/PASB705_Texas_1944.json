@@ -8963,26 +8963,6 @@
   "battleSignalsOrder": [],
   "canCharge": true,
   "canEquipCamouflage": true,
-  "custom": {
-    "ASIA": {
-      "group": "premium"
-    },
-    "CN": {
-      "group": "premium"
-    },
-    "EU": {
-      "group": "premium"
-    },
-    "NA": {
-      "group": "premium"
-    },
-    "RU": {
-      "group": "premium"
-    },
-    "ST": {
-      "group": "premium"
-    }
-  },
   "defaultCrew": null,
   "flagsScale": 0.8,
   "group": "special",

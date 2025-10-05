@@ -1,0 +1,184 @@
+{
+  "SubmarineTorpedoParams": {
+    "affectedByPTZ": [
+      true,
+      true,
+      true
+    ],
+    "applyPTZCoeff": [
+      true,
+      false,
+      false
+    ],
+    "countdown": 0.1,
+    "dropTargetAtDistance": {
+      "Battleship": [
+        1000,
+        1000,
+        1000
+      ],
+      "Cruiser": [
+        600,
+        600,
+        600
+      ],
+      "Destroyer": [
+        400,
+        400,
+        400
+      ],
+      "Submarine": [
+        250,
+        250,
+        250
+      ],
+      "default": [
+        900,
+        900,
+        900
+      ]
+    },
+    "dynamicVisibilityCoeff": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "maxDepthLevel": [
+      80.0,
+      80.0,
+      80.0
+    ],
+    "maxVerticalSpeed": [
+      3.75,
+      3.75,
+      3.75
+    ],
+    "maxYaw": [
+      2.7,
+      3.4,
+      3.4
+    ],
+    "predictionShiftCoefs": [
+      [
+        1.0,
+        0.5
+      ],
+      [
+        1.0,
+        0.5
+      ],
+      [
+        1.0,
+        0.5
+      ]
+    ],
+    "predictionShiftDropDistance": [
+      3600.0,
+      3600.0,
+      3600.0
+    ],
+    "searchAngle": [
+      90,
+      90,
+      90
+    ],
+    "searchRadius": [
+      20000,
+      80000,
+      80000
+    ],
+    "speedDecrCoef": [
+      0.8,
+      0.8,
+      0.8
+    ],
+    "targetLostDegradationTime": 3.0,
+    "useEnhancedRegenerationRules": false,
+    "verticalAcceleration": [
+      1.125,
+      1.125,
+      1.125
+    ],
+    "yawChangeSpeed": [
+      1.35,
+      1.7,
+      1.7
+    ]
+  },
+  "acidProb": 0.0,
+  "additionalShips": [],
+  "affectedByPTZ": true,
+  "alertDist": 100,
+  "alphaDamage": 38000.0,
+  "alphaPiercingHE": 1000.0,
+  "ammoType": "torpedo",
+  "applyPTZCoeff": true,
+  "armingTime": 1.0,
+  "blowUpEffect": "particles/guns/TORP_Explo_UWater.xml",
+  "bulletDiametr": 0.533,
+  "buoyancyToDamageCoeff": {},
+  "burnProb": 0.0,
+  "costCR": 250,
+  "customSoundPostfix": "",
+  "customUIPostfix": "",
+  "damage": 1200.0,
+  "damageCoeffMaxPing": 2.0,
+  "depth": 0.14,
+  "directDamage": 0.0,
+  "distanceOfDamage": [],
+  "dropToTheGroundEffect": "particles/guns/TORP_Drop_Ground.xml",
+  "fallDistance": 20.0,
+  "fallTime": 20.0,
+  "fallingTimeCoef": 1,
+  "fallingTracerEffect": "particles/Empty_FX.xml",
+  "floodGeneration": true,
+  "ground": "particles/guns/TORP_Explo_Ground.xml",
+  "hitDecalSize": 0.0,
+  "id": 4247143120,
+  "ignoreBuoyancyStates": [],
+  "ignoreClasses": [],
+  "index": "PJPT045",
+  "isDeepWater": false,
+  "isFeedbackAndMarkerHidden": false,
+  "maneuverDist": 0.0,
+  "maxDist": 326.67,
+  "model": "content/gameplay/japan/projectile/torpedo/JPT007_Sea_Torpedo_533mm_Type43/JPT007_Sea_Torpedo_533mm_Type43.model",
+  "name": "PJPT045_533MM_I58",
+  "onHit": null,
+  "ownTracerEffect": "particles/guns/TORP_Tracer.xml",
+  "parachuteHeightCoeff": 0.75,
+  "parachuteModel": "content/location/misc/gameplay/LMY052_Parachute/LMY052_Parachute.model",
+  "parachuteTimeCoeff": 0.95,
+  "planeAmmoType": "torpedo",
+  "projDestroyedEffect": [
+    "particles/guns/TORP_Explo_Ship.xml",
+    "particles/guns/TORP_Explo_Ship_1.xml",
+    "particles/guns/TORP_Explo_Ship_2.xml",
+    "particles/guns/TORP_Explo_Ship_3.xml"
+  ],
+  "shipDestroyEffect": "particles/Empty_FX.xml",
+  "speed": 62.0,
+  "splashArmorCoeff": 0.4,
+  "splashCubeSize": 1.3,
+  "torpedoProjDestroyedEffect": [
+    "particles/guns/TORP_Explo_Ship.xml",
+    "particles/guns/TORP_Explo_Ship_1.xml",
+    "particles/guns/TORP_Explo_Ship_2.xml",
+    "particles/guns/TORP_Explo_Ship_3.xml"
+  ],
+  "torpedoType": 1,
+  "tracerEffect": "particles/guns/TORP_Tracer.xml",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "Torpedo",
+    "type": "Projectile"
+  },
+  "underwaterTracerEffect": "particles/guns/TORP_Tracer_UWater.xml",
+  "useDefaultDepth": true,
+  "useEnhancedRegenerationRules": false,
+  "uwCritical": 2.46,
+  "visibilityFactor": 1.3,
+  "volume": 0.9,
+  "water": "particles/guns/TORP_Drop_Ship_Water.xml",
+  "withParachute": false
+}

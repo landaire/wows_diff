@@ -1,0 +1,22 @@
+{
+  "angle": 0.0,
+  "dist": 0.0,
+  "hidePlane": false,
+  "id": 4286772976,
+  "index": "PIC007",
+  "isInvisible": false,
+  "launchEffectName": "particles/Empty_FX.xml",
+  "linkedGunAngles": [],
+  "linkedGunName": null,
+  "linkedRotationSpeedCoeff": 1.0,
+  "model": "content/gameplay/italy/catapult/IC007_Catapult_Giussano/IC007_Catapult_Giussano.model",
+  "name": "PIC007_Catapult_Giussano",
+  "planeOffsets": {},
+  "rotateTime": 0.0,
+  "translateDelay": 0.0,
+  "typeinfo": {
+    "nation": "Italy",
+    "species": null,
+    "type": "Catapult"
+  }
+}

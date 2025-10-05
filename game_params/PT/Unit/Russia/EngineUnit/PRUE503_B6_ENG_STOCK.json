@@ -1,0 +1,13 @@
+{
+  "costCR": 130000,
+  "costXP": 0,
+  "id": 3767381456,
+  "index": "PRUE503",
+  "name": "PRUE503_B6_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 3500000,
+  "costXP": 0,
+  "id": 3348901840,
+  "index": "PBUH902",
+  "name": "PBUH902_CONQUEROR",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

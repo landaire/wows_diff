@@ -1,0 +1,13 @@
+{
+  "costCR": 155000,
+  "costXP": 1800,
+  "id": 3868634832,
+  "index": "PJUS406",
+  "name": "PJUS406_Suo",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

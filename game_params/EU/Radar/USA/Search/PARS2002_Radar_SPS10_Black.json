@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2195110896,
+  "index": "PARS2002",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/radar/search/ARS2002_Radar_SPS10_Black/ARS2002_Radar_SPS10_Black.model",
+  "name": "PARS2002_Radar_SPS10_Black",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

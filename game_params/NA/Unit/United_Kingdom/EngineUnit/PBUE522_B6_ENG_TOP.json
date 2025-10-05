@@ -1,0 +1,13 @@
+{
+  "costCR": 300000,
+  "costXP": 5000,
+  "id": 3747459024,
+  "index": "PBUE522",
+  "name": "PBUE522_B6_ENG_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

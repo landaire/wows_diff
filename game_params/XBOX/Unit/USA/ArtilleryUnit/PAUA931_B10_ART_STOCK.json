@@ -1,0 +1,13 @@
+{
+  "costCR": 2200000,
+  "costXP": 0,
+  "id": 3318722544,
+  "index": "PAUA931",
+  "name": "PAUA931_B10_ART_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

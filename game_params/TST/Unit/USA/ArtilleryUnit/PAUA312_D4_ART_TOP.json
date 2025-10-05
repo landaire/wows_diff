@@ -1,0 +1,13 @@
+{
+  "costCR": 100000,
+  "costXP": 650,
+  "id": 3967791088,
+  "index": "PAUA312",
+  "name": "PAUA312_D4_ART_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

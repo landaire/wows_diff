@@ -1,0 +1,13 @@
+{
+  "costCR": 380000,
+  "costXP": 0,
+  "id": 3547180304,
+  "index": "PXUE713",
+  "name": "PXUE713_ENG_N_Carolina_H2018",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

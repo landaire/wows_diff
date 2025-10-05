@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4163713232,
+  "index": "PZRF125",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/radar/fcontrol/ZRF125_Radar_Type_978Q/ZRF125_Radar_Type_978Q.model",
+  "name": "PZRF125_Radar_Type_978Q",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "Fire control",
+    "type": "Radar"
+  }
+}

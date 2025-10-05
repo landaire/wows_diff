@@ -1,7 +1,9 @@
 {
   "canCharge": true,
   "costCR": 250000,
-  "excludes": [],
+  "excludes": [
+    "PFSS710_Surcouf"
+  ],
   "group": [
     "upgradeable",
     "disabled",

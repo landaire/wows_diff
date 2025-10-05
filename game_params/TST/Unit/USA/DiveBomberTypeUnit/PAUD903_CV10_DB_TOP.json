@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 24000,
+  "id": 3347984368,
+  "index": "PAUD903",
+  "name": "PAUD903_CV10_DB_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

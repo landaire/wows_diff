@@ -1,0 +1,71 @@
+{
+  "availableBattleCardType": [],
+  "customIconName": "PCVO031",
+  "customMatchmakerBG": "PCVO031",
+  "difficulty": "normal",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": false
+  },
+  "id": 4261981104,
+  "index": "PCVO031",
+  "map": "",
+  "name": "PCVO031_EV_HL_23_e02_Halloween_2023",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        1
+      ],
+      "Battleship": [
+        0,
+        4
+      ],
+      "Cruiser": [
+        0,
+        4
+      ],
+      "Destroyer": [
+        0,
+        3
+      ],
+      "Submarine": [
+        0,
+        3
+      ]
+    },
+    "filters": [
+      {
+        "shipLevels": [
+          8,
+          9
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship",
+          "AirCarrier",
+          "Submarine"
+        ]
+      }
+    ],
+    "minShips": 4,
+    "totalShips": 7
+  },
+  "scenariosByMap": {
+    "spaces/e02_Halloween_2017": [
+      "PCVO031_EV_HL_23_e02_Halloween_2023"
+    ]
+  },
+  "subtype": "event",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Operation",
+    "type": "BattleScript"
+  }
+}

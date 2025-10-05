@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4210223952,
+  "index": "PFF080",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/finder/FF080_5m_Rangefinder/FF080_5m_Rangefinder.model",
+  "name": "PFF080_5m_Rangefinder",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Finder"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "constants": {
+    "frags": 7,
+    "kill": 1,
+    "ribbonTypes": [
+      "RIBBON_FRAG"
+    ]
+  },
+  "enabled": true,
+  "events": [
+    [
+      "meRibbon",
+      [
+        [
+          "me",
+          "inReferralSquad"
+        ],
+        [
+          "ribbon",
+          "ids",
+          "in",
+          "constant",
+          "ribbonTypes"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "constant",
+          "kill"
+        ]
+      ]
+    ],
+    [
+      "onRibbon",
+      [
+        [
+          "me",
+          "inReferralSquad"
+        ],
+        [
+          "forReferralSquad",
+          [
+            "counter",
+            "a"
+          ],
+          ">=",
+          "constant",
+          "frags"
+        ]
+      ],
+      [
+        [
+          "forReferralSquad",
+          [
+            "doAction",
+            "done"
+          ]
+        ]
+      ]
+    ]
+  ],
+  "id": 4257138608,
+  "index": "PCOC036",
+  "keepCounters": false,
+  "name": "PCOC036",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "AchievementCondition",
+    "type": "Other"
+  },
+  "uiDescription": "IDS_ACHIEVEMENT_CONDITION_REF_MORE_THAN_COORDINATED_DESCRIPTION",
+  "uiHeader": "IDS_ACHIEVEMENT_CONDITION_REF_MORE_THAN_COORDINATED_TITLE"
+}

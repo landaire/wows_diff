@@ -1,0 +1,26 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "influencer_ludwig",
+  "group": 3,
+  "hidden": true,
+  "id": 3594383280,
+  "index": "PCEE668",
+  "isTemplate": false,
+  "name": "PCEE668_Influencer_Ludwig_flag",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "influencer",
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 48000,
+  "costXP": 0,
+  "id": 4062981840,
+  "index": "PJUH221",
+  "name": "PJUH221_Tatsuta_1919",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

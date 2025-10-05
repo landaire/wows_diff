@@ -1,0 +1,78 @@
+{
+  "id": 4257793968,
+  "index": "PCOO035",
+  "logic": {
+    "InteractiveObjectEvents": {
+      "OnMouseClick": {
+        "InteractiveObjectActions": {
+          "mousePressAction": {
+            "eventData": {
+              "routeId": "ny_ship_token"
+            },
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "ui.navigate"
+          },
+          "mousePressAction2": {
+            "eventData": [
+              "io:newyear25_shiptoken_locked_click"
+            ],
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "statistics.log"
+          }
+        },
+        "activeTime": 0.0,
+        "requiredState": "hovered",
+        "targetState": "selected",
+        "type": "onMouseClick"
+      },
+      "OnMouseOver": {
+        "InteractiveObjectActions": null,
+        "activeTime": -1.0,
+        "requiredState": "idle",
+        "targetState": "hovered",
+        "type": "onMouseOver"
+      },
+      "OnMouseOverEnd": {
+        "InteractiveObjectActions": null,
+        "activeTime": 0.0,
+        "requiredState": "hovered",
+        "targetState": "released",
+        "type": "onMouseOverEnd"
+      },
+      "onUIMouseClick": {
+        "InteractiveObjectActions": {
+          "mousePressAction": {
+            "eventData": {
+              "routeId": "ny_ship_token"
+            },
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "ui.navigate"
+          },
+          "mousePressAction2": {
+            "eventData": [
+              "io:newyear25_shiptoken_locked_marker_click"
+            ],
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "statistics.log"
+          }
+        },
+        "activeTime": 0.0,
+        "requiredState": "hovered",
+        "targetState": "selected",
+        "type": "onUISelect"
+      }
+    },
+    "state": "idle"
+  },
+  "name": "PCOO035_NewYear25_shipToken_locked",
+  "type": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "InteractiveObject",
+    "type": "Other"
+  }
+}

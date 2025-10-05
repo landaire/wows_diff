@@ -1,0 +1,75 @@
+{
+  "availableBattleCardType": [],
+  "customIconName": "",
+  "customMatchmakerBG": "",
+  "difficulty": "normal",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "id": 4293438384,
+  "index": "PCVO001",
+  "map": "",
+  "name": "PCVO001_OP_01_01_37_Ridge",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        1
+      ],
+      "Battleship": [
+        0,
+        3
+      ],
+      "Cruiser": [
+        0,
+        4
+      ],
+      "Destroyer": [
+        0,
+        3
+      ],
+      "Submarine": [
+        0,
+        -1
+      ]
+    },
+    "filters": [
+      {
+        "shipLevels": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship",
+          "AirCarrier"
+        ]
+      }
+    ],
+    "minShips": 4,
+    "totalShips": 7
+  },
+  "scenariosByMap": {
+    "spaces/37_Ridge": [
+      "PCVO001_OP_01_01_37_Ridge",
+      "PCVO001_OP_01_01_37_Ridge_HIGH_LVL"
+    ]
+  },
+  "subtype": "normal",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Operation",
+    "type": "BattleScript"
+  }
+}

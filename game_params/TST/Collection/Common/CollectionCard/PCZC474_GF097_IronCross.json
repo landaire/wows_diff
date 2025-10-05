@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA022_GF097",
+  "compensationCR": 0,
+  "description": "IDS_PCZC474_GF097_IRONCROSS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3797851056,
+  "index": "PCZC474",
+  "name": "PCZC474_GF097_IronCross",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

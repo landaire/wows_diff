@@ -1,0 +1,13 @@
+{
+  "costCR": 620000,
+  "costXP": 8000,
+  "id": 3746312176,
+  "index": "PAUH523",
+  "name": "PAUH523_Farragut_1945",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

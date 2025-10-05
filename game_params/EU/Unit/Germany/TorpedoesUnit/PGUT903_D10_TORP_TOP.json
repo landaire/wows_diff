@@ -1,0 +1,13 @@
+{
+  "costCR": 2200000,
+  "costXP": 30000,
+  "id": 3347459888,
+  "index": "PGUT903",
+  "name": "PGUT903_D10_TORP_TOP",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

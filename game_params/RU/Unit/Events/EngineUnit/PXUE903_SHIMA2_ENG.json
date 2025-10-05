@@ -1,0 +1,13 @@
+{
+  "costCR": 1650000,
+  "costXP": 0,
+  "id": 3347950864,
+  "index": "PXUE903",
+  "name": "PXUE903_SHIMA2_ENG",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

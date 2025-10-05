@@ -1,12 +1,11 @@
 {
-  "background": "PCZA034_Jap_BB_EA_Dragons_bg",
+  "background": null,
   "canCharge": true,
   "cardCost": 2,
   "compensationCR": 0,
   "containersID": [
     "PCL191_Jap_EA_126_Coll"
   ],
-  "custom": {},
   "description": "IDS_DESCRIPTION_PCZA034_JAP_BB_DRAGONS",
   "disabled": false,
   "duplicatesCR": 15000,

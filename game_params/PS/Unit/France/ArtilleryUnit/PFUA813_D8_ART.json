@@ -1,0 +1,13 @@
+{
+  "costCR": 650000,
+  "costXP": 0,
+  "id": 3442454352,
+  "index": "PFUA813",
+  "name": "PFUA813_D8_ART",
+  "typeinfo": {
+    "nation": "France",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

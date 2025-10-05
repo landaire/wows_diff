@@ -1,0 +1,13 @@
+{
+  "costCR": 10000,
+  "costXP": 0,
+  "id": 4178325488,
+  "index": "PAUH111",
+  "name": "PAUH111_Sampson_1917",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

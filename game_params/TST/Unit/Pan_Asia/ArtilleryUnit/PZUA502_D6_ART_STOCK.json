@@ -1,0 +1,13 @@
+{
+  "costCR": 170000,
+  "costXP": 0,
+  "id": 3768560848,
+  "index": "PZUA502",
+  "name": "PZUA502_D6_ART_STOCK",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

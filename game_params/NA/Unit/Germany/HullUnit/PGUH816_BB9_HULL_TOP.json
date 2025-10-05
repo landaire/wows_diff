@@ -1,0 +1,13 @@
+{
+  "costCR": 5100000,
+  "costXP": 60000,
+  "id": 3439079216,
+  "index": "PGUH816",
+  "name": "PGUH816_BB9_HULL_TOP",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

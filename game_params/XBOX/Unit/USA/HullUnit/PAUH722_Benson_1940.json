@@ -1,0 +1,13 @@
+{
+  "costCR": 1400000,
+  "costXP": 18000,
+  "id": 3537645552,
+  "index": "PAUH722",
+  "name": "PAUH722_Benson_1940",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

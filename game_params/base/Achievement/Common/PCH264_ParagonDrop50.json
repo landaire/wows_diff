@@ -6,7 +6,6 @@
   "constants": {
     "droppedBranchesCount": 50
   },
-  "custom": {},
   "enabled": true,
   "events": [
     [

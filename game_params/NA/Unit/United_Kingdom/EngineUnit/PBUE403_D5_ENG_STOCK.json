@@ -1,0 +1,13 @@
+{
+  "costCR": 125000,
+  "costXP": 0,
+  "id": 3872239568,
+  "index": "PBUE403",
+  "name": "PBUE403_D5_ENG_STOCK",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

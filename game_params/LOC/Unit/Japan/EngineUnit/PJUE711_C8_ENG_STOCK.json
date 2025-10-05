@@ -1,0 +1,13 @@
+{
+  "costCR": 650000,
+  "costXP": 0,
+  "id": 3549277904,
+  "index": "PJUE711",
+  "name": "PJUE711_C8_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

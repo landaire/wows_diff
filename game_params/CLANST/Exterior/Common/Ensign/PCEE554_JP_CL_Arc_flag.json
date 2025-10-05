@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "jp_cl_arc_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3713920944,
+  "index": "PCEE554",
+  "isTemplate": false,
+  "name": "PCEE554_JP_CL_Arc_flag",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

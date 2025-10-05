@@ -7,40 +7,6 @@
     "PCL114_USA_BB0910_Coll_Free",
     "PCL115_USA_BB0910_Coll_Prem"
   ],
-  "custom": {
-    "CN": {
-      "subAlbumDiscribtions": [
-        [
-          "IDS_FIRST_USABB_0910_NAME",
-          "'aa",
-          [
-            "<Add type=\"WOWS_PREM\" count=\"1\"/>"
-          ]
-        ],
-        [
-          "IDS_SECOND_USABB_0910_NAME",
-          "'bb",
-          [
-            "<Add type=\"WOWS_PREM\" count=\"1\"/>"
-          ]
-        ],
-        [
-          "IDS_THIRD_USABB_0910_NAME",
-          "'cc",
-          [
-            "<Add type=\"WOWS_PREM\" count=\"1\"/>"
-          ]
-        ],
-        [
-          "IDS_FOURTH_USABB_0910_NAME",
-          "'dd",
-          [
-            "<Add type=\"WOWS_PREM\" count=\"1\"/>"
-          ]
-        ]
-      ]
-    }
-  },
   "description": "IDS_DESCRIPTION_PCZA024_USABB_0910",
   "disabled": false,
   "duplicatesCR": 15000,

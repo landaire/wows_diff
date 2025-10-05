@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3558846224,
+  "index": "PHUA702",
+  "name": "PHUA702_ART_DE_ZEVEN_PRO",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

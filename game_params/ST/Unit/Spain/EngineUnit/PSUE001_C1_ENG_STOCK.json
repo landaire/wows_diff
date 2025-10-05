@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4293766576,
+  "index": "PSUE001",
+  "name": "PSUE001_C1_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

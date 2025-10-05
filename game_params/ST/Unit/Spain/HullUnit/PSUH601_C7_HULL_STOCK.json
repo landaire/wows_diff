@@ -1,0 +1,13 @@
+{
+  "costCR": 855000,
+  "costXP": 0,
+  "id": 3664522672,
+  "index": "PSUH601",
+  "name": "PSUH601_C7_HULL_STOCK",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

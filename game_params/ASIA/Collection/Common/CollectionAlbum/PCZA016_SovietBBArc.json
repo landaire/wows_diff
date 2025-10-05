@@ -1,0 +1,87 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 5,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL066_SArcBB_Coll_Free",
+    "PCL067_SArcBB_Coll_Prem"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA016_SOVIETBBARC",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4278164400,
+  "index": "PCZA016",
+  "isPuzzle": false,
+  "name": "PCZA016_SovietBBArc",
+  "rewards": [
+    "<SetUnlock unlockName=\"Second_Ensign_SovietBB\" count=\"1\"/>",
+    "<SetUnlock unlockName=\"Multi_Camo_SovietBB\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_SOVIETBBARC_NAME",
+      "'aa",
+      [
+        "<SetUnlock unlockName=\"Second_Ensign_SovietCA\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_SOVIETBBARC_NAME",
+      "'bb",
+      [
+        "<Lootbox boxType=\"PCL017_OctRevolution\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_SOVIETBBARC_NAME",
+      "'cc",
+      [
+        "<SetUnlock unlockName=\"Multi_Camo_SovietCA\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_SOVIETBBARC_NAME",
+      "'dd",
+      [
+        "<Lootbox boxType=\"PCL017_OctRevolution\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FIFTH_SOVIETBBARC_NAME",
+      "'ee",
+      [
+        "<SetUnlock unlockName=\"Multi_Camo_SovietDD\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SIXTH_SOVIETBBARC_NAME",
+      "'ff",
+      [
+        "<Lootbox boxType=\"PCL017_OctRevolution\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SEVENTH_SOVIETBBARC_NAME",
+      "'gg",
+      [
+        "<SetUnlock unlockName=\"Second_Ensign_SovietDD\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_EIGHTH_SOVIETBBARC_NAME",
+      "'hh",
+      [
+        "<Lootbox boxType=\"PCL017_OctRevolution\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

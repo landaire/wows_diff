@@ -1,0 +1,16 @@
+{
+  "id": 3736782768,
+  "index": "PCOK532",
+  "level_1": {
+    "allAlphaMultiplier": 1.2
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.2
+  },
+  "name": "PCOK532_CLAN_Napoli",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

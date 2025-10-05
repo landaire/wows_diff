@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA022_GF097",
+  "compensationCR": 0,
+  "description": "IDS_PCZC467_GF097_EM_GNEISENAU_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3805191088,
+  "index": "PCZC467",
+  "name": "PCZC467_GF097_em_Gneisenau",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

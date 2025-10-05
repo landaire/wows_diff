@@ -1,0 +1,13 @@
+{
+  "costCR": 3000000,
+  "costXP": 0,
+  "id": 3349950224,
+  "index": "PHUH901",
+  "name": "PHUH901_C10_HULL_STOCK",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

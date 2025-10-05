@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3247877904,
+  "index": "PHUS998",
+  "name": "PHUS998_SUO_STATENLAND",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

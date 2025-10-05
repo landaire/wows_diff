@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 26000,
+  "id": 3522965296,
+  "index": "PGUH736",
+  "name": "PGUH736_KNESEBECK_TOP",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

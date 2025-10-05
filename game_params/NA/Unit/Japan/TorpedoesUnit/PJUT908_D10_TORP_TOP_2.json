@@ -1,0 +1,13 @@
+{
+  "costCR": 2500000,
+  "costXP": 30000,
+  "id": 3342216912,
+  "index": "PJUT908",
+  "name": "PJUT908_D10_TORP_TOP_2",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

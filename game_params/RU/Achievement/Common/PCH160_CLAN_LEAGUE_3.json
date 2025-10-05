@@ -1,0 +1,101 @@
+{
+  "battleTypes": [
+    "CLAN"
+  ],
+  "constants": {
+    "battleType": "CLAN",
+    "clanSeasonType": "regular"
+  },
+  "enabled": true,
+  "events": [
+    [
+      "afterBattle",
+      [
+        [
+          "afterBattle",
+          "battleType",
+          "==",
+          "constant",
+          "battleType"
+        ],
+        [
+          "afterBattle",
+          "clanLeague",
+          "<=",
+          "constant",
+          "3"
+        ],
+        [
+          "afterBattle",
+          "clanSeasonType",
+          "==",
+          "constant",
+          "clanSeasonType"
+        ],
+        [
+          "counter",
+          "globalA",
+          "!=",
+          "afterBattle",
+          "clanSeasonId"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ],
+        [
+          "counter",
+          "globalA",
+          "=",
+          "afterBattle",
+          "clanSeasonId"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4126335920,
+  "index": "PCH160",
+  "isTemplate": false,
+  "keepCounters": true,
+  "maxShipLevel": 10,
+  "minShipLevel": 10,
+  "multiple": true,
+  "name": "PCH160_CLAN_LEAGUE_3",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "clan",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "CLAN_SEASON_1_LEAGUE_3",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_CLAN_ONEPERSEASON",
+  "uiType": "honorable"
+}

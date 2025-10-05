@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4292012848,
+  "index": "PGF002",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF002_10_5m_Rangefinders_with_mast/GF002_10_5m_Rangefinders_with_mast.model",
+  "name": "PGF002_10_5m_Rangefinders_with_mast",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

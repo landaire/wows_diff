@@ -1,0 +1,16 @@
+{
+  "id": 3657090992,
+  "index": "PCOK608",
+  "level_1": {
+    "vulnerabilityAll": 0.8
+  },
+  "level_2": {
+    "vulnerabilityAll": 0.8
+  },
+  "name": "PCOK608_CLAN_DD_Hyb",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

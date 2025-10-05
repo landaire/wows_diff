@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 23,
+  "conditions": [
+    "<isMyShip shipLevel=\"5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isEarnBattleAchievements count=\"1\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4208345008,
+  "index": "PCQT082",
+  "isSingleBattle": true,
+  "lootStars": 4,
+  "name": "PCQT082",
+  "rewards": [
+    "<Item idx=\"PCEA021_TotalXPboost_1\" count=\"5\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT082_1",
+    "isEarnBattleAchievements",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

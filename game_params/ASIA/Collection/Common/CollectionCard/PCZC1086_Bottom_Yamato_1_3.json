@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA042_Bottom_Yamato",
+  "compensationCR": 0,
+  "description": "IDS_PCZC1086_BOTTOM_YAMATO_1_3_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3156122544,
+  "index": "PCZC1086",
+  "name": "PCZC1086_Bottom_Yamato_1_3",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

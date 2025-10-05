@@ -1,0 +1,13 @@
+{
+  "costCR": 1450000,
+  "costXP": 0,
+  "id": 3450613744,
+  "index": "PAUH805",
+  "name": "PAUH805_BUFFALO_A",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

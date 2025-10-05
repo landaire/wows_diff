@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4218239728,
+  "index": "PIRF073",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/italy/radar/fcontrol/IRF073_Radar_Mk27/IRF073_Radar_Mk27.model",
+  "name": "PIRF073_Radar_Mk27",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "Fire control",
+    "type": "Radar"
+  }
+}

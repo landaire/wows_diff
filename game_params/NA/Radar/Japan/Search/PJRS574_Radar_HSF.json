@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3692477136,
+  "index": "PJRS574",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/radar/search/JRS574_Radar_HSF/JRS574_Radar_HSF.model",
+  "name": "PJRS574_Radar_HSF",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

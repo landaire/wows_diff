@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA016_SovietBBArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC351_SOVIETBBARC_GAVRILOV_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3926825904,
+  "index": "PCZC351",
+  "name": "PCZC351_SovietBBArc_Gavrilov",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

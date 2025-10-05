@@ -1,0 +1,13 @@
+{
+  "costCR": 3400000,
+  "costXP": 0,
+  "id": 3330026768,
+  "index": "PXUH920",
+  "name": "PXUH920_MONTANA_H19_HULL",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

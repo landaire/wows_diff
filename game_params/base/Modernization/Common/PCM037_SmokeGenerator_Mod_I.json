@@ -50,6 +50,7 @@
     "PHSD610_Tromp",
     "PWSD519_Jager",
     "PZSD510_Lushun",
+    "PZSD910_Black_Lushun",
     "PFSD895_Vent",
     "PFSD015_L_Adroit",
     "PFSD016_Duchaffault",
@@ -191,6 +192,7 @@
     "PISC707_Olympian_Francesco_Ferruccio",
     "PASA028_Yorktown",
     "PASA020_Essex",
+    "PASA920_Pinata_Essex",
     "PGSC728_Wiesbaden",
     "PUSC015_Delhi",
     "PUSC016_Hobart",
@@ -217,7 +219,8 @@
     "PISB011_Affondatore",
     "PISB818_BA_Marcantonio_Colonna",
     "PBSA710_Ocean",
-    "PZSC718_Narai"
+    "PZSC718_Narai",
+    "PGSC717_Nurnberg_1944"
   ],
   "shiptype": [
     "Destroyer"

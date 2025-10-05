@@ -1,0 +1,13 @@
+{
+  "costCR": 980000,
+  "costXP": 0,
+  "id": 3347001328,
+  "index": "PAUB904",
+  "name": "PAUB904_CV10_TB_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

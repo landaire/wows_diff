@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC089_YAMAMOTO_G4M1_MODEL_11_BETTY_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4201552816,
+  "index": "PCZC089",
+  "name": "PCZC089_Yamamoto_G4M1_Model_11_Betty",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

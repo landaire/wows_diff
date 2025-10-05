@@ -1,0 +1,13 @@
+{
+  "costCR": 44000,
+  "costXP": 0,
+  "id": 3968249840,
+  "index": "PAUS311",
+  "name": "PAUS311_Suo",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

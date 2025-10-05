@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 0,
+  "id": 3349654992,
+  "index": "PRUQ901",
+  "name": "PRUQ901_S10_SONAR_STOCK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

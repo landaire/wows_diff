@@ -1,0 +1,29 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4247965616,
+  "index": "PCM044",
+  "modifiers": {
+    "GMMaxDist": 0.76,
+    "GMShotDelay": 0.82
+  },
+  "name": "PCM044_Special_Mod_I_Republique",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PFSB110_France"
+  ],
+  "shiptype": [],
+  "slot": 5,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

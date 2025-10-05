@@ -1,0 +1,13 @@
+{
+  "costCR": 80000,
+  "costXP": 0,
+  "id": 3974541104,
+  "index": "PGUS305",
+  "name": "PGUS305_BB4_SUO_STOCK",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

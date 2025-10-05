@@ -1,0 +1,60 @@
+{
+  "HitLocationAirDefense": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 1.0,
+    "autoRepairTime": 10,
+    "autoRepairTimeMin": 5,
+    "brokenRepairHealthCoefficient": 1.0,
+    "brokenRepairTime": 150.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": true,
+    "critProb": [
+      0.0,
+      0.0
+    ],
+    "critProbHP": [
+      1.0,
+      0.0
+    ],
+    "damageEffects": [],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "airdefense_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 600.0,
+    "moduleCritCoeffCR": 0.0,
+    "moduleCritCoeffXP": 0.0,
+    "parentHL": null,
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 0.5,
+    "splashBoxes": [],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 0.5,
+    "volumeCoeff": 1.0
+  },
+  "antiAirAuraDistance": 117.0,
+  "antiAirAuraStrength": 0.075,
+  "barrelDiameter": 0.037,
+  "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+  "damagedEffect": "",
+  "deadMesh": "content/gameplay/germany/gun/aaircraft/GGA086_37mm_Flak_M42_LM43/GGA086_37mm_Flak_M42_LM43_dead.model",
+  "effectsDelay": 0.0,
+  "gunType": "BulletLike",
+  "id": 4204783408,
+  "index": "PGGA086",
+  "model": "content/gameplay/germany/gun/aaircraft/GGA086_37mm_Flak_M42_LM43/GGA086_37mm_Flak_M42_LM43.model",
+  "name": "PGGA086_37mm_Flak_M42_LM43",
+  "numBarrels": 1,
+  "shotDelay": 5.0,
+  "shotEffect": "particles/guns/AA_shot.xml",
+  "smallGun": null,
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "AAircraft",
+    "type": "Gun"
+  }
+}

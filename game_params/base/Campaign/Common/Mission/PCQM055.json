@@ -14,20 +14,6 @@
     "PCQT427",
     "PCQT428_Key"
   ],
-  "custom": {
-    "ASIA": {
-      "startTime": "04-10-2017 22:00:01"
-    },
-    "EU": {
-      "startTime": "05-10-2017 06:00:01"
-    },
-    "NA": {
-      "startTime": "04-10-2017 11:00:01"
-    },
-    "RU": {
-      "startTime": "04-10-2017 02:00:01"
-    }
-  },
   "id": 4236885936,
   "index": "PCQM055",
   "isStart": false,

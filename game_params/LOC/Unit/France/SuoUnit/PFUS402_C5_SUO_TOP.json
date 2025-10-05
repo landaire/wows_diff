@@ -1,0 +1,13 @@
+{
+  "costCR": 210000,
+  "costXP": 2200,
+  "id": 3872829264,
+  "index": "PFUS402",
+  "name": "PFUS402_C5_SUO_TOP",
+  "typeinfo": {
+    "nation": "France",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

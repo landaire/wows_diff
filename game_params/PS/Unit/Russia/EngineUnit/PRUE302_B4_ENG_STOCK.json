@@ -1,0 +1,13 @@
+{
+  "costCR": 30000,
+  "costXP": 0,
+  "id": 3978145232,
+  "index": "PRUE302",
+  "name": "PRUE302_B4_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

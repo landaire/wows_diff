@@ -1,0 +1,81 @@
+{
+  "canCharge": true,
+  "costCR": 500000,
+  "excludes": [
+    "PXSA005_Hellcarrier",
+    "PXSB006_Paris",
+    "PXSB007_Alldestroyer",
+    "PXSC004_Galaxy",
+    "PXSC005_Zaya",
+    "PXSC006_Norma",
+    "PXSC007_Aurora",
+    "PXSD004_FlyFire",
+    "PXSD005_Blue_Aster",
+    "PBSA508_Indomitable",
+    "PFSA506_Bearn"
+  ],
+  "group": [
+    "upgradeable",
+    "disabled",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "event",
+    "specialUnsellable",
+    "demoWithoutStats",
+    "demoWithoutStatsPrem",
+    "demoWithoutStatsTemporary",
+    "experimental",
+    "start",
+    "peculiar",
+    "clan",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "superShip",
+    "notForBattle",
+    "coopOnly"
+  ],
+  "id": 4224896944,
+  "index": "PCM066",
+  "modifiers": {
+    "torpedoBomberAimingTime": 5
+  },
+  "name": "PCM066_TorpedoBomber_Mod_II",
+  "nation": [
+    "France",
+    "USA",
+    "Russia",
+    "Japan",
+    "United_Kingdom",
+    "Germany",
+    "Italy",
+    "Europe",
+    "Netherlands",
+    "Spain",
+    "Pan_Asia",
+    "Pan_America",
+    "Commonwealth"
+  ],
+  "shiplevel": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "ships": [],
+  "shiptype": [
+    "AirCarrier"
+  ],
+  "slot": 2,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3767191472,
+  "index": "PCOK503",
+  "level_1": {
+    "GMIdealRadius": 0.95,
+    "burnProb": 0.8,
+    "vulnerabilityHE": 0.925,
+    "vulnerabilityTorpedo": 0.9
+  },
+  "level_2": {
+    "GMIdealRadius": 0.95,
+    "burnProb": 0.8,
+    "vulnerabilityHE": 0.925,
+    "vulnerabilityTorpedo": 0.9
+  },
+  "name": "PCOK503_CLAN_Brisbane",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

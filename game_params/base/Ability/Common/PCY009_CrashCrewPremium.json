@@ -799,6 +799,31 @@
     "titleIDs": "PCY009_CrashCrew_Limited_Premium",
     "workTime": 5.0
   },
+  "Surcouf_CrashCrew": {
+    "availableBuoyancyStates": [],
+    "consumableType": "crashCrew",
+    "descIDs": "PCY009_CrashCrew_Limited_Premium",
+    "group": "ship",
+    "iconIDs": "PCY009_CrashCrew_Limited_Premium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 45.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY009_CrashCrew_Limited_Premium",
+    "workTime": 5.0
+  },
   "Tianjin": {
     "availableBuoyancyStates": [],
     "consumableType": "crashCrew",
@@ -877,7 +902,6 @@
   "canBuy": false,
   "costCR": -1,
   "costGold": -1,
-  "custom": {},
   "freeOfCharge": true,
   "id": 4284653488,
   "index": "PCY009",

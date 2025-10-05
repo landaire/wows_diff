@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2188568784,
+  "index": "PZF2008",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/finder/ZF2008_SPN2_4m_RF_Low_Angle/ZF2008_SPN2_4m_RF_Low_Angle.model",
+  "name": "PZF2008_SPN2_4m_RF_Low_Angle",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Finder"
+  }
+}

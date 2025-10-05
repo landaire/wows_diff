@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3529322448,
+  "index": "PBUF730",
+  "name": "PBUF730_FC_OCEAN",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

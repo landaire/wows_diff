@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 13,
+  "conditions": [
+    "<isMyShip shipIds=\"PJSD108_Akizuki,PJSD219_Kitakaze,PASD013_Gearing_1945,PASD021_Fletcher_1943\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isRibbons count=\"1750\" ribbons=\"MAIN_CALIBER\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3570810800,
+  "index": "PCQT690",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT690_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF016_NE7_SignalFlag\" count=\"10\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT690_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_DD_1"
+  ],
+  "unlockMissions": []
+}

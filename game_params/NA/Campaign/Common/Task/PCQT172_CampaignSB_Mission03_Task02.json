@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 60,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\"/>",
+    "<isBattleType battleTypes=\"PVP,RANKED\"/>",
+    "<isRibbons ribbons=\"BASE_DEFENSE\" count=\"10\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 4113973168,
+  "index": "PCQT172",
+  "isSingleBattle": true,
+  "lootStars": 2,
+  "name": "PCQT172_CampaignSB_Mission03_Task02",
+  "rewards": [
+    "<Item idx=\"PCEM036_Tile_3_Double\" count=\"1\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT172_CAMPAIGNSB_MISSION03_TASK02_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

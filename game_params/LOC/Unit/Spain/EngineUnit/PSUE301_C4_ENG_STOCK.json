@@ -1,0 +1,13 @@
+{
+  "costCR": 70000,
+  "costXP": 0,
+  "id": 3979193776,
+  "index": "PSUE301",
+  "name": "PSUE301_C4_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

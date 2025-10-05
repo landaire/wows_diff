@@ -1,0 +1,13 @@
+{
+  "costCR": 800000,
+  "costXP": 12000,
+  "id": 3661016528,
+  "index": "PRUS604",
+  "name": "PRUS604_B7_SUO_TOP",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

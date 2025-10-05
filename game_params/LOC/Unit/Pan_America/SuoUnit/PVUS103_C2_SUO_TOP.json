@@ -1,0 +1,13 @@
+{
+  "costCR": 20000,
+  "costXP": 200,
+  "id": 4186352976,
+  "index": "PVUS103",
+  "name": "PVUS103_C2_SUO_TOP",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

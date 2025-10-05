@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3560779216,
+  "index": "PRUF700",
+  "name": "PRUF700_FC_BLACK_CHKALOV",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

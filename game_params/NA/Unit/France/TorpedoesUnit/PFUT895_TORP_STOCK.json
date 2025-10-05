@@ -1,0 +1,13 @@
+{
+  "costCR": 100000,
+  "costXP": 0,
+  "id": 3355848528,
+  "index": "PFUT895",
+  "name": "PFUT895_TORP_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

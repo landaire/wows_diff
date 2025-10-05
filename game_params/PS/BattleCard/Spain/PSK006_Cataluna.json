@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4287813040,
+  "index": "PSK006",
+  "maxLevel": 2,
+  "name": "PSK006_Cataluna",
+  "personalCardBonus": {
+    "clan": "PCOK005_Balldmg_DHEdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PSSC108_Cataluna"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Spain",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

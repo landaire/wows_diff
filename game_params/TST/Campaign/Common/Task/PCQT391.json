@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 0,
+  "conditions": [
+    "<isMyShip shipLevel=\"9,10,11\" class=\"Destroyer,Submarine\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isDamage count=\"100000\" class=\"Battleship\"/> "
+  ],
+  "costUnlock": 0,
+  "id": 3884335024,
+  "index": "PCQT391",
+  "isSingleBattle": true,
+  "lootStars": 3,
+  "name": "PCQT391",
+  "rewards": [
+    "<Add type=\"ELITE_XP\" count=\"15000\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT391_1",
+    "isDamage",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC309_AZURLANE_LONDON_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3970866096,
+  "index": "PCZC309",
+  "name": "PCZC309_AzurLane_London",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

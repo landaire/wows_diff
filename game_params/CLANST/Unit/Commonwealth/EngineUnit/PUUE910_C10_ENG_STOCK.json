@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 0,
+  "id": 3340610928,
+  "index": "PUUE910",
+  "name": "PUUE910_C10_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

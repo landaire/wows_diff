@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA017_FrenchDDArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC373_FRENCHDDARC_GRAND_OFFICIER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3903757232,
+  "index": "PCZC373",
+  "name": "PCZC373_FrenchDDArc_Grand_Officier",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

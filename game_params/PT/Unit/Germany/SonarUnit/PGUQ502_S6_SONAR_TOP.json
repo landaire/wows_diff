@@ -1,0 +1,13 @@
+{
+  "costCR": 700000,
+  "costXP": 8000,
+  "id": 3768037168,
+  "index": "PGUQ502",
+  "name": "PGUQ502_S6_SONAR_TOP",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

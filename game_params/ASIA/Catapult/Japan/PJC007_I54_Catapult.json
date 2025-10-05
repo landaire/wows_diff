@@ -1,0 +1,22 @@
+{
+  "angle": 0.0,
+  "dist": 0.0,
+  "hidePlane": false,
+  "id": 4286772944,
+  "index": "PJC007",
+  "isInvisible": false,
+  "launchEffectName": "particles/Empty_FX.xml",
+  "linkedGunAngles": [],
+  "linkedGunName": null,
+  "linkedRotationSpeedCoeff": 1.0,
+  "model": "content/gameplay/japan/catapult/JC007_I54_Catapult/JC007_I54_Catapult.model",
+  "name": "PJC007_I54_Catapult",
+  "planeOffsets": {},
+  "rotateTime": 0.0,
+  "translateDelay": 0.0,
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Catapult"
+  }
+}

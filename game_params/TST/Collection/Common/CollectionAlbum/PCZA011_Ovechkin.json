@@ -1,0 +1,52 @@
+{
+  "background": null,
+  "canCharge": false,
+  "cardCost": 5,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL039_Ovechkin_Free_old",
+    "PCL040_Ovechkin_Prem_old"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA011_OVECHKIN",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4283407280,
+  "index": "PCZA011",
+  "isPuzzle": false,
+  "name": "PCZA011_Ovechkin",
+  "rewards": [
+    "<Crew shipId=\"PASC001_Erie_1936\" level=\"10\" crewId=\"PAW404_Ovechkin\" count=\"1\"/>",
+    "<Item idx=\"PCEE216_Ovechkin_flag\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_OVECHKINSUBCOLLECTION_NAME",
+      "'aa",
+      [
+        "<DogTag idx=\"PCNB169\" count=\"1\" />"
+      ]
+    ],
+    [
+      "IDS_SECOND_OVECHKINSUBCOLLECTION_NAME",
+      "'bb",
+      [
+        "<DogTag idx=\"PCNB170\" count=\"1\" />"
+      ]
+    ],
+    [
+      "IDS_THIRD_OVECHKINSUBCOLLECTION_NAME",
+      "'cc",
+      [
+        "<DogTag idx=\"PCNB171\" count=\"1\" />"
+      ]
+    ]
+  ],
+  "subscribeType": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

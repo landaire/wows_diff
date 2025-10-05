@@ -1,0 +1,61 @@
+{
+  "CrewPersonality": {
+    "canResetSkillsForFree": false,
+    "costCR": 0,
+    "costELXP": 0,
+    "costGold": 0,
+    "costXP": 0,
+    "hasCustomBackground": false,
+    "hasOverlay": true,
+    "hasRank": false,
+    "hasSampleVO": false,
+    "isAnimated": false,
+    "isPerson": true,
+    "isRetrainable": false,
+    "isUnique": false,
+    "peculiarity": "halloween_16",
+    "permissions": 0,
+    "personName": "JG_Mephisteufel_H18",
+    "ships": {
+      "groups": [],
+      "nation": [],
+      "peculiarity": [
+        "halloween_16"
+      ],
+      "ships": []
+    },
+    "subnation": "",
+    "tags": [
+      "catalogueHiddenIfMissing"
+    ]
+  },
+  "Skills": null,
+  "UniqueSkills": null,
+  "Vanity": {
+    "bannerFlag": "",
+    "crewExpFactor": 1.0,
+    "fireworkEffect": "",
+    "flareEffect": "",
+    "hasOwnTracer": false,
+    "smokeTexture": "particles/trails/Trail_smoke_commander_R.dds",
+    "smokeTint": [
+      5.0,
+      5.0,
+      5.0
+    ]
+  },
+  "baseTrainingLevel": 1,
+  "canBuy": false,
+  "canCharge": true,
+  "goldTrainingLevel": 11,
+  "id": 4159874320,
+  "index": "PXW128",
+  "isTemplate": false,
+  "moneyTrainingLevel": 7,
+  "name": "PXW128_JG_Mephisteufel_H18",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Crew"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 750000,
+  "costXP": 7000,
+  "id": 3768528336,
+  "index": "PRUB502",
+  "name": "PRUB502_CV6_TB_TOP",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

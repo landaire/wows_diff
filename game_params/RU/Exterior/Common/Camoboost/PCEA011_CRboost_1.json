@@ -1,0 +1,26 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "boostType": "creditsFactor",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": 10,
+  "hidden": false,
+  "id": 4283428784,
+  "index": "PCEA011",
+  "isTemplate": false,
+  "modifiers": {
+    "creditsFactor": 1.2
+  },
+  "name": "PCEA011_CRboost_1",
+  "sortOrder": 1,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Camoboost",
+    "type": "Exterior"
+  }
+}

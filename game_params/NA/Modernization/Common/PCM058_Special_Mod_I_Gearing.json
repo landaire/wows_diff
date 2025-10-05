@@ -1,0 +1,39 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4233285552,
+  "index": "PCM058",
+  "modifiers": {
+    "GMShotDelay": 1.15,
+    "GTShotDelay": 1.05,
+    "shootShift": 1.05,
+    "visibilityDistCoeff": {
+      "AirCarrier": 0.85,
+      "Auxiliary": 0.85,
+      "Battleship": 0.85,
+      "Cruiser": 0.85,
+      "Destroyer": 0.85,
+      "Submarine": 0.85
+    },
+    "visibilityForSubmarineCoeff": 0.85
+  },
+  "name": "PCM058_Special_Mod_I_Gearing",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PASD013_Gearing_1945"
+  ],
+  "shiptype": [],
+  "slot": 4,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 900000,
+  "costXP": 15000,
+  "id": 3517820912,
+  "index": "PAUE741",
+  "name": "PAUE741_B8_ENG_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

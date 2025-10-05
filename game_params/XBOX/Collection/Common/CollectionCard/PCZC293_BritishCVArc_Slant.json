@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA014_BritishCVArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC293_BRITISHCVARC_SLANT_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3987643312,
+  "index": "PCZC293",
+  "name": "PCZC293_BritishCVArc_Slant",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

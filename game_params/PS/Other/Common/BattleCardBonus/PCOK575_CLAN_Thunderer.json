@@ -1,0 +1,24 @@
+{
+  "id": 3691694000,
+  "index": "PCOK575",
+  "level_1": {
+    "burnDamageMultiplier": 1.25,
+    "floodDamageMultiplier": 1.25,
+    "shootShift": 1.15,
+    "vulnerabilityAP": 0.925,
+    "vulnerabilityHE": 0.925
+  },
+  "level_2": {
+    "burnDamageMultiplier": 1.25,
+    "floodDamageMultiplier": 1.25,
+    "shootShift": 1.15,
+    "vulnerabilityAP": 0.925,
+    "vulnerabilityHE": 0.925
+  },
+  "name": "PCOK575_CLAN_Thunderer",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

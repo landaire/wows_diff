@@ -1,0 +1,13 @@
+{
+  "costCR": 750000,
+  "costXP": 7000,
+  "id": 3768299472,
+  "index": "PBUI502",
+  "name": "PBUI502_CV6_F_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

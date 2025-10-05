@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2190667984,
+  "index": "PZD2006",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD2006_Director_Type_98_Mod1/ZD2006_Director_Type_98_Mod1.model",
+  "name": "PZD2006_Director_Type_98_Mod1",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

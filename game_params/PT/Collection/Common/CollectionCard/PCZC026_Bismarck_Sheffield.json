@@ -1,0 +1,15 @@
+{
+  "collectionAlbum": "PCZA002_Bismarck",
+  "compensationCR": 0,
+  "description": "IDS_PCZC026_BISMARCK_SHEFFIELD_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4267613104,
+  "index": "PCZC026",
+  "name": "PCZC026_Bismarck_Sheffield",
+  "subAlbums": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

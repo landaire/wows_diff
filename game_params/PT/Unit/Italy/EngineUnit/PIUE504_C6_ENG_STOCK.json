@@ -1,0 +1,13 @@
+{
+  "costCR": 190000,
+  "costXP": 0,
+  "id": 3766333168,
+  "index": "PIUE504",
+  "name": "PIUE504_C6_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

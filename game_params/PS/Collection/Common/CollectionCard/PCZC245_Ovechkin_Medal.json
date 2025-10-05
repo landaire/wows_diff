@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA011_Ovechkin",
+  "compensationCR": 0,
+  "description": "IDS_PCZC245_OVECHKIN_MEDAL_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4037974960,
+  "index": "PCZC245",
+  "name": "PCZC245_Ovechkin_Medal",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

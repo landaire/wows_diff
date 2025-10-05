@@ -1,0 +1,94 @@
+{
+  "HitLocationATBA": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 0.8,
+    "autoRepairTime": 10,
+    "autoRepairTimeMin": 5,
+    "brokenRepairHealthCoefficient": 0.75,
+    "brokenRepairTime": 90.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": true,
+    "critProb": [
+      0.0,
+      0.0
+    ],
+    "critProbHP": [
+      1.0,
+      0.0
+    ],
+    "damageEffects": [],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "atba_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 1200.0,
+    "moduleCritCoeffCR": 0.0,
+    "moduleCritCoeffXP": 0.0,
+    "parentHL": null,
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 0.5,
+    "splashBoxes": [],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 0.5,
+    "volumeCoeff": 1.0
+  },
+  "aiATBAmultiplier": 3,
+  "ammoList": [
+    "PJPA004_Shell_127mm_HE_C_Type_0"
+  ],
+  "antiAirAuraDistance": 167.0,
+  "antiAirAuraStrength": 0.101,
+  "armor": {
+    "65580": 13.0
+  },
+  "barrelDiameter": 0.127,
+  "brokenEffect": "particles/guns/Gun_Damage_vsmall.xml",
+  "clusterID": 0,
+  "customMiscs": {},
+  "damagedEffect": "particles/guns/Gun_Broken_vsmall.xml",
+  "deadMesh": "content/gameplay/japan/gun/secondary/JGS157_127mm40_Type89_Mod_A/JGS157_127mm40_Type89_Mod_A_dead.model",
+  "deadZone": [],
+  "delim": 0.6,
+  "effectIntensityModifier": 1.0,
+  "horizSector": [
+    0.0,
+    0.0
+  ],
+  "id": 4148618960,
+  "idealDistance": 333.333,
+  "idealRadius": 20,
+  "index": "PJGS139",
+  "lensEffect": "",
+  "minRadius": 1.0,
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/gun/secondary/JGS157_127mm40_Type89_Mod_A/JGS157_127mm40_Type89_Mod_A.model",
+  "name": "PJGS139_127mm40_Type89_Mod_A3",
+  "numBarrels": 2,
+  "pitchDeadZones": [],
+  "purgingEffect": "particles/guns/PMK_Purging.xml",
+  "radiusOnDelim": 0.8,
+  "radiusOnMax": 1.0,
+  "radiusOnZero": 0.1,
+  "rotationSpeed": [
+    60.0,
+    20.0
+  ],
+  "shotDelay": 6.0,
+  "shotEffect": "particles/guns/PMK_Shot.xml",
+  "smallGun": true,
+  "smokePenalty": 0.0001,
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "Secondary",
+    "type": "Gun"
+  },
+  "vertSector": [
+    -2.0,
+    85.0
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 22,
+  "conditions": [
+    "<isMyShip shipIds=\"PASC106_Pensacola_1944,PISC106_Trento,PASC507_Indianapolis_1945\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\"/>",
+    "<isDamage count=\"250000\" damageTypes=\"main\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3593879472,
+  "index": "PCQT668",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT668_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF012_MY6_SignalFlag\" count=\"7\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT668_1",
+    "isDamage",
+    "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_CA_1"
+  ],
+  "unlockMissions": []
+}

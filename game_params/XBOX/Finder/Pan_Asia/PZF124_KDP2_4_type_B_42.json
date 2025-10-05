@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4164085968,
+  "index": "PZF124",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/finder/ZF124_KDP2_4_type_B_42/ZF124_KDP2_4_type_B_42.model",
+  "name": "PZF124_KDP2_4_type_B_42",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Finder"
+  }
+}

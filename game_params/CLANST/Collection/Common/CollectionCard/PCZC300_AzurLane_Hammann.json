@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC300_AZURLANE_HAMMANN_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3980303280,
+  "index": "PCZC300",
+  "name": "PCZC300_AzurLane_Hammann",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

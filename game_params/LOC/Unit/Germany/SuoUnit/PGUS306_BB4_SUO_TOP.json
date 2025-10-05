@@ -1,0 +1,13 @@
+{
+  "costCR": 200000,
+  "costXP": 1800,
+  "id": 3973492528,
+  "index": "PGUS306",
+  "name": "PGUS306_BB4_SUO_TOP",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

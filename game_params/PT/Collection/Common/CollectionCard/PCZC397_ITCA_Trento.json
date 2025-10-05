@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA018_ITCA_0810",
+  "compensationCR": 0,
+  "description": "IDS_PCZC397_ITCA_TRENTO_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3878591408,
+  "index": "PCZC397",
+  "name": "PCZC397_ITCA_Trento",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

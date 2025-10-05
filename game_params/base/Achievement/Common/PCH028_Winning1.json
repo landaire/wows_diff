@@ -7,7 +7,6 @@
     "progress": "winCount",
     "winCount": 10
   },
-  "custom": {},
   "enabled": true,
   "events": [
     [

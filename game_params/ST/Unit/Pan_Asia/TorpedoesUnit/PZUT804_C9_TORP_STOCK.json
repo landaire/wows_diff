@@ -1,0 +1,13 @@
+{
+  "costCR": 1300000,
+  "costXP": 0,
+  "id": 3451268304,
+  "index": "PZUT804",
+  "name": "PZUT804_C9_TORP_STOCK",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

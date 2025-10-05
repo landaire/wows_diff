@@ -7,16 +7,6 @@
     "PCL055_UK_CV_Coll_Free",
     "PCL056_UK_CV_Coll_Prem"
   ],
-  "custom": {
-    "CN": {
-      "rewards": [
-        "<SetUnlock unlockName=\"Second_Ensign_UKAirCarrier\" count=\"1\"/>",
-        "<SetUnlock unlockName=\"Multi_Camo_commonwealth\" count=\"1\"/>",
-        "<Permoflage shipId=\"PBSA106_Furious\" idx=\"PBEP351_Furious_Dazzle\" onlySilver=\"0\" count=\"1\"/>",
-        "<Multiboost shipId=\"PBSA106_Furious\" idx=\"PCEU006_Multi_std6\" compensationType=\"GOLD\" compensationValue=\"0\" count=\"1\"/>"
-      ]
-    }
-  },
   "description": "IDS_DESCRIPTION_PCZA014_BRITISHCVARC",
   "disabled": false,
   "duplicatesCR": 15000,

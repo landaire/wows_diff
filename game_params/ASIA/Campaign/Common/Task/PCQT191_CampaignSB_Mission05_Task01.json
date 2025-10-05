@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 10,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\"/>",
+    "<isBattleType battleTypes=\"PVP,RANKED\"/>",
+    "<isDamage count=\"500000\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 4094050224,
+  "index": "PCQT191",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT191_CampaignSB_Mission05_Task01",
+  "rewards": [
+    "<Item idx=\"PCEF030_CK_SignalFlag\" count=\"25\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT191_CAMPAIGNSB_MISSION05_TASK01_1",
+    "isDamage",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

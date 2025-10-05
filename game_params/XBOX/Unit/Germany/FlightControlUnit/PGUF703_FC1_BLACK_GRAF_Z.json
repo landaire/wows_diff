@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3557633840,
+  "index": "PGUF703",
+  "name": "PGUF703_FC1_BLACK_GRAF_Z",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

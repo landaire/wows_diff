@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC179_AA_SALT_LAKE_CITY_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4107180976,
+  "index": "PCZC179",
+  "name": "PCZC179_AA_Salt_Lake_City",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

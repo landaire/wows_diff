@@ -1,0 +1,13 @@
+{
+  "costCR": 2800000,
+  "costXP": 0,
+  "id": 3328978640,
+  "index": "PJUH921",
+  "name": "PJUH921_TENGU_1944",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

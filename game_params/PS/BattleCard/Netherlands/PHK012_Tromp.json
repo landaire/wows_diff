@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4281521936,
+  "index": "PHK012",
+  "maxLevel": 2,
+  "name": "PHK012_Tromp",
+  "personalCardBonus": {
+    "clan": "PCOK608_CLAN_DD_Hyb"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PHSD610_Tromp"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4263703504,
+  "index": "PBD029",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD029_CRBFD_MRS8/BD029_CRBFD_MRS8.model",
+  "name": "PBD029_CRBFD_MRS8",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

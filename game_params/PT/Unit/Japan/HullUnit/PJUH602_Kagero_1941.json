@@ -1,0 +1,13 @@
+{
+  "costCR": 1100000,
+  "costXP": 14000,
+  "id": 3663474384,
+  "index": "PJUH602",
+  "name": "PJUH602_Kagero_1941",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

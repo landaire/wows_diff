@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    [
+      "isCamouflageInstalled",
+      {
+        "count": 1
+      }
+    ]
+  ],
+  "id": 4291381168,
+  "index": "PCON003",
+  "name": "PCON003",
+  "rewards": [
+    [
+      "Item",
+      {
+        "count": 2,
+        "idx": "PCEM030_Tile_1"
+      }
+    ]
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "NewbieQuest",
+    "type": "Other"
+  },
+  "unlock": "EXT_CAMOUFLAGE"
+}

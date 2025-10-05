@@ -1,0 +1,15 @@
+{
+  "collectionAlbum": "PCZA002_Bismarck",
+  "compensationCR": 0,
+  "description": "IDS_PCZC022_BISMARCK_MASHONA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4271807408,
+  "index": "PCZC022",
+  "name": "PCZC022_Bismarck_Mashona",
+  "subAlbums": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

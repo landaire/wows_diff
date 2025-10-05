@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4193696208,
+  "index": "PRRS096",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/radar/search/RRS096_RDF_Type_281_bow/RRS096_RDF_Type_281_bow.model",
+  "name": "PRRS096_RDF_Type_281_bow",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

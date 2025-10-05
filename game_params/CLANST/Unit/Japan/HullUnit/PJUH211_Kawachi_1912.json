@@ -1,0 +1,13 @@
+{
+  "costCR": 72000,
+  "costXP": 0,
+  "id": 4073467600,
+  "index": "PJUH211",
+  "name": "PJUH211_Kawachi_1912",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

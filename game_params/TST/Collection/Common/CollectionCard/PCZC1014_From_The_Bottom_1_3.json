@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA038_From_The_Bottom",
+  "compensationCR": 0,
+  "description": "IDS_PCZC1014_FROM_THE_BOTTOM_1_3_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3231620016,
+  "index": "PCZC1014",
+  "name": "PCZC1014_From_The_Bottom_1_3",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

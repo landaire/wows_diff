@@ -1,0 +1,13 @@
+{
+  "costCR": 700000,
+  "costXP": 7600,
+  "id": 3831246288,
+  "index": "PRUH442",
+  "name": "PRUH442_KIROV_B",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

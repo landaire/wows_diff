@@ -1,0 +1,95 @@
+{
+  "HitLocationWaveGun": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 1.0,
+    "autoRepairTime": 15,
+    "autoRepairTimeMin": 15,
+    "brokenRepairHealthCoefficient": 0.5,
+    "brokenRepairTime": 45.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": true,
+    "critProb": [
+      0.25,
+      0.25
+    ],
+    "critProbHP": [
+      1.0,
+      0.0
+    ],
+    "damageEffects": [],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "wave_gun_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 1200.0,
+    "moduleCritCoeffCR": 0.0,
+    "moduleCritCoeffXP": 0.0,
+    "parentHL": null,
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 0.5,
+    "splashBoxes": [],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 0.5,
+    "volumeCoeff": 1.0
+  },
+  "ammoList": [
+    "PXPW002_SectorWave_2020"
+  ],
+  "armor": {
+    "1": 0.0,
+    "131104": 330.0,
+    "131105": 240.0,
+    "131171": 0.0,
+    "196707": 165.0,
+    "65568": 350.0,
+    "65569": 255.0,
+    "65571": 330.0,
+    "65635": 165.0,
+    "65636": 590.0
+  },
+  "barrelDiameter": 0.533,
+  "brokenEffect": "",
+  "customMiscs": {},
+  "damagedEffect": "",
+  "deadMesh": "content/gameplay/events/gun/main/XGM195_Tech_Gun_2_green/XGM195_Tech_Gun_2_green_dead.model",
+  "deadZone": [],
+  "horizSector": [
+    -130.0,
+    130.0
+  ],
+  "id": 4188431632,
+  "index": "PXGT101",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/events/gun/main/XGM195_Tech_Gun_2_green/XGM195_Tech_Gun_2_green.model",
+  "name": "PXGT101_SectorWaveGun_France_H2020",
+  "numBarrels": 1,
+  "position": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "rotationSpeed": [
+    25.0,
+    25.0
+  ],
+  "shootSector": [
+    0.0,
+    0.0
+  ],
+  "shotDelay": 18.0,
+  "shotEffect": "particles/guns/WaveShot_H2020.xml",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "Torpedo",
+    "type": "Gun"
+  },
+  "vertSector": [
+    0.0,
+    1.0
+  ]
+}

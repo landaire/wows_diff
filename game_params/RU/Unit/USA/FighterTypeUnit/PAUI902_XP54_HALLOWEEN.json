@@ -1,0 +1,13 @@
+{
+  "costCR": 535000,
+  "costXP": 6500,
+  "id": 3348869104,
+  "index": "PAUI902",
+  "name": "PAUI902_XP54_HALLOWEEN",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

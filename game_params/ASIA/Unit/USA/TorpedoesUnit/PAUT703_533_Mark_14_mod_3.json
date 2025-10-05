@@ -1,0 +1,13 @@
+{
+  "costCR": 1470000,
+  "costXP": 18000,
+  "id": 3557175280,
+  "index": "PAUT703",
+  "name": "PAUT703_533_Mark_14_mod_3",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

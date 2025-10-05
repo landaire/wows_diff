@@ -1,0 +1,22 @@
+{
+  "angle": 0.0,
+  "dist": 0.0,
+  "hidePlane": false,
+  "id": 4293064400,
+  "index": "PJC001",
+  "isInvisible": false,
+  "launchEffectName": "particles/Empty_FX.xml",
+  "linkedGunAngles": [],
+  "linkedGunName": null,
+  "linkedRotationSpeedCoeff": 1.0,
+  "model": "content/gameplay/japan/catapult/JC001_Catapult_Shiki2/JC001_Catapult_Shiki2.model",
+  "name": "PJC001_Catapult_Shiki2",
+  "planeOffsets": {},
+  "rotateTime": 0.0,
+  "translateDelay": 0.0,
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Catapult"
+  }
+}

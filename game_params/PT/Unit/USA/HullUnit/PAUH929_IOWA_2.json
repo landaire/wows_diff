@@ -1,0 +1,13 @@
+{
+  "costCR": 1750000,
+  "costXP": 0,
+  "id": 3320590320,
+  "index": "PAUH929",
+  "name": "PAUH929_IOWA_2",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 125000,
+  "costXP": 0,
+  "id": 3356340048,
+  "index": "PFUE895",
+  "name": "PFUE895_ENG_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

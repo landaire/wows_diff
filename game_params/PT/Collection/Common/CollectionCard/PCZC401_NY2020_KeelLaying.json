@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA019_HappyNewYear2020",
+  "compensationCR": 0,
+  "description": "IDS_PCZC401_NY2020_KEELLAYING_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3874397104,
+  "index": "PCZC401",
+  "name": "PCZC401_NY2020_KeelLaying",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

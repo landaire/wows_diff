@@ -7018,7 +7018,7 @@
     "chimneyMaxAngle": 45.0,
     "consumablePlaneTypes": {
       "fighter": "PAAF023_F4F_float",
-      "scout": "PAAS015_CURTISS_SC1_ALABAMA"
+      "scout": "PAAS018_CURTISS_SC1_INDIANA"
     },
     "coolingOffSpeed": 0.1,
     "crackCoords": [
@@ -9164,7 +9164,7 @@
     "zValMid": null
   },
   "RarityCategory": {
-    "name": "Common"
+    "name": "Epic"
   },
   "ShipAbilities": {
     "AbilitySlot0": {
@@ -9342,10 +9342,9 @@
   "battleSignalsOrder": [],
   "canCharge": true,
   "canEquipCamouflage": true,
-  "custom": {},
   "defaultCrew": null,
   "flagsScale": 0.6,
-  "group": "demoWithoutStatsPrem",
+  "group": "special",
   "id": 3540989936,
   "index": "PASB719",
   "isPaperShip": false,
@@ -9370,7 +9369,8 @@
     "PCEM015_HappyNY20_9lvl",
     "PCEM014_5Years_9lvl",
     "PCEM003_Halloween19_9lvl",
-    "PCEM022_Steel_9lvl"
+    "PCEM022_Steel_9lvl",
+    "PAES378_USA250_Indiana"
   ],
   "pveAutoPickCard": "",
   "shipBattleCards": {

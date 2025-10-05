@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3335335728,
+  "index": "PGUF915",
+  "name": "PGUF915_FC_HILDEBRAND",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

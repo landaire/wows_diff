@@ -1,0 +1,13 @@
+{
+  "costCR": 150000,
+  "costXP": 2000,
+  "id": 4293635792,
+  "index": "PJUI001",
+  "name": "PJUI001_A6M2",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

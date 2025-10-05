@@ -1,0 +1,13 @@
+{
+  "costCR": 30000,
+  "costXP": 0,
+  "id": 4080906192,
+  "index": "PBUE204",
+  "name": "PBUE204_B3_ENG_STOCK",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

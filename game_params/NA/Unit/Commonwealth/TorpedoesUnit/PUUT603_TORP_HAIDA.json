@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3662032240,
+  "index": "PUUT603",
+  "name": "PUUT603_TORP_HAIDA",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

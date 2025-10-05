@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4290958672,
+  "index": "PVK003",
+  "maxLevel": 2,
+  "name": "PVK003_Valparaiso",
+  "personalCardBonus": {
+    "clan": "PCOK007_Balldmg_DATBAdmgX2"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PVSB719_Valparaiso"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

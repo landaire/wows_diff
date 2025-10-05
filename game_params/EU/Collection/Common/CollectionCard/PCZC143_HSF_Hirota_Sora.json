@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC143_HSF_HIROTA_SORA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4144929712,
+  "index": "PCZC143",
+  "name": "PCZC143_HSF_Hirota_Sora",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

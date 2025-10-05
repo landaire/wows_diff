@@ -1,0 +1,36 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "camouflage": "camo_permanent_3",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 2000,
+  "hidden": false,
+  "id": 3930615760,
+  "index": "PBEP347",
+  "isTemplate": false,
+  "name": "PBEP347_Duke_of_York_Mediterra",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

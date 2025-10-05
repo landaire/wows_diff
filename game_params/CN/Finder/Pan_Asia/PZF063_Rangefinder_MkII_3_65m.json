@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4228049104,
+  "index": "PZF063",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/finder/ZF063_Rangefinder_MkII_3_65m/ZF063_Rangefinder_MkII_3_65m.model",
+  "name": "PZF063_Rangefinder_MkII_3_65m",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Finder"
+  }
+}

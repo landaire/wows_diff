@@ -1,0 +1,18 @@
+{
+  "id": 3679111088,
+  "index": "PCOK587",
+  "level_1": {
+    "shootShift": 1.3,
+    "vulnerabilityAP": 0.85
+  },
+  "level_2": {
+    "shootShift": 1.3,
+    "vulnerabilityAP": 0.85
+  },
+  "name": "PCOK587_CLAN_Oregon",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

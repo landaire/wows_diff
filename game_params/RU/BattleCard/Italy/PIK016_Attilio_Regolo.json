@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4277327600,
+  "index": "PIK016",
+  "maxLevel": 2,
+  "name": "PIK016_Attilio_Regolo",
+  "personalCardBonus": {
+    "clan": "PCOK607_CLAN_DD_Art"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PISD110_Attilio_Regolo"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Italy",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

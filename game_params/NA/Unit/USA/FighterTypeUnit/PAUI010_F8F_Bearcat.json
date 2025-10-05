@@ -1,0 +1,13 @@
+{
+  "costCR": 1400000,
+  "costXP": 18000,
+  "id": 4284198896,
+  "index": "PAUI010",
+  "name": "PAUI010_F8F_Bearcat",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

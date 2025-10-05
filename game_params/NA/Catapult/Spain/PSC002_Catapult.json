@@ -1,0 +1,35 @@
+{
+  "angle": 0.0,
+  "dist": 0.0,
+  "hidePlane": false,
+  "id": 4292015536,
+  "index": "PSC002",
+  "isInvisible": false,
+  "launchEffectName": "particles/Empty_FX.xml",
+  "linkedGunAngles": [],
+  "linkedGunName": null,
+  "linkedRotationSpeedCoeff": 1.0,
+  "model": "content/gameplay/spain/catapult/SC002_Catapult/SC002_Catapult.model",
+  "name": "PSC002_Catapult",
+  "planeOffsets": {
+    "SAF001_Messerschmitt_Bf109G_float": [
+      [
+        0.0,
+        -0.318,
+        3.182
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  "rotateTime": 0.0,
+  "translateDelay": 0.0,
+  "typeinfo": {
+    "nation": "Spain",
+    "species": null,
+    "type": "Catapult"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3769478480,
+  "index": "PVUE501",
+  "name": "PVUE501_ENG_JURUA",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3687499696,
+  "index": "PCOK579",
+  "level_1": {
+    "vulnerabilityAP": 0.75
+  },
+  "level_2": {
+    "vulnerabilityAP": 0.75
+  },
+  "name": "PCOK579_CLAN_Gibraltar",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 250000,
+  "costXP": 0,
+  "id": 3766332880,
+  "index": "PRUE504",
+  "name": "PRUE504_CV6_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC139_HSF_YAGI_TSUGUMI_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4149124016,
+  "index": "PCZC139",
+  "name": "PCZC139_HSF_Yagi_Tsugumi",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 1000000,
+  "costXP": 15000,
+  "id": 3659967792,
+  "index": "PWUS605",
+  "name": "PWUS605_D7_SUO_TOP",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

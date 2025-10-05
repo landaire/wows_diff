@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA039_EndOfWWII",
+  "compensationCR": 0,
+  "description": "IDS_PCZC1002_ENDOFWWII_2_3_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3244202928,
+  "index": "PCZC1002",
+  "name": "PCZC1002_EndOfWWII_2_3",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

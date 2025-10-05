@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA006_HappyNewYear2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC122_NY2018_KRIEGSMARINEFLAG_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4166949808,
+  "index": "PCZC122",
+  "name": "PCZC122_NY2018_KriegsmarineFlag",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

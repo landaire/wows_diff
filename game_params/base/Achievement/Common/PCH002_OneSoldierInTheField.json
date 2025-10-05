@@ -6,7 +6,6 @@
   "constants": {
     "enemiesCount": 4
   },
-  "custom": {},
   "enabled": true,
   "events": [
     [

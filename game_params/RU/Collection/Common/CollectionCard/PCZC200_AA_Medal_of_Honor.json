@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC200_AA_MEDAL_OF_HONOR_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4085160880,
+  "index": "PCZC200",
+  "name": "PCZC200_AA_Medal_of_Honor",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

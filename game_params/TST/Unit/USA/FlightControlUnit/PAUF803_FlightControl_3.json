@@ -1,0 +1,13 @@
+{
+  "costCR": 1000,
+  "costXP": 1,
+  "id": 3452776432,
+  "index": "PAUF803",
+  "name": "PAUF803_FlightControl_3",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2191716816,
+  "index": "PRD2005",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/director/RD2005_HACS_MK_III/RD2005_HACS_MK_III.model",
+  "name": "PRD2005_HACS_MK_III",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Director"
+  }
+}

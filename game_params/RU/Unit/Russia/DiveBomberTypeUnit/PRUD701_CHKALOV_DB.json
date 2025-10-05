@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3559796176,
+  "index": "PRUD701",
+  "name": "PRUD701_CHKALOV_DB",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

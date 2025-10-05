@@ -1,0 +1,13 @@
+{
+  "costCR": 1400000,
+  "costXP": 24000,
+  "id": 3436621584,
+  "index": "PHUS818",
+  "name": "PHUS818_C8_SUO_TOP",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

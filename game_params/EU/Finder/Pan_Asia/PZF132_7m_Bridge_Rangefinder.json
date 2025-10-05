@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4155697360,
+  "index": "PZF132",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/finder/ZF132_7m_Bridge_Rangefinder/ZF132_7m_Bridge_Rangefinder.model",
+  "name": "PZF132_7m_Bridge_Rangefinder",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Finder"
+  }
+}

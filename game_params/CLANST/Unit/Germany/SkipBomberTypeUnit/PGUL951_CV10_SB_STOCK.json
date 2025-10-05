@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3297390384,
+  "index": "PGUL951",
+  "name": "PGUL951_CV10_SB_STOCK",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "SkipBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_SkipBomber"
+}

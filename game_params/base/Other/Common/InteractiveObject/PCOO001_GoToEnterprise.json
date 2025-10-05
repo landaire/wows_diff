@@ -26,7 +26,7 @@
             "transitionTime": 1.0,
             "type": 1
           },
-          "sounAction": {
+          "soundAction": {
             "eventName": "UI_Warp_Transition",
             "type": 4
           }

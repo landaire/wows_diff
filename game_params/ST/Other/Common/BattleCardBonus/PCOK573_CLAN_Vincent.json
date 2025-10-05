@@ -1,0 +1,24 @@
+{
+  "id": 3693791152,
+  "index": "PCOK573",
+  "level_1": {
+    "allAlphaMultiplier": 1.1,
+    "burnDamageMultiplier": 1.25,
+    "floodDamageMultiplier": 1.25,
+    "vulnerabilityMain": 0.925,
+    "vulnerabilityTorpedo": 0.7
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.1,
+    "burnDamageMultiplier": 1.25,
+    "floodDamageMultiplier": 1.25,
+    "vulnerabilityMain": 0.925,
+    "vulnerabilityTorpedo": 0.7
+  },
+  "name": "PCOK573_CLAN_Vincent",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

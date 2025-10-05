@@ -1,0 +1,60 @@
+{
+  "audio": {
+    "effect": "Filth_Screen",
+    "intensity": 10.0
+  },
+  "bounds": {
+    "max": {
+      "height": 35.0,
+      "radius": 100500.0
+    },
+    "min": {
+      "height": 0.0,
+      "radius": 20.0
+    },
+    "scale": {
+      "height": 0.35,
+      "radius": 1.0
+    }
+  },
+  "changeDist": 50.0,
+  "changeStart": 10.0,
+  "effects": [
+    "particles/Sand_H2018.xml"
+  ],
+  "graphics": "Storm",
+  "id": 4290070448,
+  "index": "PCOV004",
+  "logic": {
+    "AAMaxDist": null,
+    "GMIdealRadius": null,
+    "GSIdealRadius": null,
+    "GSMIdealRadius": null,
+    "airDefenseVisibilityTime": null,
+    "bad": null,
+    "burnDamage": null,
+    "burnTime": null,
+    "maxPlaneVisionDistance": 1000.0,
+    "maxShipVisionDistance": 1000.0,
+    "maxVisibilityDistance": 1000.0,
+    "maxVisibilityDistanceByPlane": 1000.0,
+    "mgVisibilityTime": null,
+    "planeMaxVisibilityDistance": null,
+    "planeMaxVisibilityDistanceByPlane": null,
+    "planeSpeed": null,
+    "planeVisibilityFactor": null,
+    "planeVisibilityFactorByPlane": null,
+    "shootShift": null,
+    "speedCoef": null,
+    "transparency": 1.0,
+    "visibilityFactor": 1,
+    "visibilityFactorByPlane": 1
+  },
+  "name": "PCOV004_No_Felth2",
+  "paramsInterpolationDuration": 2.0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "LocalWeather",
+    "type": "Other"
+  }
+}

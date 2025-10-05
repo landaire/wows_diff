@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2196957968,
+  "index": "PHF2000",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/netherlands/finder/HF2000_3D_Stabilized_Dir/HF2000_3D_Stabilized_Dir.model",
+  "name": "PHF2000_3D_Stabilized_Dir",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": null,
+    "type": "Finder"
+  }
+}

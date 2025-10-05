@@ -1,0 +1,13 @@
+{
+  "costCR": 118000,
+  "costXP": 0,
+  "id": 3832295120,
+  "index": "PJUH441",
+  "name": "PJUH441_Zuiho_1940",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

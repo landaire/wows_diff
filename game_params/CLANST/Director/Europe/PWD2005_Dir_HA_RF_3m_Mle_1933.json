@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2191716656,
+  "index": "PWD2005",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/director/WD2005_Dir_HA_RF_3m_Mle_1933/WD2005_Dir_HA_RF_3m_Mle_1933.model",
+  "name": "PWD2005_Dir_HA_RF_3m_Mle_1933",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Director"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 480000,
+  "costXP": 7200,
+  "id": 3862703824,
+  "index": "PJUH412",
+  "name": "PJUH412_Kongo_1942",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

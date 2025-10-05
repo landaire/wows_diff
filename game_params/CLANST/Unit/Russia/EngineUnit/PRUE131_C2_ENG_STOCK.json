@@ -1,0 +1,13 @@
+{
+  "costCR": 3000,
+  "costXP": 0,
+  "id": 4157451728,
+  "index": "PRUE131",
+  "name": "PRUE131_C2_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

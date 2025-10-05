@@ -1,0 +1,13 @@
+{
+  "costCR": 1000000,
+  "costXP": 0,
+  "id": 3559370704,
+  "index": "PBUQ701",
+  "name": "PBUQ701_S8_SONAR_STOCK",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

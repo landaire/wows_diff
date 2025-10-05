@@ -1,0 +1,13 @@
+{
+  "costCR": 9000,
+  "costXP": 180,
+  "id": 4285279952,
+  "index": "PJUH009",
+  "name": "PJUH009_FALSE_HASIDATE",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

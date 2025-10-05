@@ -1,0 +1,13 @@
+{
+  "costCR": 1000000,
+  "costXP": 16000,
+  "id": 3663113648,
+  "index": "PSUS602",
+  "name": "PSUS602_C7_SUO_TOP",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

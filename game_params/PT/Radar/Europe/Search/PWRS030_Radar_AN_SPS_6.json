@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4262902064,
+  "index": "PWRS030",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/radar/search/WRS030_Radar_AN_SPS_6/WRS030_Radar_AN_SPS_6.model",
+  "name": "PWRS030_Radar_AN_SPS_6",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

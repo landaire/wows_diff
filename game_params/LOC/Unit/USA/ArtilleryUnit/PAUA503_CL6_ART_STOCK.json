@@ -1,0 +1,13 @@
+{
+  "costCR": 220000,
+  "costXP": 0,
+  "id": 3767513072,
+  "index": "PAUA503",
+  "name": "PAUA503_CL6_ART_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

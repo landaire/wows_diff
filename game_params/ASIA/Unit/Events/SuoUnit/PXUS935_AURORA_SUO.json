@@ -1,0 +1,13 @@
+{
+  "costCR": 1900000,
+  "costXP": 0,
+  "id": 3313937680,
+  "index": "PXUS935",
+  "name": "PXUS935_AURORA_SUO",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

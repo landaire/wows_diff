@@ -1,0 +1,13 @@
+{
+  "costCR": 840000,
+  "costXP": 0,
+  "id": 3454906160,
+  "index": "PGUE801",
+  "name": "PGUE801_C9_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

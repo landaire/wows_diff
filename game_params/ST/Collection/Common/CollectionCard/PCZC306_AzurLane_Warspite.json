@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC306_AZURLANE_WARSPITE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3974011824,
+  "index": "PCZC306",
+  "name": "PCZC306_AzurLane_Warspite",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

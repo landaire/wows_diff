@@ -1,0 +1,25 @@
+{
+  "id": 4264445872,
+  "index": "PCOD029",
+  "markerNameActive": "random_consumable_active",
+  "markerNameInactive": "random_consumable_inactive",
+  "maxBuffLevel": 0,
+  "name": "PCOD029_Slot5",
+  "payload": {
+    "item_1": {
+      "consumable": "slot0",
+      "count": 1,
+      "slot": null,
+      "type": 2,
+      "weight": 0
+    },
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

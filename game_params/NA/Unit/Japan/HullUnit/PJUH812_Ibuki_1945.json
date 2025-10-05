@@ -1,0 +1,13 @@
+{
+  "costCR": 3000000,
+  "costXP": 42000,
+  "id": 3443273424,
+  "index": "PJUH812",
+  "name": "PJUH812_Ibuki_1945",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

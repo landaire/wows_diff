@@ -1,0 +1,13 @@
+{
+  "costCR": 120000,
+  "costXP": 0,
+  "id": 4084150256,
+  "index": "PAUB201",
+  "name": "PAUB201_CV6_TB_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

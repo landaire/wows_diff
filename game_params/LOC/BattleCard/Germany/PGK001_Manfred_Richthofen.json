@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4293056304,
+  "index": "PGK001",
+  "maxLevel": 2,
+  "name": "PGK001_Manfred_Richthofen",
+  "personalCardBonus": {
+    "clan": "PCOK011_Balldmg_DplanerocketX2"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PGSA110_Manfred_Richthofen"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

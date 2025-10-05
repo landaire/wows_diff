@@ -1,0 +1,13 @@
+{
+  "costCR": 190000,
+  "costXP": 0,
+  "id": 3758993232,
+  "index": "PFUE511",
+  "name": "PFUE511_C6_ENG_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

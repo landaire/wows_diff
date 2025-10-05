@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2190668080,
+  "index": "PWD2006",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/director/WD2006_OPL_8_metre_SRF_330mm/WD2006_OPL_8_metre_SRF_330mm.model",
+  "name": "PWD2006_OPL_8_metre_SRF_330mm",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Director"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 2600000,
+  "costXP": 30000,
+  "id": 3553013488,
+  "index": "PIUS707",
+  "name": "PIUS707_BB8_SUO_TOP",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

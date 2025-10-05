@@ -1,0 +1,13 @@
+{
+  "costCR": 375000,
+  "costXP": 0,
+  "id": 3766234864,
+  "index": "PIUH504",
+  "name": "PIUH504_C6_HULL_A",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

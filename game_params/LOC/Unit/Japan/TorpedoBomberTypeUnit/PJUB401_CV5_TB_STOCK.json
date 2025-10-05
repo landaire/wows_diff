@@ -1,0 +1,13 @@
+{
+  "costCR": 90000,
+  "costXP": 0,
+  "id": 3874434768,
+  "index": "PJUB401",
+  "name": "PJUB401_CV5_TB_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

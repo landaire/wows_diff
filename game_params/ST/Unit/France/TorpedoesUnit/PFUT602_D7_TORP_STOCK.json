@@ -1,0 +1,13 @@
+{
+  "costCR": 430000,
+  "costXP": 0,
+  "id": 3663081296,
+  "index": "PFUT602",
+  "name": "PFUT602_D7_TORP_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4202886128,
+  "index": "PAD087",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/director/AD087_Director_Mk37_Early/AD087_Director_Mk37_Early.model",
+  "name": "PAD087_Director_Mk37_Early",
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "Director"
+  }
+}

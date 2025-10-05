@@ -1,0 +1,121 @@
+{
+  "HitLocationArtillery": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 1.0,
+    "autoRepairTime": 30,
+    "autoRepairTimeMin": 25,
+    "brokenRepairHealthCoefficient": 0.5,
+    "brokenRepairTime": 45.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": true,
+    "critProb": [
+      0.05,
+      0.75
+    ],
+    "critProbHP": [
+      1.0,
+      0.02
+    ],
+    "damageEffects": [],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "artillery_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 4000.0,
+    "moduleCritCoeffCR": 1.0,
+    "moduleCritCoeffXP": 1.0,
+    "parentHL": null,
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 1.0,
+    "splashBoxes": [],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 0.5,
+    "volumeCoeff": 0.1
+  },
+  "aiMGmaxEllipseRanging": 4.0,
+  "aiMGmedEllipseRanging": 3.7,
+  "aiMGminEllipseRanging": 3.5,
+  "ammoList": [
+    "PXPL015_PHASERLASER_GNEISENAU_VULKANS_1"
+  ],
+  "ammoSwitchCoeff": 1.0,
+  "antiAirAuraDistance": 0.0,
+  "antiAirAuraStrength": 0.0,
+  "armor": {
+    "65568": 12.0,
+    "65569": 0.0,
+    "65571": 12.0,
+    "65635": 12.0,
+    "65636": 12.0
+  },
+  "barrelDiameter": 0.12,
+  "brokenEffect": "particles/guns/Gun_Damage_medium.xml",
+  "chargeTime": 0.1,
+  "coeffPerSecondMin": 0.3,
+  "customMiscs": {},
+  "damagedEffect": "particles/guns/Gun_Broken_vsmall.xml",
+  "deadMesh": "content/gameplay/germany/gun/main/GGM3059_380mm_SKC_34_Star_Trek/GGM3059_380mm_SKC_34_Star_Trek_dead.model",
+  "deadZone": [],
+  "delim": 0.5,
+  "effectIntensityModifier": 1.0,
+  "ellipseRangeMax": 250.0,
+  "ellipseRangeMin": 50.0,
+  "gunChargeEffect": "particles/guns/Laser_Charge_H2020.xml",
+  "horizSector": [
+    -150.0,
+    150.0
+  ],
+  "id": 3917079824,
+  "idealDistance": 1000.0,
+  "idealRadius": 8,
+  "index": "PXGM360",
+  "laserTargetingEffect": "particles/guns/Laser_Charge_Targeting_H2020.xml",
+  "lensEffect": "particles/Empty_FX.xml",
+  "maxEllipseRanging": 1.003,
+  "medEllipseRanging": 1.002,
+  "minEllipseRanging": 1.001,
+  "minRadius": 0.5,
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/gun/main/GGM3059_380mm_SKC_34_Star_Trek/GGM3059_380mm_SKC_34_Star_Trek.model",
+  "name": "PXGM360_PHASERLASER_GNEISENAU_VULKANS_1",
+  "numBarrels": 1,
+  "onMoveTarPosCoeffDelim": 1.001,
+  "onMoveTarPosCoeffMaxDist": 1.002,
+  "onMoveTarPosCoeffZero": 1.0,
+  "onMoveTarPosDelim": 0.1,
+  "pitchDeadZones": [],
+  "position": [
+    0,
+    0
+  ],
+  "pulseCooldown": 0.3,
+  "purgingEffect": "particles/guns/GK_Purging.xml",
+  "radiusOnDelim": 0.5,
+  "radiusOnMax": 0.6,
+  "radiusOnZero": 0.2,
+  "reduceTime": 0.1,
+  "reloadBoostEffect": "particles/guns/GK_Reload.xml",
+  "rotationSpeed": [
+    25.0,
+    25.0
+  ],
+  "shootingMechanic": "phaser",
+  "shotDelay": 23,
+  "shotEffect": "particles/Empty_FX.xml",
+  "smallGun": null,
+  "smokePenalty": 0.0001,
+  "typeinfo": {
+    "nation": "Events",
+    "species": "Main",
+    "type": "Gun"
+  },
+  "vertSector": [
+    -10.0,
+    20.0
+  ]
+}

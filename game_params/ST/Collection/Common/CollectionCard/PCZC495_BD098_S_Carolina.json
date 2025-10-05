@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA023_BD098",
+  "compensationCR": 0,
+  "description": "IDS_PCZC495_BD098_S_CAROLINA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3775830960,
+  "index": "PCZC495",
+  "name": "PCZC495_BD098_S_Carolina",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

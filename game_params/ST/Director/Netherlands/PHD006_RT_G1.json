@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4287820560,
+  "index": "PHD006",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/netherlands/director/HD006_RT_G1/HD006_RT_G1.model",
+  "name": "PHD006_RT_G1",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": null,
+    "type": "Director"
+  }
+}

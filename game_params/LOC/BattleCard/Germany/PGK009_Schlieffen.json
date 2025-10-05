@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4284667696,
+  "index": "PGK009",
+  "maxLevel": 2,
+  "name": "PGK009_Schlieffen",
+  "personalCardBonus": {
+    "clan": "PCOK600_CLAN_BB_Close"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PGSB210_Schlieffen"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4083348304,
+  "index": "PFD201",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD201_Dir_HA_RF_3m_Mle_1933_Transatlantic/FD201_Dir_HA_RF_3m_Mle_1933_Transatlantic.model",
+  "name": "PFD201_Dir_HA_RF_3m_Mle_1933_Transatlantic",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

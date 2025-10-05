@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA024_USABB_0910",
+  "compensationCR": 0,
+  "description": "IDS_PCZC526_USABB_0910_WILLIAMSIMS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3743325104,
+  "index": "PCZC526",
+  "name": "PCZC526_USABB_0910_WilliamSims",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

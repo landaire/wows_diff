@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA014_BritishCVArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC297_BRITISHCVARC_HMS_FURIOUS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3983449008,
+  "index": "PCZC297",
+  "name": "PCZC297_BritishCVArc_HMS_Furious",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA017_FrenchDDArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC376_FRENCHDDARC_LIBERATION_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3900611504,
+  "index": "PCZC376",
+  "name": "PCZC376_FrenchDDArc_Liberation",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

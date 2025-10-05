@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4165135056,
+  "index": "PJF123",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/finder/JF123_Rangefinder_4_5m_Ise/JF123_Rangefinder_4_5m_Ise.model",
+  "name": "PJF123_Rangefinder_4_5m_Ise",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Finder"
+  }
+}

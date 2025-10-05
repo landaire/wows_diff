@@ -1,0 +1,13 @@
+{
+  "costCR": 420000,
+  "costXP": 5300,
+  "id": 4292751344,
+  "index": "PAUD002",
+  "name": "PAUD002_Curtiss_SBC4",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

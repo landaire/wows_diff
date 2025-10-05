@@ -1,0 +1,13 @@
+{
+  "costCR": 250000,
+  "costXP": 0,
+  "id": 3766333392,
+  "index": "PBUE504",
+  "name": "PBUE504_CV6_ENG_STOCK",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

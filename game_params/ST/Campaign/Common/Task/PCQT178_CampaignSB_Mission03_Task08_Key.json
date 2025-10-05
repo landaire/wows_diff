@@ -1,0 +1,30 @@
+{
+  "backgroundIconID": 2,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\"/>",
+    "<isTotalFreeXP count= \"3000\"/>"
+  ],
+  "costUnlock": 10,
+  "id": 4107681712,
+  "index": "PCQT178",
+  "isSingleBattle": false,
+  "lootStars": 0,
+  "name": "PCQT178_CampaignSB_Mission03_Task08_Key",
+  "rewards": [
+    "<Add type=\"FREE_XP\" limit=\"15001\" count=\"15000\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT178_CAMPAIGNSB_MISSION03_TASK08_KEY_1",
+    "isTotalFreeXP",
+    "IDS_TASKRESTRICTION_PVPCOOPRANKED"
+  ],
+  "unlockMissions": [
+    "PCQM014_CampaignSB_Mission04"
+  ]
+}

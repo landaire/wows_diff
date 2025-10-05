@@ -1,13 +1,106 @@
 {
+  "grades": {
+    "level_0": {
+      "actionName": "",
+      "allowedNextLevels": [
+        "level_1"
+      ]
+    },
+    "level_1": {
+      "actionName": "Go_to_Grade_1",
+      "allowedNextLevels": [
+        "level_2",
+        "level_3"
+      ]
+    },
+    "level_2": {
+      "actionName": "Go_to_Grade_2",
+      "allowedNextLevels": [
+        "level_3"
+      ]
+    },
+    "level_3": {
+      "actionName": "Go_to_Grade_3",
+      "allowedNextLevels": []
+    }
+  },
   "id": 4247308208,
   "index": "PCOO045",
   "logic": {
     "InteractiveObjectEvents": {
+      "InteractiveObjectOvercharge_0": {
+        "InteractiveObjectActions": {
+          "modelAction": {
+            "actionName": "No_Overcharge",
+            "deactivationActionName": "",
+            "type": 3
+          },
+          "soundAction": {
+            "eventName": "UI_Monitor_Buttons",
+            "type": 4
+          }
+        },
+        "activeTime": 1.0,
+        "requiredOverchargeLevel": 0,
+        "requiredState": "none",
+        "targetState": "none",
+        "type": "onInteractiveObjectOvercharged"
+      },
+      "InteractiveObjectOvercharge_1": {
+        "InteractiveObjectActions": {
+          "modelAction": {
+            "actionName": "Overcharge",
+            "deactivationActionName": "",
+            "type": 3
+          },
+          "soundAction": {
+            "eventName": "UI_Monitor_Buttons",
+            "type": 4
+          }
+        },
+        "activeTime": 1.0,
+        "requiredOverchargeLevel": 1,
+        "requiredState": "none",
+        "targetState": "none",
+        "type": "onInteractiveObjectOvercharged"
+      },
+      "InteractiveObjectOvercharge_2": {
+        "InteractiveObjectActions": {
+          "modelAction": {
+            "actionName": "Overcharge",
+            "deactivationActionName": "",
+            "type": 3
+          },
+          "soundAction": {
+            "eventName": "UI_Monitor_Buttons",
+            "type": 4
+          }
+        },
+        "activeTime": 1.0,
+        "requiredOverchargeLevel": 2,
+        "requiredState": "none",
+        "targetState": "none",
+        "type": "onInteractiveObjectOvercharged"
+      },
       "OnMouseClick": {
         "InteractiveObjectActions": {
           "cameraAction": {
+            "trajectoryGroup": "",
             "trajectoryName": "R42_Zona5",
             "type": 6
+          },
+          "modelAction": {
+            "actionName": "actionoff",
+            "deactivationActionName": "",
+            "type": 3
+          },
+          "mousePressAction": {
+            "eventData": {
+              "area": "operational_command"
+            },
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "ui.navalBaseAreaSelected"
           }
         },
         "activeTime": 2.0,
@@ -21,6 +114,10 @@
             "actionName": "On",
             "deactivationActionName": "",
             "type": 3
+          },
+          "soundAction": {
+            "eventName": "UI_Area_Highlight_On",
+            "type": 4
           }
         },
         "activeTime": -1.0,
@@ -34,6 +131,10 @@
             "actionName": "Off",
             "deactivationActionName": "",
             "type": 3
+          },
+          "soundAction": {
+            "eventName": "UI_Area_Highlight_Off",
+            "type": 4
           }
         },
         "activeTime": 0.0,
@@ -41,8 +142,58 @@
         "targetState": "released",
         "type": "onMouseOverEnd"
       },
+      "onDeselected": {
+        "InteractiveObjectActions": {
+          "cameraAction": {
+            "trajectoryGroup": "",
+            "trajectoryName": "R42_MainTable",
+            "type": 6
+          }
+        },
+        "activeTime": 0.0,
+        "requiredState": "none",
+        "targetState": "released",
+        "type": "onDeselect"
+      },
+      "onInteractiveObjectSetActive": {
+        "InteractiveObjectActions": {
+          "modelAction": {
+            "actionName": "Active",
+            "deactivationActionName": "",
+            "type": 3
+          }
+        },
+        "activeTime": -1.0,
+        "requiredState": "none",
+        "targetState": "none",
+        "type": "onInteractiveObjectSetActive"
+      },
+      "onInteractiveObjectSetInactive": {
+        "InteractiveObjectActions": {
+          "modelAction": {
+            "actionName": "Passive",
+            "deactivationActionName": "",
+            "type": 3
+          }
+        },
+        "activeTime": -1.0,
+        "requiredState": "none",
+        "targetState": "none",
+        "type": "onInteractiveObjectSetInactive"
+      },
       "onUIMouseClick": {
-        "InteractiveObjectActions": null,
+        "InteractiveObjectActions": {
+          "cameraAction": {
+            "trajectoryGroup": "",
+            "trajectoryName": "R42_Zona5",
+            "type": 6
+          },
+          "modelAction": {
+            "actionName": "actionoff",
+            "deactivationActionName": "",
+            "type": 3
+          }
+        },
         "activeTime": 0.0,
         "requiredState": "hovered",
         "targetState": "selected",

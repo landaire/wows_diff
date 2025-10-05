@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3768429936,
+  "index": "PUUE502",
+  "name": "PUUE502_ENG_MYSORE",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

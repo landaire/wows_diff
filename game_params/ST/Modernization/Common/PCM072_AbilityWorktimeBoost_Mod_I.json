@@ -1,0 +1,87 @@
+{
+  "canCharge": true,
+  "costCR": 2000000,
+  "excludes": [
+    "PXSB011_Montana_H2019",
+    "PXSB009_Yamato_H2019",
+    "PGSB920_Schlieffen",
+    "PXSD025_Berserk",
+    "PXSC101_Hindenburg_H2020",
+    "PXSB103_France_H2020",
+    "PXSC016_Monster_Cruiser",
+    "PXSC102_Smolensk_H2020",
+    "PXSB015_Crab_Battleship",
+    "PISC990_Ravenna",
+    "PASB990_Utah"
+  ],
+  "group": [
+    "upgradeable",
+    "disabled",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "event",
+    "specialUnsellable",
+    "demoWithoutStats",
+    "demoWithoutStatsPrem",
+    "demoWithoutStatsTemporary",
+    "experimental",
+    "start",
+    "peculiar",
+    "clan",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "superShip",
+    "demoWithStats",
+    "notForBattle",
+    "coopOnly"
+  ],
+  "id": 4218605488,
+  "index": "PCM072",
+  "modifiers": {
+    "ConsumablesWorkTime": 1.1
+  },
+  "name": "PCM072_AbilityWorktimeBoost_Mod_I",
+  "nation": [
+    "France",
+    "USA",
+    "Russia",
+    "Japan",
+    "United_Kingdom",
+    "Germany",
+    "Italy",
+    "Europe",
+    "Netherlands",
+    "Spain",
+    "Pan_Asia",
+    "Pan_America",
+    "Commonwealth"
+  ],
+  "shiplevel": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "ships": [
+    "PASB013_Arkansas_1912",
+    "PGSD508_Z_39",
+    "PBSC507_Belfast_1959",
+    "PBSC707_STPatric_Belfast_1959"
+  ],
+  "shiptype": [
+    "Cruiser",
+    "Destroyer",
+    "Battleship",
+    "Submarine"
+  ],
+  "slot": 4,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

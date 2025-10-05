@@ -1,0 +1,32 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4242722736,
+  "index": "PCM049",
+  "modifiers": {
+    "GMRepairTime": 0.5,
+    "SGRudderTime": 0.8,
+    "burnTime": 0.6,
+    "floodTime": 0.3
+  },
+  "name": "PCM049_Special_Mod_I_Hindenburg",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PGSC110_Hindenburg",
+    "PGSC890_Azur_Hindenburg"
+  ],
+  "shiptype": [],
+  "slot": 4,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

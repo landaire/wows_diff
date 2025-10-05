@@ -1,0 +1,21 @@
+{
+  "id": 4293806000,
+  "index": "PCOD001",
+  "markerNameActive": "visibility_active",
+  "markerNameInactive": "visibility_inactive",
+  "maxBuffLevel": 0,
+  "name": "PCOD001_Visibility",
+  "payload": {
+    "duration": -1,
+    "level": 1,
+    "params": "PCOM001_Visibility",
+    "type": 1,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

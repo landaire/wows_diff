@@ -1,0 +1,75 @@
+{
+  "id": 4293445552,
+  "index": "PCOO001",
+  "logic": {
+    "InteractiveObjectEvents": {
+      "OnMouseClick": {
+        "InteractiveObjectActions": {
+          "modelAction": {
+            "actionName": "Off",
+            "deactivationActionName": "",
+            "type": 3
+          },
+          "mousePressAction2": {
+            "eventData": [
+              "io:startrek_transition_to_bridge"
+            ],
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "statistics.log"
+          },
+          "portChange": {
+            "effectHoldTime": 2.0,
+            "effectLifetime": 1.5,
+            "effectName": "content/gameplay/common/screen_effect/materials/Warp.mfm",
+            "targetPreset": "startrek3",
+            "transitionTime": 1.0,
+            "type": 1
+          },
+          "soundAction": {
+            "eventName": "UI_Warp_Transition",
+            "type": 4
+          }
+        },
+        "activeTime": 2.0,
+        "requiredState": "hovered",
+        "targetState": "selected",
+        "type": "onMouseClick"
+      },
+      "OnMouseOver": {
+        "InteractiveObjectActions": {
+          "mousePressAction": {
+            "actionName": "On",
+            "deactivationActionName": "",
+            "type": 3
+          }
+        },
+        "activeTime": -1.0,
+        "requiredState": "idle",
+        "targetState": "hovered",
+        "type": "onMouseOver"
+      },
+      "OnMouseOverEnd": {
+        "InteractiveObjectActions": {
+          "modelAction": {
+            "actionName": "Off",
+            "deactivationActionName": "",
+            "type": 3
+          }
+        },
+        "activeTime": 0.3,
+        "requiredState": "hovered",
+        "targetState": "released",
+        "type": "onMouseOverEnd"
+      }
+    },
+    "state": "idle"
+  },
+  "name": "PCOO001_GoToEnterprise",
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "InteractiveObject",
+    "type": "Other"
+  }
+}

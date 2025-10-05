@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3246584784,
+  "index": "PBD999",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD999_15in_gun_30ft_director_Nolan/BD999_15in_gun_30ft_director_Nolan.model",
+  "name": "PBD999_15in_gun_30ft_director_Nolan",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

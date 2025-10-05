@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC208_AA_AIR_MEDAL_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4076772272,
+  "index": "PCZC208",
+  "name": "PCZC208_AA_Air_Medal",
+  "subAlbums": [
+    5
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

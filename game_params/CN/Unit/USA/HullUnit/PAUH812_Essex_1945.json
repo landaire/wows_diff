@@ -1,0 +1,13 @@
+{
+  "costCR": 2600000,
+  "costXP": 31000,
+  "id": 3443273712,
+  "index": "PAUH812",
+  "name": "PAUH812_Essex_1945",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

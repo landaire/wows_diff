@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3558321872,
+  "index": "PJUQ702",
+  "name": "PJUQ702_SONAR_I54",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

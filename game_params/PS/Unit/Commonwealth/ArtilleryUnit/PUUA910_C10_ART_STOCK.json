@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 0,
+  "id": 3340742000,
+  "index": "PUUA910",
+  "name": "PUUA910_C10_ART_STOCK",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

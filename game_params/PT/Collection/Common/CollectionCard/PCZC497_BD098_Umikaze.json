@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA023_BD098",
+  "compensationCR": 0,
+  "description": "IDS_PCZC497_BD098_UMIKAZE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3773733808,
+  "index": "PCZC497",
+  "name": "PCZC497_BD098_Umikaze",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

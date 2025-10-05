@@ -111,6 +111,35 @@
     "titleIDs": "PCY013_JAP_BC",
     "workTime": 55.0
   },
+  "Lanzhou_Spotter": {
+    "availableBuoyancyStates": [],
+    "consumableType": "scout",
+    "descIDs": "PCY013_JAP_BC",
+    "group": "ship",
+    "iconIDs": "PCY013_JAP_BC",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "artilleryDistCoeff": 1.1,
+      "descIDs": "",
+      "iconIDs": "",
+      "modifiers": {
+        "GMIdealRadius": 0.9
+      },
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 5,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 100.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY013_JAP_BC",
+    "workTime": 30.0
+  },
   "Lazo": {
     "availableBuoyancyStates": [],
     "consumableType": "scout",
@@ -390,7 +419,6 @@
   "canBuy": false,
   "costCR": -1,
   "costGold": -1,
-  "custom": {},
   "freeOfCharge": true,
   "id": 4280459184,
   "index": "PCY013",

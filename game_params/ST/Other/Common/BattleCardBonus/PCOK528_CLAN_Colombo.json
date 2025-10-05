@@ -1,0 +1,18 @@
+{
+  "id": 3740977072,
+  "index": "PCOK528",
+  "level_1": {
+    "vulnerabilityAP": 0.9,
+    "vulnerabilityCS": 0.8
+  },
+  "level_2": {
+    "vulnerabilityAP": 0.9,
+    "vulnerabilityCS": 0.8
+  },
+  "name": "PCOK528_CLAN_Colombo",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

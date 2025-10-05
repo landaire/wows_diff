@@ -1,0 +1,75 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "WWIIBattle",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 2,
+  "gameLogicConfig": {},
+  "id": 4251823024,
+  "index": "PCVE041",
+  "matchmakerConfig": "eventEV41_WW2_OP_2",
+  "name": "PCVE041_s13_WW2_OP2",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        1
+      ],
+      "Battleship": [
+        0,
+        4
+      ],
+      "Cruiser": [
+        0,
+        6
+      ],
+      "Destroyer": [
+        0,
+        4
+      ],
+      "Submarine": [
+        0,
+        -1
+      ]
+    },
+    "filters": [
+      {
+        "nations": [
+          "USA",
+          "Commonwealth",
+          "Netherlands"
+        ],
+        "shipLevels": [
+          7,
+          8
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship",
+          "AirCarrier"
+        ]
+      }
+    ],
+    "totalShips": 6
+  },
+  "scenariosByMap": {
+    "spaces/s13_WW2_OP2": [
+      "WW2_OPERATION_2_78LVL"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

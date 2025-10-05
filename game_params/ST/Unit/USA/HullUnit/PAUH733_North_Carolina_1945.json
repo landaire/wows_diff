@@ -1,0 +1,13 @@
+{
+  "costCR": 4000000,
+  "costXP": 57500,
+  "id": 3526111216,
+  "index": "PAUH733",
+  "name": "PAUH733_North_Carolina_1945",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -6,7 +6,6 @@
   "constants": {
     "shipsCount": 10
   },
-  "custom": {},
   "enabled": true,
   "events": [
     [

@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 22,
+  "conditions": [
+    "<isMyShip shipLevel=\"5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isKillPlanes count=\"2\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4206247856,
+  "index": "PCQT084",
+  "isSingleBattle": true,
+  "lootStars": 2,
+  "name": "PCQT084",
+  "rewards": [
+    "<Item idx=\"PCEF016_NE7_SignalFlag\" count=\"10\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT084_1",
+    "isKillPlanes",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

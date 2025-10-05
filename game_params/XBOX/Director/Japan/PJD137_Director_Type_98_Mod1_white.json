@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4150457040,
+  "index": "PJD137",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/director/JD137_Director_Type_98_Mod1_white/JD137_Director_Type_98_Mod1_white.model",
+  "name": "PJD137_Director_Type_98_Mod1_white",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Director"
+  }
+}

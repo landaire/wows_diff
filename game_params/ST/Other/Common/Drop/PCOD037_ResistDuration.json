@@ -1,0 +1,25 @@
+{
+  "id": 4256057264,
+  "index": "PCOD037",
+  "markerNameActive": "pack_chooser_active",
+  "markerNameInactive": "pack_chooser_inactive",
+  "maxBuffLevel": 0,
+  "name": "PCOD037_ResistDuration",
+  "payload": {
+    "item_1": {
+      "duration": 30,
+      "level": 1,
+      "params": "PCOM024_DamageResist",
+      "type": 1,
+      "weight": 0
+    },
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

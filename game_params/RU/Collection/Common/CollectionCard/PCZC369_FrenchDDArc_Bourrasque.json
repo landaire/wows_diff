@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA017_FrenchDDArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC369_FRENCHDDARC_BOURRASQUE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3907951536,
+  "index": "PCZC369",
+  "name": "PCZC369_FrenchDDArc_Bourrasque",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

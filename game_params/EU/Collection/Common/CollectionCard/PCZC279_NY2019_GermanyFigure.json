@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA013_HappyNewYear2019",
+  "compensationCR": 0,
+  "description": "IDS_PCZC279_NY2019_GERMANYFIGURE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4002323376,
+  "index": "PCZC279",
+  "name": "PCZC279_NY2019_GermanyFigure",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3695888304,
+  "index": "PCOK571",
+  "level_1": {
+    "allAlphaMultiplier": 1.075,
+    "shootShift": 1.2,
+    "vulnerabilityAP": 0.95,
+    "vulnerabilityHE": 0.95
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.075,
+    "shootShift": 1.2,
+    "vulnerabilityAP": 0.95,
+    "vulnerabilityHE": 0.95
+  },
+  "name": "PCOK571_CLAN_Bazan",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

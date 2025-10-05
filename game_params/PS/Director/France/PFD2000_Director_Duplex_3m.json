@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2196960080,
+  "index": "PFD2000",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD2000_Director_Duplex_3m/FD2000_Director_Duplex_3m.model",
+  "name": "PFD2000_Director_Duplex_3m",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

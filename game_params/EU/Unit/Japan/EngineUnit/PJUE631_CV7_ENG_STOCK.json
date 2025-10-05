@@ -1,0 +1,13 @@
+{
+  "costCR": 420000,
+  "costXP": 0,
+  "id": 3633163984,
+  "index": "PJUE631",
+  "name": "PJUE631_CV7_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4289910544,
+  "index": "PHK004",
+  "maxLevel": 2,
+  "name": "PHK004_Noord_Brabant",
+  "personalCardBonus": {
+    "clan": "PCOK008_Balldmg_DplanebombX2"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PHSC980_Noord_Brabant"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

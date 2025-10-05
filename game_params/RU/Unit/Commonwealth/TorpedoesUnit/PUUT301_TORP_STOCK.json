@@ -1,0 +1,13 @@
+{
+  "costCR": 70000,
+  "costXP": 0,
+  "id": 3978702192,
+  "index": "PUUT301",
+  "name": "PUUT301_TORP_STOCK",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

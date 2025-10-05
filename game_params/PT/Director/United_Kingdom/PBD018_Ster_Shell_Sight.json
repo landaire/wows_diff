@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4275237840,
+  "index": "PBD018",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD018_Ster_Shell_Sight/BD018_Ster_Shell_Sight.model",
+  "name": "PBD018_Ster_Shell_Sight",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

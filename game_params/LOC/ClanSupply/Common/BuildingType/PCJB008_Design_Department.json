@@ -1,0 +1,11 @@
+{
+  "id": 4286536624,
+  "index": "PCJB008",
+  "name": "PCJB008_Design_Department",
+  "type": "design_department",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BuildingType",
+    "type": "ClanSupply"
+  }
+}

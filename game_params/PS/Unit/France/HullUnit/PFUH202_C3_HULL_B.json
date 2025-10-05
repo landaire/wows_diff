@@ -1,0 +1,13 @@
+{
+  "costCR": 98000,
+  "costXP": 800,
+  "id": 4082904912,
+  "index": "PFUH202",
+  "name": "PFUH202_C3_HULL_B",
+  "typeinfo": {
+    "nation": "France",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

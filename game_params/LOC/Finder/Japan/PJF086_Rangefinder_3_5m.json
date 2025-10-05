@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4203932368,
+  "index": "PJF086",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/finder/JF086_Rangefinder_3_5m/JF086_Rangefinder_3_5m.model",
+  "name": "PJF086_Rangefinder_3_5m",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Finder"
+  }
+}

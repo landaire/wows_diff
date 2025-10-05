@@ -1,0 +1,13 @@
+{
+  "costCR": 1000000,
+  "costXP": 12000,
+  "id": 3663081424,
+  "index": "PBUT602",
+  "name": "PBUT602_C7_TORP_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

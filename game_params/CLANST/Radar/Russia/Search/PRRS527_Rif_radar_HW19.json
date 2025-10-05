@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3741759952,
+  "index": "PRRS527",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/radar/search/RRS527_Rif_radar_HW19/RRS527_Rif_radar_HW19.model",
+  "name": "PRRS527_Rif_radar_HW19",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

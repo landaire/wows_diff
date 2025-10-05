@@ -1,0 +1,280 @@
+{
+  "apDamageLimitCoeff": 0,
+  "artillery": {
+    "HP_GUN_1": {
+      "HitLocationArtillery": {
+        "antiRamCoeff": 1.0,
+        "armorCoeff": 1.0,
+        "autoRepairTime": 30,
+        "autoRepairTimeMin": 25,
+        "brokenRepairHealthCoefficient": 0.5,
+        "brokenRepairTime": 45.0,
+        "buoyancyShipPercent": 0.0,
+        "burnNode": "",
+        "canBeDestroyed": false,
+        "critProb": [
+          0.0,
+          0.0
+        ],
+        "critProbHP": [
+          0.0,
+          0.0
+        ],
+        "damageEffects": [],
+        "enhancedRegeneratedHPPart": 0.0,
+        "hlType": "artillery_hitlocation",
+        "maxBuoyancy": 0.0,
+        "maxHP": 15000.0,
+        "moduleCritCoeffCR": 1.0,
+        "moduleCritCoeffXP": 1.0,
+        "parentHL": null,
+        "ramCoeff": 1.0,
+        "ramExtraDamage": 0.0,
+        "regeneratedHPPart": 1.0,
+        "splashBoxes": [
+          "CM_SB_gk_1",
+          "CM_SB_gk_2"
+        ],
+        "startHPCoeff": 1.0,
+        "tbSkipProbMax": 0.0,
+        "tbSkipProbMin": 0.0,
+        "transmitHPDamageToParentFactor": 1.0,
+        "volume": 0.5,
+        "volumeCoeff": 0.1
+      },
+      "aiMGmaxEllipseRanging": 4.0,
+      "aiMGmedEllipseRanging": 3.7,
+      "aiMGminEllipseRanging": 3.5,
+      "ammoList": [
+        "PXPA043_ARROW"
+      ],
+      "ammoSwitchCoeff": 1.0,
+      "antiAirAuraDistance": 0.0,
+      "antiAirAuraStrength": 0.0,
+      "armor": {
+        "1": 10.0,
+        "131116": 10.0,
+        "65580": 10.0
+      },
+      "barrelDiameter": 0.5,
+      "brokenEffect": "particles/guns/Gun_Damage_medium.xml",
+      "coeffPerSecondMin": 0.3,
+      "customMiscs": {},
+      "damagedEffect": "particles/guns/Gun_Broken_medium.xml",
+      "deadMesh": "content/location/gameplay/gun/main/LYGM006_Ballista/LYGM006_Ballista.model",
+      "deadZone": [],
+      "delim": 0.5,
+      "effectIntensityModifier": 1.0,
+      "ellipseRangeMax": 250.0,
+      "ellipseRangeMin": 50.0,
+      "horizSector": [
+        0.0,
+        0.0
+      ],
+      "id": 3767133456,
+      "idealDistance": 1000.0,
+      "idealRadius": 5.01,
+      "index": "PXGM503",
+      "lensEffect": "particles/guns/GK_Lens.xml",
+      "maxEllipseRanging": 1.003,
+      "medEllipseRanging": 1.002,
+      "minEllipseRanging": 1.001,
+      "minRadius": 1.0,
+      "miscFilter": [],
+      "miscFilterMode": false,
+      "model": "content/location/gameplay/gun/main/LYGM006_Ballista/LYGM006_Ballista.model",
+      "name": "PXGM503_Ballista",
+      "numBarrels": 1,
+      "onMoveTarPosCoeffDelim": 1.001,
+      "onMoveTarPosCoeffMaxDist": 1.002,
+      "onMoveTarPosCoeffZero": 1.0,
+      "onMoveTarPosDelim": 0.1,
+      "pitchDeadZones": [],
+      "position": [
+        0,
+        0
+      ],
+      "purgingEffect": "particles/guns/GK_Purging.xml",
+      "radiusOnDelim": 0.5,
+      "radiusOnMax": 0.6,
+      "radiusOnZero": 0.2,
+      "reduceTime": 0.1,
+      "reloadBoostEffect": "particles/guns/GK_Reload.xml",
+      "rotationSpeed": [
+        30.0,
+        30.0
+      ],
+      "shotDelay": 12.0,
+      "shotEffect": "particles/Empty_FX.xml",
+      "smallGun": null,
+      "smokePenalty": 0.0001,
+      "typeinfo": {
+        "nation": "Events",
+        "species": "Main",
+        "type": "Gun"
+      },
+      "vertSector": [
+        0.0,
+        45.0
+      ]
+    },
+    "ammoPool": {
+      "AP": 99999,
+      "CS": 99999,
+      "HE": 99999,
+      "axisLaser": 99999,
+      "chargeLaser": 99999,
+      "impulseLaser": 99999,
+      "phaserLaser": 99999
+    },
+    "artificialOffset": 10.0,
+    "maxDist": 8000.0,
+    "minDistH": 50.0,
+    "minDistV": 110.0,
+    "normalDistribution": true,
+    "sigmaCount": 2.0,
+    "taperDist": 0.0,
+    "targetWeightAllyAttacker": 1.0,
+    "targetWeightDist": 1.0,
+    "targetWeightHealth": 1.0,
+    "targetWeightIncoming": 10.0,
+    "targetWeightMaxDist": 2.0,
+    "targetWeightMaxHealth": 1.0,
+    "targetWeightMinDist": 10.0,
+    "targetWeightMinHealth": 5.0,
+    "targetWeightMyAttacker": 1.0,
+    "targetWeightOutcoming": 0.1,
+    "targetWeightYaw": 1.0
+  },
+  "hull": {
+    "OCit": {
+      "antiRamCoeff": 1.0,
+      "armorCoeff": 1.0,
+      "autoRepairTime": 10,
+      "autoRepairTimeMin": 5,
+      "brokenRepairHealthCoefficient": 0.5,
+      "brokenRepairTime": 90.0,
+      "buoyancyShipPercent": 0.0,
+      "burnNode": "",
+      "canBeDestroyed": false,
+      "critProb": [
+        0.0,
+        0.0
+      ],
+      "critProbHP": [
+        1.0,
+        0.0
+      ],
+      "damageEffects": [
+        [
+          0.1,
+          ""
+        ],
+        [
+          0.3,
+          ""
+        ],
+        [
+          0.6,
+          ""
+        ]
+      ],
+      "enhancedRegeneratedHPPart": 0.0,
+      "hlType": "simple_hitlocation",
+      "maxBuoyancy": 0.0,
+      "maxHP": 60000.0,
+      "moduleCritCoeffCR": 0.0,
+      "moduleCritCoeffXP": 0.0,
+      "parentHL": null,
+      "ramCoeff": 1.0,
+      "ramExtraDamage": 0.0,
+      "regeneratedHPPart": 0.5,
+      "splashBoxes": [
+        "CM_SB_ovcit",
+        "CM_SB_ovcit_1",
+        "CM_SB_ovcit_2"
+      ],
+      "startHPCoeff": 1.0,
+      "tbSkipProbMax": 0.0,
+      "tbSkipProbMin": 0.0,
+      "transmitHPDamageToParentFactor": 1.0,
+      "volume": 1.0,
+      "volumeCoeff": 1.0
+    },
+    "acidDamage": 0.0,
+    "acidDuration": 0.0,
+    "armor": {
+      "1": 90.0,
+      "131150": 90.0,
+      "65613": 90.0,
+      "65614": 90.0
+    },
+    "burnNodes": [],
+    "canBeSuppressed": true,
+    "canReceiveAcid": false,
+    "canReceiveWildFire": false,
+    "coolingOffSpeed": 1.0,
+    "deadModel": "content/location/nature/gameplay/LNG003/LNG003.model",
+    "deathAnimation": "",
+    "deathEffect": "",
+    "deathModelReplacementDelay": 0.0,
+    "deathPlaneEffect": "particles/NF_death_catapult_ships.xml",
+    "effects": {
+      "fire1": []
+    },
+    "health": 36000.0,
+    "healthRestorationRate": 0,
+    "heatChangeValue": 1.0,
+    "heightIntensityEffects": [],
+    "iconHeight": 7,
+    "isBlind": true,
+    "mass": 1.0,
+    "maxHeatValue": 1.0,
+    "minVisionDistance": 0.0,
+    "model": "content/location/nature/gameplay/LNG003/LNG003.model",
+    "numOfParts": 0,
+    "permanentlyRegenerateHealth": true,
+    "permanentlyVisibleByEnemies": false,
+    "permanentlyVisibleByTeammates": true,
+    "smokeScanRadius": 0.0,
+    "spawnAnimation": "",
+    "spawnEffect": "",
+    "startHealthCoeff": 1.0,
+    "startHealthToRegenerationCoeff": 0.5,
+    "suppressionEffect": {
+      "Effect Name": "particles/vehicles/Suppression_Catapult.xml",
+      "Scene Node": "Scene Root"
+    },
+    "toMineVisionDistance": [
+      600.0,
+      600.0,
+      100.0
+    ],
+    "visibilityCoefATBAByPlane": 2.0,
+    "visibilityCoefAirDefense": 1.3,
+    "visibilityCoefFire": 2.0,
+    "visibilityCoefFireByPlane": 2.0,
+    "visibilityCoefGK": 1e-6,
+    "visibilityCoefGKByPlane": 1e-6,
+    "visibilityCoefGKInSmoke": 1e-6,
+    "visibilityFactor": 15.0,
+    "visibilityFactorByPlane": 15.0,
+    "visibilityFactorInSmoke": 1.0,
+    "visionDistance": 1.0,
+    "visionFlag": 1,
+    "wildFireDamage": 0.0,
+    "wildFireDuration": -1.0
+  },
+  "id": 4287560624,
+  "index": "PCBC007",
+  "level": 11,
+  "name": "PCBC007_H18",
+  "peculiarity": "default",
+  "peculiarityEffects": {},
+  "peculiarityModels": {},
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CoastalArtillery",
+    "type": "Building"
+  }
+}

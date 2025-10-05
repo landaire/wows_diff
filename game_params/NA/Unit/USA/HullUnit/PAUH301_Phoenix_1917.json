@@ -1,0 +1,13 @@
+{
+  "costCR": 78000,
+  "costXP": 0,
+  "id": 3979096048,
+  "index": "PAUH301",
+  "name": "PAUH301_Phoenix_1917",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

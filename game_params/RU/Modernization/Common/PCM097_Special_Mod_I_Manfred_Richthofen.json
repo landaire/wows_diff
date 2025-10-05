@@ -1,0 +1,31 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4192391088,
+  "index": "PCM097",
+  "modifiers": {
+    "planeTorpedoArmingTimeCoeff": 0.9,
+    "torpedoBomberHealth": 1.15,
+    "torpedoDamageCoeff": 1.1
+  },
+  "name": "PCM097_Special_Mod_I_Manfred_Richthofen",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PGSA110_Manfred_Richthofen",
+    "PGSA910_Pinata_Richthofen"
+  ],
+  "shiptype": [],
+  "slot": 5,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

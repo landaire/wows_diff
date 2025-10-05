@@ -5273,26 +5273,6 @@
   "battleSignalsOrder": [],
   "canCharge": true,
   "canEquipCamouflage": true,
-  "custom": {
-    "ASIA": {
-      "group": "premium"
-    },
-    "CN": {
-      "group": "premium"
-    },
-    "EU": {
-      "group": "premium"
-    },
-    "NA": {
-      "group": "premium"
-    },
-    "RU": {
-      "group": "premium"
-    },
-    "ST": {
-      "group": "premium"
-    }
-  },
   "defaultCrew": "PVW007_Default_Peru",
   "flagsScale": 0.7,
   "group": "special",

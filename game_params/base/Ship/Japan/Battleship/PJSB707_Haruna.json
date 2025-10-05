@@ -6623,11 +6623,6 @@
   "battleSignalsOrder": [],
   "canCharge": false,
   "canEquipCamouflage": true,
-  "custom": {
-    "CN": {
-      "group": "disabled"
-    }
-  },
   "defaultCrew": "PJW007_Haruna",
   "flagsScale": 0.8,
   "group": "special",

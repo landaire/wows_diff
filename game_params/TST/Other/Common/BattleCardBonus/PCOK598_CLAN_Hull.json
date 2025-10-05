@@ -1,0 +1,18 @@
+{
+  "id": 3667576752,
+  "index": "PCOK598",
+  "level_1": {
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityMain": 0.9
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityMain": 0.9
+  },
+  "name": "PCOK598_CLAN_Hull",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

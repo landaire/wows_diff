@@ -1,0 +1,37 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4245868464,
+  "index": "PCM046",
+  "modifiers": {
+    "GMIdealRadius": 0.93,
+    "GMRotationSpeed": {
+      "AirCarrier": 0.87,
+      "Auxiliary": 0.87,
+      "Battleship": 0.87,
+      "Cruiser": 0.87,
+      "Destroyer": 0.87,
+      "Submarine": 0.87
+    }
+  },
+  "name": "PCM046_Special_Mod_I_Yamato",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PJSB018_Yamato_1944",
+    "PJSB710_FBO_Yamato"
+  ],
+  "shiptype": [],
+  "slot": 5,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

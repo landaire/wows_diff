@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA013_HappyNewYear2019",
+  "compensationCR": 0,
+  "description": "IDS_PCZC270_NY2019_NIKOLAIEMBLEM_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4011760560,
+  "index": "PCZC270",
+  "name": "PCZC270_NY2019_NikolaiEmblem",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4200788176,
+  "index": "PZD089",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD089_HACS_MK_III_with_Radar_type285/ZD089_HACS_MK_III_with_Radar_type285.model",
+  "name": "PZD089_HACS_MK_III_with_Radar_type285",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

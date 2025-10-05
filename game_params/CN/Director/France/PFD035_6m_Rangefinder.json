@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4257411920,
+  "index": "PFD035",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD035_6m_Rangefinder/FD035_6m_Rangefinder.model",
+  "name": "PFD035_6m_Rangefinder",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

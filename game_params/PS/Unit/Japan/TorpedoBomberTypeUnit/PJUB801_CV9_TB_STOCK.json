@@ -1,0 +1,13 @@
+{
+  "costCR": 630000,
+  "costXP": 0,
+  "id": 3455004368,
+  "index": "PJUB801",
+  "name": "PJUB801_CV9_TB_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

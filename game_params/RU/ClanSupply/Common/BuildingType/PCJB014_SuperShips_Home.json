@@ -1,0 +1,11 @@
+{
+  "id": 4280245168,
+  "index": "PCJB014",
+  "name": "PCJB014_SuperShips_Home",
+  "type": "superships_home",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BuildingType",
+    "type": "ClanSupply"
+  }
+}

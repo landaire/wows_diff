@@ -1,0 +1,13 @@
+{
+  "costCR": 1000000,
+  "costXP": 0,
+  "id": 3350146512,
+  "index": "PRUB901",
+  "name": "PRUB901_CV10_TB_STOCK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

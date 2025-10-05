@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 0,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\" class=\"Battleship,Cruiser\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\"/>",
+    "<isKillPlanes count=\"25\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 4103487408,
+  "index": "PCQT182",
+  "isSingleBattle": true,
+  "lootStars": 2,
+  "name": "PCQT182_CampaignSB_Mission04_Task02",
+  "rewards": [
+    "<Item idx=\"PCEF016_NE7_SignalFlag\" count=\"25\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT182_CAMPAIGNSB_MISSION04_TASK02_1",
+    "isKillPlanes",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

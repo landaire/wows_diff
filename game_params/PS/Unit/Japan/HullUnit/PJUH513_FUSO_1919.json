@@ -1,0 +1,13 @@
+{
+  "costCR": 340000,
+  "costXP": 0,
+  "id": 3756797648,
+  "index": "PJUH513",
+  "name": "PJUH513_FUSO_1919",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

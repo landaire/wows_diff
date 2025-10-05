@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 0,
+  "id": 3350048080,
+  "index": "PVUE901",
+  "name": "PVUE901_C10_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

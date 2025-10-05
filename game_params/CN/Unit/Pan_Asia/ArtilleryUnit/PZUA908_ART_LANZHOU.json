@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3342838992,
+  "index": "PZUA908",
+  "name": "PZUA908_ART_LANZHOU",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

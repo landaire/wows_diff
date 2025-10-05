@@ -1,0 +1,15 @@
+{
+  "collectionAlbum": "PCZA002_Bismarck",
+  "compensationCR": 0,
+  "description": "IDS_PCZC023_BISMARCK_COSSACK_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4270758832,
+  "index": "PCZC023",
+  "name": "PCZC023_Bismarck_Cossack",
+  "subAlbums": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

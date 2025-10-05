@@ -1,0 +1,13 @@
+{
+  "costCR": 60000,
+  "costXP": 0,
+  "id": 4286525424,
+  "index": "PAUB008",
+  "name": "PAUB008_Douglas_DT",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

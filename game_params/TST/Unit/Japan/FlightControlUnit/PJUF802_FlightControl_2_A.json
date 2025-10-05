@@ -1,0 +1,13 @@
+{
+  "costCR": 2100000,
+  "costXP": 25000,
+  "id": 3453824720,
+  "index": "PJUF802",
+  "name": "PJUF802_FlightControl_2_A",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

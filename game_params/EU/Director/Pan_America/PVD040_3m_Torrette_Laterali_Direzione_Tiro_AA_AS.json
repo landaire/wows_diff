@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4252168528,
+  "index": "PVD040",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panamerica/director/VD040_3m_Torrette_Laterali_Direzione_Tiro_AA_AS/VD040_3m_Torrette_Laterali_Direzione_Tiro_AA_AS.model",
+  "name": "PVD040_3m_Torrette_Laterali_Direzione_Tiro_AA_AS",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": null,
+    "type": "Director"
+  }
+}

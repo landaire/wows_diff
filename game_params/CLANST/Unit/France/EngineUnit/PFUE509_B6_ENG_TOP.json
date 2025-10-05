@@ -1,0 +1,13 @@
+{
+  "costCR": 300000,
+  "costXP": 5500,
+  "id": 3761090384,
+  "index": "PFUE509",
+  "name": "PFUE509_B6_ENG_TOP",
+  "typeinfo": {
+    "nation": "France",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

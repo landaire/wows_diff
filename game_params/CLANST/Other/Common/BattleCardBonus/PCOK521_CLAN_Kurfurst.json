@@ -1,0 +1,24 @@
+{
+  "id": 3748317104,
+  "index": "PCOK521",
+  "level_1": {
+    "GMAPDamageCoeff": 1.05,
+    "GMHEDamageCoeff": 1.05,
+    "GMPenetrationCoeffHE": 1.6,
+    "GSPenetrationCoeffHE": 1.6,
+    "vulnerabilityAtba": 0.9
+  },
+  "level_2": {
+    "GMAPDamageCoeff": 1.05,
+    "GMHEDamageCoeff": 1.05,
+    "GMPenetrationCoeffHE": 1.6,
+    "GSPenetrationCoeffHE": 1.6,
+    "vulnerabilityAtba": 0.9
+  },
+  "name": "PCOK521_CLAN_Kurfurst",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

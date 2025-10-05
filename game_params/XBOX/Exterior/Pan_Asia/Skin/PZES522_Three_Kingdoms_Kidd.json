@@ -1,0 +1,344 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "camouflage": "mat_Zhu_Que_Three_Kingdoms",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 4500,
+  "effects": {
+    "A_Hull": {
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_small.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_small.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_small.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_vsmall_2.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_small_2.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_small.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_small.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_small.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_small.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_small.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_small_2.xml"
+        ]
+      ],
+      "fireResistance": [],
+      "fixDeluge": [
+        [
+          "HP_FX_Flood_water_left",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_2",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_2",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ]
+      ],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_small.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_exhaust_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_exhaust_small_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_small.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Flood_water_left",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_2",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_2",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_small.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/idlePort_RunSmoke_small.xml"
+        ]
+      ],
+      "repairLight": [
+        [
+          "HP_FX_RepairLight_left_1",
+          "particles/vehicles/RepairLight_small.xml"
+        ],
+        [
+          "HP_FX_RepairLight_left_2",
+          "particles/vehicles/RepairLight_small.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_1",
+          "particles/vehicles/RepairLight_small.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_2",
+          "particles/vehicles/RepairLight_small.xml"
+        ]
+      ],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_small.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/RunSmoke_small.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back_wide_1.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_small.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_small.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_small.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_small.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": true,
+  "hullConfig": {
+    "A_Hull": {
+      "caps": {},
+      "customMiscs": {},
+      "model": "content/gameplay/panasia/ship/destroyer/ZSD401_Kidd_3Kingdoms/ZSD401_Kidd_3Kingdoms.model"
+    }
+  },
+  "id": 3747015888,
+  "index": "PZES522",
+  "isTemplate": false,
+  "name": "PZES522_Three_Kingdoms_Kidd",
+  "nodesConfig": {
+    "A_Artillery": {
+      "HP_ZGM_1": {
+        "deadMesh": "content/gameplay/panasia/gun/main/ZGM3004_5in38_Mk30_Mod0_3Kingdoms/ZGM3004_5in38_Mk30_Mod0_3Kingdoms_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_ZM026_Hood"
+        ],
+        "model": "content/gameplay/panasia/gun/main/ZGM3004_5in38_Mk30_Mod0_3Kingdoms/ZGM3004_5in38_Mk30_Mod0_3Kingdoms.model"
+      },
+      "HP_ZGM_2": {
+        "deadMesh": "content/gameplay/panasia/gun/main/ZGM3004_5in38_Mk30_Mod0_3Kingdoms/ZGM3004_5in38_Mk30_Mod0_3Kingdoms_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/panasia/gun/main/ZGM3004_5in38_Mk30_Mod0_3Kingdoms/ZGM3004_5in38_Mk30_Mod0_3Kingdoms.model"
+      },
+      "HP_ZGM_3": {
+        "deadMesh": "content/gameplay/panasia/gun/main/ZGM3004_5in38_Mk30_Mod0_3Kingdoms/ZGM3004_5in38_Mk30_Mod0_3Kingdoms_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/panasia/gun/main/ZGM3004_5in38_Mk30_Mod0_3Kingdoms/ZGM3004_5in38_Mk30_Mod0_3Kingdoms.model"
+      },
+      "HP_ZGM_4": {
+        "deadMesh": "content/gameplay/panasia/gun/main/ZGM3004_5in38_Mk30_Mod0_3Kingdoms/ZGM3004_5in38_Mk30_Mod0_3Kingdoms_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/panasia/gun/main/ZGM3004_5in38_Mk30_Mod0_3Kingdoms/ZGM3004_5in38_Mk30_Mod0_3Kingdoms.model"
+      },
+      "HP_ZGM_5": {
+        "deadMesh": "content/gameplay/panasia/gun/main/ZGM3004_5in38_Mk30_Mod0_3Kingdoms/ZGM3004_5in38_Mk30_Mod0_3Kingdoms_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_ZM026_Hood"
+        ],
+        "model": "content/gameplay/panasia/gun/main/ZGM3004_5in38_Mk30_Mod0_3Kingdoms/ZGM3004_5in38_Mk30_Mod0_3Kingdoms.model"
+      }
+    }
+  },
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "decorative",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "",
+  "peculiarityModels": {
+    "content/gameplay/panasia/director/ZD006_Director_Mk37/ZD006_Director_Mk37.model": "content/gameplay/panasia/director/ZD3001_Director_Mk37_3Kingdoms/ZD3001_Director_Mk37_3Kingdoms.model",
+    "content/gameplay/panasia/gun/aaircraft/ZGA010_20mm_Oerlikon_MK20_Twin/ZGA010_20mm_Oerlikon_MK20_Twin.model": "content/gameplay/panasia/gun/aaircraft/ZGA3008_20mm_Oerlikon_MK20_Twin_3Kingdoms/ZGA3008_20mm_Oerlikon_MK20_Twin_3Kingdoms.model",
+    "content/gameplay/panasia/gun/aaircraft/ZGA010_20mm_Oerlikon_MK20_Twin/ZGA010_20mm_Oerlikon_MK20_Twin_dead.model": "content/gameplay/panasia/gun/aaircraft/ZGA3008_20mm_Oerlikon_MK20_Twin_3Kingdoms/ZGA3008_20mm_Oerlikon_MK20_Twin_3Kingdoms_dead.model",
+    "content/gameplay/panasia/gun/aaircraft/ZGA110_40mm_Bofors_Mk2_MK19/ZGA110_40mm_Bofors_Mk2_MK19.model": "content/gameplay/panasia/gun/aaircraft/ZGA3009_40mm_Bofors_Mk2_MK19_3Kingdoms/ZGA3009_40mm_Bofors_Mk2_MK19_3Kingdoms.model",
+    "content/gameplay/panasia/gun/aaircraft/ZGA110_40mm_Bofors_Mk2_MK19/ZGA110_40mm_Bofors_Mk2_MK19_dead.model": "content/gameplay/panasia/gun/aaircraft/ZGA3009_40mm_Bofors_Mk2_MK19_3Kingdoms/ZGA3009_40mm_Bofors_Mk2_MK19_3Kingdoms_dead.model",
+    "content/gameplay/panasia/gun/torpedo/ZGT007_21in_MK15_Torpedo_Tubes/ZGT007_21in_MK15_Torpedo_Tubes.model": "content/gameplay/panasia/gun/torpedo/ZGT3010_21in_MK15_Torpedo_Tubes_3Kingdoms/ZGT3010_21in_MK15_Torpedo_Tubes_3Kingdoms.model",
+    "content/gameplay/panasia/gun/torpedo/ZGT007_21in_MK15_Torpedo_Tubes/ZGT007_21in_MK15_Torpedo_Tubes_dead.model": "content/gameplay/panasia/gun/torpedo/ZGT3010_21in_MK15_Torpedo_Tubes_3Kingdoms/ZGT3010_21in_MK15_Torpedo_Tubes_3Kingdoms_dead.model",
+    "content/gameplay/panasia/projectile/depthcharge/ZPD006_Depth_Charge/ZPD006_Depth_Charge.model": "content/gameplay/panasia/projectile/depthcharge/ZPD3004_Depth_Charge_3Kingdoms/ZPD3004_Depth_Charge_3Kingdoms.model",
+    "content/gameplay/usa/projectile/depthcharge/APD001_Depth_Charge/APD001_Depth_Charge.model": "content/gameplay/panasia/projectile/depthcharge/ZPD3003_Depth_Charge_3Kingdoms/ZPD3003_Depth_Charge_3Kingdoms.model"
+  },
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

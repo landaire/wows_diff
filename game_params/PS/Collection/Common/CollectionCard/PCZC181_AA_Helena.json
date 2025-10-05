@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC181_AA_HELENA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4105083824,
+  "index": "PCZC181",
+  "name": "PCZC181_AA_Helena",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

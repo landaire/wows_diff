@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 65,
+  "conditions": [
+    "<isMyShip shipIds=\"PFSB105_Bretagne,PBSB105_Iron_Duke,PJSB006_Fuso_1943,PJSB007_Kongo_1942,PBSB106_Queen_Elizabeth\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\"/>",
+    "<isRibbons count=\"15\" ribbons=\"BURN,CITADEL\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3606462384,
+  "index": "PCQT656",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT656_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF016_NE7_SignalFlag\" count=\"6\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT656_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_BB_1"
+  ],
+  "unlockMissions": []
+}

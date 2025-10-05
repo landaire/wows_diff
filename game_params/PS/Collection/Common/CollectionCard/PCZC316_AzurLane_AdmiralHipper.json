@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC316_AZURLANE_ADMIRALHIPPER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3963526064,
+  "index": "PCZC316",
+  "name": "PCZC316_AzurLane_AdmiralHipper",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

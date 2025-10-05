@@ -1,0 +1,29 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4258453296,
+  "index": "PGK034",
+  "maxLevel": 2,
+  "name": "PGK034_Georg_Hoffmann",
+  "personalCardBonus": {
+    "clan": "PCOK608_CLAN_DD_Hyb"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PGSD710_Georg_Hoffmann",
+      "PGSD720_Gold_Georg_Hoffmann"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

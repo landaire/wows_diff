@@ -1,0 +1,13 @@
+{
+  "costCR": 350000,
+  "costXP": 3800,
+  "id": 3841732592,
+  "index": "PAUH432",
+  "name": "PAUH432_Bogue_1943",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

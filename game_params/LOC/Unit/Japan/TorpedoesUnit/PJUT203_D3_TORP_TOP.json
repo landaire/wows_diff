@@ -1,0 +1,13 @@
+{
+  "costCR": 95000,
+  "costXP": 1600,
+  "id": 4081462992,
+  "index": "PJUT203",
+  "name": "PJUT203_D3_TORP_TOP",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

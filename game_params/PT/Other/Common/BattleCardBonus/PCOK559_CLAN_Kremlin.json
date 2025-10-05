@@ -1,0 +1,24 @@
+{
+  "id": 3708471216,
+  "index": "PCOK559",
+  "level_1": {
+    "GMPenetrationCoeffHE": 1.8,
+    "GSPenetrationCoeffHE": 1.8,
+    "burnDamageMultiplier": 1.25,
+    "floodDamageMultiplier": 1.25,
+    "ignorePTZBonus": 10
+  },
+  "level_2": {
+    "GMPenetrationCoeffHE": 1.8,
+    "GSPenetrationCoeffHE": 1.8,
+    "burnDamageMultiplier": 1.25,
+    "floodDamageMultiplier": 1.25,
+    "ignorePTZBonus": 10
+  },
+  "name": "PCOK559_CLAN_Kremlin",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

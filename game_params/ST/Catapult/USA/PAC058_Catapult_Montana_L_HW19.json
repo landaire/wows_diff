@@ -1,0 +1,22 @@
+{
+  "angle": 0.0,
+  "dist": 0.0,
+  "hidePlane": false,
+  "id": 4233295856,
+  "index": "PAC058",
+  "isInvisible": false,
+  "launchEffectName": "particles/Empty_FX.xml",
+  "linkedGunAngles": [],
+  "linkedGunName": null,
+  "linkedRotationSpeedCoeff": 1.0,
+  "model": "content/gameplay/usa/catapult/AC058_Catapult_Montana_L_HW19/AC058_Catapult_Montana_L_HW19.model",
+  "name": "PAC058_Catapult_Montana_L_HW19",
+  "planeOffsets": {},
+  "rotateTime": 0.0,
+  "translateDelay": 0.0,
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "Catapult"
+  }
+}

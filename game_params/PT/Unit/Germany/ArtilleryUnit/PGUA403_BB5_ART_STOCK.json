@@ -1,0 +1,13 @@
+{
+  "costCR": 160000,
+  "costXP": 0,
+  "id": 3872370480,
+  "index": "PGUA403",
+  "name": "PGUA403_BB5_ART_STOCK",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

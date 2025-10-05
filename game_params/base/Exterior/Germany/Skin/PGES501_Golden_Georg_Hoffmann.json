@@ -8,7 +8,6 @@
   "canSell": false,
   "costCR": -1,
   "costGold": 8000,
-  "custom": {},
   "effects": {
     "A_Hull": {
       "death": [
@@ -287,8 +286,10 @@
   "peculiarityEffects": {},
   "peculiarityFlag": "",
   "peculiarityModels": {
+    "content/gameplay/germany/gun/aaircraft/GGA044_55mm_Gerat_twin/GGA044_55mm_Gerat_twin_dead.model": "content/gameplay/germany/gun/aaircraft/GGA3097_55mm_Gerat_twin_Gold/GGA3097_55mm_Gerat_twin_Gold_dead.model",
     "content/gameplay/germany/gun/main/GGM118_150mm_60_Tbts_KC_42T/GGM118_150mm_60_Tbts_KC_42T.model": "content/gameplay/germany/gun/main/GGM3074_150mm_60_Tbts_KC_42T_Gold/GGM3074_150mm_60_Tbts_KC_42T_Gold.model",
     "content/gameplay/germany/gun/main/GGM118_150mm_60_Tbts_KC_42T/GGM118_150mm_60_Tbts_KC_42T_dead.model": "content/gameplay/germany/gun/main/GGM3074_150mm_60_Tbts_KC_42T_Gold/GGM3074_150mm_60_Tbts_KC_42T_Gold_dead.model",
+    "content/gameplay/germany/gun/torpedo/GGT114_533mm_Torpedo_Tubes_Five/GGT114_533mm_Torpedo_Tubes_Five_dead.model": "content/gameplay/germany/gun/torpedo/GGT3096_533mm_Torpedo_Tubes_Five_Gold/GGT3096_533mm_Torpedo_Tubes_Five_Gold_dead.model",
     "content/gameplay/germany/projectile/torpedo/GPT001_Torpedo_533/GPT001_Torpedo_533.model": "content/gameplay/germany/projectile/torpedo/GPT014_Torpedo_533_Gold/GPT014_Torpedo_533_Gold.model"
   },
   "planesConfig": {},

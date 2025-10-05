@@ -1,0 +1,98 @@
+{
+  "battleTypes": [
+    "CLAN"
+  ],
+  "constants": {
+    "battleType": "CLAN",
+    "clanLeague": 0,
+    "clanSeasonId": 27,
+    "clanSeasonType": "regular"
+  },
+  "enabled": true,
+  "events": [
+    [
+      "afterBattle",
+      [
+        [
+          "afterBattle",
+          "battleType",
+          "==",
+          "constant",
+          "battleType"
+        ],
+        [
+          "afterBattle",
+          "clanLeague",
+          "==",
+          "constant",
+          "clanLeague"
+        ],
+        [
+          "afterBattle",
+          "clanSeasonType",
+          "==",
+          "constant",
+          "clanSeasonType"
+        ],
+        [
+          "afterBattle",
+          "clanSeasonId",
+          "==",
+          "constant",
+          "clanSeasonId"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 3850560432,
+  "index": "PCH423",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH423_TopLeagueClanSeason_27",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "clan",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "TOP_LEAGUE_CLAN_SEASON_27",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_CLAN",
+  "uiType": "heroic"
+}

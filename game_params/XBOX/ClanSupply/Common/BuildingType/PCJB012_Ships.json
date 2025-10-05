@@ -1,0 +1,11 @@
+{
+  "id": 4282342320,
+  "index": "PCJB012",
+  "name": "PCJB012_Ships",
+  "type": "ships",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BuildingType",
+    "type": "ClanSupply"
+  }
+}

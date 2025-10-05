@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    [
+      "isMyShip",
+      {
+        "owned": true,
+        "shipLevel": [
+          2
+        ],
+        "upgradeable": true
+      }
+    ],
+    [
+      "isBattleCount",
+      {
+        "count": 1
+      }
+    ]
+  ],
+  "id": 4293478320,
+  "index": "PCON001",
+  "name": "PCON001",
+  "rewards": [
+    [
+      "Add",
+      {
+        "count": 10000,
+        "type": "CREDITS"
+      }
+    ]
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "NewbieQuest",
+    "type": "Other"
+  },
+  "unlock": "NATIONS_TREE"
+}

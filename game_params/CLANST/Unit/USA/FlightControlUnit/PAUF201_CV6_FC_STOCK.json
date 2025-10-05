@@ -1,0 +1,13 @@
+{
+  "costCR": 150000,
+  "costXP": 0,
+  "id": 4084019184,
+  "index": "PAUF201",
+  "name": "PAUF201_CV6_FC_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

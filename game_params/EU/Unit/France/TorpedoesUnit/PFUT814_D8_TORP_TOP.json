@@ -1,0 +1,13 @@
+{
+  "costCR": 1300000,
+  "costXP": 16000,
+  "id": 3440783184,
+  "index": "PFUT814",
+  "name": "PFUT814_D8_TORP_TOP",
+  "typeinfo": {
+    "nation": "France",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

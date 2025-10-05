@@ -1,0 +1,18 @@
+{
+  "id": 4294854576,
+  "index": "PCOD000",
+  "markerNameActive": "surprise_active",
+  "markerNameInactive": "surprise_inactive",
+  "maxBuffLevel": 0,
+  "name": "PCOD000_Surprise",
+  "payload": {
+    "type": 0,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

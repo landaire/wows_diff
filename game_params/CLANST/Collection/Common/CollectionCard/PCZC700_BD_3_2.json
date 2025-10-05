@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA031_BD2022_QUEST",
+  "compensationCR": 0,
+  "description": "IDS_PCZC700_BD_3_2_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3560872880,
+  "index": "PCZC700",
+  "name": "PCZC700_BD_3_2",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

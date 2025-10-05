@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4196219088,
+  "index": "PZRF094",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/radar/fcontrol/ZRF094_Anemometer/ZRF094_Anemometer.model",
+  "name": "PZRF094_Anemometer",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "Fire control",
+    "type": "Radar"
+  }
+}

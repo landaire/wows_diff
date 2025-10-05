@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3769085936,
+  "index": "PAUQ501",
+  "name": "PAUQ501_S6_SONAR_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

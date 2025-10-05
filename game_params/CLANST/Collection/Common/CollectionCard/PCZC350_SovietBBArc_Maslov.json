@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA016_SovietBBArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC350_SOVIETBBARC_MASLOV_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3927874480,
+  "index": "PCZC350",
+  "name": "PCZC350_SovietBBArc_Maslov",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

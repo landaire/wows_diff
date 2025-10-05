@@ -6,7 +6,6 @@
   "constants": {
     "damage": 60000.0
   },
-  "custom": {},
   "enabled": true,
   "events": [
     [

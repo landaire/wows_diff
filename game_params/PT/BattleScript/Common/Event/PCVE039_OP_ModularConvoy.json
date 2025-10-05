@@ -1,0 +1,74 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "PVEEventBattle",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 0,
+  "gameLogicConfig": {},
+  "id": 4253920176,
+  "index": "PCVE039",
+  "matchmakerConfig": "eventEV33ModularConvoy",
+  "name": "PCVE039_OP_ModularConvoy",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        1
+      ],
+      "Battleship": [
+        0,
+        3
+      ],
+      "Cruiser": [
+        0,
+        4
+      ],
+      "Destroyer": [
+        0,
+        3
+      ],
+      "Submarine": [
+        0,
+        -1
+      ]
+    },
+    "filters": [
+      {
+        "shipLevels": [
+          8,
+          9
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship",
+          "AirCarrier"
+        ]
+      }
+    ],
+    "minShips": 7,
+    "totalShips": 7
+  },
+  "scenariosByMap": {
+    "spaces/16_OC_bees_to_honey": [
+      "convoyPvE"
+    ],
+    "spaces/19_OC_prey": [
+      "convoyPvE"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

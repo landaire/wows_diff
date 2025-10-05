@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4168282320,
+  "index": "PZD120",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD120_CRBFD_MRS8/ZD120_CRBFD_MRS8.model",
+  "name": "PZD120_CRBFD_MRS8",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

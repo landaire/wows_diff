@@ -1,0 +1,13 @@
+{
+  "costCR": 800000,
+  "costXP": 10000,
+  "id": 3660983760,
+  "index": "PRUT604",
+  "name": "PRUT604_D7_TORP_TOP_2",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

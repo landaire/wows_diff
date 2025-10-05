@@ -1,0 +1,82 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "ArmsBattles",
+  "economics": {
+    "currencyType": "CREDITS",
+    "earningBySelf": 1.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 0,
+  "gameLogicConfig": {},
+  "id": 4278037424,
+  "index": "PCVE016",
+  "matchmakerConfig": "ArmsBattles2021",
+  "name": "PCVE016_EV21ArmsRace",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        1
+      ],
+      "Battleship": [
+        0,
+        7
+      ],
+      "Cruiser": [
+        0,
+        7
+      ],
+      "Destroyer": [
+        0,
+        7
+      ],
+      "Submarine": [
+        0,
+        2
+      ]
+    },
+    "filters": [
+      {
+        "shipLevels": [
+          9,
+          10
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship",
+          "AirCarrier"
+        ]
+      }
+    ],
+    "totalShips": 24
+  },
+  "scenariosByMap": {
+    "spaces/18_NE_ice_islands": [
+      "armsrace"
+    ],
+    "spaces/37_Ridge": [
+      "armsrace"
+    ],
+    "spaces/44_Path_warrior": [
+      "armsrace"
+    ],
+    "spaces/47_Sleeping_Giant": [
+      "armsrace"
+    ],
+    "spaces/53_Shoreside": [
+      "armsrace"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

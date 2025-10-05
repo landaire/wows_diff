@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2196957488,
+  "index": "PWF2000",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/finder/WF2000_Rangefinder_MkII_3_65m/WF2000_Rangefinder_MkII_3_65m.model",
+  "name": "PWF2000_Rangefinder_MkII_3_65m",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Finder"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "collectionAlbum": "PCZA002_Bismarck",
+  "compensationCR": 0,
+  "description": "IDS_PCZC015_BISMARCK_NO1PHOTORECONUNIT_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4279147440,
+  "index": "PCZC015",
+  "name": "PCZC015_Bismarck_No1PhotoReconUnit",
+  "subAlbums": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

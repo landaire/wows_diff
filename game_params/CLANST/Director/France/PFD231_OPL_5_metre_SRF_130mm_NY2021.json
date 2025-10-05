@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4051891024,
+  "index": "PFD231",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD231_OPL_5_metre_SRF_130mm_NY2021/FD231_OPL_5_metre_SRF_130mm_NY2021.model",
+  "name": "PFD231_OPL_5_metre_SRF_130mm_NY2021",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

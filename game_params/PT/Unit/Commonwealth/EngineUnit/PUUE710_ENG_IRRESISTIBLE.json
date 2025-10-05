@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3550326128,
+  "index": "PUUE710",
+  "name": "PUUE710_ENG_IRRESISTIBLE",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

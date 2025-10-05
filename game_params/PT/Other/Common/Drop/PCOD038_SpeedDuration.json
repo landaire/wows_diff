@@ -1,0 +1,25 @@
+{
+  "id": 4255008688,
+  "index": "PCOD038",
+  "markerNameActive": "pack_chooser_active",
+  "markerNameInactive": "pack_chooser_inactive",
+  "maxBuffLevel": 0,
+  "name": "PCOD038_SpeedDuration",
+  "payload": {
+    "item_1": {
+      "duration": 30,
+      "level": 1,
+      "params": "PCOM026_EngineBoost_H2020",
+      "type": 1,
+      "weight": 0
+    },
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

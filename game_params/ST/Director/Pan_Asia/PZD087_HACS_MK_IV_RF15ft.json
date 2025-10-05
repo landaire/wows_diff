@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4202885328,
+  "index": "PZD087",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD087_HACS_MK_IV_RF15ft/ZD087_HACS_MK_IV_RF15ft.model",
+  "name": "PZD087_HACS_MK_IV_RF15ft",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

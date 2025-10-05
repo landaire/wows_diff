@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4239579120,
+  "index": "PAK052",
+  "maxLevel": 2,
+  "name": "PAK052_Gearing_1945",
+  "personalCardBonus": {
+    "clan": "PCOK609_CLAN_DD_Torp"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PASD013_Gearing_1945"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

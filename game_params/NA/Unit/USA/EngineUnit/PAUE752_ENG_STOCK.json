@@ -1,0 +1,13 @@
+{
+  "costCR": 625000,
+  "costXP": 0,
+  "id": 3506286576,
+  "index": "PAUE752",
+  "name": "PAUE752_ENG_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

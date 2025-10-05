@@ -1,0 +1,13 @@
+{
+  "costCR": 600000,
+  "costXP": 7200,
+  "id": 3873189680,
+  "index": "PGUH402",
+  "name": "PGUH402_KONIGSBERG_B",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

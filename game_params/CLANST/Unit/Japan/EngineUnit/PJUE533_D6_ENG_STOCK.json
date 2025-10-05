@@ -1,0 +1,13 @@
+{
+  "costCR": 120000,
+  "costXP": 0,
+  "id": 3735924432,
+  "index": "PJUE533",
+  "name": "PJUE533_D6_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

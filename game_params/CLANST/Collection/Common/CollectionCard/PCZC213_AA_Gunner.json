@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC213_AA_GUNNER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4071529392,
+  "index": "PCZC213",
+  "name": "PCZC213_AA_Gunner",
+  "subAlbums": [
+    6
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

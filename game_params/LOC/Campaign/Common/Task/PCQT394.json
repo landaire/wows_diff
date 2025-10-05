@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 0,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\" class=\"Cruiser,Destroyer\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isRibbons count=\"50\" ribbons=\"BASE_DEFENSE\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3881189296,
+  "index": "PCQT394",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT394",
+  "rewards": [
+    "<Add type=\"FREE_XP\" count=\"5000\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT394_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

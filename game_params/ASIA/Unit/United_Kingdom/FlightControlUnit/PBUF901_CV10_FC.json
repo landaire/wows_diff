@@ -1,0 +1,13 @@
+{
+  "costCR": 1100000,
+  "costXP": 0,
+  "id": 3350015952,
+  "index": "PBUF901",
+  "name": "PBUF901_CV10_FC",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

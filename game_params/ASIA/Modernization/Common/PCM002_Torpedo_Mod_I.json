@@ -1,0 +1,25 @@
+{
+  "canCharge": true,
+  "costCR": 125000,
+  "excludes": [],
+  "group": [],
+  "id": 4292005808,
+  "index": "PCM002",
+  "modifiers": {
+    "GTCritProb": 0.8,
+    "GTRepairTime": 0.8
+  },
+  "name": "PCM002_Torpedo_Mod_I",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [],
+  "shiptype": [],
+  "slot": -1,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

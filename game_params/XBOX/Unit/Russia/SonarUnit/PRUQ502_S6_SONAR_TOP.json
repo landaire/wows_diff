@@ -1,0 +1,13 @@
+{
+  "costCR": 700000,
+  "costXP": 8000,
+  "id": 3768036816,
+  "index": "PRUQ502",
+  "name": "PRUQ502_S6_SONAR_TOP",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

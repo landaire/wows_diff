@@ -1,0 +1,40 @@
+{
+  "audio": {
+    "effect": "Filth",
+    "intensity": 100.0
+  },
+  "graphics": "Storm",
+  "id": 4291119024,
+  "index": "PCOV003",
+  "logic": {
+    "AAMaxDist": 1.0,
+    "GMIdealRadius": 1.0,
+    "GSIdealRadius": 1.0,
+    "GSMIdealRadius": 1.0,
+    "airDefenseVisibilityTime": 2,
+    "bad": 0.0,
+    "burnDamage": 1.0,
+    "burnTime": 1.0,
+    "maxPlaneVisionDistance": 2000.0,
+    "maxShipVisionDistance": 2000.0,
+    "maxVisibilityDistance": 2000.0,
+    "maxVisibilityDistanceByPlane": 2000.0,
+    "mgVisibilityTime": 7,
+    "planeMaxVisibilityDistance": 2000.0,
+    "planeMaxVisibilityDistanceByPlane": 2000.0,
+    "planeSpeed": 1.0,
+    "planeVisibilityFactor": 0.7,
+    "planeVisibilityFactorByPlane": 0.7,
+    "shootShift": 1.0,
+    "speedCoef": 1.0,
+    "transparency": 1.0,
+    "visibilityFactor": 0.7,
+    "visibilityFactorByPlane": 0.7
+  },
+  "name": "PCOV003_Global_Felth",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "LocalWeather",
+    "type": "Other"
+  }
+}

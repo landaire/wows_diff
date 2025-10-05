@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4157254928,
+  "index": "PXUK131",
+  "name": "PXUK131_Gearing_H2019_A",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "AbilitiesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Abilities"
+}

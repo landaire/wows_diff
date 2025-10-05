@@ -1,0 +1,35 @@
+{
+  "backgroundIconID": 76,
+  "conditions": [
+    "<isMyShip shipLevel=\"4,5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isBattleCount count=\"1\" />",
+    "<isUseFlags/>"
+  ],
+  "costUnlock": 7,
+  "id": 4251336624,
+  "index": "PCQT041",
+  "isSingleBattle": true,
+  "lootStars": 0,
+  "name": "PCQT041_Key",
+  "rewards": [
+    "<Item idx=\"PCEF005_SM_SignalFlag\" count=\"10\" />",
+    "<Item idx=\"PCEF017_VL_SignalFlag\" count=\"10\" />",
+    "<Item idx=\"PCEF008_IY_SignalFlag\" count=\"10\" />",
+    "<Item idx=\"PCEF009_JY2_SignalFlag\" count=\"10\" />",
+    "<Item idx=\"PCEF030_CK_SignalFlag\" count=\"10\" />"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT041_1",
+    "isBattleCount",
+    "IDS_TASKRESTRICTION_PVPCOOPRANKED"
+  ],
+  "unlockMissions": [
+    "PCQM004"
+  ]
+}

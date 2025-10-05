@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4167482352,
+  "index": "PARS121",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/radar/search/ARS121_Radar_AN_SPS_8/ARS121_Radar_AN_SPS_8.model",
+  "name": "PARS121_Radar_AN_SPS_8",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

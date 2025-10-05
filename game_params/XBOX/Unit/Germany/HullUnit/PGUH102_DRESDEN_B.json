@@ -1,0 +1,13 @@
+{
+  "costCR": 38000,
+  "costXP": 360,
+  "id": 4187762480,
+  "index": "PGUH102",
+  "name": "PGUH102_DRESDEN_B",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

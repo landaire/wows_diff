@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3336286160,
+  "index": "PBUI914",
+  "name": "PBUI914_F_EAGLE",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4252416816,
+  "index": "PGRS040",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/radar/search/GRS040_FuMB6_Palau/GRS040_FuMB6_Palau.model",
+  "name": "PGRS040_FuMB6_Palau",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

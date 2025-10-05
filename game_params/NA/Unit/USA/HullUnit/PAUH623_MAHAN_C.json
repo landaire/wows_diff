@@ -1,0 +1,13 @@
+{
+  "costCR": 620000,
+  "costXP": 7100,
+  "id": 3641454576,
+  "index": "PAUH623",
+  "name": "PAUH623_MAHAN_C",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

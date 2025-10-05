@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4290963760,
+  "index": "PWF003",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/finder/WF003_Rangefinder_12ft/WF003_Rangefinder_12ft.model",
+  "name": "PWF003_Rangefinder_12ft",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Finder"
+  }
+}

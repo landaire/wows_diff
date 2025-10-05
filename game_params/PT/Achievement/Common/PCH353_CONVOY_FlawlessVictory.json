@@ -1,0 +1,150 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "Ratio": 1,
+    "convoyShips": 0,
+    "damageRatio": 0.5,
+    "filterKeyShips": {
+      "isAlive": true,
+      "roles": [
+        "roleConvoy"
+      ]
+    },
+    "filterKeyShipsMe": {
+      "isAlive": true,
+      "roles": [
+        "rolePCH353"
+      ]
+    }
+  },
+  "enabled": true,
+  "events": [
+    [
+      "meAttack",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "damage",
+          "value"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ],
+        [
+          "subInstruction",
+          [
+            "counter",
+            "a",
+            "/",
+            "me",
+            "health"
+          ],
+          ">=",
+          "constant",
+          "damageRatio"
+        ],
+        [
+          "me",
+          "appropriate",
+          ":",
+          "constant",
+          "filterKeyShipsMe"
+        ],
+        [
+          "subInstruction",
+          [
+            "battle",
+            "filteredPlayersCount",
+            ":",
+            "constant",
+            "filterKeyShipsMe"
+          ],
+          ">=",
+          "constant",
+          "Ratio"
+        ],
+        [
+          "subInstruction",
+          [
+            "battle",
+            "filteredPlayersCount",
+            ":",
+            "constant",
+            "filterKeyShips"
+          ],
+          "==",
+          "constant",
+          "convoyShips"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 3923960752,
+  "index": "PCH353",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH353_CONVOY_FlawlessVictory",
+  "onePerBattle": true,
+  "shipCategories": [
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "earlyAccess",
+    "ultimate",
+    "upgradeableUltimate",
+    "superShip"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "CONVOY_FLAWLESSVICTORY",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_CONVOY_ATTACKERS",
+  "uiType": "service_medal"
+}

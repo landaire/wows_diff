@@ -1,0 +1,13 @@
+{
+  "costCR": 1200000,
+  "costXP": 15000,
+  "id": 3258363888,
+  "index": "PAUS988",
+  "name": "PAUS988_SUO_CLEVELAND",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

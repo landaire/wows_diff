@@ -1,0 +1,13 @@
+{
+  "costCR": 540000,
+  "costXP": 9000,
+  "id": 3763776720,
+  "index": "PZUS506",
+  "name": "PZUS506_C6_SUO_TOP",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

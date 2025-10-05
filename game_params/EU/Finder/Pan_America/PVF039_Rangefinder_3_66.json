@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4253215056,
+  "index": "PVF039",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panamerica/finder/VF039_Rangefinder_3_66/VF039_Rangefinder_3_66.model",
+  "name": "PVF039_Rangefinder_3_66",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": null,
+    "type": "Finder"
+  }
+}

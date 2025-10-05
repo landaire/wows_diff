@@ -1,0 +1,13 @@
+{
+  "costCR": 3400000,
+  "costXP": 45000,
+  "id": 3453759280,
+  "index": "PGUH802",
+  "name": "PGUH802_ROON_B",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

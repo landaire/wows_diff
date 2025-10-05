@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 23,
+  "conditions": [
+    "<isMyShip shipIds=\"PJSD002_Umikaze_1925,PWSD102_Tatra\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE\"/>",
+    "<isRibbons count=\"5\" ribbons=\"FRAG\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3612753840,
+  "index": "PCQT650",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT650_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF030_CK_SignalFlag\" count=\"5\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT650_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTIONSPECIAL_1EPOCH_DD_1"
+  ],
+  "unlockMissions": []
+}

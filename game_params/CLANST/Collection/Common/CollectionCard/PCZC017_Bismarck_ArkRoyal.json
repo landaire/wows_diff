@@ -1,0 +1,15 @@
+{
+  "collectionAlbum": "PCZA002_Bismarck",
+  "compensationCR": 0,
+  "description": "IDS_PCZC017_BISMARCK_ARKROYAL_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4277050288,
+  "index": "PCZC017",
+  "name": "PCZC017_Bismarck_ArkRoyal",
+  "subAlbums": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

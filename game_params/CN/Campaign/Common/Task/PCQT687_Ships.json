@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 70,
+  "conditions": [
+    "<isMyShip shipIds=\"PASB018_Iowa_1944,PASB017_Montana_1945,PRSB109_Sovetsky_Soyuz,PFSB109_Alsace\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isDamage count=\"1000000\" damageTypes=\"main\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3573956528,
+  "index": "PCQT687",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT687_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF012_MY6_SignalFlag\" count=\"10\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT687_1",
+    "isDamage",
+    "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_BB_2"
+  ],
+  "unlockMissions": []
+}

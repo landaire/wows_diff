@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 20,
+  "conditions": [
+    "<isMyShip shipIds=\"PJSB018_Yamato_1944,PJSB509_Musashi,PBSB109_Lion,PBSB508_Vanguard\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isPotentialDamage count=\"16000000\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3575005104,
+  "index": "PCQT686",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT686_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF007_ID_SignalFlag\" count=\"10\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT686_1",
+    "isPotentialDamage",
+    "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_BB_1"
+  ],
+  "unlockMissions": []
+}

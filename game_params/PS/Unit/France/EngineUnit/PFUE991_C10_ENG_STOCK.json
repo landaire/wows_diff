@@ -1,0 +1,13 @@
+{
+  "costCR": 1600000,
+  "costXP": 0,
+  "id": 3255676752,
+  "index": "PFUE991",
+  "name": "PFUE991_C10_ENG_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

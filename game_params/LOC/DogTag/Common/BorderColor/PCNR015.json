@@ -1,0 +1,14 @@
+{
+  "canCharge": true,
+  "colorHEX": "0x382c4f",
+  "id": 4278668208,
+  "index": "PCNR015",
+  "isTemplate": false,
+  "name": "PCNR015",
+  "needDescription": false,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BorderColor",
+    "type": "DogTag"
+  }
+}

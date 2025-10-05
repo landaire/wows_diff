@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA018_ITCA_0810",
+  "compensationCR": 0,
+  "description": "IDS_PCZC392_ITCA_ALBERTO_DI_GIUSSANO_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3883834288,
+  "index": "PCZC392",
+  "name": "PCZC392_ITCA_Alberto_di_Giussano",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

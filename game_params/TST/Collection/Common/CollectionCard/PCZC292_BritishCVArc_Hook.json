@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA014_BritishCVArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC292_BRITISHCVARC_HOOK_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3988691888,
+  "index": "PCZC292",
+  "name": "PCZC292_BritishCVArc_Hook",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

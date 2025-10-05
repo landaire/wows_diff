@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4215468784,
+  "index": "PID075",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/italy/director/ID075_Director_Mk37_Mod2/ID075_Director_Mk37_Mod2.model",
+  "name": "PID075_Director_Mk37_Mod2",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": null,
+    "type": "Director"
+  }
+}

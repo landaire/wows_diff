@@ -309,7 +309,7 @@
         "65580": 25.0
       },
       "barrelDiameter": 0.155,
-      "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+      "brokenEffect": "particles/guns/Gun_Damage_small.xml",
       "clusterID": 0,
       "customMiscs": {},
       "damagedEffect": "particles/guns/Gun_Broken_small.xml",
@@ -408,7 +408,7 @@
         "65580": 25.0
       },
       "barrelDiameter": 0.155,
-      "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+      "brokenEffect": "particles/guns/Gun_Damage_small.xml",
       "clusterID": 0,
       "customMiscs": {},
       "damagedEffect": "particles/guns/Gun_Broken_small.xml",
@@ -1165,7 +1165,7 @@
         "65580": 25.0
       },
       "barrelDiameter": 0.155,
-      "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+      "brokenEffect": "particles/guns/Gun_Damage_small.xml",
       "clusterID": 0,
       "customMiscs": {},
       "damagedEffect": "particles/guns/Gun_Broken_small.xml",
@@ -8937,7 +8937,6 @@
   "battleSignalsOrder": [],
   "canCharge": true,
   "canEquipCamouflage": true,
-  "custom": {},
   "defaultCrew": null,
   "flagsScale": 0.6,
   "group": "special",

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC076_YAMAMOTO_SOYA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4215184304,
+  "index": "PCZC076",
+  "name": "PCZC076_Yamamoto_Soya",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

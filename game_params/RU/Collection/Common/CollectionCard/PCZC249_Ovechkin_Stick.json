@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA011_Ovechkin",
+  "compensationCR": 0,
+  "description": "IDS_PCZC249_OVECHKIN_STICK_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4033780656,
+  "index": "PCZC249",
+  "name": "PCZC249_Ovechkin_Stick",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

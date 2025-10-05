@@ -1,0 +1,13 @@
+{
+  "costCR": 3250000,
+  "costXP": 36000,
+  "id": 3432787952,
+  "index": "PAUH822",
+  "name": "PAUH822_Fletcher_1944",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

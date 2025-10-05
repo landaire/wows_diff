@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4292012464,
+  "index": "PSF002",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/spain/finder/SF002_Finder_4m/SF002_Finder_4m.model",
+  "name": "PSF002_Finder_4m",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": null,
+    "type": "Finder"
+  }
+}

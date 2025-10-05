@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4265799888,
+  "index": "PZD027",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD027_Ster_Shell_Sight/ZD027_Ster_Shell_Sight.model",
+  "name": "PZD027_Ster_Shell_Sight",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

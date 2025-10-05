@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 34,
+  "conditions": [
+    "<isMyShip shipLevel=\"10,11\" nation=\"USA\" class=\"AirCarrier\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isTotalCredits count=\"10000000 \" />"
+  ],
+  "costUnlock": 0,
+  "id": 3720757168,
+  "index": "PCQT547",
+  "isSingleBattle": false,
+  "lootStars": 3,
+  "name": "PCQT547",
+  "rewards": [
+    "<Item idx=\"PCEA011_CRboost_1\" count=\"30\" />"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT547_1",
+    "isTotalCredits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

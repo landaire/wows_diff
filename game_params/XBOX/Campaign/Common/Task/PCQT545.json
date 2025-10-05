@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 53,
+  "conditions": [
+    "<isMyShip shipLevel=\"9,10,11\" nation=\"USA\"/>",
+    "<isBattleType battleTypes=\"PVP,RANKED\"/>",
+    "<isEarnBattleAchievements count=\"36\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3722854320,
+  "index": "PCQT545",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT545",
+  "rewards": [
+    "<Item idx=\"PCEA041_FreeXPboost_1\" count=\"15\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT545_1",
+    "isEarnBattleAchievements",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

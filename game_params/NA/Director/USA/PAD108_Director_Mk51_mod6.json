@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4180866032,
+  "index": "PAD108",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/director/AD108_Director_Mk51_mod6/AD108_Director_Mk51_mod6.model",
+  "name": "PAD108_Director_Mk51_mod6",
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "Director"
+  }
+}

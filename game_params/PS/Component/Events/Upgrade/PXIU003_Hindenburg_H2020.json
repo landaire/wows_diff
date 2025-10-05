@@ -1,0 +1,47 @@
+{
+  "id": 4291157264,
+  "index": "PXIU003",
+  "level": {
+    "points": 1,
+    "reward": {
+      "available": 1,
+      "count": 2,
+      "item_2": {
+        "duration": -1,
+        "level": 1,
+        "params": "PXOM002_DamageResist_H2020",
+        "type": 1,
+        "weight": 0
+      },
+      "item_4": {
+        "duration": -1,
+        "level": 1,
+        "params": "PXOM004_HealDamageCoef_H2020",
+        "type": 1,
+        "weight": 0
+      },
+      "item_5": {
+        "duration": -1,
+        "level": 1,
+        "params": "PXOM005_ConsumableTime_H2020",
+        "type": 1,
+        "weight": 0
+      },
+      "item_6": {
+        "duration": -1,
+        "level": 1,
+        "params": "PXOM006_GMShotDelay_H2020",
+        "type": 1,
+        "weight": 0
+      },
+      "type": 4,
+      "weight": 0
+    }
+  },
+  "name": "PXIU003_Hindenburg_H2020",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "Upgrade",
+    "type": "Component"
+  }
+}

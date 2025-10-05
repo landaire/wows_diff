@@ -1,0 +1,26 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "endtestseason2025_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3394105264,
+  "index": "PCEE859",
+  "isTemplate": false,
+  "name": "PCEE859_endtestseason2025_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHidden_CN",
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

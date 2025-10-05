@@ -1,0 +1,13 @@
+{
+  "costCR": 875000,
+  "costXP": 0,
+  "id": 3451760624,
+  "index": "PAUE804",
+  "name": "PAUE804_CA9_ENG_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

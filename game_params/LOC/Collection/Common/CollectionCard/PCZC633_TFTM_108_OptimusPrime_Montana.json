@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA027_TFTM_108",
+  "compensationCR": 0,
+  "description": "IDS_PCZC633_TFTM_108_OPTIMUSPRIME_MONTANA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3631127472,
+  "index": "PCZC633",
+  "name": "PCZC633_TFTM_108_OptimusPrime_Montana",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

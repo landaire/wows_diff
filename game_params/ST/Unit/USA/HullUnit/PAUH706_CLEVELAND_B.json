@@ -1,0 +1,13 @@
+{
+  "costCR": 2100000,
+  "costXP": 28000,
+  "id": 3554422768,
+  "index": "PAUH706",
+  "name": "PAUH706_CLEVELAND_B",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

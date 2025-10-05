@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA018_ITCA_0810",
+  "compensationCR": 0,
+  "description": "IDS_PCZC387_ITCA_ABRUZZI_1938_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3889077168,
+  "index": "PCZC387",
+  "name": "PCZC387_ITCA_Abruzzi_1938",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

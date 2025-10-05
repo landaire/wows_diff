@@ -1,0 +1,14 @@
+{
+  "canCharge": true,
+  "colorHEX": "0x2b6e91",
+  "id": 4291480496,
+  "index": "PCNK003",
+  "isTemplate": false,
+  "name": "PCNK003",
+  "needDescription": false,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BackgroundColor",
+    "type": "DogTag"
+  }
+}

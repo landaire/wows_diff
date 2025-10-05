@@ -1,0 +1,13 @@
+{
+  "costCR": 300000,
+  "costXP": 0,
+  "id": 3769380144,
+  "index": "PWUH501",
+  "name": "PWUH501_DD6_HULL_STOCK",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

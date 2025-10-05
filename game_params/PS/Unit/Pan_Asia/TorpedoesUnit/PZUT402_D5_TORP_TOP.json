@@ -1,0 +1,13 @@
+{
+  "costCR": 260000,
+  "costXP": 2800,
+  "id": 3872795856,
+  "index": "PZUT402",
+  "name": "PZUT402_D5_TORP_TOP",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 100000,
+  "costXP": 0,
+  "id": 3854544720,
+  "index": "PFUA420",
+  "name": "PFUA420_ART_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

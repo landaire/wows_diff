@@ -1,0 +1,13 @@
+{
+  "costCR": 1150000,
+  "costXP": 14300,
+  "id": 3660328944,
+  "index": "PAUH605",
+  "name": "PAUH605_HELENA_B",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

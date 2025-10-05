@@ -1,0 +1,13 @@
+{
+  "costCR": 1950000,
+  "costXP": 0,
+  "id": 3435933040,
+  "index": "PUUH819",
+  "name": "PUUH819_C9_HULL_STOCK",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

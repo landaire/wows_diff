@@ -1,0 +1,32 @@
+{
+  "backgroundIconID": 48,
+  "conditions": [
+    "<isMyShip shipLevel=\"6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isBattleCount count=\"1\" />"
+  ],
+  "costUnlock": 15,
+  "id": 4139138992,
+  "index": "PCQT148",
+  "isSingleBattle": true,
+  "lootStars": 0,
+  "mapPosition": [
+    1,
+    1
+  ],
+  "name": "PCQT148_Key",
+  "rewards": [
+    "<Add type=\"WOWS_PREM\" count=\"7\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT148_1",
+    "isBattleCount",
+    "IDS_TASKRESTRICTION_PVPCOOPRANKED"
+  ],
+  "unlockMissions": []
+}

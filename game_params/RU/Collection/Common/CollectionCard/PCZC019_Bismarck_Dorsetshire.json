@@ -1,0 +1,15 @@
+{
+  "collectionAlbum": "PCZA002_Bismarck",
+  "compensationCR": 0,
+  "description": "IDS_PCZC019_BISMARCK_DORSETSHIRE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4274953136,
+  "index": "PCZC019",
+  "name": "PCZC019_Bismarck_Dorsetshire",
+  "subAlbums": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

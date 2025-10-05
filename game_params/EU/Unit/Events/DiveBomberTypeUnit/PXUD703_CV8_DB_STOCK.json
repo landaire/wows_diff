@@ -1,0 +1,13 @@
+{
+  "costCR": 240000,
+  "costXP": 0,
+  "id": 3557698832,
+  "index": "PXUD703",
+  "name": "PXUD703_CV8_DB_STOCK",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

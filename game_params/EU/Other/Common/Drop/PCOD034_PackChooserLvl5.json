@@ -1,0 +1,34 @@
+{
+  "id": 4259202992,
+  "index": "PCOD034",
+  "markerNameActive": "pack_chooser_active",
+  "markerNameInactive": "pack_chooser_inactive",
+  "maxBuffLevel": 0,
+  "name": "PCOD034_PackChooserLvl5",
+  "payload": {
+    "available": 1,
+    "count": 0,
+    "item_1": {
+      "duration": -1,
+      "level": 15,
+      "params": "PCOM040_GSMaxDist",
+      "type": 1,
+      "weight": 0
+    },
+    "item_2": {
+      "duration": -1,
+      "level": 6,
+      "params": "PCOM027_ShotDelay_H2020",
+      "type": 1,
+      "weight": 0
+    },
+    "type": 4,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

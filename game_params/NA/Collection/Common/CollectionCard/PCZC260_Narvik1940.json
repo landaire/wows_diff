@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA012_BritishArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC260_NARVIK1940_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4022246320,
+  "index": "PCZC260",
+  "name": "PCZC260_Narvik1940",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

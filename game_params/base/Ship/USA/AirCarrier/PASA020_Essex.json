@@ -8999,7 +8999,6 @@
   "battleSignalsOrder": [],
   "canCharge": true,
   "canEquipCamouflage": true,
-  "custom": {},
   "defaultCrew": null,
   "flagsScale": 0.7,
   "group": "upgradeable",
@@ -9027,8 +9026,7 @@
     "PCEM017_Steel_10lvl",
     "PCEM188_NY25_10lvl",
     "PCEM004_Halloween19_10lvl",
-    "PAES229_Essex_130",
-    "PXES546_Skin_Essex_AFD24"
+    "PAES229_Essex_130"
   ],
   "pveAutoPickCard": "",
   "shipBattleCards": {

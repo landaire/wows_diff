@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3350179248,
+  "index": "PSUA901",
+  "name": "PSUA901_ART_BAZAN",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

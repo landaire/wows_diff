@@ -1,0 +1,13 @@
+{
+  "costCR": 1400000,
+  "costXP": 24000,
+  "id": 3558256048,
+  "index": "PSUS702",
+  "name": "PSUS702_C8_SUO_TOP",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

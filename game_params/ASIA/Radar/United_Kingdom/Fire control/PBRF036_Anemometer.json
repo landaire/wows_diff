@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4257037264,
+  "index": "PBRF036",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/radar/fcontrol/BRF036_Anemometer/BRF036_Anemometer.model",
+  "name": "PBRF036_Anemometer",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Fire control",
+    "type": "Radar"
+  }
+}

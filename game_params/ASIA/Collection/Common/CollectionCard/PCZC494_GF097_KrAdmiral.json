@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA022_GF097",
+  "compensationCR": 0,
+  "description": "IDS_PCZC494_GF097_KRADMIRAL_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3776879536,
+  "index": "PCZC494",
+  "name": "PCZC494_GF097_KrAdmiral",
+  "subAlbums": [
+    5
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

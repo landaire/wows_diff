@@ -10,7 +10,7 @@
             "deactivationActionName": "",
             "type": 3
           },
-          "sounAction": {
+          "soundAction": {
             "eventName": "UI_Door_Buttons",
             "type": 4
           }
@@ -27,7 +27,7 @@
             "deactivationActionName": "",
             "type": 3
           },
-          "sounAction": {
+          "soundAction": {
             "eventName": "UI_Interactive_Object_Buttons_Over",
             "type": 4
           }

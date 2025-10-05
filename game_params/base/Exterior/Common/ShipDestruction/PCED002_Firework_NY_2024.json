@@ -7,7 +7,6 @@
   "canSell": true,
   "costCR": -1,
   "costGold": -1,
-  "custom": {},
   "deathSoundEvent": "Custom_Death_Firework_NY_2024",
   "effectOnDeath": {
     "AirCarrier": "particles/vehicles/Battleship_death_NY2025.xml",

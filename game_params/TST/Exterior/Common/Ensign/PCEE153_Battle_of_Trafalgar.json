@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "battle_of_trafalgar",
+  "group": 3,
+  "hidden": true,
+  "id": 4134399920,
+  "index": "PCEE153",
+  "isTemplate": false,
+  "name": "PCEE153_Battle_of_Trafalgar",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "history"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

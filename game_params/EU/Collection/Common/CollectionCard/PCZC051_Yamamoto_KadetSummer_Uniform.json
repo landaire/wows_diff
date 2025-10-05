@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC051_YAMAMOTO_KADETSUMMER_UNIFORM_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4241398704,
+  "index": "PCZC051",
+  "name": "PCZC051_Yamamoto_KadetSummer_Uniform",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

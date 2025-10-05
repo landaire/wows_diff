@@ -1,0 +1,30 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4264744752,
+  "index": "PGK028",
+  "maxLevel": 2,
+  "name": "PGK028_Mainz",
+  "personalCardBonus": {
+    "clan": "PCOK005_Balldmg_DHEdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PGSC518_Mainz",
+      "PGSC598_Black_Mainz",
+      "PGSC718_Warhammer_Blacktemplar"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

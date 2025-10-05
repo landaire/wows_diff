@@ -9347,11 +9347,6 @@
   "battleSignalsOrder": [],
   "canCharge": true,
   "canEquipCamouflage": true,
-  "custom": {
-    "CN": {
-      "group": "disabled"
-    }
-  },
   "defaultCrew": null,
   "flagsScale": 0.8,
   "group": "ultimate",

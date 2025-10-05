@@ -1,0 +1,13 @@
+{
+  "costCR": 280000,
+  "costXP": 2500,
+  "id": 3858148816,
+  "index": "PRUS416",
+  "name": "PRUS416_CA5_SUO_TOP",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3664431024,
+  "index": "PCOK601",
+  "level_1": {
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityAll": 0.9
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityAll": 0.9
+  },
+  "name": "PCOK601_CLAN_BB_Mid",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

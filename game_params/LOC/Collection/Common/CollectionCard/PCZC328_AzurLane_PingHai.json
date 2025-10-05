@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC328_AZURLANE_PINGHAI_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3950943152,
+  "index": "PCZC328",
+  "name": "PCZC328_AzurLane_PingHai",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

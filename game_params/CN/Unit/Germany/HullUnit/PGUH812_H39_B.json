@@ -1,0 +1,13 @@
+{
+  "costCR": 5100000,
+  "costXP": 54000,
+  "id": 3443273520,
+  "index": "PGUH812",
+  "name": "PGUH812_H39_B",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4260557232,
+  "index": "PSD032",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/spain/director/SD032_DCT_7_2m_Torretta_Roma_Top/SD032_DCT_7_2m_Torretta_Roma_Top.model",
+  "name": "PSD032_DCT_7_2m_Torretta_Roma_Top",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": null,
+    "type": "Director"
+  }
+}

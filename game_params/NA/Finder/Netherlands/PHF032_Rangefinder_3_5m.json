@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4260555536,
+  "index": "PHF032",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/netherlands/finder/HF032_Rangefinder_3_5m/HF032_Rangefinder_3_5m.model",
+  "name": "PHF032_Rangefinder_3_5m",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": null,
+    "type": "Finder"
+  }
+}

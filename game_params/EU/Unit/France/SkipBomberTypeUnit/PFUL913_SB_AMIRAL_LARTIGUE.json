@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3337236304,
+  "index": "PFUL913",
+  "name": "PFUL913_SB_AMIRAL_LARTIGUE",
+  "typeinfo": {
+    "nation": "France",
+    "species": "SkipBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_SkipBomber"
+}

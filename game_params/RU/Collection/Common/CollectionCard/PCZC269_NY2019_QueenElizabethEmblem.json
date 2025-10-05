@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA013_HappyNewYear2019",
+  "compensationCR": 0,
+  "description": "IDS_PCZC269_NY2019_QUEENELIZABETHEMBLEM_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4012809136,
+  "index": "PCZC269",
+  "name": "PCZC269_NY2019_QueenElizabethEmblem",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

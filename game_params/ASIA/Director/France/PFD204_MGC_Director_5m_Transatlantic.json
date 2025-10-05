@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4080202576,
+  "index": "PFD204",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD204_MGC_Director_5m_Transatlantic/FD204_MGC_Director_5m_Transatlantic.model",
+  "name": "PFD204_MGC_Director_5m_Transatlantic",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

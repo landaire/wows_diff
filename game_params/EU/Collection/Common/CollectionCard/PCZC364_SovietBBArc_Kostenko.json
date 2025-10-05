@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA016_SovietBBArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC364_SOVIETBBARC_KOSTENKO_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3913194416,
+  "index": "PCZC364",
+  "name": "PCZC364_SovietBBArc_Kostenko",
+  "subAlbums": [
+    7
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

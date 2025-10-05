@@ -1,0 +1,13 @@
+{
+  "costCR": 400000,
+  "costXP": 6500,
+  "id": 3736514544,
+  "index": "PAUS532",
+  "name": "PAUS532_Suo",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

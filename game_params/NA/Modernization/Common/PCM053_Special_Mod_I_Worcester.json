@@ -1,0 +1,37 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4238528432,
+  "index": "PCM053",
+  "modifiers": {
+    "ConsumableReloadTime": {
+      "AirCarrier": 0.8,
+      "Auxiliary": 0.8,
+      "Battleship": 0.8,
+      "Cruiser": 0.8,
+      "Destroyer": 0.8,
+      "Submarine": 0.8
+    },
+    "additionalConsumables": 1,
+    "prioritySectorCooldownMultiplier": 0.8
+  },
+  "name": "PCM053_Special_Mod_I_Worcester",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PASC210_Worcester"
+  ],
+  "shiptype": [],
+  "slot": 5,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

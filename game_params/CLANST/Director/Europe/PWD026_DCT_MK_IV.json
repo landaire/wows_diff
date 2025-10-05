@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4266848560,
+  "index": "PWD026",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/director/WD026_DCT_MK_IV/WD026_DCT_MK_IV.model",
+  "name": "PWD026_DCT_MK_IV",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Director"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3699569360,
+  "index": "PJD567",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/director/JD567_Director_Type_94_Mod2_Arpeggio/JD567_Director_Type_94_Mod2_Arpeggio.model",
+  "name": "PJD567_Director_Type_94_Mod2_Arpeggio",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Director"
+  }
+}

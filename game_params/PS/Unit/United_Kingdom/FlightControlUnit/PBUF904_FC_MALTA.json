@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3346870224,
+  "index": "PBUF904",
+  "name": "PBUF904_FC_MALTA",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

@@ -1,0 +1,65 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 5,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL013_Yamamoto_Coll_Free",
+    "PCL014_Yamamoto_Coll_Prem"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA004_YAMAMOTO",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4290747312,
+  "index": "PCZA004",
+  "isPuzzle": false,
+  "name": "PCZA004_Yamamoto",
+  "rewards": [
+    "<Item idx=\"PCEE130_Yamamoto_collection\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_YAMSUBCOLLECTION_NAME",
+      "'aa",
+      [
+        "<SetUnlock unlockName=\"Multi_Camo_JDestroyer\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_YAMSUBCOLLECTION_NAME",
+      "'bb",
+      [
+        "<SetUnlock unlockName=\"Multi_Camo_JCruiser\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_YAMSUBCOLLECTION_NAME",
+      "'cc",
+      [
+        "<SetUnlock unlockName=\"Multi_Camo_JBattleship\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_YAMSUBCOLLECTION_NAME",
+      "'dd",
+      [
+        "<SetUnlock unlockName=\"Multi_Camo_JAirCarrier\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FIFTH_YAMSUBCOLLECTION_NAME",
+      "'ee",
+      [
+        "<SetUnlock unlockName=\"Second_Ensign_JAP\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

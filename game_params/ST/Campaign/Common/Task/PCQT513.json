@@ -1,0 +1,30 @@
+{
+  "backgroundIconID": 5,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\"/>",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isBattleResult battleResult=\"win\"/>",
+    "<isTopXP rank=\"3\" topType=\"team\"/>",
+    "<isRibbons count=\"1\" ribbons=\"BURN, FLOOD\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3756408752,
+  "index": "PCQT513",
+  "isSingleBattle": true,
+  "lootStars": 1,
+  "name": "PCQT513",
+  "rewards": [
+    "<Item idx=\"PCEF017_VL_SignalFlag\" count=\"10\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT513_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

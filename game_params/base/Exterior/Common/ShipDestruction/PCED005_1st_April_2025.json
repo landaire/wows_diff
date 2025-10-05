@@ -7,7 +7,6 @@
   "canSell": true,
   "costCR": -1,
   "costGold": -1,
-  "custom": {},
   "deathSoundEvent": "Custom_Death_Pinata",
   "effectOnDeath": {
     "AirCarrier": "particles/vehicles/CustomDeath_Pinata_AirCarrier_BattleShip.xml",

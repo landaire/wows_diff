@@ -1,0 +1,11 @@
+{
+  "id": 4292828080,
+  "index": "PCJB002",
+  "name": "PCJB002_Shipbuilding_Factory",
+  "type": "shipbuilding_factory",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BuildingType",
+    "type": "ClanSupply"
+  }
+}

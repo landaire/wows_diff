@@ -1,0 +1,39 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4235382704,
+  "index": "PCM056",
+  "modifiers": {
+    "GTShotDelay": 0.85,
+    "torpedoSpeedMultiplier": 1.05,
+    "torpedoVisibilityFactor": 0.9,
+    "visibilityDistCoeff": {
+      "AirCarrier": 0.95,
+      "Auxiliary": 0.95,
+      "Battleship": 0.95,
+      "Cruiser": 0.95,
+      "Destroyer": 0.95,
+      "Submarine": 0.95
+    },
+    "visibilityForSubmarineCoeff": 0.95
+  },
+  "name": "PCM056_Special_Mod_I_Z_52",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PGSD110_Z_52"
+  ],
+  "shiptype": [],
+  "slot": 4,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

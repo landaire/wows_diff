@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4216515536,
+  "index": "PBF074",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/finder/BF074_Rangefinder_1_5m/BF074_Rangefinder_1_5m.model",
+  "name": "PBF074_Rangefinder_1_5m",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Finder"
+  }
+}

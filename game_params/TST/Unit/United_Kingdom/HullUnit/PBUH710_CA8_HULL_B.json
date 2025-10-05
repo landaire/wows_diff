@@ -1,0 +1,13 @@
+{
+  "costCR": 2450000,
+  "costXP": 32500,
+  "id": 3550228432,
+  "index": "PBUH710",
+  "name": "PBUH710_CA8_HULL_B",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

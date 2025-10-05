@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 18000,
+  "id": 3558321968,
+  "index": "PGUQ702",
+  "name": "PGUQ702_S8_SONAR_TOP",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

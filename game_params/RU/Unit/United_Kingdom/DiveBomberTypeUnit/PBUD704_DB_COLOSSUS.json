@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3556650960,
+  "index": "PBUD704",
+  "name": "PBUD704_DB_COLOSSUS",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 64000,
+  "costXP": 2000,
+  "id": 3861884624,
+  "index": "PJUA413",
+  "name": "PJUA413_356_45_Type41",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

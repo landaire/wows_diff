@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4240634832,
+  "index": "PBD051",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD051_15in_Director_Control_Tower/BD051_15in_Director_Control_Tower.model",
+  "name": "PBD051_15in_Director_Control_Tower",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

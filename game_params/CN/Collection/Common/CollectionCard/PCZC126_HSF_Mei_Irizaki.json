@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC126_HSF_MEI_IRIZAKI_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4162755504,
+  "index": "PCZC126",
+  "name": "PCZC126_HSF_Mei_Irizaki",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA013_HappyNewYear2019",
+  "compensationCR": 0,
+  "description": "IDS_PCZC273_NY2019_OLEGSTAMP_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4008614832,
+  "index": "PCZC273",
+  "name": "PCZC273_NY2019_OlegStamp",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

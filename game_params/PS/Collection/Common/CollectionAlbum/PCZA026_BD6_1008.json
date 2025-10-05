@@ -1,0 +1,30 @@
+{
+  "background": "wows_bd6",
+  "canCharge": true,
+  "cardCost": 1,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL134_BD108_Coll"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA026_BD6_1008",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4267678640,
+  "index": "PCZA026",
+  "isPuzzle": true,
+  "name": "PCZA026_BD6_1008",
+  "rewards": [
+    "<Lootbox boxType=\"PCL005_Epic\" count=\"1\"/>",
+    "<Lootbox boxType=\"PCL086_gift_tier_Three\" count=\"6\"/>",
+    "<Item idx=\"PCEE445_Bday6_flag\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

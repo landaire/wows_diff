@@ -1,0 +1,18 @@
+{
+  "id": 3669673904,
+  "index": "PCOK596",
+  "level_1": {
+    "allAlphaMultiplier": 1.125,
+    "vulnerabilityTorpedo": 0.9
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.125,
+    "vulnerabilityTorpedo": 0.9
+  },
+  "name": "PCOK596_CLAN_Gearing",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 700000,
+  "costXP": 8000,
+  "id": 3768037360,
+  "index": "PAUQ502",
+  "name": "PAUQ502_S6_SONAR_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

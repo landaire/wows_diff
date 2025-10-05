@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4290958768,
+  "index": "PSK003",
+  "maxLevel": 2,
+  "name": "PSK003_Almirante_Oquendo",
+  "personalCardBonus": {
+    "clan": "PCOK005_Balldmg_DHEdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PSSC719_Almirante_Oquendo"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Spain",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED"
+  ],
+  "constants": {},
+  "enabled": false,
+  "events": [
+    [
+      "meDamaged",
+      [],
+      [
+        [
+          "counter",
+          "a",
+          "=",
+          "constant",
+          "true"
+        ]
+      ]
+    ],
+    [
+      "achievementInBattle",
+      [
+        [
+          "counter",
+          "a",
+          "==",
+          "constant",
+          "false"
+        ],
+        [
+          "achievement",
+          "heroic"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4272087984,
+  "index": "PCH021",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH021_Unarmed",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "heroic",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "UNHARMED",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "heroic"
+}

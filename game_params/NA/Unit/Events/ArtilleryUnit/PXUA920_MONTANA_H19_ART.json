@@ -1,0 +1,13 @@
+{
+  "costCR": 2200000,
+  "costXP": 0,
+  "id": 3330256144,
+  "index": "PXUA920",
+  "name": "PXUA920_MONTANA_H19_ART",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

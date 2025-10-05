@@ -1,0 +1,13 @@
+{
+  "costCR": 300000,
+  "costXP": 4000,
+  "id": 3736973296,
+  "index": "PAUE532",
+  "name": "PAUE532_B6_ENG_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4276286256,
+  "index": "PGD017",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/director/GD017_Torpedo_Dir/GD017_Torpedo_Dir.model",
+  "name": "PGD017_Torpedo_Dir",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Director"
+  }
+}

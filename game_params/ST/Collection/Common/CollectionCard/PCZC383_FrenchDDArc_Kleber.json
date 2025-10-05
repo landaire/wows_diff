@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA017_FrenchDDArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC383_FRENCHDDARC_KLEBER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3893271472,
+  "index": "PCZC383",
+  "name": "PCZC383_FrenchDDArc_Kleber",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "camouflage": "DMM_tile",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "hidden": true,
+  "id": 4164874160,
+  "index": "PCEC124",
+  "isTemplate": false,
+  "name": "PCEC124_Rising",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Camouflage",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4053988176,
+  "index": "PFD229",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD229_SOM_5_metre_S_LanternFest20/FD229_SOM_5_metre_S_LanternFest20.model",
+  "name": "PFD229_SOM_5_metre_S_LanternFest20",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 10,
+  "conditions": [
+    "<isMyShip shipLevel=\"4,5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isDamage count=\"50000\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4228267952,
+  "index": "PCQT063",
+  "isSingleBattle": true,
+  "lootStars": 2,
+  "name": "PCQT063",
+  "rewards": [
+    "<Item idx=\"PCEA031_CrewXPboost_1\" count=\"5\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT063_1",
+    "isDamage",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

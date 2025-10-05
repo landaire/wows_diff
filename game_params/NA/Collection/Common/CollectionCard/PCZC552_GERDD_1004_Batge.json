@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA025_GERDD_1004",
+  "compensationCR": 0,
+  "description": "IDS_PCZC552_GERDD_1004_BATGE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3716062128,
+  "index": "PCZC552",
+  "name": "PCZC552_GERDD_1004_Batge",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

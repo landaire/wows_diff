@@ -1,0 +1,13 @@
+{
+  "costCR": 1500000,
+  "costXP": 20000,
+  "id": 3451268560,
+  "index": "PRUT804",
+  "name": "PRUT804_D9_TORP_TOP_2",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA024_USABB_0910",
+  "compensationCR": 0,
+  "description": "IDS_PCZC534_USABB_0910_ARIZONATOWER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3734936496,
+  "index": "PCZC534",
+  "name": "PCZC534_USABB_0910_ArizonaTower",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

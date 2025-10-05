@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4287820528,
+  "index": "PID006",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/italy/director/ID006_Rilevatore_Tiro_1_5m/ID006_Rilevatore_Tiro_1_5m.model",
+  "name": "PID006_Rilevatore_Tiro_1_5m",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": null,
+    "type": "Director"
+  }
+}

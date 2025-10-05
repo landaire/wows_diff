@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "dunkirk_dinamo",
+  "group": 3,
+  "hidden": true,
+  "id": 4172148656,
+  "index": "PCEE117",
+  "isTemplate": false,
+  "name": "PCEE117_Dunkirk_dinamo",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "history"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

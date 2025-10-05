@@ -1,0 +1,13 @@
+{
+  "costCR": 1800000,
+  "costXP": 21500,
+  "id": 3663474480,
+  "index": "PGUH602",
+  "name": "PGUH602_YORK_B",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

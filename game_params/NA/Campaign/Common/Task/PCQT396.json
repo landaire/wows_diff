@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 0,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\" class=\"Cruiser,Destroyer\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isRibbons count=\"25\" ribbons=\"BASE_CAPTURE, BASE_CAPTURE_ASSIST\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3879092144,
+  "index": "PCQT396",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT396",
+  "rewards": [
+    "<Item idx=\"PCEF005_SM_SignalFlag\" count=\"20\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT396_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

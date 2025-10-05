@@ -1,0 +1,22 @@
+{
+  "angle": 0.0,
+  "dist": 0.0,
+  "hidePlane": false,
+  "id": 4287821264,
+  "index": "PRC006",
+  "isInvisible": false,
+  "launchEffectName": "particles/Empty_FX.xml",
+  "linkedGunAngles": [],
+  "linkedGunName": null,
+  "linkedRotationSpeedCoeff": 1.0,
+  "model": "content/gameplay/russia/catapult/RC006_Catapult_HK20/RC006_Catapult_HK20.model",
+  "name": "PRC006_Catapult_HK20",
+  "planeOffsets": {},
+  "rotateTime": 0.0,
+  "translateDelay": 0.0,
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Catapult"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "acidProb": 0.0,
+  "additionalShips": [],
+  "affectedByPTZ": false,
+  "alphaDamage": 14800.0,
+  "alphaPiercingCS": 0,
+  "alphaPiercingHE": 0.0,
+  "ammoType": "AP",
+  "applyPTZCoeff": false,
+  "blowUpEffect": [
+    "particles/guns/PROJ_Explo.xml",
+    "particles/guns/PROJ_Explo_2.xml"
+  ],
+  "bonusOffset": 0,
+  "bulletAirDrag": 0.292,
+  "bulletAlwaysRicochetAt": 60.0,
+  "bulletCap": true,
+  "bulletCapNormalizeMaxAngle": 6.0,
+  "bulletDetonator": 0.033,
+  "bulletDetonatorSpread": 0.0,
+  "bulletDetonatorThreshold": 77.0,
+  "bulletDiametr": 0.46,
+  "bulletKrupp": 2574.0,
+  "bulletMass": 1460.0,
+  "bulletPenetrationSpread": 0.0,
+  "bulletRicochetAt": 45.0,
+  "bulletSpeed": 780.0,
+  "bulletUnderwaterDistFactor": 0.8,
+  "bulletUnderwaterPenetrationFactor": 0.9,
+  "bulletWaterDrag": 10.0,
+  "buoyancyToDamageCoeff": {
+    "DEEP_WATER": 1.0,
+    "DEEP_WATER_INVUL": 0.0,
+    "PERISCOPE": 1.0,
+    "SURFACE": 1.0
+  },
+  "burnProb": -0.5,
+  "costCR": 0,
+  "customSoundPostfix": "",
+  "customUIPostfix": "",
+  "damage": 0.0,
+  "damageDistribution": {},
+  "damageVulnerabilityForShipClasses": {
+    "AirCarrier": 1,
+    "Auxiliary": 1,
+    "Battleship": 1,
+    "Cruiser": 1,
+    "Destroyer": 1,
+    "Submarine": 1
+  },
+  "depthSplashRadius": 2.23,
+  "directDamage": 0.0,
+  "distParams": [
+    -0.12,
+    0.1,
+    0.12,
+    0.0
+  ],
+  "distTile": 3.0,
+  "explosionRadius": 200.0,
+  "floodGeneration": false,
+  "ground": [
+    "particles/Acid_Splash_Ground_H2020.xml"
+  ],
+  "groundHitDecalSize": 1.0,
+  "groundHorizontal": [
+    "particles/Acid_Splash_Ground_H2020.xml"
+  ],
+  "groundVertical": [
+    "particles/Acid_Splash_Ground_H2020.xml"
+  ],
+  "gunCaliber": 0.1,
+  "hatTracerTexture": "particles/trails/Trail_smoke_alfa0.dds",
+  "hitDecalSize": 0.5,
+  "id": 4173316368,
+  "ignoreBuoyancyStates": [
+    "SEMI_DEEP_WATER",
+    "DEEP_WATER",
+    "DEEP_WATER_INVUL"
+  ],
+  "ignoreClasses": [],
+  "index": "PXPA116",
+  "isBomb": false,
+  "maxDepth": -15,
+  "model": "",
+  "name": "PXPA116_AP_MONSTER_CRAB",
+  "onHit": null,
+  "ownHatTracerTexture": "particles/trails/Trail_smoke_alfa0.dds",
+  "ownTracerEffect": "particles/Acid_Shot_1_H2020.xml",
+  "ownTracerTexture": "particles/trails/Trail_smoke_alfa0.dds",
+  "pointsOfDamage": [
+    [
+      0,
+      0.1
+    ],
+    [
+      1,
+      0.1
+    ]
+  ],
+  "projDestroyedEffect": [
+    "particles/Acid_Hit_Splash_H2020.xml"
+  ],
+  "projDestroyedEffectHorizontal": [
+    "particles/Acid_Hit_Splash_H2020.xml"
+  ],
+  "projDestroyedEffectVertical": [
+    "particles/Acid_Hit_Splash_H2020.xml"
+  ],
+  "projHitCitadelEffectHorizontal": [
+    "particles/Acid_Hit_Splash_H2020.xml"
+  ],
+  "projHitCitadelEffectVertical": [
+    "particles/Acid_Hit_Splash_H2020.xml"
+  ],
+  "projHitNoPenetrationEffectHorizontal": [
+    "particles/Acid_Hit_Splash_H2020.xml"
+  ],
+  "projHitNoPenetrationEffectVertical": [
+    "particles/Acid_Hit_Splash_H2020.xml"
+  ],
+  "projOverPenetrationEffectHorizontal": [
+    "particles/Acid_Hit_Splash_H2020.xml"
+  ],
+  "projOverPenetrationEffectVertical": [
+    "particles/Acid_Hit_Splash_H2020.xml"
+  ],
+  "projOverPenetrationExitEffectHorizontal": [
+    "particles/guns/PROJ_AP_Ship_OP_Out.xml"
+  ],
+  "projOverPenetrationExitEffectVertical": [
+    "particles/guns/PROJ_AP_Ship_OP_Out.xml"
+  ],
+  "projRicochetEffectHorizontal": [
+    "particles/Acid_Hit_Splash_H2020.xml"
+  ],
+  "projRicochetEffectVertical": [
+    "particles/Acid_Hit_Splash_H2020.xml"
+  ],
+  "rotationCoeff": 1.0,
+  "shellDistortTexture": "particles/trails/Trail_Distort_Neutral.dds",
+  "shellGlow": 2.3,
+  "shellLength": 3.5,
+  "shellModelScale": 1e-8,
+  "shellTint": [
+    0.53,
+    0.855,
+    0.925
+  ],
+  "shipDestroyEffect": "particles/Empty_FX.xml",
+  "smokeAlphaFalloff": 70.0,
+  "smokeDistortTexture": "particles/trails/Trail_Distort_Smoke.dds",
+  "smokeOpacity": 0.8,
+  "smokeTexture": "particles/trails/Trail_smoke_alfa0.dds",
+  "smokeThickness": 0.2,
+  "smokeTileLength": 22.0,
+  "smokeTint": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "splashArmorCoeff": 0.0,
+  "splashCubeSize": 0.0,
+  "timeFactor": 1.0,
+  "tracerEffect": "particles/Acid_Shot_1_H2020.xml",
+  "tracerLength": 75.0,
+  "tracerOpacity": 1.0,
+  "tracerTexture": "particles/trails/Trail_smoke_alfa0.dds",
+  "tracerThickness": 0.11,
+  "typeinfo": {
+    "nation": "Events",
+    "species": "Artillery",
+    "type": "Projectile"
+  },
+  "useEnhancedRegenerationRules": false,
+  "uvSpeed": -0.2,
+  "uwCritical": 0.0,
+  "volume": 0.0,
+  "water": [
+    "particles/Acid_water_H2020.xml"
+  ],
+  "waterEffectMaxIntensity": 10.0,
+  "waterEffectMinIntensity": 0.1,
+  "waterRefractionReflectDeltaAngleInterval": [
+    2.0,
+    6.0
+  ]
+}

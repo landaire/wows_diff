@@ -1,0 +1,13 @@
+{
+  "costCR": 3900000,
+  "costXP": 52000,
+  "id": 3558616880,
+  "index": "PGUH702",
+  "name": "PGUH702_BISMARCK_B",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 260000,
+  "costXP": 0,
+  "id": 3329634096,
+  "index": "PGUT920",
+  "name": "PGUT920_TORP_PRINZ_ADALBERT",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

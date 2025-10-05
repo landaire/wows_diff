@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4290965712,
+  "index": "PZD003",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD003_1NM_Low_Angle_night_dir/ZD003_1NM_Low_Angle_night_dir.model",
+  "name": "PZD003_1NM_Low_Angle_night_dir",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

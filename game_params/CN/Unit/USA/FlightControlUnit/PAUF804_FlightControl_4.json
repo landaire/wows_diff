@@ -1,0 +1,13 @@
+{
+  "costCR": 220000,
+  "costXP": 5000,
+  "id": 3451727856,
+  "index": "PAUF804",
+  "name": "PAUF804_FlightControl_4",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

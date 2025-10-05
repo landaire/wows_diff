@@ -1,0 +1,87 @@
+{
+  "background": null,
+  "canCharge": false,
+  "cardCost": 4,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL132_TF108_Prem"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA027_TFTM_108",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4266630064,
+  "index": "PCZA027",
+  "isPuzzle": false,
+  "name": "PCZA027_TFTM_108",
+  "rewards": [
+    "<Crew shipId=\"PASB017_Montana_1945\" level=\"11\" crewId=\"PAW417_Optimus_Prime\" count=\"1\"/>",
+    "<Crew shipId=\"PGSB110_Grossdeutschland\" level=\"11\" crewId=\"PGW412_Megatron\" count=\"1\"/>",
+    "<Item idx=\"PCEE446_35th_TF_flag\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_PCZA027_TFTM_108_NAME",
+      "'aa",
+      [
+        "<Item idx=\"PCEM118_Tile_Autobot\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_PCZA027_TFTM_108_NAME",
+      "'bb",
+      [
+        "<Item idx=\"PCEM119_Tile_Decepticon\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_PCZA027_TFTM_108_NAME",
+      "'cc",
+      [
+        "<Item idx=\"PCEM118_Tile_Autobot\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_PCZA027_TFTM_108_NAME",
+      "'dd",
+      [
+        "<Item idx=\"PCEM119_Tile_Decepticon\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FIFTH_PCZA027_TFTM_108_NAME",
+      "'ee",
+      [
+        "<Item idx=\"PCEM118_Tile_Autobot\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SIXTH_PCZA027_TFTM_108_NAME",
+      "'ff",
+      [
+        "<Item idx=\"PCEM119_Tile_Decepticon\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SEVENTH_PCZA027_TFTM_108_NAME",
+      "'gg",
+      [
+        "<Item idx=\"PCEM118_Tile_Autobot\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_EIGHTH_PCZA027_TFTM_108_NAME",
+      "'hh",
+      [
+        "<Item idx=\"PCEM119_Tile_Decepticon\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

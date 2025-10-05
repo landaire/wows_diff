@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4277334992,
+  "index": "PBD016",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD016_HACS_MK_IV_RF15ft/BD016_HACS_MK_IV_RF15ft.model",
+  "name": "PBD016_HACS_MK_IV_RF15ft",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA024_USABB_0910",
+  "compensationCR": 0,
+  "description": "IDS_PCZC528_USABB_0910_THOMASKINKAID_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3741227952,
+  "index": "PCZC528",
+  "name": "PCZC528_USABB_0910_ThomasKinkaid",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

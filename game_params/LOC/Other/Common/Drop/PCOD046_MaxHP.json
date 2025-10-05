@@ -1,0 +1,25 @@
+{
+  "id": 4246620080,
+  "index": "PCOD046",
+  "markerNameActive": "convoy_consumable_active",
+  "markerNameInactive": "convoy_consumable_inactive",
+  "maxBuffLevel": 0,
+  "name": "PCOD046_MaxHP",
+  "payload": {
+    "item_1": {
+      "duration": -1,
+      "level": 1,
+      "params": "PXOM115_HealthHull_PvE_Convoys",
+      "type": 1,
+      "weight": 0
+    },
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

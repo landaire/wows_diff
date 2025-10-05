@@ -1,0 +1,20 @@
+{
+  "id": 3728394160,
+  "index": "PCOK540",
+  "level_1": {
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityHE": 0.95,
+    "vulnerabilityTorpedo": 0.9
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityHE": 0.95,
+    "vulnerabilityTorpedo": 0.9
+  },
+  "name": "PCOK540_CLAN_Yodo",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

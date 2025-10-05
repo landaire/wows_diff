@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4271041328,
+  "index": "PGF022",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF022_FuMO27_Dir_Mod2/GF022_FuMO27_Dir_Mod2.model",
+  "name": "PGF022_FuMO27_Dir_Mod2",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

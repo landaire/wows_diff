@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4278383568,
+  "index": "PBD015",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD015_DCT_MK_XXl_with_finder_15_ft/BD015_DCT_MK_XXl_with_finder_15_ft.model",
+  "name": "PBD015_DCT_MK_XXl_with_finder_15_ft",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

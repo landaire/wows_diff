@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC123_HSF_MISAKI_AKENO_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4165901232,
+  "index": "PCZC123",
+  "name": "PCZC123_HSF_Misaki_Akeno",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

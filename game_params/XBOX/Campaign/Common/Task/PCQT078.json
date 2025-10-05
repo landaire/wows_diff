@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 15,
+  "conditions": [
+    "<isMyShip shipLevel=\"5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isCitadelHits count=\"2\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4212539312,
+  "index": "PCQT078",
+  "isSingleBattle": true,
+  "lootStars": 2,
+  "name": "PCQT078",
+  "rewards": [
+    "<Add type=\"FREE_XP\" count=\"500\" />"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT078_1",
+    "isCitadelHits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3652631248,
+  "index": "PJRS612",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/radar/search/JRS612_Radar_Type21_Stand_1_Red_Arpeggio/JRS612_Radar_Type21_Stand_1_Red_Arpeggio.model",
+  "name": "PJRS612_Radar_Type21_Stand_1_Red_Arpeggio",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

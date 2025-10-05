@@ -1,0 +1,13 @@
+{
+  "costCR": 80000,
+  "costXP": 800,
+  "id": 4061573072,
+  "index": "PBUS222",
+  "name": "PBUS222_B3_SUO_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

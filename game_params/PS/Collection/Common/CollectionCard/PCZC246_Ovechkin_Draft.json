@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA011_Ovechkin",
+  "compensationCR": 0,
+  "description": "IDS_PCZC246_OVECHKIN_DRAFT_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4036926384,
+  "index": "PCZC246",
+  "name": "PCZC246_Ovechkin_Draft",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

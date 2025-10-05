@@ -1,0 +1,29 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4284667888,
+  "index": "PAK009",
+  "maxLevel": 2,
+  "name": "PAK009_Saipan",
+  "personalCardBonus": {
+    "clan": "PCOK013_Balldmg_DplanetorpdmgX2"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PASA528_Saipan",
+      "PASA598_Black_Saipan"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

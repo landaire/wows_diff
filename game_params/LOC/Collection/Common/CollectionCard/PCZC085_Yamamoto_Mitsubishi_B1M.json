@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC085_YAMAMOTO_MITSUBISHI_B1M_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4205747120,
+  "index": "PCZC085",
+  "name": "PCZC085_Yamamoto_Mitsubishi_B1M",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

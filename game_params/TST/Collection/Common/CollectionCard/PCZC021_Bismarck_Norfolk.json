@@ -1,0 +1,15 @@
+{
+  "collectionAlbum": "PCZA002_Bismarck",
+  "compensationCR": 0,
+  "description": "IDS_PCZC021_BISMARCK_NORFOLK_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4272855984,
+  "index": "PCZC021",
+  "name": "PCZC021_Bismarck_Norfolk",
+  "subAlbums": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

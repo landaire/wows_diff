@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3651332816,
+  "index": "PJF613",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/finder/JF613_Rangefinder_6m_Red_Arpeggio/JF613_Rangefinder_6m_Red_Arpeggio.model",
+  "name": "PJF613_Rangefinder_6m_Red_Arpeggio",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Finder"
+  }
+}

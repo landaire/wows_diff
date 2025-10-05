@@ -1,0 +1,67 @@
+{
+  "canCharge": true,
+  "costCR": 2000000,
+  "excludes": [],
+  "group": [
+    "upgradeable",
+    "disabled",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "event",
+    "specialUnsellable",
+    "demoWithoutStats",
+    "demoWithoutStatsPrem",
+    "demoWithoutStatsTemporary",
+    "experimental",
+    "start",
+    "peculiar",
+    "clan",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "superShip",
+    "demoWithStats",
+    "notForBattle",
+    "coopOnly"
+  ],
+  "id": 4188196784,
+  "index": "PCM101",
+  "modifiers": {
+    "torpedoDamageCoeff": 1.07
+  },
+  "name": "PCM101_Torpedo_Mod_V",
+  "nation": [
+    "France",
+    "USA",
+    "Russia",
+    "Japan",
+    "United_Kingdom",
+    "Germany",
+    "Italy",
+    "Europe",
+    "Netherlands",
+    "Spain",
+    "Pan_Asia",
+    "Pan_America",
+    "Commonwealth"
+  ],
+  "shiplevel": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "ships": [],
+  "shiptype": [
+    "Submarine"
+  ],
+  "slot": 4,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

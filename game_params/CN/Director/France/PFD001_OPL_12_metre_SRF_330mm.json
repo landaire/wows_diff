@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4293063504,
+  "index": "PFD001",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD001_OPL_12_metre_SRF_330mm/FD001_OPL_12_metre_SRF_330mm.model",
+  "name": "PFD001_OPL_12_metre_SRF_330mm",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

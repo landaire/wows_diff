@@ -227,6 +227,7 @@
     "PASC519_Tulsa",
     "PZSC110_Jinan",
     "PZSC710_Incheon",
+    "PZSC717_Lanzhou",
     "PZSC109_Sejong",
     "PZSC108_Harbin",
     "PZSC107_Chumphon",
@@ -332,7 +333,11 @@
     "PRSB819_BA_Zarya_Svobody",
     "PASB719_Indiana",
     "PZSC718_Narai",
-    "PVSC708_Comandante_Aguirre"
+    "PVSC708_Comandante_Aguirre",
+    "PZSB909_Xuan_Ming",
+    "PGSC720_Bremen",
+    "PASC720_Hawaii",
+    "PGSC717_Nurnberg_1944"
   ],
   "shiptype": [],
   "slot": 1,

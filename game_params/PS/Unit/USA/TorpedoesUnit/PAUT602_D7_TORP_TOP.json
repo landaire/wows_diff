@@ -1,0 +1,13 @@
+{
+  "costCR": 780000,
+  "costXP": 10500,
+  "id": 3663081456,
+  "index": "PAUT602",
+  "name": "PAUT602_D7_TORP_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

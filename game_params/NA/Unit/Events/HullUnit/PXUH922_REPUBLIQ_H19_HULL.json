@@ -1,0 +1,13 @@
+{
+  "costCR": 3400000,
+  "costXP": 0,
+  "id": 3327929616,
+  "index": "PXUH922",
+  "name": "PXUH922_REPUBLIQ_H19_HULL",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 1600000,
+  "costXP": 0,
+  "id": 3332222224,
+  "index": "PXUE918",
+  "name": "PXUE918_HENRI_H19_ENG",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

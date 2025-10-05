@@ -1,0 +1,168 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "AsymCoopBattles",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 0,
+  "gameLogicConfig": {},
+  "id": 4266503088,
+  "index": "PCVE027",
+  "matchmakerConfig": "eventEV27AsymCoop",
+  "name": "PCVE027_EV27AsymCoop",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        1
+      ],
+      "Battleship": [
+        0,
+        2
+      ],
+      "Cruiser": [
+        0,
+        2
+      ],
+      "Destroyer": [
+        0,
+        2
+      ],
+      "Submarine": [
+        0,
+        1
+      ]
+    },
+    "filters": [
+      {
+        "shipLevels": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      }
+    ],
+    "totalShips": 5
+  },
+  "scenariosByMap": {
+    "spaces/05_Ring": [
+      "asymm_2point_coop"
+    ],
+    "spaces/08_NE_passage": [
+      "asymm_2point_coop",
+      "asymm_3point_coop"
+    ],
+    "spaces/13_OC_new_dawn": [
+      "asymm_2point_coop",
+      "asymm_3point_coop"
+    ],
+    "spaces/14_Atlantic": [
+      "asymm_2point_coop",
+      "asymm_3point_coop"
+    ],
+    "spaces/15_NE_north": [
+      "asymm_2point_coop",
+      "asymm_3point_coop"
+    ],
+    "spaces/16_OC_bees_to_honey": [
+      "asymm_2point_coop",
+      "asymm_3point_coop"
+    ],
+    "spaces/17_NA_fault_line": [
+      "asymm_2point_coop",
+      "asymm_3point_coop"
+    ],
+    "spaces/18_NE_ice_islands": [
+      "asymm_2point_coop",
+      "asymm_3point_coop"
+    ],
+    "spaces/19_OC_prey": [
+      "asymm_3point_coop"
+    ],
+    "spaces/20_NE_two_brothers": [
+      "asymm_2point_coop"
+    ],
+    "spaces/22_tierra_del_fuego": [
+      "asymm_2point_coop",
+      "asymm_3point_coop"
+    ],
+    "spaces/23_Shards": [
+      "asymm_3point_coop"
+    ],
+    "spaces/25_sea_hope": [
+      "asymm_3point_coop"
+    ],
+    "spaces/28_naval_mission": [
+      "asymm_2point_coop",
+      "asymm_3point_coop"
+    ],
+    "spaces/35_NE_north_winter": [
+      "asymm_2point_coop"
+    ],
+    "spaces/37_Ridge": [
+      "asymm_2point_coop",
+      "asymm_3point_coop"
+    ],
+    "spaces/38_Canada": [
+      "asymm_2point_coop",
+      "asymm_3point_coop"
+    ],
+    "spaces/40_Okinawa": [
+      "asymm_3point_coop"
+    ],
+    "spaces/41_Conquest": [
+      "asymm_2point_coop",
+      "asymm_3point_coop"
+    ],
+    "spaces/42_Neighbors": [
+      "asymm_2point_coop",
+      "asymm_3point_coop"
+    ],
+    "spaces/44_Path_warrior": [
+      "asymm_3point_coop"
+    ],
+    "spaces/45_Zigzag": [
+      "asymm_3point_coop"
+    ],
+    "spaces/46_Estuary": [
+      "asymm_2point_coop"
+    ],
+    "spaces/47_Sleeping_Giant": [
+      "asymm_3point_coop"
+    ],
+    "spaces/50_Gold_harbor": [
+      "asymm_2point_coop"
+    ],
+    "spaces/51_Greece": [
+      "asymm_3point_coop"
+    ],
+    "spaces/52_Britain": [
+      "asymm_3point_coop"
+    ],
+    "spaces/53_Shoreside": [
+      "asymm_3point_coop"
+    ],
+    "spaces/54_Faroe": [
+      "asymm_3point_coop"
+    ],
+    "spaces/r01_military_navigation": [
+      "asymm_3point_coop"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

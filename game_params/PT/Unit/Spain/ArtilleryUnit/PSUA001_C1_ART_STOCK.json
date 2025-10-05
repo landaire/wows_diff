@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4293897648,
+  "index": "PSUA001",
+  "name": "PSUA001_C1_ART_STOCK",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

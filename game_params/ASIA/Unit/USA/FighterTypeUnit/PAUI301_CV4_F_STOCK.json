@@ -1,0 +1,13 @@
+{
+  "costCR": 58000,
+  "costXP": 0,
+  "id": 3979063280,
+  "index": "PAUI301",
+  "name": "PAUI301_CV4_F_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

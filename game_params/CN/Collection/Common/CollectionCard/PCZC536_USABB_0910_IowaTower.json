@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA024_USABB_0910",
+  "compensationCR": 0,
+  "description": "IDS_PCZC536_USABB_0910_IOWATOWER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3732839344,
+  "index": "PCZC536",
+  "name": "PCZC536_USABB_0910_IowaTower",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

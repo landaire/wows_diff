@@ -1,0 +1,11 @@
+{
+  "id": 4284439472,
+  "index": "PCJB010",
+  "name": "PCJB010_Treasury",
+  "type": "treasury",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BuildingType",
+    "type": "ClanSupply"
+  }
+}

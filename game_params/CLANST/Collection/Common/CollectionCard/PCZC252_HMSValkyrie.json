@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA012_BritishArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC252_HMSVALKYRIE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4030634928,
+  "index": "PCZC252",
+  "name": "PCZC252_HMSValkyrie",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

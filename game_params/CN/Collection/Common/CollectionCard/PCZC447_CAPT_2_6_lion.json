@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA021_CAPT",
+  "compensationCR": 0,
+  "description": "IDS_PCZC447_CAPT_2_6_LION_DESCRIPTION",
+  "hasVideo": true,
+  "id": 3826162608,
+  "index": "PCZC447",
+  "name": "PCZC447_CAPT_2_6_lion",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

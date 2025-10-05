@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 65,
+  "conditions": [
+    "<isMyShip shipLevel=\"4,5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isCitadelHits count=\"3\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4257628080,
+  "index": "PCQT035",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT035",
+  "rewards": [
+    "<Add type=\"CREDITS\" count=\"50000\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT035_1",
+    "isCitadelHits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

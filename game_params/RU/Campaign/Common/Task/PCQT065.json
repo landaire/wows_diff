@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 18,
+  "conditions": [
+    "<isMyShip shipLevel=\"4,5,6,7,8,9,10,11\" class=\"AirCarrier\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isWeaponHits count=\"10\" weaponTypes=\"bomber tbomber rocket skipbomber\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4226170800,
+  "index": "PCQT065",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT065",
+  "rewards": [
+    "<Add type=\"FREE_XP\" count=\"200\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT065_1",
+    "isWeaponHits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

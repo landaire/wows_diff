@@ -1,0 +1,13 @@
+{
+  "costCR": 850000,
+  "costXP": 0,
+  "id": 3450613200,
+  "index": "PRUH805",
+  "name": "PRUH805_D9_HULL_STOCK_3",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC155_HSF_MOEKA_CHINA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4132346800,
+  "index": "PCZC155",
+  "name": "PCZC155_HSF_Moeka_China",
+  "subAlbums": [
+    5
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

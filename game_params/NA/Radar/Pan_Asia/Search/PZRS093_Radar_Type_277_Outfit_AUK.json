@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4196841680,
+  "index": "PZRS093",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/radar/search/ZRS093_Radar_Type_277_Outfit_AUK/ZRS093_Radar_Type_277_Outfit_AUK.model",
+  "name": "PZRS093_Radar_Type_277_Outfit_AUK",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

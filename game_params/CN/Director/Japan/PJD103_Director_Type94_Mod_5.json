@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4186108624,
+  "index": "PJD103",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/director/JD103_Director_Type94_Mod_5/JD103_Director_Type94_Mod_5.model",
+  "name": "PJD103_Director_Type94_Mod_5",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Director"
+  }
+}

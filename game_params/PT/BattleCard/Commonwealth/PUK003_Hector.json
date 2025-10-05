@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4290958704,
+  "index": "PUK003",
+  "maxLevel": 2,
+  "name": "PUK003_Hector",
+  "personalCardBonus": {
+    "clan": "PCOK005_Balldmg_DHEdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PUSC509_Hector"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

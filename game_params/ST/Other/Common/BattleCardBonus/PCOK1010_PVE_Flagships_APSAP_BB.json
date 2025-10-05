@@ -1,0 +1,129 @@
+{
+  "id": 3235563440,
+  "index": "PCOK1010",
+  "level_1": {
+    "GMAPDamageCoeff": 1.1,
+    "GMCSDamageCoeff": 1.1,
+    "GSAPDamageCoeff": 1.1,
+    "GSCSDamageCoeff": 1.1,
+    "bombApAlphaDamageMultiplier": 1.1,
+    "citadelDamageMultiplierCSAP": 1.1,
+    "rocketApAlphaDamageMultiplier": 1.1,
+    "vulnerabilityAtba": 0.95
+  },
+  "level_10": {
+    "GMAPDamageCoeff": 1.18,
+    "GMCSDamageCoeff": 1.18,
+    "GSAPDamageCoeff": 1.18,
+    "GSCSDamageCoeff": 1.18,
+    "bombApAlphaDamageMultiplier": 1.18,
+    "citadelDamageMultiplierCSAP": 1.35,
+    "rocketApAlphaDamageMultiplier": 1.18,
+    "shootShift": 1.2,
+    "vulnerabilityAtba": 0.7
+  },
+  "level_11": {
+    "GMAPDamageCoeff": 1.2,
+    "GMCSDamageCoeff": 1.2,
+    "GSAPDamageCoeff": 1.2,
+    "GSCSDamageCoeff": 1.2,
+    "bombApAlphaDamageMultiplier": 1.2,
+    "citadelDamageMultiplierCSAP": 1.35,
+    "rocketApAlphaDamageMultiplier": 1.2,
+    "shootShift": 1.25,
+    "vulnerabilityAtba": 0.7
+  },
+  "level_2": {
+    "GMAPDamageCoeff": 1.1,
+    "GMCSDamageCoeff": 1.1,
+    "GSAPDamageCoeff": 1.1,
+    "GSCSDamageCoeff": 1.1,
+    "bombApAlphaDamageMultiplier": 1.1,
+    "citadelDamageMultiplierCSAP": 1.15,
+    "rocketApAlphaDamageMultiplier": 1.1,
+    "vulnerabilityAtba": 0.9
+  },
+  "level_3": {
+    "GMAPDamageCoeff": 1.12,
+    "GMCSDamageCoeff": 1.12,
+    "GSAPDamageCoeff": 1.12,
+    "GSCSDamageCoeff": 1.12,
+    "bombApAlphaDamageMultiplier": 1.12,
+    "citadelDamageMultiplierCSAP": 1.15,
+    "rocketApAlphaDamageMultiplier": 1.12,
+    "shootShift": 1.05,
+    "vulnerabilityAtba": 0.9
+  },
+  "level_4": {
+    "GMAPDamageCoeff": 1.12,
+    "GMCSDamageCoeff": 1.12,
+    "GSAPDamageCoeff": 1.12,
+    "GSCSDamageCoeff": 1.12,
+    "bombApAlphaDamageMultiplier": 1.12,
+    "citadelDamageMultiplierCSAP": 1.2,
+    "rocketApAlphaDamageMultiplier": 1.12,
+    "shootShift": 1.05,
+    "vulnerabilityAtba": 0.85
+  },
+  "level_5": {
+    "GMAPDamageCoeff": 1.14,
+    "GMCSDamageCoeff": 1.14,
+    "GSAPDamageCoeff": 1.14,
+    "GSCSDamageCoeff": 1.14,
+    "bombApAlphaDamageMultiplier": 1.14,
+    "citadelDamageMultiplierCSAP": 1.2,
+    "rocketApAlphaDamageMultiplier": 1.14,
+    "shootShift": 1.1,
+    "vulnerabilityAtba": 0.85
+  },
+  "level_6": {
+    "GMAPDamageCoeff": 1.14,
+    "GMCSDamageCoeff": 1.14,
+    "GSAPDamageCoeff": 1.14,
+    "GSCSDamageCoeff": 1.14,
+    "bombApAlphaDamageMultiplier": 1.14,
+    "citadelDamageMultiplierCSAP": 1.25,
+    "rocketApAlphaDamageMultiplier": 1.14,
+    "shootShift": 1.1,
+    "vulnerabilityAtba": 0.8
+  },
+  "level_7": {
+    "GMAPDamageCoeff": 1.16,
+    "GMCSDamageCoeff": 1.16,
+    "GSAPDamageCoeff": 1.16,
+    "GSCSDamageCoeff": 1.16,
+    "bombApAlphaDamageMultiplier": 1.16,
+    "citadelDamageMultiplierCSAP": 1.25,
+    "rocketApAlphaDamageMultiplier": 1.16,
+    "shootShift": 1.15,
+    "vulnerabilityAtba": 0.8
+  },
+  "level_8": {
+    "GMAPDamageCoeff": 1.16,
+    "GMCSDamageCoeff": 1.16,
+    "GSAPDamageCoeff": 1.16,
+    "GSCSDamageCoeff": 1.16,
+    "bombApAlphaDamageMultiplier": 1.16,
+    "citadelDamageMultiplierCSAP": 1.3,
+    "rocketApAlphaDamageMultiplier": 1.16,
+    "shootShift": 1.15,
+    "vulnerabilityAtba": 0.75
+  },
+  "level_9": {
+    "GMAPDamageCoeff": 1.18,
+    "GMCSDamageCoeff": 1.18,
+    "GSAPDamageCoeff": 1.18,
+    "GSCSDamageCoeff": 1.18,
+    "bombApAlphaDamageMultiplier": 1.18,
+    "citadelDamageMultiplierCSAP": 1.3,
+    "rocketApAlphaDamageMultiplier": 1.18,
+    "shootShift": 1.2,
+    "vulnerabilityAtba": 0.75
+  },
+  "name": "PCOK1010_PVE_Flagships_APSAP_BB",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

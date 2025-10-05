@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA022_GF097",
+  "compensationCR": 0,
+  "description": "IDS_PCZC490_GF097_IMPERIALOFFICER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3781073840,
+  "index": "PCZC490",
+  "name": "PCZC490_GF097_ImperialOfficer",
+  "subAlbums": [
+    5
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

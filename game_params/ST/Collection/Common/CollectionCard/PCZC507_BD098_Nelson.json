@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA023_BD098",
+  "compensationCR": 0,
+  "description": "IDS_PCZC507_BD098_NELSON_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3763248048,
+  "index": "PCZC507",
+  "name": "PCZC507_BD098_Nelson",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

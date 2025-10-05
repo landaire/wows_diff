@@ -1,0 +1,13 @@
+{
+  "costCR": 1300000,
+  "costXP": 0,
+  "id": 3446648592,
+  "index": "PHUA809",
+  "name": "PHUA809_C9_ART",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}
