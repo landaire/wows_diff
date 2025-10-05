@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA027_TFTM_108",
+  "compensationCR": 0,
+  "description": "IDS_PCZC629_TFTM_108_BUMBLEBEE_COMICS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3635321776,
+  "index": "PCZC629",
+  "name": "PCZC629_TFTM_108_Bumblebee_Comics",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

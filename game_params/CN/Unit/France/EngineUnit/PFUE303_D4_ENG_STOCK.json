@@ -1,0 +1,13 @@
+{
+  "costCR": 43000,
+  "costXP": 0,
+  "id": 3977097040,
+  "index": "PFUE303",
+  "name": "PFUE303_D4_ENG_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

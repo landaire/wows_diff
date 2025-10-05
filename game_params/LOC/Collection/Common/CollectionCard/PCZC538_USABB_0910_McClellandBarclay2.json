@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA024_USABB_0910",
+  "compensationCR": 0,
+  "description": "IDS_PCZC538_USABB_0910_MCCLELLANDBARCLAY2_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3730742192,
+  "index": "PCZC538",
+  "name": "PCZC538_USABB_0910_McClellandBarclay2",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

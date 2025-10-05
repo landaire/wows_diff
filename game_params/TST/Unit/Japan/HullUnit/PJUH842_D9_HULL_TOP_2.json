@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 26000,
+  "id": 3411816144,
+  "index": "PJUH842",
+  "name": "PJUH842_D9_HULL_TOP_2",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

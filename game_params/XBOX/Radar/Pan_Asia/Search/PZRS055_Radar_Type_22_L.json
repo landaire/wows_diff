@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4236687568,
+  "index": "PZRS055",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/radar/search/ZRS055_Radar_Type_22_L/ZRS055_Radar_Type_22_L.model",
+  "name": "PZRS055_Radar_Type_22_L",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

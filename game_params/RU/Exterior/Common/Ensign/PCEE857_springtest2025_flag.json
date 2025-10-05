@@ -1,0 +1,26 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "springtest2025_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3396202416,
+  "index": "PCEE857",
+  "isTemplate": false,
+  "name": "PCEE857_springtest2025_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHidden_CN",
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

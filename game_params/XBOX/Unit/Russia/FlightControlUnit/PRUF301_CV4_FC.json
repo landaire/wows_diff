@@ -1,0 +1,13 @@
+{
+  "costCR": 60000,
+  "costXP": 0,
+  "id": 3979161040,
+  "index": "PRUF301",
+  "name": "PRUF301_CV4_FC",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

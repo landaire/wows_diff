@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2191716560,
+  "index": "PZD2005",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD2005_GDOS_Director_type_274/ZD2005_GDOS_Director_type_274.model",
+  "name": "PZD2005_GDOS_Director_type_274",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

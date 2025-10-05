@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3759586256,
+  "index": "PBRS510",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/radar/search/BRS510_Radar_Type_277_Outfit_AUK_Ice/BRS510_Radar_Type_277_Outfit_AUK_Ice.model",
+  "name": "PBRS510_Radar_Type_277_Outfit_AUK_Ice",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

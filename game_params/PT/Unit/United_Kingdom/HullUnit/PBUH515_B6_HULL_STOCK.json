@@ -1,0 +1,13 @@
+{
+  "costCR": 525000,
+  "costXP": 0,
+  "id": 3754700752,
+  "index": "PBUH515",
+  "name": "PBUH515_B6_HULL_STOCK",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

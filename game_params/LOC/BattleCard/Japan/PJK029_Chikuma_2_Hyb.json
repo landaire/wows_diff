@@ -1,0 +1,29 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4263696080,
+  "index": "PJK029",
+  "maxLevel": 2,
+  "name": "PJK029_Chikuma_2_Hyb",
+  "personalCardBonus": {
+    "clan": "PCOK010_Balldmg_DtorpX2"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PJSC719_Chikuma_2_Hyb",
+      "PJSC729_GW_Chikuma_2_Hyb"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 250000,
+  "costXP": 3000,
+  "id": 3965464560,
+  "index": "PAUH314",
+  "name": "PAUH314_Langley_1944",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

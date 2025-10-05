@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 32000,
+  "id": 3434524016,
+  "index": "PUUS820",
+  "name": "PUUS820_C9_SUO_TOP",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

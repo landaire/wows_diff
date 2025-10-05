@@ -1,0 +1,25 @@
+{
+  "id": 4250814384,
+  "index": "PCOD042",
+  "markerNameActive": "damage_active",
+  "markerNameInactive": "damage_inactive",
+  "maxBuffLevel": 3,
+  "name": "PCOD042_AR_AddWeaponDamage",
+  "payload": {
+    "item_1": {
+      "duration": -1,
+      "level": 1,
+      "params": "PCOM045_AR_WeaponDamage",
+      "type": 1,
+      "weight": 0
+    },
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 4,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4261606128,
+  "index": "PID031",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/italy/director/ID031_100mm_Guns_Director/ID031_100mm_Guns_Director.model",
+  "name": "PID031_100mm_Guns_Director",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": null,
+    "type": "Director"
+  }
+}

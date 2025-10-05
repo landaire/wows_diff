@@ -1,0 +1,15 @@
+{
+  "collectionAlbum": "PCZA002_Bismarck",
+  "compensationCR": 0,
+  "description": "IDS_PCZC018_BISMARCK_HOOD_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4276001712,
+  "index": "PCZC018",
+  "name": "PCZC018_Bismarck_Hood",
+  "subAlbums": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

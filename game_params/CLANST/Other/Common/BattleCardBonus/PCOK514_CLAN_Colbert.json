@@ -1,0 +1,18 @@
+{
+  "id": 3755657136,
+  "index": "PCOK514",
+  "level_1": {
+    "GMIdealRadius": 0.92,
+    "burnProb": 0.6
+  },
+  "level_2": {
+    "GMIdealRadius": 0.92,
+    "burnProb": 0.6
+  },
+  "name": "PCOK514_CLAN_Colbert",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

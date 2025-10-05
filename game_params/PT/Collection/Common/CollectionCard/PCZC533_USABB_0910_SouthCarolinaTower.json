@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA024_USABB_0910",
+  "compensationCR": 0,
+  "description": "IDS_PCZC533_USABB_0910_SOUTHCAROLINATOWER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3735985072,
+  "index": "PCZC533",
+  "name": "PCZC533_USABB_0910_SouthCarolinaTower",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

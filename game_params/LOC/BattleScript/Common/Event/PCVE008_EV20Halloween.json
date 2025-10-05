@@ -1,0 +1,54 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "GrandEvent",
+  "economics": {
+    "currencyType": "EVENTUM_2",
+    "earningBySelf": 1.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 0,
+  "gameLogicConfig": {},
+  "id": 4286426032,
+  "index": "PCVE008",
+  "matchmakerConfig": {
+    "max_ship_level": 10,
+    "max_ships_in_team": 1,
+    "min_ship_level": 10,
+    "teams_in_battle": 16
+  },
+  "name": "PCVE008_EV20Halloween",
+  "restrictions": {
+    "filters": [
+      {
+        "nations": [
+          "Events"
+        ],
+        "shipLevels": [
+          10
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship"
+        ]
+      }
+    ],
+    "totalShips": 16
+  },
+  "scenariosByMap": {
+    "spaces/e10_FreshGameplay_2020": [
+      "Battle_Royale"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 680000,
+  "costXP": 0,
+  "id": 3633065968,
+  "index": "PAUH631",
+  "name": "PAUH631_Colorado_1921",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4293061072,
+  "index": "PRF001",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/finder/RF001_Rangefinder_2_7m/RF001_Rangefinder_2_7m.model",
+  "name": "PRF001_Rangefinder_2_7m",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Finder"
+  }
+}

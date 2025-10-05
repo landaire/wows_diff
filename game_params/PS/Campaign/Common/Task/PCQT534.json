@@ -1,0 +1,30 @@
+{
+  "backgroundIconID": 53,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\" class=\"Cruiser\"/>",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isBattleResult battleResult=\"win\"/>",
+    "<isTopXP rank=\"3\" topType=\"team\"/>",
+    "<isEarnBattleAchievements count=\"2\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3734388656,
+  "index": "PCQT534",
+  "isSingleBattle": true,
+  "lootStars": 2,
+  "name": "PCQT534",
+  "rewards": [
+    "<Add type=\"FREE_XP\" count=\"5000\" />"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT534_1",
+    "isEarnBattleAchievements",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

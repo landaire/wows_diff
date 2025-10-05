@@ -1,0 +1,13 @@
+{
+  "costCR": 6000,
+  "costXP": 2350,
+  "id": 3652595696,
+  "index": "PAUT612",
+  "name": "PAUT612_533_4_APT018",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

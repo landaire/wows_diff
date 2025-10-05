@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4289910096,
+  "index": "PVK004",
+  "maxLevel": 2,
+  "name": "PVK004_Atlantico",
+  "personalCardBonus": {
+    "clan": "PCOK007_Balldmg_DATBAdmgX2"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PVSB508_Atlantico"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": 144000,
+  "costGold": -1,
+  "flags": [
+    "india",
+    "xray"
+  ],
+  "group": 0,
+  "hidden": false,
+  "id": 4275924912,
+  "index": "PCEF018",
+  "isTemplate": false,
+  "modifiers": {
+    "burnChanceFactorBig": 0.01,
+    "burnChanceFactorSmall": 0.005
+  },
+  "name": "PCEF018_IX_SignalFlag",
+  "sortOrder": 3,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Flags",
+    "type": "Exterior"
+  }
+}

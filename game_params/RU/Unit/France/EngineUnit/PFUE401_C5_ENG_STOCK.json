@@ -1,0 +1,13 @@
+{
+  "costCR": 84000,
+  "costXP": 0,
+  "id": 3874336592,
+  "index": "PFUE401",
+  "name": "PFUE401_C5_ENG_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

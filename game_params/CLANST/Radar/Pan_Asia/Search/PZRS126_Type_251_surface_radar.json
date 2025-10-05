@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4162238672,
+  "index": "PZRS126",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/radar/search/ZRS126_Type_251_surface_radar/ZRS126_Type_251_surface_radar.model",
+  "name": "PZRS126_Type_251_surface_radar",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

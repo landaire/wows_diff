@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA018_ITCA_0810",
+  "compensationCR": 0,
+  "description": "IDS_PCZC390_ITCA_GAUDOS_1941_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3885931440,
+  "index": "PCZC390",
+  "name": "PCZC390_ITCA_Gaudos_1941",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

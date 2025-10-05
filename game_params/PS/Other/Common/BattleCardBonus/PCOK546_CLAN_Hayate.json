@@ -1,0 +1,18 @@
+{
+  "id": 3722102704,
+  "index": "PCOK546",
+  "level_1": {
+    "allAlphaMultiplier": 1.125,
+    "vulnerabilityHE": 0.9
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.125,
+    "vulnerabilityHE": 0.9
+  },
+  "name": "PCOK546_CLAN_Hayate",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

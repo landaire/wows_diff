@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4240632816,
+  "index": "PAF051",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/finder/AF051_Rangefinder_4_5m/AF051_Rangefinder_4_5m.model",
+  "name": "PAF051_Rangefinder_4_5m",
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "Finder"
+  }
+}

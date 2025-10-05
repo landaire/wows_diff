@@ -1,0 +1,33 @@
+{
+  "backgroundIconID": 69,
+  "conditions": [
+    "<isMyShip shipLevel=\"4,5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isBattleCount count=\"1\" />",
+    "<isUseCamouflage/>"
+  ],
+  "costUnlock": 10,
+  "id": 4236656560,
+  "index": "PCQT055",
+  "isSingleBattle": true,
+  "lootStars": 0,
+  "name": "PCQT055_Key",
+  "rewards": [
+    "<Item idx=\"PCEM037_Tile_Eco\" count=\"1\" />",
+    "<Item idx=\"PCEA021_TotalXPboost_1\" count=\"15\"/>",
+    "<Item idx=\"PCEA031_CrewXPboost_1\" count=\"15\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT055_1",
+    "isBattleCount",
+    "IDS_TASKRESTRICTION_PVPCOOPRANKED"
+  ],
+  "unlockMissions": [
+    "PCQM005"
+  ]
+}

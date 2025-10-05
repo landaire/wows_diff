@@ -1,0 +1,13 @@
+{
+  "costCR": 345000,
+  "costXP": 0,
+  "id": 3769380656,
+  "index": "PGUH501",
+  "name": "PGUH501_NURNBERG_A",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

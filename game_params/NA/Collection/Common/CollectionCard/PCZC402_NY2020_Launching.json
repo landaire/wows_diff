@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA019_HappyNewYear2020",
+  "compensationCR": 0,
+  "description": "IDS_PCZC402_NY2020_LAUNCHING_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3873348528,
+  "index": "PCZC402",
+  "name": "PCZC402_NY2020_Launching",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

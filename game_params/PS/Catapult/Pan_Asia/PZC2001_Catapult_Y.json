@@ -1,0 +1,22 @@
+{
+  "angle": 0.0,
+  "dist": 0.0,
+  "hidePlane": false,
+  "id": 2195911888,
+  "index": "PZC2001",
+  "isInvisible": false,
+  "launchEffectName": "particles/Empty_FX.xml",
+  "linkedGunAngles": [],
+  "linkedGunName": null,
+  "linkedRotationSpeedCoeff": 1.0,
+  "model": "content/gameplay/panasia/catapult/ZC2001_Catapult_Y/ZC2001_Catapult_Y.model",
+  "name": "PZC2001_Catapult_Y",
+  "planeOffsets": {},
+  "rotateTime": 0.0,
+  "translateDelay": 0.0,
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Catapult"
+  }
+}

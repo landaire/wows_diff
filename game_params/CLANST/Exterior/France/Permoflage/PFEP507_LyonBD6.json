@@ -1,0 +1,36 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "camo_Birthday_6",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 3000,
+  "hidden": true,
+  "id": 3762843472,
+  "index": "PFEP507",
+  "isTemplate": false,
+  "name": "PFEP507_LyonBD6",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "France",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

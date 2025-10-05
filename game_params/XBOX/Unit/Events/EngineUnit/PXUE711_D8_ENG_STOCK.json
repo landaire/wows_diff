@@ -1,0 +1,13 @@
+{
+  "costCR": 625000,
+  "costXP": 0,
+  "id": 3549277456,
+  "index": "PXUE711",
+  "name": "PXUE711_D8_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

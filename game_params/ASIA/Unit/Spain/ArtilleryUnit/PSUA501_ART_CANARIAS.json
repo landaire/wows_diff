@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3769609648,
+  "index": "PSUA501",
+  "name": "PSUA501_ART_CANARIAS",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

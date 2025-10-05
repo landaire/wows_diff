@@ -1,0 +1,13 @@
+{
+  "costCR": 80000,
+  "costXP": 0,
+  "id": 3853495760,
+  "index": "PRUA421",
+  "name": "PRUA421_D5_ART_STOCK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

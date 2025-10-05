@@ -1,0 +1,279 @@
+{
+  "battleTypes": [
+    "PVE",
+    "PVE_PREMADE"
+  ],
+  "constants": {
+    "waysToKillCount": 4
+  },
+  "enabled": true,
+  "events": [
+    [
+      "meKill",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "dead",
+          "weaponType",
+          "!=",
+          "weaponType",
+          "MAIN_AP"
+        ],
+        [
+          "dead",
+          "weaponType",
+          "!=",
+          "weaponType",
+          "MAIN_HE"
+        ],
+        [
+          "dead",
+          "weaponType",
+          "!=",
+          "weaponType",
+          "MAIN_CS"
+        ],
+        [
+          "dead",
+          "weaponType",
+          "!=",
+          "weaponType",
+          "ATBA_AP"
+        ],
+        [
+          "dead",
+          "weaponType",
+          "!=",
+          "weaponType",
+          "ATBA_HE"
+        ],
+        [
+          "dead",
+          "weaponType",
+          "!=",
+          "weaponType",
+          "ATBA_CS"
+        ],
+        [
+          "subInstruction",
+          [
+            "shipCountersA",
+            "equals",
+            ":",
+            "dead",
+            "weaponType"
+          ],
+          "==",
+          "constant",
+          "0"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "targetA",
+          "=",
+          "dead",
+          "weaponType"
+        ]
+      ]
+    ],
+    [
+      "meKill",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "subInstruction",
+          [
+            "subInstruction",
+            [
+              "dead",
+              "weaponType",
+              "==",
+              "weaponType",
+              "MAIN_AP"
+            ],
+            "or",
+            "subInstruction",
+            [
+              "dead",
+              "weaponType",
+              "==",
+              "weaponType",
+              "MAIN_HE"
+            ]
+          ],
+          "or",
+          "subInstruction",
+          [
+            "dead",
+            "weaponType",
+            "==",
+            "weaponType",
+            "MAIN_CS"
+          ]
+        ],
+        [
+          "subInstruction",
+          [
+            "shipCountersA",
+            "equals",
+            ":",
+            "weaponType",
+            "MAIN_AP"
+          ],
+          "==",
+          "constant",
+          "0"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "targetA",
+          "=",
+          "weaponType",
+          "MAIN_AP"
+        ]
+      ]
+    ],
+    [
+      "meKill",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "subInstruction",
+          [
+            "subInstruction",
+            [
+              "dead",
+              "weaponType",
+              "==",
+              "weaponType",
+              "ATBA_AP"
+            ],
+            "or",
+            "subInstruction",
+            [
+              "dead",
+              "weaponType",
+              "==",
+              "weaponType",
+              "ATBA_HE"
+            ]
+          ],
+          "or",
+          "subInstruction",
+          [
+            "dead",
+            "weaponType",
+            "==",
+            "weaponType",
+            "ATBA_CS"
+          ]
+        ],
+        [
+          "subInstruction",
+          [
+            "shipCountersA",
+            "equals",
+            ":",
+            "weaponType",
+            "ATBA_AP"
+          ],
+          "==",
+          "constant",
+          "0"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "targetA",
+          "=",
+          "weaponType",
+          "ATBA_AP"
+        ]
+      ]
+    ],
+    [
+      "meKill",
+      [
+        [
+          "shipCountersA",
+          "nonZero",
+          ">=",
+          "constant",
+          "waysToKillCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4165133232,
+  "index": "PCH123",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH123_PVE_HON_FRAG_WAY",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "honorable",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "PVE_HON_FRAG_WAY",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_OPERATIONS",
+  "uiType": "honorable"
+}

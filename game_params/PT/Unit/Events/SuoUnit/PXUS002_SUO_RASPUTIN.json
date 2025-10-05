@@ -1,0 +1,13 @@
+{
+  "costCR": 6000,
+  "costXP": 100,
+  "id": 4292259088,
+  "index": "PXUS002",
+  "name": "PXUS002_SUO_RASPUTIN",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4282825008,
+  "index": "PWRS011",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/radar/search/WRS011_Type_293p_Outfit_AQK/WRS011_Type_293p_Outfit_AQK.model",
+  "name": "PWRS011_Type_293p_Outfit_AQK",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

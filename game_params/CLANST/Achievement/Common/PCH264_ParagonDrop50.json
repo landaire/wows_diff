@@ -1,0 +1,88 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED"
+  ],
+  "constants": {
+    "droppedBranchesCount": 50
+  },
+  "enabled": true,
+  "events": [
+    [
+      "shipBranchDropped",
+      [],
+      [
+        [
+          "counter",
+          "globalA",
+          "+=",
+          "shipBranchDropped",
+          "value"
+        ]
+      ]
+    ],
+    [
+      "shipBranchDropped",
+      [
+        [
+          "counter",
+          "globalA",
+          ">=",
+          "constant",
+          "droppedBranchesCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {
+    "hideIfParagonDisabled": true
+  },
+  "hint": "",
+  "id": 4017284016,
+  "index": "PCH264",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH264_ParagonDrop50",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": true,
+  "tags": [],
+  "type": "honorable",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "PARAGON_DROP50",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "common"
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA010_HappyBirthday2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC232_HB18_FRENCH_ARCH_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4051606448,
+  "index": "PCZC232",
+  "name": "PCZC232_HB18_French_arch",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

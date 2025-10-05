@@ -1,0 +1,36 @@
+{
+  "canCharge": false,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4210216880,
+  "index": "PCM080",
+  "modifiers": {
+    "GMIdealRadius": 0.93,
+    "GMRotationSpeed": {
+      "AirCarrier": 0.87,
+      "Auxiliary": 0.87,
+      "Battleship": 0.87,
+      "Cruiser": 0.87,
+      "Destroyer": 0.87,
+      "Submarine": 0.87
+    }
+  },
+  "name": "PCM080_Special_Mod_I_ARP_Yamato",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PJSB700_ARP_Yamato"
+  ],
+  "shiptype": [],
+  "slot": 5,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

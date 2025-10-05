@@ -1,0 +1,359 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "camouflage": "mat_BlackAlbedo_noGuns",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 5250,
+  "effects": {
+    "A_Hull": {
+      "acid": [],
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_small.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_small.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_small.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_vsmall_2.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_small.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_small.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_small.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_small_2.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_small.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_small.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_small_2.xml"
+        ]
+      ],
+      "fireResistance": [],
+      "fixDeluge": [
+        [
+          "HP_FX_Flood_water_left",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_2",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_2",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ]
+      ],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_small.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_exhaust_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_exhaust_small_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_small.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Flood_water_left",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_2",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_2",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_small.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/idlePort_RunSmoke_small.xml"
+        ]
+      ],
+      "oil": [],
+      "oilBubble": [],
+      "rageMode": [],
+      "rageModeFullScreen": [],
+      "repairLight": [],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_small.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/RunSmoke_small.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back_wide_1.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_small.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_small.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_small.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_small.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": true,
+  "hullConfig": {
+    "A_Hull": {
+      "caps": {},
+      "customMiscs": {
+        "dock": [
+          "Base_dock_AB"
+        ]
+      },
+      "model": "content/gameplay/usa/ship/destroyer/ASD064_Black_Ceremonial/ASD064_Black_Ceremonial.model"
+    }
+  },
+  "id": 3717656560,
+  "index": "PAES550",
+  "isTemplate": false,
+  "name": "PAES550_BLACK_CAMPAIGN",
+  "nodesConfig": {
+    "A1_Artillery": {
+      "HP_AGM_1": {
+        "deadMesh": "content/gameplay/usa/gun/secondary/AGS649_5in38_Mk30_ASD_Black_Ceremonial/AGS649_5in38_Mk30_ASD_Black_Ceremonial_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_AM625_Mk30_Hood"
+        ],
+        "model": "content/gameplay/usa/gun/secondary/AGS649_5in38_Mk30_ASD_Black_Ceremonial/AGS649_5in38_Mk30_ASD_Black_Ceremonial.model"
+      },
+      "HP_AGM_2": {
+        "deadMesh": "content/gameplay/usa/gun/secondary/AGS649_5in38_Mk30_ASD_Black_Ceremonial/AGS649_5in38_Mk30_ASD_Black_Ceremonial_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_AM625_Mk30_Hood"
+        ],
+        "model": "content/gameplay/usa/gun/secondary/AGS649_5in38_Mk30_ASD_Black_Ceremonial/AGS649_5in38_Mk30_ASD_Black_Ceremonial.model"
+      },
+      "HP_AGM_3": {
+        "deadMesh": "content/gameplay/usa/gun/secondary/AGS649_5in38_Mk30_ASD_Black_Ceremonial/AGS649_5in38_Mk30_ASD_Black_Ceremonial_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_AM625_Mk30_Hood"
+        ],
+        "model": "content/gameplay/usa/gun/secondary/AGS649_5in38_Mk30_ASD_Black_Ceremonial/AGS649_5in38_Mk30_ASD_Black_Ceremonial.model"
+      },
+      "HP_AGM_4": {
+        "deadMesh": "content/gameplay/usa/gun/secondary/AGS649_5in38_Mk30_ASD_Black_Ceremonial/AGS649_5in38_Mk30_ASD_Black_Ceremonial_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_AM625_Mk30_Hood"
+        ],
+        "model": "content/gameplay/usa/gun/secondary/AGS649_5in38_Mk30_ASD_Black_Ceremonial/AGS649_5in38_Mk30_ASD_Black_Ceremonial.model"
+      },
+      "HP_AGM_5": {
+        "deadMesh": "content/gameplay/usa/gun/secondary/AGS649_5in38_Mk30_ASD_Black_Ceremonial/AGS649_5in38_Mk30_ASD_Black_Ceremonial_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_AM625_Mk30_Hood"
+        ],
+        "model": "content/gameplay/usa/gun/secondary/AGS649_5in38_Mk30_ASD_Black_Ceremonial/AGS649_5in38_Mk30_ASD_Black_Ceremonial.model"
+      }
+    },
+    "A1_Torpedoes": {
+      "HP_AGT_1": {
+        "deadMesh": "content/gameplay/usa/gun/torpedo/AGT650_21in_MK14_Torpedo_Tubes_ASD_Black_Ceremonial/AGT650_21in_MK14_Torpedo_Tubes_ASD_Black_Ceremonial_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/usa/gun/torpedo/AGT650_21in_MK14_Torpedo_Tubes_ASD_Black_Ceremonial/AGT650_21in_MK14_Torpedo_Tubes_ASD_Black_Ceremonial.model"
+      },
+      "HP_AGT_2": {
+        "deadMesh": "content/gameplay/usa/gun/torpedo/AGT651_21in_MK14_Torpedo_Tubes_ASD_Black_Ceremonial/AGT651_21in_MK14_Torpedo_Tubes_ASD_Black_Ceremonial_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/usa/gun/torpedo/AGT651_21in_MK14_Torpedo_Tubes_ASD_Black_Ceremonial/AGT651_21in_MK14_Torpedo_Tubes_ASD_Black_Ceremonial.model"
+      }
+    }
+  },
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "decorative",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "",
+  "peculiarityModels": {
+    "content/gameplay/usa/gun/aaircraft/AGA002_40mm_Bofors_Mk1/AGA002_40mm_Bofors_Mk1.model": "content/gameplay/usa/gun/aaircraft/AGA653_40mm_Bofors_Mk1_Black/AGA653_40mm_Bofors_Mk1_Black.model",
+    "content/gameplay/usa/gun/aaircraft/AGA002_40mm_Bofors_Mk1/AGA002_40mm_Bofors_Mk1_dead.model": "content/gameplay/usa/gun/aaircraft/AGA653_40mm_Bofors_Mk1_Black/AGA653_40mm_Bofors_Mk1_Black_dead.model",
+    "content/gameplay/usa/gun/aaircraft/AGA003_20mm_Oerlikon_MK4/AGA003_20mm_Oerlikon_MK4.model": "content/gameplay/usa/gun/aaircraft/AGA530_20mm_Oerlikon_MK4_Black/AGA530_20mm_Oerlikon_MK4_Black.model",
+    "content/gameplay/usa/gun/aaircraft/AGA003_20mm_Oerlikon_MK4/AGA003_20mm_Oerlikon_MK4_dead.model": "content/gameplay/usa/gun/aaircraft/AGA530_20mm_Oerlikon_MK4_Black/AGA530_20mm_Oerlikon_MK4_Black_dead.model",
+    "content/gameplay/usa/gun/aaircraft/AGA018_20mm_Oerlikon_MK20_Twin/AGA018_20mm_Oerlikon_MK20_Twin.model": "content/gameplay/usa/gun/aaircraft/AGA531_20mm_Oerlikon_MK20_Twin_Black/AGA531_20mm_Oerlikon_MK20_Twin_Black.model",
+    "content/gameplay/usa/gun/aaircraft/AGA018_20mm_Oerlikon_MK20_Twin/AGA018_20mm_Oerlikon_MK20_Twin_dead.model": "content/gameplay/usa/gun/aaircraft/AGA531_20mm_Oerlikon_MK20_Twin_Black/AGA531_20mm_Oerlikon_MK20_Twin_Black_dead.model",
+    "content/gameplay/usa/gun/dcharge/AGB185_Depth_Charge_Thrower/AGB185_Depth_Charge_Thrower.model": "content/gameplay/usa/gun/dcharge/AGB658_Depth_Charge_Thrower_R_Black/AGB658_Depth_Charge_Thrower_R_Black.model",
+    "content/gameplay/usa/gun/dcharge/AGB185_Depth_Charge_Thrower/AGB185_Depth_Charge_Thrower_dead.model": "content/gameplay/usa/gun/dcharge/AGB658_Depth_Charge_Thrower_R_Black/AGB658_Depth_Charge_Thrower_R_Black_dead.model",
+    "content/gameplay/usa/gun/dcharge/AGB186_Depth_Charge_Roller_Track/AGB186_Depth_Charge_Roller_Track.model": "content/gameplay/usa/gun/dcharge/AGB654_Depth_Charge_Roller_Track_Black/AGB654_Depth_Charge_Roller_Track_Black.model",
+    "content/gameplay/usa/gun/dcharge/AGB186_Depth_Charge_Roller_Track/AGB186_Depth_Charge_Roller_Track_dead.model": "content/gameplay/usa/gun/dcharge/AGB654_Depth_Charge_Roller_Track_Black/AGB654_Depth_Charge_Roller_Track_Black_dead.model",
+    "content/gameplay/usa/gun/dcharge/AGB196_Depth_Charge_Thrower_L/AGB196_Depth_Charge_Thrower_L.model": "content/gameplay/usa/gun/dcharge/AGB657_Depth_Charge_Thrower_L_Black/AGB657_Depth_Charge_Thrower_L_Black.model",
+    "content/gameplay/usa/gun/dcharge/AGB196_Depth_Charge_Thrower_L/AGB196_Depth_Charge_Thrower_L_dead.model": "content/gameplay/usa/gun/dcharge/AGB657_Depth_Charge_Thrower_L_Black/AGB657_Depth_Charge_Thrower_L_Black_dead.model"
+  },
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "USA",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

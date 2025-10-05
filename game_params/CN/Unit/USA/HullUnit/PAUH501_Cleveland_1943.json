@@ -1,0 +1,13 @@
+{
+  "costCR": 375000,
+  "costXP": 0,
+  "id": 3769380848,
+  "index": "PAUH501",
+  "name": "PAUH501_Cleveland_1943",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

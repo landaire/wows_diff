@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4058182480,
+  "index": "PFD225",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD225_OPL_12_metre_SRF_330mm_LanternFest20/FD225_OPL_12_metre_SRF_330mm_LanternFest20.model",
+  "name": "PFD225_OPL_12_metre_SRF_330mm_LanternFest20",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

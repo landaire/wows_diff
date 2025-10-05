@@ -1,0 +1,39 @@
+{
+  "canCharge": true,
+  "costCR": 3000000,
+  "excludes": [],
+  "group": [],
+  "id": 4282568624,
+  "index": "PCM011",
+  "modifiers": {
+    "AAAuraDamage": {
+      "AirCarrier": 1.15,
+      "Auxiliary": 1.15,
+      "Battleship": 1.15,
+      "Cruiser": 1.15,
+      "Destroyer": 1.15,
+      "Submarine": 1.15
+    },
+    "AABubbleDamage": {
+      "AirCarrier": 1.15,
+      "Auxiliary": 1.15,
+      "Battleship": 1.15,
+      "Cruiser": 1.15,
+      "Destroyer": 1.15,
+      "Submarine": 1.15
+    }
+  },
+  "name": "PCM011_AirDefense_Mod_II",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [],
+  "shiptype": [],
+  "slot": -1,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

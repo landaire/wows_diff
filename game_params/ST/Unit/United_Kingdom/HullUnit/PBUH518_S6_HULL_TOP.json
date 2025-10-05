@@ -1,0 +1,13 @@
+{
+  "costCR": 1050000,
+  "costXP": 12000,
+  "id": 3751555024,
+  "index": "PBUH518",
+  "name": "PBUH518_S6_HULL_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

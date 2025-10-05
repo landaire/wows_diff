@@ -1,0 +1,44 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4211265456,
+  "index": "PCM079",
+  "modifiers": {
+    "SGRudderTime": 0.7,
+    "engineBackwardForsageMaxSpeed": 2.0,
+    "engineBackwardForsagePower": 1.15,
+    "engineBackwardUpTime": 0.5,
+    "engineForwardForsageMaxSpeed": 3.75,
+    "engineForwardForsagePower": 1.1,
+    "engineForwardUpTime": 0.5,
+    "planeForsageTimeCoeff": 1.2,
+    "visibilityDistCoeff": {
+      "AirCarrier": 0.85,
+      "Auxiliary": 0.85,
+      "Battleship": 0.85,
+      "Cruiser": 0.85,
+      "Destroyer": 0.85,
+      "Submarine": 0.85
+    },
+    "visibilityForSubmarineCoeff": 0.85
+  },
+  "name": "PCM079_Special_Mod_I_Audacious",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PBSA210_Audacious"
+  ],
+  "shiptype": [],
+  "slot": 5,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "ArmsBattles",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 1,
+  "gameLogicConfig": {},
+  "id": 4248677296,
+  "index": "PCVE044",
+  "matchmakerConfig": "eventEV44Classic15",
+  "name": "PCVE044_Classic_2015",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        -1
+      ],
+      "Battleship": [
+        0,
+        2
+      ],
+      "Cruiser": [
+        0,
+        4
+      ],
+      "Destroyer": [
+        0,
+        3
+      ],
+      "Submarine": [
+        0,
+        -1
+      ]
+    },
+    "filters": [
+      {
+        "excludeShips": [
+          "PASB506_Arizona_1941",
+          "PASB705_Texas_1944",
+          "PBSB105_Iron_Duke",
+          "PBSB536_Black_Repulse",
+          "PJSB526_Ise",
+          "PBSB106_Queen_Elizabeth",
+          "PBSC105_Emerald",
+          "PBSC106_Leander",
+          "PBSD506_Gallant",
+          "PGSB105_Koenig",
+          "PGSB106_Bayern",
+          "PGSC506_Admiral_Graf_Spee",
+          "PGSC706_HSF_Graf_Spee",
+          "PGSD106_Ernst_Gaede",
+          "PGSD105_T_22",
+          "PJSB506_Mutsu",
+          "PJSD596_Black_Shinonome",
+          "PJSD706_Shinonome",
+          "PRSC106_Pr_94_Budeny",
+          "PRSB505_Oktyabrskaya_Revolutsiya",
+          "PRSC215_Kotovsky",
+          "PRSC505_KrasniKrym",
+          "PRSC525_Kirov",
+          "PRSC506_Molotov_1943",
+          "PRSC606_Admiral_Makarov",
+          "PRSD205_Podvoisky_pr_1929",
+          "PRSD206_Pr_7",
+          "PRSD505_Okhotnik_1917",
+          "PGSB506_Prinz_Eithel_Friedrich",
+          "PASB507_West_Virginia",
+          "PASC206_Dallas",
+          "PGSD506_T_61",
+          "PJSD004_Minekadze_1920",
+          "PJSD206_Hatsuharu",
+          "PBSD105_Acasta",
+          "PBSD106_Icarus",
+          "PASD506_Monaghan",
+          "PRSB105_Pyotr_Velikiy",
+          "PRSB106_Izmail",
+          "PJSC505_Yahagi",
+          "PBSC505_Exeter",
+          "PASD505_Hill",
+          "PASB505_Oklahoma",
+          "PRSC515_Mikoyan",
+          "PBSC205_Hawkins",
+          "PBSC206_Devonshire",
+          "PBSC516_London",
+          "PGSB205_Derfflinger",
+          "PGSB206_Mackensen",
+          "PRSB516_Novorossiysk",
+          "PBSB505_Agincourt",
+          "PBSB526_Repulse",
+          "PGSD516_Karl_von_Schonberg",
+          "PBSB205_Tiger",
+          "PBSB206_Renown",
+          "PJSC205_Agano",
+          "PJSC206_Gokase",
+          "PBSC526_Dido",
+          "PGSC516_Leipzig",
+          "PBSC716_Orion_1944"
+        ],
+        "nations": [
+          "USA",
+          "United_Kingdom",
+          "Germany",
+          "Japan",
+          "Russia"
+        ],
+        "shipLevels": [
+          5,
+          6
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship"
+        ]
+      },
+      {
+        "concreteShips": [
+          "PJSD106_Fubuki",
+          "PASD005_Farragut_1944",
+          "PGSC106_Nurnberg",
+          "PJSC007_Aoba_1943",
+          "PASC106_Pensacola_1944",
+          "PJSB006_Fuso_1943",
+          "PBSB002_Warspite_1941",
+          "PASB034_New_Mexico_1941",
+          "PJSD026_Camo_Kamikaze",
+          "PJSD025_True_Kamikaze",
+          "PJSD017_Kamikaze_1930",
+          "PJSD105_Mutsuki",
+          "PRSD001_Gremyashchy_1942",
+          "PASD014_Leader_1919",
+          "PASC505_Rattlehead",
+          "PGSC105_Konigsberg",
+          "PJSC005_Furutaka_1926",
+          "PRSC003_Murmansk_1944",
+          "PASC044_Marblehead_1924",
+          "PASC045_Marblehead_1924_Asus",
+          "PASC005_Omaha_1923",
+          "PJSB707_Haruna",
+          "PJSB708_Hiei_Arpeggio",
+          "PJSB706_Kirishima",
+          "PJSB705_Kongou",
+          "PJSB715_HSF_Hiei",
+          "PJSB007_Kongo_1942",
+          "PASB006_New_York_1934"
+        ]
+      }
+    ],
+    "totalShips": 4
+  },
+  "scenariosByMap": {
+    "spaces/01_solomon_islands": [
+      "domination_3point_revised",
+      "domination_2point"
+    ],
+    "spaces/04_Archipelago": [
+      "domination_3point_revised",
+      "domination_2point"
+    ],
+    "spaces/05_Ring": [
+      "domination_4point_revised",
+      "domination_2point"
+    ],
+    "spaces/08_NE_passage": [
+      "domination_3point_revised",
+      "domination_2point"
+    ],
+    "spaces/10_NE_big_race": [
+      "domination_2point"
+    ],
+    "spaces/13_OC_new_dawn": [
+      "domination_3point_revised",
+      "domination_2point"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

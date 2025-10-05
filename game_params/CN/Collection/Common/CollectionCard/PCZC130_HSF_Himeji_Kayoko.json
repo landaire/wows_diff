@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC130_HSF_HIMEJI_KAYOKO_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4158561200,
+  "index": "PCZC130",
+  "name": "PCZC130_HSF_Himeji_Kayoko",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

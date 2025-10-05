@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC140_HSF_MACHIKO_NOMA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4148075440,
+  "index": "PCZC140",
+  "name": "PCZC140_HSF_Machiko_Noma",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

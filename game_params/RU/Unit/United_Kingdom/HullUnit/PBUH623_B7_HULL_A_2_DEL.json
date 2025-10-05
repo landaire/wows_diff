@@ -1,0 +1,13 @@
+{
+  "costCR": 620000,
+  "costXP": 0,
+  "id": 3641454544,
+  "index": "PBUH623",
+  "name": "PBUH623_B7_HULL_A_2_DEL",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

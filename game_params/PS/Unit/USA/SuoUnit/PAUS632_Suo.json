@@ -1,0 +1,13 @@
+{
+  "costCR": 700000,
+  "costXP": 9000,
+  "id": 3631656944,
+  "index": "PAUS632",
+  "name": "PAUS632_Suo",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

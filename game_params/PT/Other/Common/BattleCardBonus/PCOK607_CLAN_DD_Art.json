@@ -1,0 +1,18 @@
+{
+  "id": 3658139568,
+  "index": "PCOK607",
+  "level_1": {
+    "burnProb": 0.7,
+    "vulnerabilityMain": 0.85
+  },
+  "level_2": {
+    "burnProb": 0.7,
+    "vulnerabilityMain": 0.85
+  },
+  "name": "PCOK607_CLAN_DD_Art",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

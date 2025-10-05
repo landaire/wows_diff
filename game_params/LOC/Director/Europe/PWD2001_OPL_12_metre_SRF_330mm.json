@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2195910960,
+  "index": "PWD2001",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/director/WD2001_OPL_12_metre_SRF_330mm/WD2001_OPL_12_metre_SRF_330mm.model",
+  "name": "PWD2001_OPL_12_metre_SRF_330mm",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Director"
+  }
+}

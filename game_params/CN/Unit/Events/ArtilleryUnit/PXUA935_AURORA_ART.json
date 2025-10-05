@@ -1,0 +1,13 @@
+{
+  "costCR": 2350000,
+  "costXP": 0,
+  "id": 3314527504,
+  "index": "PXUA935",
+  "name": "PXUA935_AURORA_ART",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

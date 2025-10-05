@@ -1,0 +1,13 @@
+{
+  "costCR": 280000,
+  "costXP": 2000,
+  "id": 3967561520,
+  "index": "PGUH312",
+  "name": "PGUH312_KAISER_B",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

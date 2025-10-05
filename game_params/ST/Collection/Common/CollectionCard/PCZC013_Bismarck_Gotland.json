@@ -1,0 +1,15 @@
+{
+  "collectionAlbum": "PCZA002_Bismarck",
+  "compensationCR": 0,
+  "description": "IDS_PCZC013_BISMARCK_GOTLAND_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4281244592,
+  "index": "PCZC013",
+  "name": "PCZC013_Bismarck_Gotland",
+  "subAlbums": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

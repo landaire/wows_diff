@@ -1,0 +1,53 @@
+{
+  "id": 4292757424,
+  "index": "PCOD002",
+  "markerNameActive": "repair_active",
+  "markerNameInactive": "repair_inactive",
+  "maxBuffLevel": 3,
+  "name": "PCOD002_Regeneration",
+  "payload": {
+    "item_1": {
+      "duration": -1,
+      "level": 1,
+      "params": "PCOM057_AR_Regeneration_Submarine",
+      "type": 1,
+      "weight": 0
+    },
+    "item_2": {
+      "duration": -1,
+      "level": 1,
+      "params": "PCOM058_AR_Regeneration_Destroyer",
+      "type": 1,
+      "weight": 0
+    },
+    "item_3": {
+      "duration": -1,
+      "level": 1,
+      "params": "PCOM059_AR_Regeneration_Cruiser",
+      "type": 1,
+      "weight": 0
+    },
+    "item_4": {
+      "duration": -1,
+      "level": 1,
+      "params": "PCOM060_AR_Regeneration_Battleship",
+      "type": 1,
+      "weight": 0
+    },
+    "item_5": {
+      "duration": -1,
+      "level": 1,
+      "params": "PCOM020_PlaneRegeneration",
+      "type": 1,
+      "weight": 0
+    },
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

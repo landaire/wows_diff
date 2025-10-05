@@ -1,0 +1,13 @@
+{
+  "costCR": 2100000,
+  "costXP": 27000,
+  "id": 3402018800,
+  "index": "PAUS851",
+  "name": "PAUS851_SUO_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

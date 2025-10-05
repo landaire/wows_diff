@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA020_Kots",
+  "compensationCR": 0,
+  "description": "IDS_PCZC431_KOTS_DETONATION_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3842939824,
+  "index": "PCZC431",
+  "name": "PCZC431_KOTS_Detonation",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

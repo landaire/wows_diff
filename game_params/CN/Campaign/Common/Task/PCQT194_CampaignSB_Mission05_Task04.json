@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 92,
+  "conditions": [
+    "<isMyShip shipLevel=\"10,11\"/>",
+    "<isBattleType battleTypes=\"PVP,RANKED\"/>",
+    "<isRibbons count=\"5\" ribbons=\"DETECTED\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4090904496,
+  "index": "PCQT194",
+  "isSingleBattle": false,
+  "lootStars": 3,
+  "name": "PCQT194_CampaignSB_Mission05_Task04",
+  "rewards": [
+    "<Item idx=\"PCM018_AirDefense_Mod_III\" count=\"1\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT194_CAMPAIGNSB_MISSION05_TASK04_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

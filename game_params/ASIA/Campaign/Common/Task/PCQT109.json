@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 24,
+  "conditions": [
+    "<isMyShip shipLevel=\"5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isRibbons count=\"1\" ribbons=\"BASE_CAPTURE\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4180033456,
+  "index": "PCQT109",
+  "isSingleBattle": true,
+  "lootStars": 2,
+  "name": "PCQT109",
+  "rewards": [
+    "<Item idx=\"PCEM036_Tile_3_Double\" count=\"1\" />"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT109_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

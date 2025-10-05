@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4287812976,
+  "index": "PUK006",
+  "maxLevel": 2,
+  "name": "PUK006_Vampire_2",
+  "personalCardBonus": {
+    "clan": "PCOK607_CLAN_DD_Art"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PUSD510_Vampire_2"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

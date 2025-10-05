@@ -1,0 +1,18 @@
+{
+  "id": 3710568368,
+  "index": "PCOK557",
+  "level_1": {
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityTorpedo": 0.85
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityTorpedo": 0.85
+  },
+  "name": "PCOK557_CLAN_Yueyang",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 320000,
+  "costXP": 0,
+  "id": 3559632144,
+  "index": "PXUI701",
+  "name": "PXUI701_CV8_F_STOCK",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

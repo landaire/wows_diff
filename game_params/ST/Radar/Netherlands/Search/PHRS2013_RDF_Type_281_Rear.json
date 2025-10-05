@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2183576336,
+  "index": "PHRS2013",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/netherlands/radar/search/HRS2013_RDF_Type_281_Rear/HRS2013_RDF_Type_281_Rear.model",
+  "name": "PHRS2013_RDF_Type_281_Rear",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

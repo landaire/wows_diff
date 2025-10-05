@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4211274736,
+  "index": "PAD079",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/director/AD079_Directorscope_mk2/AD079_Directorscope_mk2.model",
+  "name": "PAD079_Directorscope_mk2",
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "Director"
+  }
+}

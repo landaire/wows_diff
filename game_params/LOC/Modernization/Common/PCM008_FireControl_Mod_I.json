@@ -1,0 +1,24 @@
+{
+  "canCharge": true,
+  "costCR": 500000,
+  "excludes": [],
+  "group": [],
+  "id": 4285714352,
+  "index": "PCM008",
+  "modifiers": {
+    "GMIdealRadius": 0.93
+  },
+  "name": "PCM008_FireControl_Mod_I",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [],
+  "shiptype": [],
+  "slot": -1,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

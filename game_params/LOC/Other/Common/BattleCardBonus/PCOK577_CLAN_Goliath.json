@@ -1,0 +1,18 @@
+{
+  "id": 3689596848,
+  "index": "PCOK577",
+  "level_1": {
+    "burnProb": 0.8,
+    "vulnerabilityHE": 0.8
+  },
+  "level_2": {
+    "burnProb": 0.8,
+    "vulnerabilityHE": 0.8
+  },
+  "name": "PCOK577_CLAN_Goliath",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

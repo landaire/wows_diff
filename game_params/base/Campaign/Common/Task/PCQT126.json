@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 27,
+  "conditions": [
+    "<isMyShip shipLevel=\"5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isKillShips count=\"2\" class=\"Battleship\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4162207664,
+  "index": "PCQT126",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT126",
+  "rewards": [
+    "<Item idx=\"PCEF014_NF_SignalFlag\" count=\"10\" />"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT126_1",
+    "isKillShips",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

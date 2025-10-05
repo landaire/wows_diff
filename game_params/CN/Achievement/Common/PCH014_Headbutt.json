@@ -1,0 +1,126 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED"
+  ],
+  "constants": {
+    "_timeInterval": 1.0
+  },
+  "enabled": true,
+  "events": [
+    [
+      "meKill",
+      [
+        [
+          "dead",
+          "weaponType",
+          "==",
+          "weaponType",
+          "RAM"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "=",
+          "environment",
+          "time"
+        ],
+        [
+          "doAction",
+          "timer",
+          ":",
+          "constant",
+          "_timeInterval"
+        ]
+      ]
+    ],
+    [
+      "timer",
+      [
+        [
+          "me",
+          "alive"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "me",
+          "alive"
+        ],
+        [
+          "subInstruction",
+          [
+            "environment",
+            "time",
+            "-",
+            "counter",
+            "a"
+          ],
+          "<=",
+          "constant",
+          "_timeInterval"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4279428016,
+  "index": "PCH014",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH014_Headbutt",
+  "onePerBattle": false,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "honorable",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "HEADBUTT",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_PVP_RANKED",
+  "uiType": "honorable"
+}

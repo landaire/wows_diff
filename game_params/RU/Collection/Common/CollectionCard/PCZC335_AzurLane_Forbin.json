@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC335_AZURLANE_FORBIN_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3943603120,
+  "index": "PCZC335",
+  "name": "PCZC335_AzurLane_Forbin",
+  "subAlbums": [
+    5
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

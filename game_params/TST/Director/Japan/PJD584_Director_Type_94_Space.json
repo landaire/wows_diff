@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3681743568,
+  "index": "PJD584",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/director/JD584_Director_Type_94_Space/JD584_Director_Type_94_Space.model",
+  "name": "PJD584_Director_Type_94_Space",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Director"
+  }
+}

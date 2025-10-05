@@ -1,0 +1,13 @@
+{
+  "costCR": 360000,
+  "costXP": 2300,
+  "id": 3966512848,
+  "index": "PJUH313",
+  "name": "PJUH313_Myogi_1932",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

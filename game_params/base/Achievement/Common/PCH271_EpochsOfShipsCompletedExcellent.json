@@ -1,0 +1,81 @@
+{
+  "alwaysShowIfAchieved": true,
+  "battleTypes": [
+    "PVP",
+    "RANKED"
+  ],
+  "constants": {
+    "campaign": "PCQC014_EpochsOfShips"
+  },
+  "enabled": true,
+  "events": [
+    [
+      "campaign",
+      [
+        [
+          "campaign",
+          "name",
+          "==",
+          "constant",
+          "campaign"
+        ],
+        [
+          "campaign",
+          "newState",
+          "==",
+          "constant",
+          "5"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4009943984,
+  "index": "PCH271",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH271_EpochsOfShipsCompletedExcellent",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "honorable",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "CAMPAIGN_EPOCHSOFSHIPSCOMPLETED_COMPLETED_EXCELLENT",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "common"
+}

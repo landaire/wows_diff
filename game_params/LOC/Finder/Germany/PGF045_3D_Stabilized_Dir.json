@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4246924080,
+  "index": "PGF045",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF045_3D_Stabilized_Dir/GF045_3D_Stabilized_Dir.model",
+  "name": "PGF045_3D_Stabilized_Dir",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

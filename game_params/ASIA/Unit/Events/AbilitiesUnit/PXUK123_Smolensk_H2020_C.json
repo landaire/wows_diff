@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4165643536,
+  "index": "PXUK123",
+  "name": "PXUK123_Smolensk_H2020_C",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "AbilitiesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Abilities"
+}

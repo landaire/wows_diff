@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4253217616,
+  "index": "PFD039",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD039_Designator_Objective_Optic/FD039_Designator_Objective_Optic.model",
+  "name": "PFD039_Designator_Objective_Optic",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

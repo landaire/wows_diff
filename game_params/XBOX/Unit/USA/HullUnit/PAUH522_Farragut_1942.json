@@ -1,0 +1,13 @@
+{
+  "costCR": 480000,
+  "costXP": 6800,
+  "id": 3747360752,
+  "index": "PAUH522",
+  "name": "PAUH522_Farragut_1942",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

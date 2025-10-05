@@ -1,0 +1,13 @@
+{
+  "costCR": 15000,
+  "costXP": 180,
+  "id": 4187401968,
+  "index": "PIUS102",
+  "name": "PIUS102_C2_SUO_TOP",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

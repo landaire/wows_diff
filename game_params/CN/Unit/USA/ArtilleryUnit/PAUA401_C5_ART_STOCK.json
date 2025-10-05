@@ -1,0 +1,13 @@
+{
+  "costCR": 110000,
+  "costXP": 0,
+  "id": 3874467824,
+  "index": "PAUA401",
+  "name": "PAUA401_C5_ART_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

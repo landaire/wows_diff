@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA021_CAPT",
+  "compensationCR": 0,
+  "description": "IDS_PCZC458_CAPT_4_5_UBOOT_DESCRIPTION",
+  "hasVideo": true,
+  "id": 3814628272,
+  "index": "PCZC458",
+  "name": "PCZC458_CAPT_4_5_uboot",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

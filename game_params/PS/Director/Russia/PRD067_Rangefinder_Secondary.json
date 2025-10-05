@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4223857104,
+  "index": "PRD067",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/director/RD067_Rangefinder_Secondary/RD067_Rangefinder_Secondary.model",
+  "name": "PRD067_Rangefinder_Secondary",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Director"
+  }
+}

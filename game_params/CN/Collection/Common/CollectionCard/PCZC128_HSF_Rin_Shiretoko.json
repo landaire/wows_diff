@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC128_HSF_RIN_SHIRETOKO_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4160658352,
+  "index": "PCZC128",
+  "name": "PCZC128_HSF_Rin_Shiretoko",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

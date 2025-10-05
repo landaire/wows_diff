@@ -1,0 +1,15 @@
+{
+  "buoysCount": 0,
+  "containerModel": "",
+  "effect": "particles/StarTrek_Borg_Ship_Scrap.xml",
+  "id": 4291676080,
+  "index": "PCOE003",
+  "model": "",
+  "name": "PCOE003_STK_Event",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "DropVisual",
+    "type": "Other"
+  },
+  "waterPhysicsAffect": 0.5
+}

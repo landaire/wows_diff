@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 18000,
+  "id": 3558322160,
+  "index": "PAUQ702",
+  "name": "PAUQ702_S8_SONAR_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 26000,
+  "id": 3537645360,
+  "index": "PGUH722",
+  "name": "PGUH722_HIPPER_B",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

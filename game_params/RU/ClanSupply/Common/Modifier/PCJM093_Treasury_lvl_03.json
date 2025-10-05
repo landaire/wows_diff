@@ -1,0 +1,20 @@
+{
+  "accumulativeResourceRequired": 1000000,
+  "bonusType": "vanity",
+  "buildingType": "PCJB010_Treasury",
+  "buyable": true,
+  "cost": 10000,
+  "id": 4197047216,
+  "index": "PCJM093",
+  "isDummy": false,
+  "name": "PCJM093_Treasury_lvl_03",
+  "previousModifier": "PCJM092_Treasury_lvl_02",
+  "shipLevelMax": null,
+  "shipLevelMin": null,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Modifier",
+    "type": "ClanSupply"
+  },
+  "value": 0
+}

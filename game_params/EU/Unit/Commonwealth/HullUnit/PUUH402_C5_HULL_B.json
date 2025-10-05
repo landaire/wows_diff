@@ -1,0 +1,13 @@
+{
+  "costCR": 450000,
+  "costXP": 5100,
+  "id": 3873189232,
+  "index": "PUUH402",
+  "name": "PUUH402_C5_HULL_B",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

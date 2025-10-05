@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA023_BD098",
+  "compensationCR": 0,
+  "description": "IDS_PCZC496_BD098_WEYMOUTH_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3774782384,
+  "index": "PCZC496",
+  "name": "PCZC496_BD098_Weymouth",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

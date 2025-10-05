@@ -1,0 +1,13 @@
+{
+  "costCR": 2500000,
+  "costXP": 38000,
+  "id": 3348606928,
+  "index": "PBUQ902",
+  "name": "PBUQ902_S10_SONAR_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

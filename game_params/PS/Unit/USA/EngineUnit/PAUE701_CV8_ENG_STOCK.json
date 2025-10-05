@@ -1,0 +1,13 @@
+{
+  "costCR": 560000,
+  "costXP": 0,
+  "id": 3559763952,
+  "index": "PAUE701",
+  "name": "PAUE701_CV8_ENG_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 14000,
+  "costXP": 350,
+  "id": 3977064432,
+  "index": "PAUF303",
+  "name": "PAUF303_FlightControl_3",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 115000,
+  "costXP": 1350,
+  "id": 4275810000,
+  "index": "PJUI018",
+  "name": "PJUI018_Mitsubishi_A5M4",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

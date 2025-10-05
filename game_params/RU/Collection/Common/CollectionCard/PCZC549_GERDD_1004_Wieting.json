@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA025_GERDD_1004",
+  "compensationCR": 0,
+  "description": "IDS_PCZC549_GERDD_1004_WIETING_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3719207856,
+  "index": "PCZC549",
+  "name": "PCZC549_GERDD_1004_Wieting",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

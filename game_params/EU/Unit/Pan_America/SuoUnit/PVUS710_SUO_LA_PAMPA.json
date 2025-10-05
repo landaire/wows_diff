@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3549867344,
+  "index": "PVUS710",
+  "name": "PVUS710_SUO_LA_PAMPA",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

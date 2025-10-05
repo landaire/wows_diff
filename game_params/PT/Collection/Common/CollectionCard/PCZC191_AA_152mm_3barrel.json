@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC191_AA_152MM_3BARREL_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4094598064,
+  "index": "PCZC191",
+  "name": "PCZC191_AA_152mm_3barrel",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

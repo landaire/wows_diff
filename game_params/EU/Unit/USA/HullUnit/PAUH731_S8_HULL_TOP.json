@@ -1,0 +1,13 @@
+{
+  "costCR": 3000000,
+  "costXP": 27000,
+  "id": 3528208368,
+  "index": "PAUH731",
+  "name": "PAUH731_S8_HULL_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

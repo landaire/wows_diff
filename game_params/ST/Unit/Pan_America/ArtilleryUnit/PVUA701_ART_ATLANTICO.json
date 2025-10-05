@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3559894352,
+  "index": "PVUA701",
+  "name": "PVUA701_ART_ATLANTICO",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

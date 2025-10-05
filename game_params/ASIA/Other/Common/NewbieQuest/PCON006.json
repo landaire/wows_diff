@@ -1,0 +1,49 @@
+{
+  "conditions": [
+    [
+      "isEcoboostInstalled",
+      {
+        "count": 3
+      }
+    ]
+  ],
+  "id": 4288235440,
+  "index": "PCON006",
+  "name": "PCON006",
+  "rewards": [
+    [
+      "Item",
+      {
+        "count": 5,
+        "idx": "PCEA011_CRboost_1"
+      }
+    ],
+    [
+      "Item",
+      {
+        "count": 5,
+        "idx": "PCEA021_TotalXPboost_1"
+      }
+    ],
+    [
+      "Item",
+      {
+        "count": 5,
+        "idx": "PCEA031_CrewXPboost_1"
+      }
+    ],
+    [
+      "Item",
+      {
+        "count": 5,
+        "idx": "PCEA041_FreeXPboost_1"
+      }
+    ]
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "NewbieQuest",
+    "type": "Other"
+  },
+  "unlock": "ECOBOOSTS"
+}

@@ -1,0 +1,41 @@
+{
+  "StarTrek_Operation_3_PlaneBuff_Fighers": {
+    "availableBuoyancyStates": [],
+    "consumableType": "planeBuff",
+    "descIDs": "",
+    "group": "squadron",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "applyType": "personal",
+      "buff": "PXOM083_Planes_Fighters",
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 135.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 30.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 3646070032,
+  "index": "PXY618",
+  "name": "PXY618_ST_Planes_Fighters",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

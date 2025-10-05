@@ -1,0 +1,24 @@
+{
+  "canCharge": true,
+  "costCR": 3000000,
+  "excludes": [],
+  "group": [],
+  "id": 4274180016,
+  "index": "PCM019",
+  "modifiers": {
+    "GSShotDelay": 0.8
+  },
+  "name": "PCM019_SecondaryGun_Mod_III",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [],
+  "shiptype": [],
+  "slot": -1,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

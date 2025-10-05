@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4231444944,
+  "index": "PRRS060",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/radar/search/RRS060_Foot_N_pr41_black/RRS060_Foot_N_pr41_black.model",
+  "name": "PRRS060_Foot_N_pr41_black",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

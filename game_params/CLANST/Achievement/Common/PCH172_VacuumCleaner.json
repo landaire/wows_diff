@@ -1,0 +1,92 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "AirCarrier": "AirCarrier",
+    "goalValue": 3,
+    "mapName": "e03_1st_April_2018"
+  },
+  "enabled": false,
+  "events": [
+    [
+      "meKill",
+      [
+        [
+          "me",
+          "vehicleClass",
+          "==",
+          "constant",
+          "AirCarrier"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "mapName",
+          "==",
+          "constant",
+          "mapName"
+        ],
+        [
+          "counter",
+          "a",
+          ">=",
+          "constant",
+          "goalValue"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4113753008,
+  "index": "PCH172",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH172_VacuumCleaner",
+  "onePerBattle": true,
+  "shipCategories": [
+    "event"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "FOOLSDAY_VACUUM_CLEANER",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_SPACE",
+  "uiType": "service_medal"
+}

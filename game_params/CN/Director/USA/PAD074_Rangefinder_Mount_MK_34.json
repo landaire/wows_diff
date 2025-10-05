@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4216517616,
+  "index": "PAD074",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/director/AD074_Rangefinder_Mount_MK_32/AD074_Rangefinder_Mount_MK_32.model",
+  "name": "PAD074_Rangefinder_Mount_MK_34",
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "Director"
+  }
+}

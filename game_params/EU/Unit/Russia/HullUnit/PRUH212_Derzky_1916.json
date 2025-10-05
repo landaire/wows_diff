@@ -1,0 +1,13 @@
+{
+  "costCR": 96000,
+  "costXP": 700,
+  "id": 4072418768,
+  "index": "PRUH212",
+  "name": "PRUH212_Derzky_1916",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

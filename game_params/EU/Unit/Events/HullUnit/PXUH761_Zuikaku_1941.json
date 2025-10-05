@@ -1,0 +1,13 @@
+{
+  "costCR": 580000,
+  "costXP": 0,
+  "id": 3496750352,
+  "index": "PXUH761",
+  "name": "PXUH761_Zuikaku_1941",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

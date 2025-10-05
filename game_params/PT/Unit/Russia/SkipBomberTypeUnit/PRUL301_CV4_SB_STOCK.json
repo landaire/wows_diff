@@ -1,0 +1,13 @@
+{
+  "costCR": 50000,
+  "costXP": 0,
+  "id": 3978964432,
+  "index": "PRUL301",
+  "name": "PRUL301_CV4_SB_STOCK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SkipBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_SkipBomber"
+}

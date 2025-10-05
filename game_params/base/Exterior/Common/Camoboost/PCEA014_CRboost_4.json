@@ -1,0 +1,26 @@
+{
+  "RarityCategory": {
+    "name": "Epic"
+  },
+  "boostType": "creditsFactor",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": 250,
+  "hidden": true,
+  "id": 4280283056,
+  "index": "PCEA014",
+  "isTemplate": false,
+  "modifiers": {
+    "creditsFactor": 4.2
+  },
+  "name": "PCEA014_CRboost_4",
+  "sortOrder": 4,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Camoboost",
+    "type": "Exterior"
+  }
+}

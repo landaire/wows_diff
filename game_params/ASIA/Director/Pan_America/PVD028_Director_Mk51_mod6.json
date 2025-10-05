@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4264751440,
+  "index": "PVD028",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panamerica/director/VD028_Director_Mk51_mod6/VD028_Director_Mk51_mod6.model",
+  "name": "PVD028_Director_Mk51_mod6",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": null,
+    "type": "Director"
+  }
+}

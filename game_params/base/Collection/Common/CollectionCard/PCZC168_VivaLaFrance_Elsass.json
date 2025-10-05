@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA008_Vivalafrance",
+  "compensationCR": 0,
+  "description": "IDS_PCZC168_VIVALAFRANCE_ELSASS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4118715312,
+  "index": "PCZC168",
+  "name": "PCZC168_VivaLaFrance_Elsass",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

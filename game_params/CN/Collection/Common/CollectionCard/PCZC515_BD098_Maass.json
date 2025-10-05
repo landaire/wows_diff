@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA023_BD098",
+  "compensationCR": 0,
+  "description": "IDS_PCZC515_BD098_MAASS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3754859440,
+  "index": "PCZC515",
+  "name": "PCZC515_BD098_Maass",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

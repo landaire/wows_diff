@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4275237712,
+  "index": "PFD018",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD018_Dir_HA_RF_2m_ACAD/FD018_Dir_HA_RF_2m_ACAD.model",
+  "name": "PFD018_Dir_HA_RF_2m_ACAD",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

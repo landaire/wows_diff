@@ -1,0 +1,13 @@
+{
+  "costCR": 1050000,
+  "costXP": 0,
+  "id": 3403657200,
+  "index": "PAUA850",
+  "name": "PAUA850_ART_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

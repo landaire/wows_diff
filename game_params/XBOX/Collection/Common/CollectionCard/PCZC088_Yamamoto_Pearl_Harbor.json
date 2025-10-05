@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC088_YAMAMOTO_PEARL_HARBOR_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4202601392,
+  "index": "PCZC088",
+  "name": "PCZC088_Yamamoto_Pearl_Harbor",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 2200000,
+  "costXP": 0,
+  "id": 3318721808,
+  "index": "PXUA931",
+  "name": "PXUA931_PARIS_ART",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

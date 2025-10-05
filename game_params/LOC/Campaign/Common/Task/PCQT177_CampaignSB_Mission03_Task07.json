@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 79,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\"/>",
+    "<isBattleType battleTypes=\"PVP,RANKED\"/>",
+    "<isKillShips class=\"Cruiser\" count=\"5\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 4108730288,
+  "index": "PCQT177",
+  "isSingleBattle": false,
+  "lootStars": 1,
+  "name": "PCQT177_CampaignSB_Mission03_Task07",
+  "rewards": [
+    "<Item idx=\"PCEF007_ID_SignalFlag\" count=\"25\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT177_CAMPAIGNSB_MISSION03_TASK07_1",
+    "isKillShips",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

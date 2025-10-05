@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3436162256,
+  "index": "PZUA819",
+  "name": "PZUA819_ART_TIANJIN",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

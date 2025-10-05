@@ -1,0 +1,13 @@
+{
+  "costCR": 2150000,
+  "costXP": 26000,
+  "id": 3442290672,
+  "index": "PAUF813",
+  "name": "PAUF813_FlightControl_2_F",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

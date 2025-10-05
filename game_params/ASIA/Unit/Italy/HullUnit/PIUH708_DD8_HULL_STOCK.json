@@ -1,0 +1,13 @@
+{
+  "costCR": 1350000,
+  "costXP": 0,
+  "id": 3552325360,
+  "index": "PIUH708",
+  "name": "PIUH708_DD8_HULL_STOCK",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

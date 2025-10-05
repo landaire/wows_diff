@@ -1,0 +1,13 @@
+{
+  "costCR": 410000,
+  "costXP": 0,
+  "id": 3621760720,
+  "index": "PJUA642",
+  "name": "PJUA642_D7_ART_STOCK_2",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

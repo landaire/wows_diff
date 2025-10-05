@@ -1,0 +1,90 @@
+{
+  "acidProb": 0.0,
+  "additionalShips": [],
+  "affectedByPTZ": true,
+  "alertDist": 100,
+  "alphaDamage": 19000.0,
+  "alphaPiercingHE": 1000.0,
+  "ammoType": "torpedo",
+  "applyPTZCoeff": true,
+  "armingTime": 1,
+  "blowUpEffect": "particles/guns/TORP_Explo_UWater.xml",
+  "bulletDiametr": 0.533,
+  "buoyancyToDamageCoeff": {
+    "DEEP_WATER": 1.0,
+    "DEEP_WATER_INVUL": 0.0,
+    "PERISCOPE": 1.0,
+    "SURFACE": 1.0
+  },
+  "burnProb": 0.0,
+  "costCR": 0,
+  "customSoundPostfix": "",
+  "customUIPostfix": "_plazma_event_hw20",
+  "damage": 0.0,
+  "damageCoeffMaxPing": 2.0,
+  "depth": -0.15,
+  "directDamage": 0.0,
+  "distanceOfDamage": [],
+  "dropToTheGroundEffect": "particles/guns/TORP_Explo_Plazma_H2020.xml",
+  "fallDistance": 20.0,
+  "fallTime": 20.0,
+  "fallingTimeCoef": 1,
+  "fallingTracerEffect": "particles/Empty_FX.xml",
+  "floodGeneration": true,
+  "ground": "particles/guns/TORP_Explo_Plazma_H2020.xml",
+  "hitDecalSize": 0.0,
+  "id": 4081467664,
+  "ignoreBuoyancyStates": [],
+  "ignoreClasses": [],
+  "index": "PXPT203",
+  "isDeepWater": false,
+  "isFeedbackAndMarkerHidden": false,
+  "maneuverDist": 0.0,
+  "maxDist": 333.0,
+  "model": "content/gameplay/common/projectile/artillery/CPA001_Shell_AP/CPA001_Shell_AP.model",
+  "name": "PXPT203_Torpedo_Plazma_Smolensk_2020",
+  "onHit": {
+    "HeatEffect": {
+      "damageTypes": [
+        "direct",
+        "splash",
+        "depthSplash"
+      ],
+      "heat": 1.0,
+      "heatColliderRadius": 3.75,
+      "heatZoneRadius": 15.0,
+      "type": 1
+    }
+  },
+  "ownTracerEffect": "particles/guns/TORP_Tracer_Plazma_H2020.xml",
+  "parachuteHeightCoeff": 0.75,
+  "parachuteModel": "content/location/misc/gameplay/LMY052_Parachute/LMY052_Parachute.model",
+  "parachuteTimeCoeff": 0.95,
+  "planeAmmoType": "torpedo",
+  "projDestroyedEffect": [
+    "particles/guns/TORP_Explo_Plazma_H2020.xml"
+  ],
+  "shellModelScale": 0.01,
+  "shipDestroyEffect": "particles/guns/TORP_Explo_Plazma_H2020.xml",
+  "speed": 200.0,
+  "splashArmorCoeff": 0.0,
+  "splashCubeSize": 0,
+  "torpedoProjDestroyedEffect": [
+    "particles/guns/TORP_Explo_Plazma_H2020.xml"
+  ],
+  "torpedoType": 0,
+  "tracerEffect": "particles/guns/TORP_Tracer_Plazma_H2020.xml",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "Torpedo",
+    "type": "Projectile"
+  },
+  "underwaterTracerEffect": "particles/guns/TORP_Tracer_UWater.xml",
+  "useDefaultDepth": false,
+  "useEnhancedRegenerationRules": false,
+  "uwCritical": 0,
+  "visibilityFactor": 15.0,
+  "volume": 0.8,
+  "water": "particles/Empty_FX.xml",
+  "withParachute": false
+}

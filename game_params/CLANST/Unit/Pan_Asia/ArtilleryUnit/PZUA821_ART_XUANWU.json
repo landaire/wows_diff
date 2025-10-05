@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3434065104,
+  "index": "PZUA821",
+  "name": "PZUA821_ART_XUANWU",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

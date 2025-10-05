@@ -1,0 +1,24 @@
+{
+  "id": 3665479600,
+  "index": "PCOK600",
+  "level_1": {
+    "allAlphaMultiplier": 1.125,
+    "burnDamageMultiplier": 1.1,
+    "floodDamageMultiplier": 1.1,
+    "vulnerabilityAtba": 0.9,
+    "vulnerabilityMain": 0.95
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.125,
+    "burnDamageMultiplier": 1.1,
+    "floodDamageMultiplier": 1.1,
+    "vulnerabilityAtba": 0.9,
+    "vulnerabilityMain": 0.95
+  },
+  "name": "PCOK600_CLAN_BB_Close",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

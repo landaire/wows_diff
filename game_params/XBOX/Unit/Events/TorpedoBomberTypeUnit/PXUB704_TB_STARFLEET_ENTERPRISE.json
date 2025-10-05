@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3556715792,
+  "index": "PXUB704",
+  "name": "PXUB704_TB_STARFLEET_ENTERPRISE",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

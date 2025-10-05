@@ -1,0 +1,13 @@
+{
+  "costCR": 1400000,
+  "costXP": 18000,
+  "id": 4286295760,
+  "index": "PJUI008",
+  "name": "PJUI008_Mitsubishi_A8M",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

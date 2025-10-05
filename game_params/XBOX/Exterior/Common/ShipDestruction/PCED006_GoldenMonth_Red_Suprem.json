@@ -1,0 +1,33 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "deathSoundEvent": "Custom_Death_Golden_Month_Red",
+  "effectOnDeath": {
+    "AirCarrier": "particles/Daruma_AirCarrier_Battleship_CustomDeath_Red.xml",
+    "Battleship": "particles/Daruma_AirCarrier_Battleship_CustomDeath_Red.xml",
+    "Cruiser": "particles/Daruma_Destroyer_Cruiser_CustomDeath_Red.xml",
+    "Destroyer": "particles/Daruma_Destroyer_Cruiser_CustomDeath_Red.xml",
+    "Submarine": "particles/Daruma_Submarine_CustomDeath_Red.xml"
+  },
+  "effectOnUnderWaterDeath": "particles/vehicles/Submarine_death.xml",
+  "group": "paintwork",
+  "hidden": false,
+  "id": 4288573360,
+  "index": "PCED006",
+  "isTemplate": false,
+  "name": "PCED006_GoldenMonth_Red_Suprem",
+  "peculiarity": "thematic",
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "ShipDestruction",
+    "type": "Exterior"
+  }
+}

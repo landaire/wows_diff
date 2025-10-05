@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 51,
+  "conditions": [
+    "<isMyShip shipLevel=\"9,10,11\" class=\"AirCarrier,Cruiser\" nation=\"USA\"/>",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isRibbons count=\"2000\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3723902896,
+  "index": "PCQT544",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT544",
+  "rewards": [
+    "<Item idx=\"PCEA011_CRboost_1\" count=\"30\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT544_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

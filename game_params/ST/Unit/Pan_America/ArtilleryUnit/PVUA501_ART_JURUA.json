@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3769609552,
+  "index": "PVUA501",
+  "name": "PVUA501_ART_JURUA",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

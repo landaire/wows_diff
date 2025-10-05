@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2190293456,
+  "index": "PRRF2007",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/radar/fcontrol/RRF2007_Anemometer/RRF2007_Anemometer.model",
+  "name": "PRRF2007_Anemometer",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Fire control",
+    "type": "Radar"
+  }
+}

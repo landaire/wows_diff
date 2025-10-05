@@ -1,0 +1,20 @@
+{
+  "id": 3753559984,
+  "index": "PCOK516",
+  "level_1": {
+    "GMIdealRadius": 0.9,
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityTorpedo": 0.7
+  },
+  "level_2": {
+    "GMIdealRadius": 0.9,
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityTorpedo": 0.7
+  },
+  "name": "PCOK516_CLAN_Kleber",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

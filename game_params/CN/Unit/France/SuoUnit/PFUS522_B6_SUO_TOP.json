@@ -1,0 +1,13 @@
+{
+  "costCR": 640000,
+  "costXP": 6500,
+  "id": 3747000144,
+  "index": "PFUS522",
+  "name": "PFUS522_B6_SUO_TOP",
+  "typeinfo": {
+    "nation": "France",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

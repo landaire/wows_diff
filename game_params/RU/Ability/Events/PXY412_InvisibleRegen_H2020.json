@@ -1,0 +1,70 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "invisibilityExtraBuffConsumable",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "absoluteBuff": "",
+      "condition": "",
+      "conditionalBuff": "",
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 10.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 10.0
+  },
+  "H2020": {
+    "availableBuoyancyStates": [],
+    "consumableType": "invisibilityExtraBuffConsumable",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "absoluteBuff": "PCOM054_HEALINVIZ_INVIZ",
+      "condition": "visibility",
+      "conditionalBuff": "PCOM053_HEALINVIZ_REGENERATION",
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Halloween2020_InvisibleRegen",
+      "titleIDs": ""
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 50.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 30.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 3862076688,
+  "index": "PXY412",
+  "name": "PXY412_InvisibleRegen_H2020",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

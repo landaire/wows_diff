@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3769823568,
+  "index": "PVD500",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panamerica/director/VD500_DCT_MK_IV_Serpent/VD500_DCT_MK_IV_Serpent.model",
+  "name": "PVD500_DCT_MK_IV_Serpent",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": null,
+    "type": "Director"
+  }
+}

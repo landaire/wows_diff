@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA012_BritishArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC258_127MMVIKKERS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4024343472,
+  "index": "PCZC258",
+  "name": "PCZC258_127mmVikkers",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

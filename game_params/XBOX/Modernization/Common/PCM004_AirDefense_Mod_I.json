@@ -1,0 +1,31 @@
+{
+  "canCharge": true,
+  "costCR": 125000,
+  "excludes": [],
+  "group": [],
+  "id": 4289908656,
+  "index": "PCM004",
+  "modifiers": {
+    "AAMaxHP": {
+      "AirCarrier": 1.2,
+      "Auxiliary": 1.2,
+      "Battleship": 1.2,
+      "Cruiser": 1.2,
+      "Destroyer": 1.2,
+      "Submarine": 1.2
+    }
+  },
+  "name": "PCM004_AirDefense_Mod_I",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [],
+  "shiptype": [],
+  "slot": -1,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

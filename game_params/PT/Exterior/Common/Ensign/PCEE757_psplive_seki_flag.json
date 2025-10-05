@@ -1,0 +1,26 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "psplive_seki_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3501060016,
+  "index": "PCEE757",
+  "isTemplate": false,
+  "name": "PCEE757_psplive_seki_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "psplive",
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

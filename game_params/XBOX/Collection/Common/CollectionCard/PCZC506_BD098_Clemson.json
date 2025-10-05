@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA023_BD098",
+  "compensationCR": 0,
+  "description": "IDS_PCZC506_BD098_CLEMSON_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3764296624,
+  "index": "PCZC506",
+  "name": "PCZC506_BD098_Clemson",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

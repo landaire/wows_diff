@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "fr_ca_arc_1_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3740135344,
+  "index": "PCEE529",
+  "isTemplate": false,
+  "name": "PCEE529_fr_ca_arc_1_flag",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

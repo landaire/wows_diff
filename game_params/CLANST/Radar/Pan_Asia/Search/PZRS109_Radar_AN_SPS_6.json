@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4180064464,
+  "index": "PZRS109",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/radar/search/ZRS109_Radar_AN_SPS_6/ZRS109_Radar_AN_SPS_6.model",
+  "name": "PZRS109_Radar_AN_SPS_6",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

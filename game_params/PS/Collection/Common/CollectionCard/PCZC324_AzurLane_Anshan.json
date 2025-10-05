@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC324_AZURLANE_ANSHAN_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3955137456,
+  "index": "PCZC324",
+  "name": "PCZC324_AzurLane_Anshan",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

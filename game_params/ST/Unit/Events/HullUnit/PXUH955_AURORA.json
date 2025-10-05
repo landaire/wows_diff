@@ -1,0 +1,13 @@
+{
+  "costCR": 2550000,
+  "costXP": 0,
+  "id": 3293326608,
+  "index": "PXUH955",
+  "name": "PXUH955_AURORA",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

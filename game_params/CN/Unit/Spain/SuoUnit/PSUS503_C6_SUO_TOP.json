@@ -1,0 +1,13 @@
+{
+  "costCR": 540000,
+  "costXP": 9000,
+  "id": 3766922672,
+  "index": "PSUS503",
+  "name": "PSUS503_C6_SUO_TOP",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

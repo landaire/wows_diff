@@ -1,0 +1,18 @@
+{
+  "id": 3696936880,
+  "index": "PCOK570",
+  "level_1": {
+    "vulnerabilityAP": 0.85,
+    "vulnerabilityHE": 0.85
+  },
+  "level_2": {
+    "vulnerabilityAP": 0.85,
+    "vulnerabilityHE": 0.85
+  },
+  "name": "PCOK570_CLAN_Castilla",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

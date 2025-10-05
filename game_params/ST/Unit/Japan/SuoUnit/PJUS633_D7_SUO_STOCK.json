@@ -1,0 +1,13 @@
+{
+  "costCR": 235000,
+  "costXP": 0,
+  "id": 3630608080,
+  "index": "PJUS633",
+  "name": "PJUS633_D7_SUO_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

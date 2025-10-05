@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 0,
+  "id": 3348508080,
+  "index": "PSUT902",
+  "name": "PSUT902_CA10_TORP_STOCK",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

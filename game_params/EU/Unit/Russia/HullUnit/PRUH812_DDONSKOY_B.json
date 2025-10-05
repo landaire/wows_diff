@@ -1,0 +1,13 @@
+{
+  "costCR": 3400000,
+  "costXP": 40000,
+  "id": 3443273168,
+  "index": "PRUH812",
+  "name": "PRUH812_DDONSKOY_B",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

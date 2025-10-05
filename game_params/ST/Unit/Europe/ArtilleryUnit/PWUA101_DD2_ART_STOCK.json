@@ -1,0 +1,13 @@
+{
+  "costCR": 6000,
+  "costXP": 0,
+  "id": 4189039920,
+  "index": "PWUA101",
+  "name": "PWUA101_DD2_ART_STOCK",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

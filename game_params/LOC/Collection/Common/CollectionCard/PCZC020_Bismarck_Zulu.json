@@ -1,0 +1,15 @@
+{
+  "collectionAlbum": "PCZA002_Bismarck",
+  "compensationCR": 0,
+  "description": "IDS_PCZC020_BISMARCK_ZULU_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4273904560,
+  "index": "PCZC020",
+  "name": "PCZC020_Bismarck_Zulu",
+  "subAlbums": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

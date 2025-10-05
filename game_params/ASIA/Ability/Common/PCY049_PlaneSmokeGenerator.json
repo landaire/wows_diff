@@ -1,0 +1,174 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "planeSmokeGenerator",
+    "descIDs": "",
+    "group": "squadron",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "height": 10.0,
+      "iconIDs": "",
+      "lifeTime": 65.0,
+      "livePointEffect": "particles/SmokeScreen.xml",
+      "radius": 15.0,
+      "spawnPointEffect": "particles/SmokeScreen_spawn.xml",
+      "spawnShiftRadius": 0.0,
+      "specialSoundID": "Default",
+      "startDelayTime": 1.0,
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 9.0
+  },
+  "JP_Lvl_10": {
+    "availableBuoyancyStates": [],
+    "consumableType": "planeSmokeGenerator",
+    "descIDs": "",
+    "group": "squadron",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "height": 10.0,
+      "iconIDs": "",
+      "lifeTime": 75.0,
+      "livePointEffect": "particles/SmokeScreen.xml",
+      "radius": 17.5,
+      "spawnPointEffect": "particles/SmokeScreen_spawn.xml",
+      "spawnShiftRadius": 0.0,
+      "specialSoundID": "Default",
+      "startDelayTime": 1.0,
+      "titleIDs": ""
+    },
+    "numConsumables": 6,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 9.0
+  },
+  "Shinano_Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "planeSmokeGenerator",
+    "descIDs": "",
+    "group": "squadron",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "height": 10.0,
+      "iconIDs": "",
+      "lifeTime": 60.0,
+      "livePointEffect": "particles/SmokeScreen.xml",
+      "radius": 17.5,
+      "spawnPointEffect": "particles/SmokeScreen_spawn.xml",
+      "spawnShiftRadius": 0.0,
+      "specialSoundID": "Default",
+      "startDelayTime": 1.0,
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 90.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 10.0
+  },
+  "UK_Ocean": {
+    "availableBuoyancyStates": [],
+    "consumableType": "planeSmokeGenerator",
+    "descIDs": "",
+    "group": "squadron",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "height": 10.0,
+      "iconIDs": "",
+      "lifeTime": 40.0,
+      "livePointEffect": "particles/SmokeScreen.xml",
+      "radius": 17.5,
+      "spawnPointEffect": "particles/SmokeScreen_spawn.xml",
+      "spawnShiftRadius": 0.0,
+      "specialSoundID": "Default",
+      "startDelayTime": 1.0,
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 90.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 6.0
+  },
+  "US_SCV_Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "planeSmokeGenerator",
+    "descIDs": "",
+    "group": "squadron",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "height": 10.0,
+      "iconIDs": "",
+      "lifeTime": 60.0,
+      "livePointEffect": "particles/SmokeScreen.xml",
+      "radius": 17.5,
+      "spawnPointEffect": "particles/SmokeScreen_spawn.xml",
+      "spawnShiftRadius": 0.0,
+      "specialSoundID": "Default",
+      "startDelayTime": 1.0,
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 90.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 10.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 4242710448,
+  "index": "PCY049",
+  "name": "PCY049_PlaneSmokeGenerator",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Ability"
+  }
+}

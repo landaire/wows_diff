@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4273140560,
+  "index": "PFD020",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD020_Secondary_Battery_dir_6m/FD020_Secondary_Battery_dir_6m.model",
+  "name": "PFD020_Secondary_Battery_dir_6m",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

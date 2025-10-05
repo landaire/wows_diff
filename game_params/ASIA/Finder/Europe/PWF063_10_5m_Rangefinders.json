@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4228049200,
+  "index": "PWF063",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/finder/WF063_10_5m_Rangefinders/WF063_10_5m_Rangefinders.model",
+  "name": "PWF063_10_5m_Rangefinders",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Finder"
+  }
+}

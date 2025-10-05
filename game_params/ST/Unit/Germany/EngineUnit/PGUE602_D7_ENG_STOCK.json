@@ -1,0 +1,13 @@
+{
+  "costCR": 405000,
+  "costXP": 0,
+  "id": 3663572784,
+  "index": "PGUE602",
+  "name": "PGUE602_D7_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

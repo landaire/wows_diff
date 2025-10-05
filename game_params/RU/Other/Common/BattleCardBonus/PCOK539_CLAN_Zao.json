@@ -1,0 +1,20 @@
+{
+  "id": 3729442736,
+  "index": "PCOK539",
+  "level_1": {
+    "allAlphaMultiplier": 1.05,
+    "burnProb": 0.8,
+    "shootShift": 1.2
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.05,
+    "burnProb": 0.8,
+    "shootShift": 1.2
+  },
+  "name": "PCOK539_CLAN_Zao",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 15,
+  "conditions": [
+    "<isMyShip shipLevel=\"4,5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isCitadelHits count=\"1\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4280696752,
+  "index": "PCQT013",
+  "isSingleBattle": true,
+  "lootStars": 2,
+  "name": "PCQT013",
+  "rewards": [
+    "<Item idx=\"PCEF007_ID_SignalFlag\" count=\"10\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT013_1",
+    "isCitadelHits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

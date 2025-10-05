@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA023_BD098",
+  "compensationCR": 0,
+  "description": "IDS_PCZC505_BD098_KARLSRUHE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3765345200,
+  "index": "PCZC505",
+  "name": "PCZC505_BD098_Karlsruhe",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

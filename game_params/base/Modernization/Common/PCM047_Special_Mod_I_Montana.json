@@ -1,0 +1,32 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4244819888,
+  "index": "PCM047",
+  "modifiers": {
+    "SGRepairTime": 0.3,
+    "SGRudderTime": 0.7,
+    "burnTime": 0.9,
+    "floodTime": 0.9
+  },
+  "name": "PCM047_Special_Mod_I_Montana",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PASB017_Montana_1945",
+    "PASB820_BA_Montana"
+  ],
+  "shiptype": [],
+  "slot": 4,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

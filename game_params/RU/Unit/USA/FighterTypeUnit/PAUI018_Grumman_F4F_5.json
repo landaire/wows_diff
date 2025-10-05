@@ -1,0 +1,13 @@
+{
+  "costCR": 2000,
+  "costXP": 1,
+  "id": 4275810288,
+  "index": "PAUI018",
+  "name": "PAUI018_Grumman_F4F_5",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

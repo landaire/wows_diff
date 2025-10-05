@@ -1,0 +1,122 @@
+{
+  "ClanBattles_13_4": {
+    "availableBuoyancyStates": [],
+    "consumableType": "buff",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "applyType": "own_team",
+      "buff": "PCOM901_SpeedBuff",
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 20.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 40.0
+  },
+  "Personal": {
+    "availableBuoyancyStates": [],
+    "consumableType": "buff",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "applyType": "personal",
+      "buff": "PXOM067_SpeedRudder_AFD2024",
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 60.0
+  },
+  "StarTrek_DD_C1": {
+    "availableBuoyancyStates": [],
+    "consumableType": "buff",
+    "descIDs": "PCY051_SpeedBuff_StarTrek_DD_C1",
+    "group": "ship",
+    "iconIDs": "PCY051_SpeedBuff_StarTrek_DD_C1",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "applyType": "own_team",
+      "buff": "PXOM084_ST_SpeedBuff",
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 110.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY051_SpeedBuff_StarTrek_DD_C1",
+    "workTime": 120.0
+  },
+  "Team": {
+    "availableBuoyancyStates": [],
+    "consumableType": "buff",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "applyType": "own_team",
+      "buff": "PXOM067_SpeedRudder_AFD2024",
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 60.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 4240613296,
+  "index": "PCY051",
+  "name": "PCY051_SpeedBuff",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Ability"
+  }
+}

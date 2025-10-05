@@ -1,0 +1,22 @@
+{
+  "angle": 0.0,
+  "dist": 0.0,
+  "hidePlane": false,
+  "id": 4288870224,
+  "index": "PFC005",
+  "isInvisible": false,
+  "launchEffectName": "particles/Empty_FX.xml",
+  "linkedGunAngles": [],
+  "linkedGunName": null,
+  "linkedRotationSpeedCoeff": 1.0,
+  "model": "content/gameplay/france/catapult/FC005_Catapult_Lorraine/FC005_Catapult_Lorraine.model",
+  "name": "PFC005_Catapult_Lorraine",
+  "planeOffsets": {},
+  "rotateTime": 0.0,
+  "translateDelay": 0.0,
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Catapult"
+  }
+}

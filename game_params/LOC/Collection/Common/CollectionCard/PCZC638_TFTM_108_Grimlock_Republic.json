@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA027_TFTM_108",
+  "compensationCR": 0,
+  "description": "IDS_PCZC638_TFTM_108_GRIMLOCK_REPUBLIC_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3625884592,
+  "index": "PCZC638",
+  "name": "PCZC638_TFTM_108_Grimlock_Republic",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

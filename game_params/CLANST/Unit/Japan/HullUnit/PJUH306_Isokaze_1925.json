@@ -1,0 +1,13 @@
+{
+  "costCR": 150000,
+  "costXP": 1900,
+  "id": 3973852880,
+  "index": "PJUH306",
+  "name": "PJUH306_Isokaze_1925",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

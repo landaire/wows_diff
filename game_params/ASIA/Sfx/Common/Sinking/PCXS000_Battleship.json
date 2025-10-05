@@ -1,0 +1,22 @@
+{
+  "bubbleDeeps": [
+    0.6,
+    1.6
+  ],
+  "foamDeeps": [
+    -0.5,
+    10.0
+  ],
+  "fountainDeeps": [
+    1.7,
+    3.2
+  ],
+  "id": 4294353840,
+  "index": "PCXS000",
+  "name": "PCXS000_Battleship",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Sinking",
+    "type": "Sfx"
+  }
+}

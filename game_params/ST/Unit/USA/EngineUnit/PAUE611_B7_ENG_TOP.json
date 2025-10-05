@@ -1,0 +1,13 @@
+{
+  "costCR": 400000,
+  "costXP": 6000,
+  "id": 3654135792,
+  "index": "PAUE611",
+  "name": "PAUE611_B7_ENG_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

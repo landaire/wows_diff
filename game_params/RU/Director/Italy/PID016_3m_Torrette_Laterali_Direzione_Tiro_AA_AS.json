@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4277334768,
+  "index": "PID016",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/italy/director/ID016_3m_Torrette_Laterali_Direzione_Tiro_AA_AS/ID016_3m_Torrette_Laterali_Direzione_Tiro_AA_AS.model",
+  "name": "PID016_3m_Torrette_Laterali_Direzione_Tiro_AA_AS",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": null,
+    "type": "Director"
+  }
+}

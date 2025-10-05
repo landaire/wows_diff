@@ -1,0 +1,37 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4191342512,
+  "index": "PCM098",
+  "modifiers": {
+    "GMRotationSpeed": {
+      "AirCarrier": 1.0,
+      "Auxiliary": 1.0,
+      "Battleship": 1.0,
+      "Cruiser": 1.0,
+      "Destroyer": 2.0,
+      "Submarine": 1.0
+    },
+    "GMShotDelay": 0.94,
+    "boostCoeffForsage": 0.12
+  },
+  "name": "PCM098_Special_Mod_I_Elbing",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PGSD210_Elbing"
+  ],
+  "shiptype": [],
+  "slot": 5,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

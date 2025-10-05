@@ -1,0 +1,13 @@
+{
+  "costCR": 1700000,
+  "costXP": 20500,
+  "id": 4291768016,
+  "index": "PJUB003",
+  "name": "PJUB003_Aichi_B7A",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

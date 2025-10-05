@@ -1,0 +1,13 @@
+{
+  "costCR": 1400000,
+  "costXP": 0,
+  "id": 3664522704,
+  "index": "PRUH601",
+  "name": "PRUH601_UDALOY_A",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

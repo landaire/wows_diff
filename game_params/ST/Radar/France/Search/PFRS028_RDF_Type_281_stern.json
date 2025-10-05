@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4264999760,
+  "index": "PFRS028",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/radar/search/FRS028_RDF_Type_281_stern/FRS028_RDF_Type_281_stern.model",
+  "name": "PFRS028_RDF_Type_281_stern",
+  "typeinfo": {
+    "nation": "France",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

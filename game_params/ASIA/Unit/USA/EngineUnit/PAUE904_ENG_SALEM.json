@@ -1,0 +1,14 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "histEnginePower": 120000,
+  "id": 3346903024,
+  "index": "PAUE904",
+  "name": "PAUE904_ENG_SALEM",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

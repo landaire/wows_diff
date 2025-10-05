@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA010_HappyBirthday2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC228_HB18_DUKE_OF_YORK_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4055800752,
+  "index": "PCZC228",
+  "name": "PCZC228_HB18_Duke_of_York",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

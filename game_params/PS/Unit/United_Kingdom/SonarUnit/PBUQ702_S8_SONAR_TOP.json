@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 18000,
+  "id": 3558322128,
+  "index": "PBUQ702",
+  "name": "PBUQ702_S8_SONAR_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

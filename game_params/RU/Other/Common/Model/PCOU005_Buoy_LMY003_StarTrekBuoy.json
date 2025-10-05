@@ -1,0 +1,11 @@
+{
+  "id": 4289054640,
+  "index": "PCOU005",
+  "model": "content/location/misc/gameplay/LMY003_StarTrekBuoy/LMY003_StarTrekBuoy.model",
+  "name": "PCOU005_Buoy_LMY003_StarTrekBuoy",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Model",
+    "type": "Other"
+  }
+}

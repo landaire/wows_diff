@@ -1,0 +1,22 @@
+{
+  "angle": 0.0,
+  "dist": 0.0,
+  "hidePlane": false,
+  "id": 4292016080,
+  "index": "PBC002",
+  "isInvisible": false,
+  "launchEffectName": "particles/Empty_FX.xml",
+  "linkedGunAngles": [],
+  "linkedGunName": null,
+  "linkedRotationSpeedCoeff": 1.0,
+  "model": "content/gameplay/uk/catapult/BC002_DIH_MK_I_91ft/BC002_DIH_MK_I_91ft.model",
+  "name": "PBC002_DIH_MK_I_91ft",
+  "planeOffsets": {},
+  "rotateTime": 0.0,
+  "translateDelay": 0.0,
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Catapult"
+  }
+}

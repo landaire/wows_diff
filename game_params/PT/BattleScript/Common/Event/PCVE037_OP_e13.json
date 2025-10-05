@@ -1,0 +1,75 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [
+    "Startrek"
+  ],
+  "battleProvider": "PVEEventBattle",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 3,
+  "gameLogicConfig": {},
+  "id": 4256017328,
+  "index": "PCVE037",
+  "matchmakerConfig": "eventEV32Space",
+  "name": "PCVE037_OP_e13",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        1
+      ],
+      "Battleship": [
+        0,
+        4
+      ],
+      "Cruiser": [
+        0,
+        5
+      ],
+      "Destroyer": [
+        0,
+        2
+      ],
+      "Submarine": [
+        0,
+        -1
+      ]
+    },
+    "filters": [
+      {
+        "nations": [
+          "Events"
+        ],
+        "shipLevels": [
+          11
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship",
+          "AirCarrier"
+        ]
+      }
+    ],
+    "minShips": 5,
+    "totalShips": 5
+  },
+  "scenariosByMap": {
+    "spaces/e13_Space_3_BossFight": [
+      "3_boss_fight"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

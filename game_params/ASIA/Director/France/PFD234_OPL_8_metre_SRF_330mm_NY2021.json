@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4048745296,
+  "index": "PFD234",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD234_OPL_8_metre_SRF_330mm_NY2021/FD234_OPL_8_metre_SRF_330mm_NY2021.model",
+  "name": "PFD234_OPL_8_metre_SRF_330mm_NY2021",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

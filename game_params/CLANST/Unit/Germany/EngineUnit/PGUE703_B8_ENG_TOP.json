@@ -1,0 +1,13 @@
+{
+  "costCR": 900000,
+  "costXP": 15500,
+  "id": 3557666608,
+  "index": "PGUE703",
+  "name": "PGUE703_B8_ENG_TOP",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

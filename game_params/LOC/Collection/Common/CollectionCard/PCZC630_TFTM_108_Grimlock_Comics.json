@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA027_TFTM_108",
+  "compensationCR": 0,
+  "description": "IDS_PCZC630_TFTM_108_GRIMLOCK_COMICS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3634273200,
+  "index": "PCZC630",
+  "name": "PCZC630_TFTM_108_Grimlock_Comics",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

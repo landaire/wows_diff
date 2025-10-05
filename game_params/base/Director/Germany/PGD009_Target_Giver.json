@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4284674864,
+  "index": "PGD009",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/director/GD009_Target_Giver/GD009_Target_Giver.model",
+  "name": "PGD009_Target_Giver",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Director"
+  }
+}

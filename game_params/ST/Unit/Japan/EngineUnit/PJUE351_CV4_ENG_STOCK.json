@@ -1,0 +1,13 @@
+{
+  "costCR": 33000,
+  "costXP": 0,
+  "id": 3926765264,
+  "index": "PJUE351",
+  "name": "PJUE351_CV4_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

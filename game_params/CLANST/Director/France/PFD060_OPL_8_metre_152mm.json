@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4231197520,
+  "index": "PFD060",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD060_OPL_8_metre_152mm/FD060_OPL_8_metre_152mm.model",
+  "name": "PFD060_OPL_8_metre_152mm",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

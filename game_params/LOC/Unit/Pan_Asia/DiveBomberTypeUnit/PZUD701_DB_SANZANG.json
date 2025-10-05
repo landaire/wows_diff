@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3559795920,
+  "index": "PZUD701",
+  "name": "PZUD701_DB_SANZANG",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

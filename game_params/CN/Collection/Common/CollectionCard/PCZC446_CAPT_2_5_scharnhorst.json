@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA021_CAPT",
+  "compensationCR": 0,
+  "description": "IDS_PCZC446_CAPT_2_5_SCHARNHORST_DESCRIPTION",
+  "hasVideo": true,
+  "id": 3827211184,
+  "index": "PCZC446",
+  "name": "PCZC446_CAPT_2_5_scharnhorst",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

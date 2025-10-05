@@ -1,0 +1,121 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "damage": 20000.0,
+    "filterKeyShips": {
+      "roles": [
+        "PCH223_EV1APR19_TORPEDO5"
+      ]
+    }
+  },
+  "enabled": false,
+  "events": [
+    [
+      "meAttack",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "subInstruction",
+          [
+            "damage",
+            "weaponType",
+            "==",
+            "weaponType",
+            "BURN"
+          ],
+          "or",
+          "subInstruction",
+          [
+            "damage",
+            "weaponType",
+            "==",
+            "weaponType",
+            "ATBA_HE"
+          ]
+        ]
+      ],
+      [
+        [
+          "counter",
+          "targetA",
+          "+=",
+          "damage",
+          "value"
+        ]
+      ]
+    ],
+    [
+      "meAttack",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "shipCountersA",
+          "sumValues",
+          ">=",
+          "constant",
+          "damage"
+        ],
+        [
+          "me",
+          "appropriate",
+          ":",
+          "constant",
+          "filterKeyShips"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4060275632,
+  "index": "PCH223",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH223_EV1APR19_TORPEDO5",
+  "onePerBattle": true,
+  "shipCategories": [
+    "event"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "EV1APR19_TORPEDO5",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_SPACE_TORPEDOBEAT",
+  "uiType": "service_medal"
+}

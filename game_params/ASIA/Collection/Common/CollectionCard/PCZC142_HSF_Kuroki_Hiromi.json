@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC142_HSF_KUROKI_HIROMI_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4145978288,
+  "index": "PCZC142",
+  "name": "PCZC142_HSF_Kuroki_Hiromi",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

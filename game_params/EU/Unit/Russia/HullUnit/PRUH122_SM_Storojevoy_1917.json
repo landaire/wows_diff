@@ -1,0 +1,13 @@
+{
+  "costCR": 31500,
+  "costXP": 290,
+  "id": 4166790608,
+  "index": "PRUH122",
+  "name": "PRUH122_SM_Storojevoy_1917",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

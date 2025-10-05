@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC057_YAMAMOTO_KAIGUN_TAISHO_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4235107248,
+  "index": "PCZC057",
+  "name": "PCZC057_Yamamoto_Kaigun_Taisho",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

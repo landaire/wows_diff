@@ -1,0 +1,142 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "NavalBattles",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 0,
+  "gameLogicConfig": {
+    "availableGroups": [
+      [
+        "Russia",
+        "USA",
+        "France",
+        "United_Kingdom",
+        "Europe",
+        "Pan_Asia",
+        "Commonwealth",
+        "Pan_America",
+        "Netherlands"
+      ],
+      [
+        "Japan",
+        "Germany",
+        "Italy",
+        "Spain"
+      ]
+    ]
+  },
+  "id": 4280134576,
+  "index": "PCVE014",
+  "matchmakerConfig": "eventEV21NavalBattle",
+  "name": "PCVE014_EV21NavalBattles",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        1
+      ],
+      "Battleship": [
+        0,
+        5
+      ],
+      "Cruiser": [
+        0,
+        8
+      ],
+      "Destroyer": [
+        0,
+        5
+      ],
+      "Submarine": [
+        0,
+        -1
+      ]
+    },
+    "filters": [
+      {
+        "excludeShips": [
+          "PJSD708_HSF_Harekaze",
+          "PASB108_Kansas",
+          "PISC108_Amalfi",
+          "PZSA508_Saipan_Sanzang",
+          "PZSC518_Martel_Wukong",
+          "PGSD208_Gustav_Julius_Maerker",
+          "PFSB538_Flandre",
+          "PFSB528_Champagne",
+          "PFSB508_Gascogne",
+          "PFSC508_Bayard",
+          "PFSC108_Charles_Martel",
+          "PBSB108_Monarch",
+          "PBSC508_Cheshire",
+          "PBSC208_Albemarle",
+          "PGSA108_Parseval",
+          "PGSB508_Odin",
+          "PGSC518_Mainz",
+          "PRSB538_V_I_Lenin",
+          "PRSB518_Lenin",
+          "PRSB108_Vladivostok",
+          "PRSC538_Petr_Bagration",
+          "PRSC528_Ochakov",
+          "PRSC208_Tallin",
+          "PRSD308_Pr_48",
+          "PASC518_Anchorage",
+          "PJSB888_Ragnarok",
+          "PJSB878_Ignis_Purgatio",
+          "PJSB508_Kii",
+          "PJSB013_Amagi_1942",
+          "PRSB528_Borodino",
+          "PJSD528_Harekaze_2"
+        ],
+        "nations": [
+          "Japan",
+          "Germany",
+          "Italy",
+          "Russia",
+          "USA",
+          "France",
+          "United_Kingdom",
+          "Europe",
+          "Pan_Asia"
+        ],
+        "shipLevels": [
+          8
+        ]
+      }
+    ],
+    "totalShips": 8
+  },
+  "scenariosByMap": {
+    "spaces/16_OC_bees_to_honey": [
+      "National_Battles"
+    ],
+    "spaces/28_naval_mission": [
+      "National_Battles"
+    ],
+    "spaces/37_Ridge": [
+      "National_Battles"
+    ],
+    "spaces/44_Path_warrior": [
+      "National_Battles"
+    ],
+    "spaces/51_Greece": [
+      "National_Battles"
+    ],
+    "spaces/r01_military_navigation": [
+      "National_Battles"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

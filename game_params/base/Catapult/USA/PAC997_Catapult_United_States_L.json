@@ -1,0 +1,22 @@
+{
+  "angle": 0.0,
+  "dist": 0.0,
+  "hidePlane": false,
+  "id": 3248682992,
+  "index": "PAC997",
+  "isInvisible": true,
+  "launchEffectName": "particles/airplanes/Catapult_steam_launch_UnitedStates_long.xml",
+  "linkedGunAngles": [],
+  "linkedGunName": null,
+  "linkedRotationSpeedCoeff": 1.0,
+  "model": "content/gameplay/usa/catapult/AC997_Catapult_United_States_L/AC997_Catapult_United_States_L.model",
+  "name": "PAC997_Catapult_United_States_L",
+  "planeOffsets": {},
+  "rotateTime": 0.0,
+  "translateDelay": 0.0,
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "Catapult"
+  }
+}

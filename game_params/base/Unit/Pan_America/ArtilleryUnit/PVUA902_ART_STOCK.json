@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 0,
+  "id": 3349130576,
+  "index": "PVUA902",
+  "name": "PVUA902_ART_STOCK",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 420000,
+  "costXP": 0,
+  "id": 3726389232,
+  "index": "PAUH542",
+  "name": "PAUH542_New_Mexico_1936",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

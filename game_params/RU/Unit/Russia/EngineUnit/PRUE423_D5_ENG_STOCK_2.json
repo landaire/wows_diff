@@ -1,0 +1,13 @@
+{
+  "costCR": 95000,
+  "costXP": 0,
+  "id": 3851267536,
+  "index": "PRUE423",
+  "name": "PRUE423_D5_ENG_STOCK_2",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

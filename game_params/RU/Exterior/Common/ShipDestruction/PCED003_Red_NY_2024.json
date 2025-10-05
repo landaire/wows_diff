@@ -1,0 +1,33 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "deathSoundEvent": "Custom_Death_Red_NY_2024",
+  "effectOnDeath": {
+    "AirCarrier": "particles/New_Year_AirCarrier_Battleship_CustomDeath_Red.xml",
+    "Battleship": "particles/New_Year_AirCarrier_Battleship_CustomDeath_Red.xml",
+    "Cruiser": "particles/New_Year_Cruiser_Destroyer_CustomDeath_Red.xml",
+    "Destroyer": "particles/New_Year_Cruiser_Destroyer_CustomDeath_Red.xml",
+    "Submarine": "particles/New_Year_Submarine_CustomDeath_Red.xml"
+  },
+  "effectOnUnderWaterDeath": "particles/vehicles/Submarine_death.xml",
+  "group": "paintwork",
+  "hidden": false,
+  "id": 4291719088,
+  "index": "PCED003",
+  "isTemplate": false,
+  "name": "PCED003_Red_NY_2024",
+  "peculiarity": "thematic",
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "ShipDestruction",
+    "type": "Exterior"
+  }
+}

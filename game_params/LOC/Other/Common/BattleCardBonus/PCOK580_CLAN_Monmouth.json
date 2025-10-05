@@ -1,0 +1,16 @@
+{
+  "id": 3686451120,
+  "index": "PCOK580",
+  "level_1": {
+    "vulnerabilityAP": 0.75
+  },
+  "level_2": {
+    "vulnerabilityAP": 0.75
+  },
+  "name": "PCOK580_CLAN_Monmouth",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

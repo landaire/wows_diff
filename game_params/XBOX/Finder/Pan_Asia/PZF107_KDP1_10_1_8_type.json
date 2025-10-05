@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4181911760,
+  "index": "PZF107",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/finder/ZF107_KDP1_10_1_8_type/ZF107_KDP1_10_1_8_type.model",
+  "name": "PZF107_KDP1_10_1_8_type",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Finder"
+  }
+}

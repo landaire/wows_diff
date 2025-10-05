@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 71,
+  "conditions": [
+    "<isMyShip shipLevel=\"5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isWeaponHits count=\"200\" weaponTypes=\"main atba\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4176887728,
+  "index": "PCQT112",
+  "isSingleBattle": false,
+  "lootStars": 1,
+  "name": "PCQT112",
+  "rewards": [
+    "<Add type=\"CREDITS\" count=\"100000\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT112_1",
+    "isWeaponHits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

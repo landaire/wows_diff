@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 10,
+  "conditions": [
+    "<isMyShip shipLevel=\"5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isDamage count=\"50000\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4152770480,
+  "index": "PCQT135",
+  "isSingleBattle": true,
+  "lootStars": 1,
+  "name": "PCQT135",
+  "rewards": [
+    "<Add type=\"CREDITS\" count=\"100000\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT135_1",
+    "isDamage",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

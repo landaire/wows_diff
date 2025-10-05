@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 55,
+  "conditions": [
+    "<isMyShip shipLevel=\"10,11\" nation=\"USA\" class=\"Cruiser\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isTotalCredits count=\"10000000 \" />"
+  ],
+  "costUnlock": 0,
+  "id": 3719708592,
+  "index": "PCQT548",
+  "isSingleBattle": false,
+  "lootStars": 3,
+  "name": "PCQT548",
+  "rewards": [
+    "<Item idx=\"PCEA011_CRboost_1\" count=\"30\" />"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT548_1",
+    "isTotalCredits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

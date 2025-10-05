@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4259509040,
+  "index": "PGD033",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/director/GD033_Zielsaule_C26/GD033_Zielsaule_C26.model",
+  "name": "PGD033_Zielsaule_C26",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Director"
+  }
+}

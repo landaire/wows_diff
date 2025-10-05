@@ -1,0 +1,83 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "alliesCount": 2,
+    "filterKeyShips": {
+      "roles": [
+        "RogueWaveAchievement"
+      ]
+    }
+  },
+  "enabled": true,
+  "events": [
+    [
+      "battleEnd",
+      [
+        [
+          "me",
+          "appropriate",
+          ":",
+          "constant",
+          "filterKeyShips"
+        ],
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ],
+        [
+          "me",
+          "allies",
+          "==",
+          "constant",
+          "alliesCount"
+        ],
+        [
+          "me",
+          "alive"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 3978486704,
+  "index": "PCH301",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH301_WINNERTEAM_PA",
+  "onePerBattle": false,
+  "shipCategories": [
+    "event"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "heroic",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "WINNERTEAM_PA",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_TEAM_BATTLE_ROYALE",
+  "uiType": "heroic"
+}

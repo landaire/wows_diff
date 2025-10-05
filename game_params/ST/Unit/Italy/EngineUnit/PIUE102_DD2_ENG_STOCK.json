@@ -1,0 +1,13 @@
+{
+  "costCR": 7000,
+  "costXP": 0,
+  "id": 4187860720,
+  "index": "PIUE102",
+  "name": "PIUE102_DD2_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

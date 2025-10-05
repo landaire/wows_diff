@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "uk_bb_arc_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3731746736,
+  "index": "PCEE537",
+  "isTemplate": false,
+  "name": "PCEE537_UKBB_Arc_flag",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "eventName": "PCH382_2AIRSHIPS_INCENTER"
+  },
+  "enabled": true,
+  "events": [
+    [
+      "battleEvent",
+      [
+        [
+          "event",
+          "name",
+          "==",
+          "constant",
+          "eventName"
+        ],
+        [
+          "receiver",
+          "id",
+          "==",
+          "me",
+          "id"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 3893552048,
+  "index": "PCH382",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH382_2AIRSHIPS_INCENTER",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "2AIRSHIPS_INCENTER",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_2AIRSHIPS",
+  "uiType": "service_medal"
+}

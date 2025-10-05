@@ -1,0 +1,13 @@
+{
+  "costCR": 140000,
+  "costXP": 0,
+  "id": 3760041808,
+  "index": "PFUE510",
+  "name": "PFUE510_B6_ENG_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

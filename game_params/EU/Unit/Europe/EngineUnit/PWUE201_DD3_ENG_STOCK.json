@@ -1,0 +1,13 @@
+{
+  "costCR": 20000,
+  "costXP": 0,
+  "id": 4084051248,
+  "index": "PWUE201",
+  "name": "PWUE201_DD3_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA010_HappyBirthday2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC229_HB18_KITTY_PURRFURST_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4054752176,
+  "index": "PCZC229",
+  "name": "PCZC229_HB18_Kitty_Purrfurst",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

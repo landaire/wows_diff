@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA022_GF097",
+  "compensationCR": 0,
+  "description": "IDS_PCZC481_GF097_GUNTHER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3790511024,
+  "index": "PCZC481",
+  "name": "PCZC481_GF097_Gunther",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3350146320,
+  "index": "PXUB901",
+  "name": "PXUB901_CV10_TB_STOCK",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

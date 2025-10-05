@@ -1,0 +1,29 @@
+{
+  "backgroundIconID": 56,
+  "conditions": [
+    "<isMyShip shipLevel=\"4,5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isBattleResultCount count=\"1\" battleResult=\"win\" />",
+    "<isAlive isAlive=\"true\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4221976496,
+  "index": "PCQT069",
+  "isSingleBattle": true,
+  "lootStars": 2,
+  "name": "PCQT069",
+  "rewards": [
+    "<Item idx=\"PCEF007_ID_SignalFlag\" count=\"10\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT069_1",
+    "isBattleResultCount",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

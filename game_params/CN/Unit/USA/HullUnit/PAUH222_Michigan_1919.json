@@ -1,0 +1,13 @@
+{
+  "costCR": 150000,
+  "costXP": 1400,
+  "id": 4061933552,
+  "index": "PAUH222",
+  "name": "PAUH222_Michigan_1919",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 3400000,
+  "costXP": 40000,
+  "id": 3450744816,
+  "index": "PAUD805",
+  "name": "PAUD805_BH9_DB_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

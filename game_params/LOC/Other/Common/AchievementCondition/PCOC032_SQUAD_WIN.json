@@ -1,0 +1,44 @@
+{
+  "constants": {
+    "divisionSize": 3
+  },
+  "enabled": true,
+  "events": [
+    [
+      "battleEnd",
+      [
+        [
+          "me",
+          "shipsInPrebattleDivision",
+          ">=",
+          "constant",
+          "divisionSize"
+        ],
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "id": 4261332912,
+  "index": "PCOC032",
+  "keepCounters": false,
+  "name": "PCOC032_SQUAD_WIN",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "AchievementCondition",
+    "type": "Other"
+  },
+  "uiDescription": "IDS_ACHIEVEMENT_CONDITION_PCOC032_SQUAD_WIN_DESCRIPTION",
+  "uiHeader": "IDS_ACHIEVEMENT_CONDITION_PCOC032_SQUAD_WIN_TITLE"
+}

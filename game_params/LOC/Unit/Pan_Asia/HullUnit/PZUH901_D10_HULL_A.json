@@ -1,0 +1,13 @@
+{
+  "costCR": 2350000,
+  "costXP": 0,
+  "id": 3349949648,
+  "index": "PZUH901",
+  "name": "PZUH901_D10_HULL_A",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3731539888,
+  "index": "PCOK537",
+  "level_1": {
+    "shootShift": 1.3,
+    "vulnerabilityAP": 0.85
+  },
+  "level_2": {
+    "shootShift": 1.3,
+    "vulnerabilityAP": 0.85
+  },
+  "name": "PCOK537_CLAN_Bungo",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

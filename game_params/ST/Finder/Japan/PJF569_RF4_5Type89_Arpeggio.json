@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3697470160,
+  "index": "PJF569",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/finder/JF569_RF4_5Type89_Arpeggio/JF569_RF4_5Type89_Arpeggio.model",
+  "name": "PJF569_RF4_5Type89_Arpeggio",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Finder"
+  }
+}

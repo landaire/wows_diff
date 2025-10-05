@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4272091984,
+  "index": "PFD021",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD021_Main_battery_dir_8m/FD021_Main_battery_dir_8m.model",
+  "name": "PFD021_Main_battery_dir_8m",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

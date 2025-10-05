@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3246894544,
+  "index": "PRUQ999",
+  "name": "PRUQ999_SONAR_TST_SUB",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SonarUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Sonar"
+}

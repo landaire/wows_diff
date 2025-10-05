@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA011_Ovechkin",
+  "compensationCR": 0,
+  "description": "IDS_PCZC242_OVECHKIN_SHIRT_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4041120688,
+  "index": "PCZC242",
+  "name": "PCZC242_Ovechkin_Shirt",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

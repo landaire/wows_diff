@@ -1,0 +1,105 @@
+{
+  "conditions": [
+    [
+      "isSignalsInstalled",
+      {
+        "count": 3
+      }
+    ]
+  ],
+  "id": 4290332592,
+  "index": "PCON004",
+  "name": "PCON004",
+  "rewards": [
+    [
+      "Item",
+      {
+        "count": 2,
+        "idx": "PCEF005_SM_SignalFlag"
+      }
+    ],
+    [
+      "Item",
+      {
+        "count": 2,
+        "idx": "PCEF006_HY_SignalFlag"
+      }
+    ],
+    [
+      "Item",
+      {
+        "count": 2,
+        "idx": "PCEF007_ID_SignalFlag"
+      }
+    ],
+    [
+      "Item",
+      {
+        "count": 2,
+        "idx": "PCEF008_IY_SignalFlag"
+      }
+    ],
+    [
+      "Item",
+      {
+        "count": 2,
+        "idx": "PCEF009_JY2_SignalFlag"
+      }
+    ],
+    [
+      "Item",
+      {
+        "count": 2,
+        "idx": "PCEF030_CK_SignalFlag"
+      }
+    ],
+    [
+      "Item",
+      {
+        "count": 2,
+        "idx": "PCEF012_MY6_SignalFlag"
+      }
+    ],
+    [
+      "Item",
+      {
+        "count": 2,
+        "idx": "PCEF014_NF_SignalFlag"
+      }
+    ],
+    [
+      "Item",
+      {
+        "count": 2,
+        "idx": "PCEF016_NE7_SignalFlag"
+      }
+    ],
+    [
+      "Item",
+      {
+        "count": 2,
+        "idx": "PCEF017_VL_SignalFlag"
+      }
+    ],
+    [
+      "Item",
+      {
+        "count": 2,
+        "idx": "PCEF018_IX_SignalFlag"
+      }
+    ],
+    [
+      "Item",
+      {
+        "count": 2,
+        "idx": "PCEF019_JW1_SignalFlag"
+      }
+    ]
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "NewbieQuest",
+    "type": "Other"
+  },
+  "unlock": "EXT_SIGNALS"
+}

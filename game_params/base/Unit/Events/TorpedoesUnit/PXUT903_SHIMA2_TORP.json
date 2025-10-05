@@ -1,0 +1,13 @@
+{
+  "costCR": 2500000,
+  "costXP": 0,
+  "id": 3347459344,
+  "index": "PXUT903",
+  "name": "PXUT903_SHIMA2_TORP",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

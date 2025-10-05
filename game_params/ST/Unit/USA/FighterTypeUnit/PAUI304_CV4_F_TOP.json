@@ -1,0 +1,13 @@
+{
+  "costCR": 126000,
+  "costXP": 1000,
+  "id": 3975917552,
+  "index": "PAUI304",
+  "name": "PAUI304_CV4_F_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

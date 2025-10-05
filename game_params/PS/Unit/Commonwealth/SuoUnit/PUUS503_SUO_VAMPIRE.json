@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3766922608,
+  "index": "PUUS503",
+  "name": "PUUS503_SUO_VAMPIRE",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

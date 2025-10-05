@@ -1,0 +1,132 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "ArmsBattles",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 0,
+  "gameLogicConfig": {},
+  "id": 4254968752,
+  "index": "PCVE038",
+  "matchmakerConfig": "eventEV38DominationSpecialRespawns",
+  "name": "PCVE038_Domination_Special_Respawns",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        -1
+      ],
+      "Battleship": [
+        0,
+        2
+      ],
+      "Cruiser": [
+        0,
+        4
+      ],
+      "Destroyer": [
+        0,
+        3
+      ],
+      "Submarine": [
+        0,
+        -1
+      ]
+    },
+    "filters": [
+      {
+        "shipLevels": [
+          9,
+          10
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship"
+        ]
+      }
+    ],
+    "totalShips": 4
+  },
+  "scenariosByMap": {
+    "spaces/04_Archipelago": [
+      "domination_special_respawns"
+    ],
+    "spaces/08_NE_passage": [
+      "domination_special_respawns"
+    ],
+    "spaces/10_NE_big_race": [
+      "domination_special_respawns"
+    ],
+    "spaces/13_OC_new_dawn": [
+      "domination_special_respawns"
+    ],
+    "spaces/14_Atlantic": [
+      "domination_special_respawns"
+    ],
+    "spaces/15_NE_north": [
+      "domination_special_respawns"
+    ],
+    "spaces/16_OC_bees_to_honey": [
+      "domination_special_respawns"
+    ],
+    "spaces/19_OC_prey": [
+      "domination_special_respawns"
+    ],
+    "spaces/22_tierra_del_fuego": [
+      "domination_special_respawns"
+    ],
+    "spaces/23_Shards": [
+      "domination_special_respawns"
+    ],
+    "spaces/25_sea_hope": [
+      "domination_special_respawns"
+    ],
+    "spaces/28_naval_mission": [
+      "domination_special_respawns"
+    ],
+    "spaces/35_NE_north_winter": [
+      "domination_special_respawns"
+    ],
+    "spaces/40_Okinawa": [
+      "domination_special_respawns"
+    ],
+    "spaces/41_Conquest": [
+      "domination_special_respawns"
+    ],
+    "spaces/42_Neighbors": [
+      "domination_special_respawns"
+    ],
+    "spaces/45_Zigzag": [
+      "domination_special_respawns"
+    ],
+    "spaces/47_Sleeping_Giant": [
+      "domination_special_respawns"
+    ],
+    "spaces/51_Greece": [
+      "domination_special_respawns"
+    ],
+    "spaces/54_Faroe": [
+      "domination_special_respawns"
+    ],
+    "spaces/55_Seychelles": [
+      "domination_special_respawns"
+    ],
+    "spaces/r01_military_navigation": [
+      "domination_special_respawns"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

@@ -1,0 +1,147 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED"
+  ],
+  "constants": {
+    "enemiesCount": 4
+  },
+  "enabled": true,
+  "events": [
+    [
+      "battleStart",
+      [
+        [
+          "me",
+          "allies",
+          "==",
+          "constant",
+          "0"
+        ],
+        [
+          "me",
+          "enemies",
+          ">=",
+          "constant",
+          "enemiesCount"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "=",
+          "constant",
+          "true"
+        ]
+      ]
+    ],
+    [
+      "dead",
+      [
+        [
+          "me",
+          "alive"
+        ],
+        [
+          "counter",
+          "a",
+          "==",
+          "constant",
+          "false"
+        ],
+        [
+          "me",
+          "allies",
+          "==",
+          "constant",
+          "0"
+        ],
+        [
+          "me",
+          "enemies",
+          ">=",
+          "constant",
+          "enemiesCount"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "=",
+          "constant",
+          "true"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "battleEnd",
+          "winner",
+          "==",
+          "me",
+          "team"
+        ],
+        [
+          "counter",
+          "a",
+          "==",
+          "constant",
+          "true"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4292010928,
+  "index": "PCH002",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH002_OneSoldierInTheField",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "heroic",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "ONE_SOLDIER_IN_THE_FIELD",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_PVP_RANKED",
+  "uiType": "heroic"
+}

@@ -1,0 +1,42 @@
+{
+  "canCharge": true,
+  "costCR": 250000,
+  "excludes": [],
+  "group": [],
+  "id": 4207071152,
+  "index": "PCM083",
+  "modifiers": {
+    "hydrophoneWaveSpeedCoeff": 1.0
+  },
+  "name": "PCM083_Hydrophone_Mod_I",
+  "nation": [
+    "France",
+    "USA",
+    "Russia",
+    "Japan",
+    "United_Kingdom",
+    "Germany",
+    "Italy",
+    "Europe",
+    "Netherlands",
+    "Spain",
+    "Pan_Asia",
+    "Pan_America",
+    "Commonwealth"
+  ],
+  "shiplevel": [
+    7
+  ],
+  "ships": [],
+  "shiptype": [
+    "Submarine"
+  ],
+  "slot": 1,
+  "tags": [],
+  "type": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

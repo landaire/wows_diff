@@ -1,0 +1,13 @@
+{
+  "costCR": 38000,
+  "costXP": 0,
+  "id": 4073467888,
+  "index": "PAUH211",
+  "name": "PAUH211_Wickes_1918",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

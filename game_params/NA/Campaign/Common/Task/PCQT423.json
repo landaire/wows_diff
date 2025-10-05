@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 0,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isDamage count=\"300000\" class=\"Cruiser\" /> "
+  ],
+  "costUnlock": 0,
+  "id": 3850780592,
+  "index": "PCQT423",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT423",
+  "rewards": [
+    "<Item idx=\"PCEF008_IY_SignalFlag\" count=\"30\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT423_1",
+    "isDamage",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

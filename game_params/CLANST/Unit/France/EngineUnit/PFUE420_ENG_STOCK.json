@@ -1,0 +1,13 @@
+{
+  "costCR": 125000,
+  "costXP": 0,
+  "id": 3854413648,
+  "index": "PFUE420",
+  "name": "PFUE420_ENG_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

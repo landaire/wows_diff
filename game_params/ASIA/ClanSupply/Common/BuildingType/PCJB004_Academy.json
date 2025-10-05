@@ -1,0 +1,11 @@
+{
+  "id": 4290730928,
+  "index": "PCJB004",
+  "name": "PCJB004_Academy",
+  "type": "academy",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BuildingType",
+    "type": "ClanSupply"
+  }
+}

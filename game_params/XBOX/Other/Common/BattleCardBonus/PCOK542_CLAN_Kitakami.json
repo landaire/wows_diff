@@ -1,0 +1,16 @@
+{
+  "id": 3726297008,
+  "index": "PCOK542",
+  "level_1": {
+    "vulnerabilityTorpedo": 0.75
+  },
+  "level_2": {
+    "vulnerabilityTorpedo": 0.75
+  },
+  "name": "PCOK542_CLAN_Kitakami",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

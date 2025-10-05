@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA006_HappyNewYear2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC121_NY2018_NORWAYCROSS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4167998384,
+  "index": "PCZC121",
+  "name": "PCZC121_NY2018_NorwayCross",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

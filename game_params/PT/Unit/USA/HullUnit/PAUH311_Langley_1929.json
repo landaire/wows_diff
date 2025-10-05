@@ -1,0 +1,13 @@
+{
+  "costCR": 90000,
+  "costXP": 0,
+  "id": 3968610288,
+  "index": "PAUH311",
+  "name": "PAUH311_Langley_1929",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

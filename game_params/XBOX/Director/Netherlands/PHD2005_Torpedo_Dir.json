@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2191717136,
+  "index": "PHD2005",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/netherlands/director/HD2005_Torpedo_Dir/HD2005_Torpedo_Dir.model",
+  "name": "PHD2005_Torpedo_Dir",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": null,
+    "type": "Director"
+  }
+}

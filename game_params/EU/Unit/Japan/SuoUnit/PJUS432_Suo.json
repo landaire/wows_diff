@@ -1,0 +1,13 @@
+{
+  "costCR": 260000,
+  "costXP": 2400,
+  "id": 3841371856,
+  "index": "PJUS432",
+  "name": "PJUS432_Suo",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

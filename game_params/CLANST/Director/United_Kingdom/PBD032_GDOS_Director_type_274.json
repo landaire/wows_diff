@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4260557776,
+  "index": "PBD032",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD032_GDOS_Director_type_274/BD032_GDOS_Director_type_274.model",
+  "name": "PBD032_GDOS_Director_type_274",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "corgi_fleet_2",
+  "group": 3,
+  "hidden": true,
+  "id": 4183682992,
+  "index": "PCEE106",
+  "isTemplate": false,
+  "name": "PCEE106_Corgi_Fleet_2",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

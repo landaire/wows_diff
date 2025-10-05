@@ -1,0 +1,13 @@
+{
+  "costCR": 9500,
+  "costXP": 0,
+  "id": 4188417872,
+  "index": "PFUT101",
+  "name": "PFUT101_D3_TORP_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

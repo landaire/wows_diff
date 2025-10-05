@@ -1,0 +1,833 @@
+{
+  "RarityCategory": {
+    "name": "Epic"
+  },
+  "camouflage": "",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 4000,
+  "effects": {
+    "A_Hull": {
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_medium.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_small_2.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_medium_2.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_medium.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_small.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_small_2.xml"
+        ]
+      ],
+      "fireResistance": [],
+      "fixDeluge": [],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_medium.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_exhaust_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_exhaust_big_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_medium.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_big_Klingon_StarTrek_Main.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/idlePort_RunSmoke_big_Klingon_StarTrek_Main.xml"
+        ],
+        [
+          "HP_FX_Smoke_3",
+          "particles/vehicles/Klingon_Cruiser_StarTrek_Lights.xml"
+        ]
+      ],
+      "repairLight": [
+        [
+          "HP_FX_RepairLight_left_1",
+          "particles/vehicles/RepairLight_medium.xml"
+        ],
+        [
+          "HP_FX_RepairLight_left_2",
+          "particles/vehicles/RepairLight_medium.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_1",
+          "particles/vehicles/RepairLight_medium.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_2",
+          "particles/vehicles/RepairLight_medium.xml"
+        ]
+      ],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_medium_Klingon_StarTrek.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/RunSmoke_medium_Klingon_StarTrek.xml"
+        ],
+        [
+          "HP_FX_Smoke_3",
+          "particles/vehicles/Klingon_Cruiser_StarTrek_Lights.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front_left.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_2",
+          "particles/vehicles/WakeTraceForward_front_right.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_3",
+          "particles/vehicles/WakeTraceForward_front_right.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_4",
+          "particles/vehicles/WakeTraceForward_front_left.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ]
+      ]
+    },
+    "B_Hull": {
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_medium.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_small_2.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_medium_2.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_medium.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_small.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_small_2.xml"
+        ]
+      ],
+      "fireResistance": [],
+      "fixDeluge": [],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_medium.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_exhaust_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_exhaust_big_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_medium.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_big_Klingon_StarTrek_Main.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/idlePort_RunSmoke_big_Klingon_StarTrek_Main.xml"
+        ],
+        [
+          "HP_FX_Smoke_3",
+          "particles/vehicles/Klingon_Cruiser_StarTrek_Lights.xml"
+        ]
+      ],
+      "repairLight": [
+        [
+          "HP_FX_RepairLight_left_1",
+          "particles/vehicles/RepairLight_medium.xml"
+        ],
+        [
+          "HP_FX_RepairLight_left_2",
+          "particles/vehicles/RepairLight_medium.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_1",
+          "particles/vehicles/RepairLight_medium.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_2",
+          "particles/vehicles/RepairLight_medium.xml"
+        ]
+      ],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_medium_Klingon_StarTrek.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/RunSmoke_medium_Klingon_StarTrek.xml"
+        ],
+        [
+          "HP_FX_Smoke_3",
+          "particles/vehicles/Klingon_Cruiser_StarTrek_Lights.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front_left.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_2",
+          "particles/vehicles/WakeTraceForward_front_right.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_3",
+          "particles/vehicles/WakeTraceForward_front_right.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_4",
+          "particles/vehicles/WakeTraceForward_front_left.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": true,
+  "hullConfig": {
+    "A_Hull": {
+      "caps": {},
+      "customMiscs": {},
+      "model": "content/gameplay/uk/ship/cruiser/BSC402_Fiji_StarTrek/BSC402_Fiji_StarTrek.model"
+    },
+    "B_Hull": {
+      "caps": {},
+      "customMiscs": {},
+      "model": "content/gameplay/uk/ship/cruiser/BSC402_Fiji_StarTrek/BSC402_Fiji_StarTrek.model"
+    }
+  },
+  "id": 3867602896,
+  "index": "PBES407",
+  "isTemplate": false,
+  "name": "PBES407_Fiji_Star_Trek",
+  "nodesConfig": {
+    "AB1_Artillery": {
+      "HP_BGM_1": {
+        "deadMesh": "content/gameplay/uk/gun/main/BGM3006_6in50_MK_XXIII_StarTrek/BGM3006_6in50_MK_XXIII_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/main/BGM3006_6in50_MK_XXIII_StarTrek/BGM3006_6in50_MK_XXIII_StarTrek.model"
+      },
+      "HP_BGM_2": {
+        "deadMesh": "content/gameplay/uk/gun/main/BGM3006_6in50_MK_XXIII_StarTrek/BGM3006_6in50_MK_XXIII_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/main/BGM3006_6in50_MK_XXIII_StarTrek/BGM3006_6in50_MK_XXIII_StarTrek.model"
+      },
+      "HP_BGM_3": {
+        "deadMesh": "content/gameplay/uk/gun/main/BGM3006_6in50_MK_XXIII_StarTrek/BGM3006_6in50_MK_XXIII_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/main/BGM3006_6in50_MK_XXIII_StarTrek/BGM3006_6in50_MK_XXIII_StarTrek.model"
+      },
+      "HP_BGM_4": {
+        "deadMesh": "content/gameplay/uk/gun/main/BGM3006_6in50_MK_XXIII_StarTrek/BGM3006_6in50_MK_XXIII_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/main/BGM3006_6in50_MK_XXIII_StarTrek/BGM3006_6in50_MK_XXIII_StarTrek.model"
+      }
+    },
+    "AB1_Torpedoes": {
+      "HP_BGT_1": {
+        "deadMesh": "content/gameplay/uk/gun/torpedo/BGT3008_21in_3tube_TR_Mk_IV_R_StarTrek/BGT3008_21in_3tube_TR_Mk_IV_R_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/torpedo/BGT3008_21in_3tube_TR_Mk_IV_R_StarTrek/BGT3008_21in_3tube_TR_Mk_IV_R_StarTrek.model"
+      },
+      "HP_BGT_2": {
+        "deadMesh": "content/gameplay/uk/gun/torpedo/BGT3008_21in_3tube_TR_Mk_IV_R_StarTrek/BGT3008_21in_3tube_TR_Mk_IV_R_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/torpedo/BGT3008_21in_3tube_TR_Mk_IV_R_StarTrek/BGT3008_21in_3tube_TR_Mk_IV_R_StarTrek.model"
+      }
+    },
+    "AB2_Torpedoes": {
+      "HP_BGT_1": {
+        "deadMesh": "content/gameplay/uk/gun/torpedo/BGT3008_21in_3tube_TR_Mk_IV_R_StarTrek/BGT3008_21in_3tube_TR_Mk_IV_R_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/torpedo/BGT3008_21in_3tube_TR_Mk_IV_R_StarTrek/BGT3008_21in_3tube_TR_Mk_IV_R_StarTrek.model"
+      },
+      "HP_BGT_2": {
+        "deadMesh": "content/gameplay/uk/gun/torpedo/BGT3008_21in_3tube_TR_Mk_IV_R_StarTrek/BGT3008_21in_3tube_TR_Mk_IV_R_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/torpedo/BGT3008_21in_3tube_TR_Mk_IV_R_StarTrek/BGT3008_21in_3tube_TR_Mk_IV_R_StarTrek.model"
+      }
+    },
+    "AB_DepthChargeGuns": {
+      "HP_BGB_1": {
+        "deadMesh": "content/gameplay/uk/gun/dcharge/BGB3014_Depth_Charge_Shelving_StarTrek/BGB3014_Depth_Charge_Shelving_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/dcharge/BGB3014_Depth_Charge_Shelving_StarTrek/BGB3014_Depth_Charge_Shelving_StarTrek.model"
+      }
+    },
+    "A_ATBA": {
+      "HP_BGS_1": {
+        "deadMesh": "content/gameplay/uk/gun/secondary/BGS3007_4in45_QF_Mk_XIX_StarTrek/BGS3007_4in45_QF_Mk_XIX_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/secondary/BGS3007_4in45_QF_Mk_XIX_StarTrek/BGS3007_4in45_QF_Mk_XIX_StarTrek.model"
+      },
+      "HP_BGS_2": {
+        "deadMesh": "content/gameplay/uk/gun/secondary/BGS3007_4in45_QF_Mk_XIX_StarTrek/BGS3007_4in45_QF_Mk_XIX_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/secondary/BGS3007_4in45_QF_Mk_XIX_StarTrek/BGS3007_4in45_QF_Mk_XIX_StarTrek.model"
+      },
+      "HP_BGS_3": {
+        "deadMesh": "content/gameplay/uk/gun/secondary/BGS3007_4in45_QF_Mk_XIX_StarTrek/BGS3007_4in45_QF_Mk_XIX_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/secondary/BGS3007_4in45_QF_Mk_XIX_StarTrek/BGS3007_4in45_QF_Mk_XIX_StarTrek.model"
+      },
+      "HP_BGS_4": {
+        "deadMesh": "content/gameplay/uk/gun/secondary/BGS3007_4in45_QF_Mk_XIX_StarTrek/BGS3007_4in45_QF_Mk_XIX_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/secondary/BGS3007_4in45_QF_Mk_XIX_StarTrek/BGS3007_4in45_QF_Mk_XIX_StarTrek.model"
+      }
+    },
+    "A_AirDefense": {
+      "HP_BGA_13": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3009_20mm_Oerlikon_MK4_StarTrek/BGA3009_20mm_Oerlikon_MK4_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3009_20mm_Oerlikon_MK4_StarTrek/BGA3009_20mm_Oerlikon_MK4_StarTrek.model"
+      },
+      "HP_BGA_14": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3009_20mm_Oerlikon_MK4_StarTrek/BGA3009_20mm_Oerlikon_MK4_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3009_20mm_Oerlikon_MK4_StarTrek/BGA3009_20mm_Oerlikon_MK4_StarTrek.model"
+      },
+      "HP_BGA_15": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek.model"
+      },
+      "HP_BGA_16": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek.model"
+      },
+      "HP_BGA_17": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek.model"
+      },
+      "HP_BGA_18": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek.model"
+      },
+      "HP_BGA_3": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek.model"
+      },
+      "HP_BGA_4": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek.model"
+      },
+      "HP_BGA_5": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3009_20mm_Oerlikon_MK4_StarTrek/BGA3009_20mm_Oerlikon_MK4_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3009_20mm_Oerlikon_MK4_StarTrek/BGA3009_20mm_Oerlikon_MK4_StarTrek.model"
+      },
+      "HP_BGA_6": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3009_20mm_Oerlikon_MK4_StarTrek/BGA3009_20mm_Oerlikon_MK4_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3009_20mm_Oerlikon_MK4_StarTrek/BGA3009_20mm_Oerlikon_MK4_StarTrek.model"
+      },
+      "HP_BGA_7": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3010_2_pdr_MkVIII_8barrel_StarTrek/BGA3010_2_pdr_MkVIII_8barrel_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3010_2_pdr_MkVIII_8barrel_StarTrek/BGA3010_2_pdr_MkVIII_8barrel_StarTrek.model"
+      },
+      "HP_BGA_8": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3010_2_pdr_MkVIII_8barrel_StarTrek/BGA3010_2_pdr_MkVIII_8barrel_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3010_2_pdr_MkVIII_8barrel_StarTrek/BGA3010_2_pdr_MkVIII_8barrel_StarTrek.model"
+      },
+      "HP_BGM_2_HP_BGA_1": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3009_20mm_Oerlikon_MK4_StarTrek/BGA3009_20mm_Oerlikon_MK4_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3009_20mm_Oerlikon_MK4_StarTrek/BGA3009_20mm_Oerlikon_MK4_StarTrek.model"
+      }
+    },
+    "B_ATBA": {
+      "HP_BGS_1": {
+        "deadMesh": "content/gameplay/uk/gun/secondary/BGS3007_4in45_QF_Mk_XIX_StarTrek/BGS3007_4in45_QF_Mk_XIX_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/secondary/BGS3007_4in45_QF_Mk_XIX_StarTrek/BGS3007_4in45_QF_Mk_XIX_StarTrek.model"
+      },
+      "HP_BGS_2": {
+        "deadMesh": "content/gameplay/uk/gun/secondary/BGS3007_4in45_QF_Mk_XIX_StarTrek/BGS3007_4in45_QF_Mk_XIX_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/secondary/BGS3007_4in45_QF_Mk_XIX_StarTrek/BGS3007_4in45_QF_Mk_XIX_StarTrek.model"
+      },
+      "HP_BGS_3": {
+        "deadMesh": "content/gameplay/uk/gun/secondary/BGS3007_4in45_QF_Mk_XIX_StarTrek/BGS3007_4in45_QF_Mk_XIX_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/secondary/BGS3007_4in45_QF_Mk_XIX_StarTrek/BGS3007_4in45_QF_Mk_XIX_StarTrek.model"
+      },
+      "HP_BGS_4": {
+        "deadMesh": "content/gameplay/uk/gun/secondary/BGS3007_4in45_QF_Mk_XIX_StarTrek/BGS3007_4in45_QF_Mk_XIX_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/secondary/BGS3007_4in45_QF_Mk_XIX_StarTrek/BGS3007_4in45_QF_Mk_XIX_StarTrek.model"
+      }
+    },
+    "B_AirDefense": {
+      "HP_BGA_1": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek.model"
+      },
+      "HP_BGA_10": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek.model"
+      },
+      "HP_BGA_11": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3013_40mm_Bofors_Twin_StarTrek/BGA3013_40mm_Bofors_Twin_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3013_40mm_Bofors_Twin_StarTrek/BGA3013_40mm_Bofors_Twin_StarTrek.model"
+      },
+      "HP_BGA_12": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3013_40mm_Bofors_Twin_StarTrek/BGA3013_40mm_Bofors_Twin_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3013_40mm_Bofors_Twin_StarTrek/BGA3013_40mm_Bofors_Twin_StarTrek.model"
+      },
+      "HP_BGA_15": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek.model"
+      },
+      "HP_BGA_16": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek.model"
+      },
+      "HP_BGA_17": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek.model"
+      },
+      "HP_BGA_18": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek.model"
+      },
+      "HP_BGA_2": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek.model"
+      },
+      "HP_BGA_3": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek.model"
+      },
+      "HP_BGA_4": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek.model"
+      },
+      "HP_BGA_5": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3009_20mm_Oerlikon_MK4_StarTrek/BGA3009_20mm_Oerlikon_MK4_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3009_20mm_Oerlikon_MK4_StarTrek/BGA3009_20mm_Oerlikon_MK4_StarTrek.model"
+      },
+      "HP_BGA_6": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3009_20mm_Oerlikon_MK4_StarTrek/BGA3009_20mm_Oerlikon_MK4_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3009_20mm_Oerlikon_MK4_StarTrek/BGA3009_20mm_Oerlikon_MK4_StarTrek.model"
+      },
+      "HP_BGA_7": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3011_40mm_Bofors_Mk2_StarTrek/BGA3011_40mm_Bofors_Mk2_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3011_40mm_Bofors_Mk2_StarTrek/BGA3011_40mm_Bofors_Mk2_StarTrek.model"
+      },
+      "HP_BGA_8": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3011_40mm_Bofors_Mk2_StarTrek/BGA3011_40mm_Bofors_Mk2_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3011_40mm_Bofors_Mk2_StarTrek/BGA3011_40mm_Bofors_Mk2_StarTrek.model"
+      },
+      "HP_BGA_9": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3012_20mm_Oerlikon_MK_V_StarTrek/BGA3012_20mm_Oerlikon_MK_V_StarTrek.model"
+      },
+      "HP_BGM_2_HP_BGA_1": {
+        "deadMesh": "content/gameplay/uk/gun/aaircraft/BGA3009_20mm_Oerlikon_MK4_StarTrek/BGA3009_20mm_Oerlikon_MK4_StarTrek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/aaircraft/BGA3009_20mm_Oerlikon_MK4_StarTrek/BGA3009_20mm_Oerlikon_MK4_StarTrek.model"
+      }
+    }
+  },
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "startrek",
+  "peculiarityEffects": {
+    "particles/guns/AA_shot.xml": "particles/guns/AA_Shot_ST_Klingon.xml",
+    "particles/guns/GK_Purging.xml": "particles/Empty_FX.xml",
+    "particles/guns/GK_Reload.xml": "particles/Empty_FX.xml",
+    "particles/guns/GK_Shot.xml": "particles/guns/GK_Shot_ST_Klingon.xml",
+    "particles/guns/PMK_Purging.xml": "particles/Empty_FX.xml",
+    "particles/guns/PMK_Shot.xml": "particles/guns/PMK_Shot_ST_Klingon.xml",
+    "particles/vehicles/AirCarrier_death.xml": "particles/vehicles/AirCarrier_death.xml",
+    "particles/vehicles/Battleship_death.xml": "particles/vehicles/Battleship_death.xml",
+    "particles/vehicles/Cruiser_death.xml": "particles/vehicles/Cruiser_death.xml",
+    "particles/vehicles/Destroyer_death.xml": "particles/vehicles/Destroyer_death.xml"
+  },
+  "peculiarityFlag": "",
+  "peculiarityModels": {
+    "content/gameplay/uk/aircraft/fighter/BAF018_Sea_Gladiator_float/BAF018_Sea_Gladiator_float.model": "content/gameplay/uk/aircraft/fighter/BAF502_Sea_Gladiator_float_StarTrek/BAF502_Sea_Gladiator_float_StarTrek.model",
+    "content/gameplay/uk/aircraft/scout/BAS006_Roc_Seaplane/BAS006_Roc_Seaplane.model": "content/gameplay/uk/aircraft/scout/BAS501_Roc_Seaplane_StarTrek/BAS501_Roc_Seaplane_StarTrek.model",
+    "content/gameplay/uk/projectile/depthcharge/BPD001_Depth_Charge/BPD001_Depth_Charge.model": "content/gameplay/uk/projectile/depthcharge/BPD008_Depth_Charge_Shelving_StarTrek/BPD008_Depth_Charge_Shelving_StarTrek.model",
+    "content/gameplay/uk/projectile/torpedo/BPT005_Sea_Torpedo_21in_MK_IX/BPT005_Sea_Torpedo_21in_MK_IX.model": "content/gameplay/uk/projectile/torpedo/BPT015_Sea_Torpedo_21in_MK_IX_Star_Trek/BPT015_Sea_Torpedo_21in_MK_IX_Star_Trek.model"
+  },
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

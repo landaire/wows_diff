@@ -1,0 +1,47 @@
+{
+  "id": 4292205840,
+  "index": "PXIU002",
+  "level": {
+    "points": 1,
+    "reward": {
+      "available": 1,
+      "count": 2,
+      "item_24": {
+        "duration": -1,
+        "level": 1,
+        "params": "PXOM020_EngineBoost_H2020",
+        "type": 1,
+        "weight": 0
+      },
+      "item_25": {
+        "duration": -1,
+        "level": 1,
+        "params": "PXOM005_ConsumableTime_H2020",
+        "type": 1,
+        "weight": 0
+      },
+      "item_26": {
+        "duration": -1,
+        "level": 1,
+        "params": "PXOM009_GMAlpha_H2020",
+        "type": 1,
+        "weight": 0
+      },
+      "item_3": {
+        "duration": -1,
+        "level": 1,
+        "params": "PXOM022_GSAlpha_H2020",
+        "type": 1,
+        "weight": 0
+      },
+      "type": 4,
+      "weight": 0
+    }
+  },
+  "name": "PXIU002_France_H2020",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "Upgrade",
+    "type": "Component"
+  }
+}

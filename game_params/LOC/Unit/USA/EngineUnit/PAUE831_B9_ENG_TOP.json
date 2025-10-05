@@ -1,0 +1,13 @@
+{
+  "costCR": 1300000,
+  "costXP": 19000,
+  "id": 3423449072,
+  "index": "PAUE831",
+  "name": "PAUE831_B9_ENG_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

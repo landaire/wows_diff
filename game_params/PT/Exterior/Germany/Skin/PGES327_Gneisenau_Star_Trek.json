@@ -1,0 +1,785 @@
+{
+  "RarityCategory": {
+    "name": "Epic"
+  },
+  "camouflage": "",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 4000,
+  "effects": {
+    "A_Hull": {
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_big.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_big.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_big.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_big.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_3",
+          "particles/vehicles/Fire_side_medium.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_big.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_big_2.xml"
+        ]
+      ],
+      "fireResistance": [
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_3",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_5",
+          "particles/vehicles/Fire_big.xml"
+        ],
+        [
+          "HP_FX_Fire_5_2",
+          "particles/vehicles/Fire_big.xml"
+        ]
+      ],
+      "fixDeluge": [],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_big.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_exhaust",
+          "particles/vehicles/Flood_steam_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_exhaust_2",
+          "particles/vehicles/Flood_steam_exhaust_big_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_big.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_big.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_3",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [
+        [
+          "HP_FX_Glow",
+          "particles/vehicles/Glow_Vulkan_StarTrek.xml"
+        ],
+        [
+          "HP_FX_RingGlow",
+          "particles/vehicles/Vulcan_BS_Ring.xml"
+        ]
+      ],
+      "idlePort": [
+        [
+          "HP_FX_Glow",
+          "particles/vehicles/Glow_Vulkan_StarTrek.xml"
+        ],
+        [
+          "HP_FX_RingGlow",
+          "particles/vehicles/Vulcan_BS_Ring.xml"
+        ],
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_big_Vulkan_StarTrek_Main.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/idlePort_RunSmoke_big_Vulkan_StarTrek_Main.xml"
+        ]
+      ],
+      "repairLight": [
+        [
+          "HP_FX_RepairLight_left_1",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_left_2",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_1",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_2",
+          "particles/vehicles/RepairLight_big.xml"
+        ]
+      ],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_big_Vulkan_StarTrek.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/RunSmoke_big_Vulkan_StarTrek.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_small.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_small.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front_left.xml"
+        ],
+        [
+          "HP_FX_WakeTrace2",
+          "particles/vehicles/WakeTraceForward_front_right.xml"
+        ],
+        [
+          "HP_FX_WakeTrace3",
+          "particles/vehicles/WakeTraceForward_front_left.xml"
+        ],
+        [
+          "HP_FX_WakeTrace4",
+          "particles/vehicles/WakeTraceForward_front_right.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_small.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_small.xml"
+        ]
+      ]
+    },
+    "B_Hull": {
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_big.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_big.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_big.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_big.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_3",
+          "particles/vehicles/Fire_side_medium.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_big.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_big_2.xml"
+        ]
+      ],
+      "fireResistance": [
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_3",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_5",
+          "particles/vehicles/Fire_big.xml"
+        ],
+        [
+          "HP_FX_Fire_5_2",
+          "particles/vehicles/Fire_big.xml"
+        ]
+      ],
+      "fixDeluge": [],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_big.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_exhaust",
+          "particles/vehicles/Flood_steam_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_exhaust_2",
+          "particles/vehicles/Flood_steam_exhaust_big_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_big.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_big.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_3",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [
+        [
+          "HP_FX_Glow",
+          "particles/vehicles/Glow_Vulkan_StarTrek.xml"
+        ],
+        [
+          "HP_FX_RingGlow",
+          "particles/vehicles/Vulcan_BS_Ring.xml"
+        ]
+      ],
+      "idlePort": [
+        [
+          "HP_FX_Glow",
+          "particles/vehicles/Glow_Vulkan_StarTrek.xml"
+        ],
+        [
+          "HP_FX_RingGlow",
+          "particles/vehicles/Vulcan_BS_Ring.xml"
+        ],
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_big_Vulkan_StarTrek_Main.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/idlePort_RunSmoke_big_Vulkan_StarTrek_Main.xml"
+        ]
+      ],
+      "repairLight": [
+        [
+          "HP_FX_RepairLight_left_1",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_left_2",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_1",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_2",
+          "particles/vehicles/RepairLight_big.xml"
+        ]
+      ],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_big_Vulkan_StarTrek.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/RunSmoke_big_Vulkan_StarTrek.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_small.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_small.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front_left.xml"
+        ],
+        [
+          "HP_FX_WakeTrace2",
+          "particles/vehicles/WakeTraceForward_front_right.xml"
+        ],
+        [
+          "HP_FX_WakeTrace3",
+          "particles/vehicles/WakeTraceForward_front_left.xml"
+        ],
+        [
+          "HP_FX_WakeTrace4",
+          "particles/vehicles/WakeTraceForward_front_right.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_small.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_small.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": true,
+  "hullConfig": {
+    "A_Hull": {
+      "caps": {},
+      "customMiscs": {},
+      "model": "content/gameplay/germany/ship/battleship/GSB410_Gneisenau_Star_Trek_A/GSB410_Gneisenau_Star_Trek_A.model"
+    },
+    "B_Hull": {
+      "caps": {},
+      "customMiscs": {},
+      "model": "content/gameplay/germany/ship/battleship/GSB411_Gneisenau_Star_Trek_B/GSB411_Gneisenau_Star_Trek_B.model"
+    }
+  },
+  "id": 3951488816,
+  "index": "PGES327",
+  "isTemplate": false,
+  "name": "PGES327_Gneisenau_Star_Trek",
+  "nodesConfig": {
+    "A_ATBA": {
+      "HP_GGS_1": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3008_150mm_SKC_28_Star_Trek/GGS3008_150mm_SKC_28_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3008_150mm_SKC_28_Star_Trek/GGS3008_150mm_SKC_28_Star_Trek.model"
+      },
+      "HP_GGS_10": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3010_150mm_SK_C28_Star_Trek/GGS3010_150mm_SK_C28_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3010_150mm_SK_C28_Star_Trek/GGS3010_150mm_SK_C28_Star_Trek.model"
+      },
+      "HP_GGS_11": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3002_105mm_SKC_33_Star_Trek/GGS3002_105mm_SKC_33_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3002_105mm_SKC_33_Star_Trek/GGS3002_105mm_SKC_33_Star_Trek.model"
+      },
+      "HP_GGS_12": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3002_105mm_SKC_33_Star_Trek/GGS3002_105mm_SKC_33_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3002_105mm_SKC_33_Star_Trek/GGS3002_105mm_SKC_33_Star_Trek.model"
+      },
+      "HP_GGS_13": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3008_150mm_SKC_28_Star_Trek/GGS3008_150mm_SKC_28_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3008_150mm_SKC_28_Star_Trek/GGS3008_150mm_SKC_28_Star_Trek.model"
+      },
+      "HP_GGS_14": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3008_150mm_SKC_28_Star_Trek/GGS3008_150mm_SKC_28_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3008_150mm_SKC_28_Star_Trek/GGS3008_150mm_SKC_28_Star_Trek.model"
+      },
+      "HP_GGS_15": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3002_105mm_SKC_33_Star_Trek/GGS3002_105mm_SKC_33_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3002_105mm_SKC_33_Star_Trek/GGS3002_105mm_SKC_33_Star_Trek.model"
+      },
+      "HP_GGS_2": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3008_150mm_SKC_28_Star_Trek/GGS3008_150mm_SKC_28_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3008_150mm_SKC_28_Star_Trek/GGS3008_150mm_SKC_28_Star_Trek.model"
+      },
+      "HP_GGS_3": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3002_105mm_SKC_33_Star_Trek/GGS3002_105mm_SKC_33_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3002_105mm_SKC_33_Star_Trek/GGS3002_105mm_SKC_33_Star_Trek.model"
+      },
+      "HP_GGS_4": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3002_105mm_SKC_33_Star_Trek/GGS3002_105mm_SKC_33_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3002_105mm_SKC_33_Star_Trek/GGS3002_105mm_SKC_33_Star_Trek.model"
+      },
+      "HP_GGS_5": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3010_150mm_SK_C28_Star_Trek/GGS3010_150mm_SK_C28_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3010_150mm_SK_C28_Star_Trek/GGS3010_150mm_SK_C28_Star_Trek.model"
+      },
+      "HP_GGS_6": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3010_150mm_SK_C28_Star_Trek/GGS3010_150mm_SK_C28_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3010_150mm_SK_C28_Star_Trek/GGS3010_150mm_SK_C28_Star_Trek.model"
+      },
+      "HP_GGS_7": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3002_105mm_SKC_33_Star_Trek/GGS3002_105mm_SKC_33_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3002_105mm_SKC_33_Star_Trek/GGS3002_105mm_SKC_33_Star_Trek.model"
+      },
+      "HP_GGS_8": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3002_105mm_SKC_33_Star_Trek/GGS3002_105mm_SKC_33_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3002_105mm_SKC_33_Star_Trek/GGS3002_105mm_SKC_33_Star_Trek.model"
+      },
+      "HP_GGS_9": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3010_150mm_SK_C28_Star_Trek/GGS3010_150mm_SK_C28_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3010_150mm_SK_C28_Star_Trek/GGS3010_150mm_SK_C28_Star_Trek.model"
+      }
+    },
+    "B_ATBA": {
+      "HP_GGS_1": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek.model"
+      },
+      "HP_GGS_10": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek.model"
+      },
+      "HP_GGS_11": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek.model"
+      },
+      "HP_GGS_2": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek.model"
+      },
+      "HP_GGS_3": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek.model"
+      },
+      "HP_GGS_4": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek.model"
+      },
+      "HP_GGS_5": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek.model"
+      },
+      "HP_GGS_6": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek.model"
+      },
+      "HP_GGS_7": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek.model"
+      },
+      "HP_GGS_8": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek.model"
+      },
+      "HP_GGS_9": {
+        "deadMesh": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/germany/gun/secondary/GGS3011_127mm_KC_40_Star_Trek/GGS3011_127mm_KC_40_Star_Trek.model"
+      }
+    }
+  },
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "startrek",
+  "peculiarityEffects": {
+    "particles/guns/AA_shot.xml": "particles/guns/AA_Shot_ST_Vulkan.xml",
+    "particles/guns/GK_Purging.xml": "particles/Empty_FX.xml",
+    "particles/guns/GK_Reload.xml": "particles/Empty_FX.xml",
+    "particles/guns/GK_Shot.xml": "particles/guns/GK_Shot_ST_Vulkan.xml",
+    "particles/guns/PMK_Purging.xml": "particles/Empty_FX.xml",
+    "particles/guns/PMK_Shot.xml": "particles/guns/PMK_Shot_ST_Vulkan.xml",
+    "particles/vehicles/AirCarrier_death.xml": "particles/vehicles/AirCarrier_death.xml",
+    "particles/vehicles/Battleship_death.xml": "particles/vehicles/Battleship_death.xml",
+    "particles/vehicles/Cruiser_death.xml": "particles/vehicles/Cruiser_death.xml",
+    "particles/vehicles/Destroyer_death.xml": "particles/vehicles/Destroyer_death.xml"
+  },
+  "peculiarityFlag": "",
+  "peculiarityModels": {
+    "content/gameplay/germany/aircraft/bomber/GAB708_Blohm_Voss_BV138C/GAB708_Blohm_Voss_BV138C.model": "content/gameplay/germany/aircraft/fighter/GAF511_Bf109E_float_StarTrek/GAF511_Bf109E_float_StarTrek.model",
+    "content/gameplay/germany/aircraft/fighter/GAF015_Bf109E_float/GAF015_Bf109E_float.model": "content/gameplay/germany/aircraft/fighter/GAF511_Bf109E_float_StarTrek/GAF511_Bf109E_float_StarTrek.model",
+    "content/gameplay/germany/aircraft/scout/GAS001_Ar196/GAS001_Ar196.model": "content/gameplay/germany/aircraft/scout/GAS506_Ar196_StarTrek/GAS506_Ar196_StarTrek.model",
+    "content/gameplay/germany/gun/aaircraft/GGA008_20mm_Flack_38_quad/GGA008_20mm_Flack_38_quad.model": "content/gameplay/germany/gun/aaircraft/GGA3007_20mm_Flack_38_Star_Trek/GGA3007_20mm_Flack_38_Star_Trek.model",
+    "content/gameplay/germany/gun/aaircraft/GGA008_20mm_Flack_38_quad/GGA008_20mm_Flack_38_quad_dead.model": "content/gameplay/germany/gun/aaircraft/GGA3007_20mm_Flack_38_Star_Trek/GGA3007_20mm_Flack_38_Star_Trek_dead.model",
+    "content/gameplay/germany/gun/aaircraft/GGA009_37mm_SKC_30_twin/GGA009_37mm_SKC_30_twin.model": "content/gameplay/germany/gun/aaircraft/GGA3007_20mm_Flack_38_Star_Trek/GGA3007_20mm_Flack_38_Star_Trek.model",
+    "content/gameplay/germany/gun/aaircraft/GGA009_37mm_SKC_30_twin/GGA009_37mm_SKC_30_twin_dead.model": "content/gameplay/germany/gun/aaircraft/GGA3007_20mm_Flack_38_Star_Trek/GGA3007_20mm_Flack_38_Star_Trek_dead.model",
+    "content/gameplay/germany/gun/aaircraft/GGA043_37mm_Flak_M42_Zwilling/GGA043_37mm_Flak_M42_Zwilling.model": "content/gameplay/germany/gun/aaircraft/GGA3007_20mm_Flack_38_Star_Trek/GGA3007_20mm_Flack_38_Star_Trek.model",
+    "content/gameplay/germany/gun/aaircraft/GGA043_37mm_Flak_M42_Zwilling/GGA043_37mm_Flak_M42_Zwilling_dead.model": "content/gameplay/germany/gun/aaircraft/GGA3007_20mm_Flack_38_Star_Trek/GGA3007_20mm_Flack_38_Star_Trek_dead.model",
+    "content/gameplay/germany/gun/aaircraft/GGA050_20mm_Flak_38/GGA050_20mm_Flak_38.model": "content/gameplay/germany/gun/aaircraft/GGA3007_20mm_Flack_38_Star_Trek/GGA3007_20mm_Flack_38_Star_Trek.model",
+    "content/gameplay/germany/gun/aaircraft/GGA050_20mm_Flak_38/GGA050_20mm_Flak_38_dead.model": "content/gameplay/germany/gun/aaircraft/GGA3007_20mm_Flack_38_Star_Trek/GGA3007_20mm_Flack_38_Star_Trek_dead.model",
+    "content/gameplay/germany/gun/main/GGM059_380mm_SKC_34_RF/GGM059_380mm_SKC_34_RF.model": "content/gameplay/germany/gun/main/GGM3001_380mm_SKC_34_Star_Trek/GGM3001_380mm_SKC_34_Star_Trek.model",
+    "content/gameplay/germany/gun/main/GGM059_380mm_SKC_34_RF/GGM059_380mm_SKC_34_RF_dead.model": "content/gameplay/germany/gun/main/GGM3001_380mm_SKC_34_Star_Trek/GGM3001_380mm_SKC_34_Star_Trek_dead.model",
+    "content/gameplay/germany/gun/main/GGM060_380mm_SKC_34/GGM060_380mm_SKC_34.model": "content/gameplay/germany/gun/main/GGM3001_380mm_SKC_34_Star_Trek/GGM3001_380mm_SKC_34_Star_Trek.model",
+    "content/gameplay/germany/gun/main/GGM060_380mm_SKC_34/GGM060_380mm_SKC_34_dead.model": "content/gameplay/germany/gun/main/GGM3001_380mm_SKC_34_Star_Trek/GGM3001_380mm_SKC_34_Star_Trek_dead.model",
+    "content/gameplay/germany/gun/torpedo/GGT015_533mm_Torpedo_Tubes_Triple/GGT015_533mm_Torpedo_Tubes_Triple.model": "content/gameplay/germany/gun/torpedo/GGT3009_533mm_Torpedo_Tubes_Triple_Star_Trek/GGT3009_533mm_Torpedo_Tubes_Triple_Star_Trek.model",
+    "content/gameplay/germany/gun/torpedo/GGT015_533mm_Torpedo_Tubes_Triple/GGT015_533mm_Torpedo_Tubes_Triple_dead.model": "content/gameplay/germany/gun/torpedo/GGT3009_533mm_Torpedo_Tubes_Triple_Star_Trek/GGT3009_533mm_Torpedo_Tubes_Triple_Star_Trek_dead.model",
+    "content/gameplay/germany/projectile/torpedo/GPT001_Torpedo_533/GPT001_Torpedo_533.model": "content/gameplay/germany/projectile/torpedo/GPT011_Torpedo_Vulcan/GPT011_Torpedo_Vulcan.model"
+  },
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

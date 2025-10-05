@@ -1,0 +1,39 @@
+{
+  "id": 4286465968,
+  "index": "PCOD008",
+  "markerNameActive": "random_consumable_active",
+  "markerNameInactive": "random_consumable_inactive",
+  "maxBuffLevel": 0,
+  "name": "PCOD008_AddConsumables_PA",
+  "payload": {
+    "item_1": {
+      "consumable": "smokeGenerator",
+      "count": 1,
+      "slot": null,
+      "type": 2,
+      "weight": 0
+    },
+    "item_2": {
+      "consumable": "artilleryBoosters",
+      "count": 1,
+      "slot": null,
+      "type": 2,
+      "weight": 0
+    },
+    "item_3": {
+      "consumable": "torpedoReloader",
+      "count": 1,
+      "slot": null,
+      "type": 2,
+      "weight": 0
+    },
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

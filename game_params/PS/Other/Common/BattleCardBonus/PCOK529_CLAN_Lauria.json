@@ -1,0 +1,22 @@
+{
+  "id": 3739928496,
+  "index": "PCOK529",
+  "level_1": {
+    "burnDamageMultiplier": 1.25,
+    "floodDamageMultiplier": 1.25,
+    "shootShift": 1.2,
+    "vulnerabilityCS": 0.9
+  },
+  "level_2": {
+    "burnDamageMultiplier": 1.25,
+    "floodDamageMultiplier": 1.25,
+    "shootShift": 1.2,
+    "vulnerabilityCS": 0.9
+  },
+  "name": "PCOK529_CLAN_Lauria",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

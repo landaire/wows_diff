@@ -1,0 +1,13 @@
+{
+  "costCR": 800000,
+  "costXP": 7000,
+  "id": 4079759344,
+  "index": "PAUH205",
+  "name": "PAUH205_CV6_HULL_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 540000,
+  "costXP": 0,
+  "id": 3507334416,
+  "index": "PXUE751",
+  "name": "PXUE751_CV8_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

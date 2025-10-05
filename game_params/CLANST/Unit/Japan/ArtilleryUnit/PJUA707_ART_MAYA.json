@@ -1,0 +1,18 @@
+{
+  "barrelDiametr": 203,
+  "costCR": 0,
+  "costXP": 0,
+  "damage": [
+    5170,
+    2170
+  ],
+  "id": 3553603280,
+  "index": "PJUA707",
+  "name": "PJUA707_ART_MAYA",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    [
+      "isCrewSkillLearned",
+      {
+        "count": 1
+      }
+    ]
+  ],
+  "id": 4286138288,
+  "index": "PCON008",
+  "name": "PCON008",
+  "rewards": [
+    [
+      "Add",
+      {
+        "count": 3000,
+        "type": "ELITE_XP"
+      }
+    ]
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "NewbieQuest",
+    "type": "Other"
+  },
+  "unlock": "CREWS"
+}

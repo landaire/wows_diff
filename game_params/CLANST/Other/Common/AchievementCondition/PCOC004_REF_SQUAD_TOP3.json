@@ -1,0 +1,60 @@
+{
+  "constants": {
+    "teamPosition": 3
+  },
+  "enabled": true,
+  "events": [
+    [
+      "battleEnd",
+      [
+        [
+          "me",
+          "inReferralSquad"
+        ],
+        [
+          "forReferralSquad",
+          [
+            "battleEnd",
+            "teamExpRate",
+            "<=",
+            "constant",
+            "teamPosition"
+          ],
+          "==",
+          "me",
+          "shipsInReferralSquad"
+        ],
+        [
+          "forReferralSquad",
+          [
+            "me",
+            "alive"
+          ],
+          "==",
+          "me",
+          "shipsInReferralSquad"
+        ]
+      ],
+      [
+        [
+          "forReferralSquad",
+          [
+            "doAction",
+            "done"
+          ]
+        ]
+      ]
+    ]
+  ],
+  "id": 4290693040,
+  "index": "PCOC004",
+  "keepCounters": false,
+  "name": "PCOC004_REF_SQUAD_TOP3",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "AchievementCondition",
+    "type": "Other"
+  },
+  "uiDescription": "IDS_ACHIEVEMENT_CONDITION_REF_SQUAD_TOP3_DESCRIPTION",
+  "uiHeader": "IDS_ACHIEVEMENT_CONDITION_REF_SQUAD_TOP3_TITLE"
+}

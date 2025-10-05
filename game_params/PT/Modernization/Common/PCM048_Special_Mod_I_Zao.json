@@ -1,0 +1,30 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4243771312,
+  "index": "PCM048",
+  "modifiers": {
+    "GMIdealRadius": 0.93,
+    "GMMaxDist": 1.08
+  },
+  "name": "PCM048_Special_Mod_I_Zao",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PJSC034_Zao_1944",
+    "PJSC890_CLR_Zao"
+  ],
+  "shiptype": [],
+  "slot": 5,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

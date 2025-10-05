@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3248929744,
+  "index": "PBRS997",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/radar/search/BRS997_15in_DCT_Nolan/BRS997_15in_DCT_Nolan.model",
+  "name": "PBRS997_15in_DCT_Nolan",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

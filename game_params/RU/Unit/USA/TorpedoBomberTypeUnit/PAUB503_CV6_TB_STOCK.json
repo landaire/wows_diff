@@ -1,0 +1,13 @@
+{
+  "costCR": 300000,
+  "costXP": 0,
+  "id": 3767480304,
+  "index": "PAUB503",
+  "name": "PAUB503_CV6_TB_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

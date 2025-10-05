@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4231444784,
+  "index": "PWRS060",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/radar/search/WRS060_Radar_Type_277Q_Outfit_AUK/WRS060_Radar_Type_277Q_Outfit_AUK.model",
+  "name": "PWRS060_Radar_Type_277Q_Outfit_AUK",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

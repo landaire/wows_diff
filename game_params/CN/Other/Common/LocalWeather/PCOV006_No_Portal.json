@@ -1,0 +1,58 @@
+{
+  "audio": {
+    "effect": "Portal",
+    "intensity": 10.0
+  },
+  "bounds": {
+    "max": {
+      "height": 35.0,
+      "radius": 100500.0
+    },
+    "min": {
+      "height": 0.0,
+      "radius": 80.0
+    },
+    "scale": {
+      "height": 0.35,
+      "radius": 1.0
+    }
+  },
+  "changeDist": 100.0,
+  "changeStart": 20.0,
+  "effects": [],
+  "graphics": "Storm",
+  "id": 4287973296,
+  "index": "PCOV006",
+  "logic": {
+    "AAMaxDist": null,
+    "GMIdealRadius": null,
+    "GSIdealRadius": null,
+    "GSMIdealRadius": null,
+    "airDefenseVisibilityTime": null,
+    "bad": null,
+    "burnDamage": null,
+    "burnTime": null,
+    "maxPlaneVisionDistance": 1000.0,
+    "maxShipVisionDistance": 1000.0,
+    "maxVisibilityDistance": 1000.0,
+    "maxVisibilityDistanceByPlane": 1000.0,
+    "mgVisibilityTime": null,
+    "planeMaxVisibilityDistance": null,
+    "planeMaxVisibilityDistanceByPlane": null,
+    "planeSpeed": null,
+    "planeVisibilityFactor": null,
+    "planeVisibilityFactorByPlane": null,
+    "shootShift": null,
+    "speedCoef": null,
+    "transparency": 1.0,
+    "visibilityFactor": 1,
+    "visibilityFactorByPlane": 1
+  },
+  "name": "PCOV006_No_Portal",
+  "paramsInterpolationDuration": 2.0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "LocalWeather",
+    "type": "Other"
+  }
+}

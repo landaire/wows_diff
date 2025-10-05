@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 18000,
+  "id": 3551931856,
+  "index": "PRUT708",
+  "name": "PRUT708_S8_TORP_TOP",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

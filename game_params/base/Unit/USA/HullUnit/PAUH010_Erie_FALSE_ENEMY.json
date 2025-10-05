@@ -1,0 +1,13 @@
+{
+  "costCR": 9300,
+  "costXP": 180,
+  "id": 4284231664,
+  "index": "PAUH010",
+  "name": "PAUH010_Erie_FALSE_ENEMY",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

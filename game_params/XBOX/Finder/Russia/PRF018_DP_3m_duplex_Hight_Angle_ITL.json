@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4275235280,
+  "index": "PRF018",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/finder/RF018_DP_3m_duplex_Hight_Angle_ITL/RF018_DP_3m_duplex_Hight_Angle_ITL.model",
+  "name": "PRF018_DP_3m_duplex_Hight_Angle_ITL",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Finder"
+  }
+}

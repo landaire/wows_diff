@@ -1,0 +1,26 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "boostType": "crewExpFactor",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": 10,
+  "hidden": false,
+  "id": 4262457264,
+  "index": "PCEA031",
+  "isTemplate": false,
+  "modifiers": {
+    "crewExpFactor": 2.0
+  },
+  "name": "PCEA031_CrewXPboost_1",
+  "sortOrder": 1,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Camoboost",
+    "type": "Exterior"
+  }
+}

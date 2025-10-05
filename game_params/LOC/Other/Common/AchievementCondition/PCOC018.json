@@ -1,0 +1,79 @@
+{
+  "constants": {
+    "_shotCount": 3,
+    "_shotDistance": 20000.0
+  },
+  "enabled": true,
+  "events": [
+    [
+      "meAttack",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "damage",
+          "hitType",
+          "==",
+          "hitType",
+          "MAJOR_HIT"
+        ],
+        [
+          "subInstruction",
+          [
+            "me",
+            "position",
+            "distTo",
+            "target",
+            "position"
+          ],
+          ">=",
+          "constant",
+          "_shotDistance"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "meAttack",
+      [
+        [
+          "counter",
+          "a",
+          ">=",
+          "constant",
+          "_shotCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "id": 4276012976,
+  "index": "PCOC018",
+  "keepCounters": false,
+  "name": "PCOC018",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "AchievementCondition",
+    "type": "Other"
+  },
+  "uiDescription": "IDS_ACHIEVEMENT_CONDITION_PCOC018_DESCRIPTION",
+  "uiHeader": "IDS_ACHIEVEMENT_CONDITION_PCOC018_TITLE"
+}

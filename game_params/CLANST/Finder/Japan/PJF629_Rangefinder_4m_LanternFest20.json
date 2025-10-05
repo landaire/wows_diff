@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3634555600,
+  "index": "PJF629",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/finder/JF629_Rangefinder_4m_LanternFest20/JF629_Rangefinder_4m_LanternFest20.model",
+  "name": "PJF629_Rangefinder_4m_LanternFest20",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Finder"
+  }
+}

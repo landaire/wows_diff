@@ -1,0 +1,15 @@
+{
+  "collectionAlbum": "PCZA002_Bismarck",
+  "compensationCR": 0,
+  "description": "IDS_PCZC033_BISMARCK_SIKH_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4260273072,
+  "index": "PCZC033",
+  "name": "PCZC033_Bismarck_Sikh",
+  "subAlbums": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

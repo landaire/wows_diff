@@ -1,0 +1,13 @@
+{
+  "costCR": 5000,
+  "costXP": 0,
+  "id": 4187860816,
+  "index": "PFUE102",
+  "name": "PFUE102_D2_ENG_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

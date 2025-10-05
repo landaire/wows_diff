@@ -1,0 +1,13 @@
+{
+  "costCR": 2500000,
+  "costXP": 38000,
+  "id": 3339431888,
+  "index": "PBUI911",
+  "name": "PBUI911_CV10_F_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

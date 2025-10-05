@@ -1,0 +1,13 @@
+{
+  "costCR": 146000,
+  "costXP": 0,
+  "id": 3769511920,
+  "index": "PAUD501",
+  "name": "PAUD501_CV6_DB_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

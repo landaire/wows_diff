@@ -1,0 +1,13 @@
+{
+  "costCR": 155000,
+  "costXP": 1900,
+  "id": 4290719440,
+  "index": "PJUB004",
+  "name": "PJUB004_Yokosuka_B4Y",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

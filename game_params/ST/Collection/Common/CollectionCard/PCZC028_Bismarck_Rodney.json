@@ -1,0 +1,15 @@
+{
+  "collectionAlbum": "PCZA002_Bismarck",
+  "compensationCR": 0,
+  "description": "IDS_PCZC028_BISMARCK_RODNEY_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4265515952,
+  "index": "PCZC028",
+  "name": "PCZC028_Bismarck_Rodney",
+  "subAlbums": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

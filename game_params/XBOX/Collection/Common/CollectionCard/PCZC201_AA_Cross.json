@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC201_AA_CROSS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4084112304,
+  "index": "PCZC201",
+  "name": "PCZC201_AA_Cross",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

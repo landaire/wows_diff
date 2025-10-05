@@ -1,0 +1,67 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "ships": [
+      "PXSD013_Z_52_PA",
+      "PXSD014_Hsiang_Yang_PA",
+      "PXSD015_Grozovoy_PA",
+      "PXSD016_Shimakaze_PA",
+      "PXSD017_Gearing_PA",
+      "PXSD018_Harugumo_PA",
+      "PXSD019_Daring_PA",
+      "PXSD020_Khabarovsk_PA",
+      "PXSD021_Kleber_PA"
+    ]
+  },
+  "enabled": true,
+  "events": [
+    [
+      "dockIdle",
+      [
+        [
+          "checkInventory",
+          "ships"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 3973243824,
+  "index": "PCH306",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH306_ENGINEER_PA",
+  "onePerBattle": true,
+  "shipCategories": [
+    "event"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "honorable",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "ENGINEER_PA",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_TEAM_BATTLE_ROYALE",
+  "uiType": "service_medal"
+}

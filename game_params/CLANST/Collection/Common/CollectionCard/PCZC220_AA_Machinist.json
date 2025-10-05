@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC220_AA_MACHINIST_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4064189360,
+  "index": "PCZC220",
+  "name": "PCZC220_AA_Machinist",
+  "subAlbums": [
+    7
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

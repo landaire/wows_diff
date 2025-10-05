@@ -1,0 +1,13 @@
+{
+  "costCR": 1500000,
+  "costXP": 15000,
+  "id": 3558256592,
+  "index": "PBUS702",
+  "name": "PBUS702_C8_SUO_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

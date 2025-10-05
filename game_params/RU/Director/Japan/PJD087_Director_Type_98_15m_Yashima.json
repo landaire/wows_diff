@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4202885840,
+  "index": "PJD087",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/director/JD087_Director_Type_98_15m_Yashima/JD087_Director_Type_98_15m_Yashima.model",
+  "name": "PJD087_Director_Type_98_15m_Yashima",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Director"
+  }
+}

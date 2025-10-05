@@ -1,0 +1,13 @@
+{
+  "costCR": 880000,
+  "costXP": 0,
+  "id": 3403067376,
+  "index": "PAUS850",
+  "name": "PAUS850_SUO_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

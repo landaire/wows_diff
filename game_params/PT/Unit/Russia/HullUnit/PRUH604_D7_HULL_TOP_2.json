@@ -1,0 +1,13 @@
+{
+  "costCR": 1400000,
+  "costXP": 18500,
+  "id": 3661376976,
+  "index": "PRUH604",
+  "name": "PRUH604_D7_HULL_TOP_2",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

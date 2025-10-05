@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2193439056,
+  "index": "PVRF2004",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panamerica/radar/fcontrol/VRF2004_Anemometer/VRF2004_Anemometer.model",
+  "name": "PVRF2004_Anemometer",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "Fire control",
+    "type": "Radar"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": 4283390896,
+  "index": "PCJB011",
+  "name": "PCJB011_Paragon_Yard",
+  "type": "paragon_yard",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BuildingType",
+    "type": "ClanSupply"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 2400000,
+  "costXP": 30000,
+  "id": 3347918544,
+  "index": "PJUF903",
+  "name": "PJUF903_FlightControl_2_U",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

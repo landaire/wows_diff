@@ -1,0 +1,27 @@
+{
+  "beginDelay": 2.0,
+  "delay": 0.3,
+  "expansion": 1.0,
+  "glow": 5.0,
+  "id": 4290266032,
+  "index": "PCPP004",
+  "isFront": false,
+  "length": 8.0,
+  "name": "PCPP004_Default_PreRockets",
+  "num": 1,
+  "pitchSpreadingDown": 0.0,
+  "pitchSpreadingUp": 0.5,
+  "speed": 300.0,
+  "startDelay": 0.5,
+  "texture": "particles/trails/Trail_Rocket_Bullets.dds",
+  "thickness": 0.015,
+  "tracerLength": 10.0,
+  "tracerOpacity": 0.55,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "PlaneTracer",
+    "type": "Projectile"
+  },
+  "workTime": 4.0,
+  "yawSpreading": 0.4
+}

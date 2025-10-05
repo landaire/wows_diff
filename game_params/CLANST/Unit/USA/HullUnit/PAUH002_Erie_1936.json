@@ -1,0 +1,13 @@
+{
+  "costCR": 9300,
+  "costXP": 180,
+  "id": 4292620272,
+  "index": "PAUH002",
+  "name": "PAUH002_Erie_1936",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4278630704,
+  "index": "PWRS015",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/radar/search/WRS015_Arte_M53B_SW/WRS015_Arte_M53B_SW.model",
+  "name": "PWRS015_Arte_M53B_SW",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

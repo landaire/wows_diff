@@ -1,0 +1,13 @@
+{
+  "costCR": 405000,
+  "costXP": 0,
+  "id": 3658329936,
+  "index": "PFUE607",
+  "name": "PFUE607_ENG_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

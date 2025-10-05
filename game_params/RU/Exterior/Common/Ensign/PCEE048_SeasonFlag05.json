@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "wilhelmshaven",
+  "group": 3,
+  "hidden": true,
+  "id": 4244500400,
+  "index": "PCEE048",
+  "isTemplate": false,
+  "name": "PCEE048_SeasonFlag05",
+  "needExtraDescription": true,
+  "rankSeasonId": 5,
+  "sortOrder": 2147483647,
+  "tags": [
+    "rank"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

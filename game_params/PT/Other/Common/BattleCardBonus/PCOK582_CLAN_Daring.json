@@ -1,0 +1,20 @@
+{
+  "id": 3684353968,
+  "index": "PCOK582",
+  "level_1": {
+    "allAlphaMultiplier": 1.15,
+    "vulnerabilityAP": 0.95,
+    "vulnerabilityHE": 0.95
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.15,
+    "vulnerabilityAP": 0.95,
+    "vulnerabilityHE": 0.95
+  },
+  "name": "PCOK582_CLAN_Daring",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA022_GF097",
+  "compensationCR": 0,
+  "description": "IDS_PCZC483_GF097_NASSAU_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3788413872,
+  "index": "PCZC483",
+  "name": "PCZC483_GF097_Nassau",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

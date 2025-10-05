@@ -1,0 +1,82 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "camouflage": "camo_SovietArc_2020",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 1750,
+  "effects": {},
+  "filterIsWhitelist": false,
+  "hidden": true,
+  "hullConfig": {},
+  "id": 4185517520,
+  "index": "PREM104",
+  "isTemplate": false,
+  "isTileflage": false,
+  "linkedCamouflage": null,
+  "miscFilter": [
+    "RM214"
+  ],
+  "miscSubTypeSpecification": {},
+  "name": "PREM104_Mikoyan_Soviet",
+  "nodesConfig": {},
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "decorative",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "",
+  "peculiarityModels": {},
+  "planesConfig": {},
+  "renderSetsStates": {
+    "@Bow_wire": true,
+    "@MidBack_wire": true,
+    "@MidFront_wire": true,
+    "@Stern_wire": true
+  },
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PRSC515_Mikoyan"
+    ],
+    "subtype": []
+  },
+  "sortOrder": 100,
+  "styleEffects": {},
+  "styleMiscs": [
+    "YMS001_YHBM_M_1",
+    "YMS010_YHWM_L_1",
+    "YMS044_YHTC_L_1",
+    "YMS095_YHZC_M_1",
+    "YMS105_YGLC_M_1",
+    "YMS106_YGLL_M_1",
+    "YMS107_YGLR_M_1",
+    "YMS042_YHPL_L_1",
+    "YMS043_YHPR_L_1",
+    "YMS045_YHLC_L_1",
+    "YMS031_YHAL_M_1",
+    "YMS032_YHAR_M_1",
+    "YMS106_YGLL_M_1",
+    "YMS107_YGLR_M_1",
+    "YMS030_YHAM_M_1"
+  ],
+  "subTypes": [
+    "SovietArc2020"
+  ],
+  "tags": [],
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "MSkin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

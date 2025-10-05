@@ -1,0 +1,43 @@
+{
+  "canCharge": true,
+  "costCR": 1000000,
+  "excludes": [],
+  "group": [],
+  "id": 4196585392,
+  "index": "PCM093",
+  "modifiers": {
+    "planeHealthCoeff": 1.15,
+    "planeSpawnTime": 0.95,
+    "planeSpeed": 1.05
+  },
+  "name": "PCM093_Airplanes_Mod_IV",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PJSC018_Tone",
+    "PJSB526_Ise",
+    "PASB519_Kearsarge",
+    "PASB889_Azur_Kearsarge",
+    "PASB208_Nebraska",
+    "PASB209_Delaware",
+    "PASB210_Louisiana",
+    "PASB599_Black_Kearsarge",
+    "PASD519_Halford",
+    "PRSC810_Komissar",
+    "PJSS528_I54",
+    "PJSC719_Chikuma_2_Hyb",
+    "PJSC729_GW_Chikuma_2_Hyb",
+    "PGSC710_Hildebrand",
+    "PFSC730_Amiral_Lartigue",
+    "PJSB720_Aki"
+  ],
+  "shiptype": [],
+  "slot": 3,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

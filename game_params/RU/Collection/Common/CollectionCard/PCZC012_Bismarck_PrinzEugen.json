@@ -1,0 +1,15 @@
+{
+  "collectionAlbum": "PCZA002_Bismarck",
+  "compensationCR": 0,
+  "description": "IDS_PCZC012_BISMARCK_PRINZEUGEN_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4282293168,
+  "index": "PCZC012",
+  "name": "PCZC012_Bismarck_PrinzEugen",
+  "subAlbums": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

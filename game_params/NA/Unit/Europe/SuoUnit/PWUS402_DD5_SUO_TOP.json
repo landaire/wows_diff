@@ -1,0 +1,13 @@
+{
+  "costCR": 320000,
+  "costXP": 3000,
+  "id": 3872828720,
+  "index": "PWUS402",
+  "name": "PWUS402_DD5_SUO_TOP",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

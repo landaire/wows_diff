@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA017_FrenchDDArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC381_FRENCHDDARC_MOGADOR_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3895368624,
+  "index": "PCZC381",
+  "name": "PCZC381_FrenchDDArc_Mogador",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

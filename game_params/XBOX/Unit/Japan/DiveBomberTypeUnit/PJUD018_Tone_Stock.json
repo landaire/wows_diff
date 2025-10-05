@@ -1,0 +1,13 @@
+{
+  "costCR": 1700000,
+  "costXP": 20500,
+  "id": 4275973840,
+  "index": "PJUD018",
+  "name": "PJUD018_Tone_Stock",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 240000,
+  "costXP": 2400,
+  "id": 3978046800,
+  "index": "PVUH302",
+  "name": "PVUH302_C4_HULL_TOP",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC062_YAMAMOTO_POGONKAIGUN_TAISHO_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4229864368,
+  "index": "PCZC062",
+  "name": "PCZC062_Yamamoto_PogonKaigun_Taisho",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

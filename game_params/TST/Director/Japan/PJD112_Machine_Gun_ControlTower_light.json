@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4176671440,
+  "index": "PJD112",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/director/JD112_Machine_Gun_ControlTower_light/JD112_Machine_Gun_ControlTower_light.model",
+  "name": "PJD112_Machine_Gun_ControlTower_light",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Director"
+  }
+}

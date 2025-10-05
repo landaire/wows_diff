@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3762484016,
+  "index": "PGD507",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/director/GD507_Zeilsaule_C38_Night_Dir6_Ice/GD507_Zeilsaule_C38_Night_Dir6_Ice.model",
+  "name": "PGD507_Zeilsaule_C38_Night_Dir6_Ice",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Director"
+  }
+}

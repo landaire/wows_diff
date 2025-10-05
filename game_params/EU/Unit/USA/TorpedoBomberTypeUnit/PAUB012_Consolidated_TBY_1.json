@@ -1,0 +1,13 @@
+{
+  "costCR": 715000,
+  "costXP": 9000,
+  "id": 4282331120,
+  "index": "PAUB012",
+  "name": "PAUB012_Consolidated_TBY_1",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 5,
+  "conditions": [
+    "<isMyShip shipIds=\"PJSC012_Ibuki_1944,PJSC034_Zao_1944,PASC210_Worcester,PRSC508_Kutuzov_1952,PRSC210_Pr_84_Alexander_Nevsky\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isRibbons count=\"70\" ribbons=\"BURN\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3571859376,
+  "index": "PCQT689",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT689_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF017_VL_SignalFlag\" count=\"10\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT689_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_CA_2"
+  ],
+  "unlockMissions": []
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4288869104,
+  "index": "PID005",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/italy/director/ID005_LA_3m_Torretta_telemetriche_antiaree/ID005_LA_3m_Torretta_telemetriche_antiaree.model",
+  "name": "PID005_LA_3m_Torretta_telemetriche_antiaree",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": null,
+    "type": "Director"
+  }
+}

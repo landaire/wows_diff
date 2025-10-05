@@ -1,0 +1,13 @@
+{
+  "costCR": 430000,
+  "costXP": 6400,
+  "id": 3663441616,
+  "index": "PJUI602",
+  "name": "PJUI602_CV7_F_TOP",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

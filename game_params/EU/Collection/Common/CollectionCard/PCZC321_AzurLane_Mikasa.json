@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC321_AZURLANE_MIKASA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3958283184,
+  "index": "PCZC321",
+  "name": "PCZC321_AzurLane_Mikasa",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

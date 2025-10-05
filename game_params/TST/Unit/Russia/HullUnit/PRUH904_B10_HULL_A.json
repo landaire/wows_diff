@@ -1,0 +1,13 @@
+{
+  "costCR": 3500000,
+  "costXP": 0,
+  "id": 3346804176,
+  "index": "PRUH904",
+  "name": "PRUH904_B10_HULL_A",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

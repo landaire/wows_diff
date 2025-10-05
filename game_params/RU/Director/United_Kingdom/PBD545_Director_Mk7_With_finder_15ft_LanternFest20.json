@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3722638288,
+  "index": "PBD545",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD545_Director_Mk7_With_finder_15ft_LanternFest20/BD545_Director_Mk7_With_finder_15ft_LanternFest20.model",
+  "name": "PBD545_Director_Mk7_With_finder_15ft_LanternFest20",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

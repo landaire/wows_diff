@@ -1,0 +1,20 @@
+{
+  "id": 3673868208,
+  "index": "PCOK592",
+  "level_1": {
+    "GMHEDamageCoeff": 1.1,
+    "citadelDamageMultiplierCSAP": 1.2,
+    "vulnerabilityCS": 0.9
+  },
+  "level_2": {
+    "GMHEDamageCoeff": 1.1,
+    "citadelDamageMultiplierCSAP": 1.2,
+    "vulnerabilityCS": 0.9
+  },
+  "name": "PCOK592_CLAN_Austin",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

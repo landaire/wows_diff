@@ -1,0 +1,22 @@
+{
+  "id": 3720005552,
+  "index": "PCOK548",
+  "level_1": {
+    "allAlphaMultiplier": 1.05,
+    "burnDamageMultiplier": 1.25,
+    "floodDamageMultiplier": 1.25,
+    "vulnerabilityBombAvia": 0.85
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.05,
+    "burnDamageMultiplier": 1.25,
+    "floodDamageMultiplier": 1.25,
+    "vulnerabilityBombAvia": 0.85
+  },
+  "name": "PCOK548_CLAN_Leeuw",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

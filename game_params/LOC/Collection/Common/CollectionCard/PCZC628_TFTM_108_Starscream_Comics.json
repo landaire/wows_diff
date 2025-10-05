@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA027_TFTM_108",
+  "compensationCR": 0,
+  "description": "IDS_PCZC628_TFTM_108_STARSCREAM_COMICS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3636370352,
+  "index": "PCZC628",
+  "name": "PCZC628_TFTM_108_Starscream_Comics",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

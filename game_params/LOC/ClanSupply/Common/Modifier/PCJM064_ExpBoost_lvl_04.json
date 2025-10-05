@@ -1,0 +1,20 @@
+{
+  "accumulativeResourceRequired": 0,
+  "bonusType": "exp_boost",
+  "buildingType": "PCJB007_University",
+  "buyable": true,
+  "cost": 7500,
+  "id": 4227455920,
+  "index": "PCJM064",
+  "isDummy": false,
+  "name": "PCJM064_ExpBoost_lvl_04",
+  "previousModifier": "PCJM063_ExpBoost_lvl_03",
+  "shipLevelMax": 10,
+  "shipLevelMin": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Modifier",
+    "type": "ClanSupply"
+  },
+  "value": 3
+}

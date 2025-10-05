@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4156748496,
+  "index": "PJD131",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/director/JD131_Torpedo_Director_Type_1/JD131_Torpedo_Director_Type_1.model",
+  "name": "PJD131_Torpedo_Director_Type_1",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Director"
+  }
+}

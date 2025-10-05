@@ -1,0 +1,13 @@
+{
+  "costCR": 5000,
+  "costXP": 1,
+  "id": 3643191280,
+  "index": "PAUS621",
+  "name": "PAUS621_Suo",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

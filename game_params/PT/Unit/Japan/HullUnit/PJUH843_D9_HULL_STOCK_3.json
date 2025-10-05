@@ -1,0 +1,13 @@
+{
+  "costCR": 980000,
+  "costXP": 0,
+  "id": 3410767568,
+  "index": "PJUH843",
+  "name": "PJUH843_D9_HULL_STOCK_3",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

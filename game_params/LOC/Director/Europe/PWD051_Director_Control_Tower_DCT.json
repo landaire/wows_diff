@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4240634160,
+  "index": "PWD051",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/director/WD051_Director_Control_Tower_DCT/WD051_Director_Control_Tower_DCT.model",
+  "name": "PWD051_Director_Control_Tower_DCT",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Director"
+  }
+}

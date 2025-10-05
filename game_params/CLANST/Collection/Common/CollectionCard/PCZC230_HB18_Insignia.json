@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA010_HappyBirthday2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC230_HB18_INSIGNIA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4053703600,
+  "index": "PCZC230",
+  "name": "PCZC230_HB18_Insignia",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

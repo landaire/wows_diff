@@ -1,0 +1,50 @@
+{
+  "constants": {
+    "_weaponTypeCount": 3
+  },
+  "enabled": true,
+  "events": [
+    [
+      "meKill",
+      [],
+      [
+        [
+          "set",
+          "add",
+          ":",
+          "dead",
+          "weaponType"
+        ]
+      ]
+    ],
+    [
+      "meKill",
+      [
+        [
+          "set",
+          "len",
+          ">=",
+          "constant",
+          "_weaponTypeCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "id": 4270770096,
+  "index": "PCOC023",
+  "keepCounters": false,
+  "name": "PCOC023",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "AchievementCondition",
+    "type": "Other"
+  },
+  "uiDescription": "IDS_ACHIEVEMENT_CONDITION_PCOC023_DESCRIPTION",
+  "uiHeader": "IDS_ACHIEVEMENT_CONDITION_PCOC023_TITLE"
+}

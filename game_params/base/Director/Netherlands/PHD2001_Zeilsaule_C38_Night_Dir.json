@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2195911440,
+  "index": "PHD2001",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/netherlands/director/HD2001_Zeilsaule_C38_Night_Dir/HD2001_Zeilsaule_C38_Night_Dir.model",
+  "name": "PHD2001_Zeilsaule_C38_Night_Dir",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": null,
+    "type": "Director"
+  }
+}

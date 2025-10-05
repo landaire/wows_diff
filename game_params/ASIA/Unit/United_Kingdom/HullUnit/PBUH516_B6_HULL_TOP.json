@@ -1,0 +1,13 @@
+{
+  "costCR": 1050000,
+  "costXP": 15000,
+  "id": 3753652176,
+  "index": "PBUH516",
+  "name": "PBUH516_B6_HULL_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

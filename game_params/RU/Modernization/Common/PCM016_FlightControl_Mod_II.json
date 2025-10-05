@@ -1,0 +1,86 @@
+{
+  "canCharge": true,
+  "costCR": 3000000,
+  "excludes": [
+    "PXSA005_Hellcarrier",
+    "PXSB006_Paris",
+    "PXSB007_Alldestroyer",
+    "PXSC004_Galaxy",
+    "PXSC005_Zaya",
+    "PXSC006_Norma",
+    "PXSC007_Aurora",
+    "PXSD004_FlyFire",
+    "PXSD005_Blue_Aster",
+    "PXSD002_Benson_1945_H2017",
+    "PXSD009_Kiev_H2018",
+    "PXSD008_Z_23_H2018",
+    "PXSC009_Mogami_H2018",
+    "PXSC002_Charles_Martel_H2017",
+    "PXSB008_North_Carolina_H2018",
+    "PXSB005_Bismarck_H2017",
+    "PXSB002_Rasputin",
+    "PGSA990_Otto_Lilienthal"
+  ],
+  "group": [
+    "upgradeable",
+    "disabled",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "event",
+    "specialUnsellable",
+    "demoWithoutStats",
+    "demoWithoutStatsPrem",
+    "demoWithoutStatsTemporary",
+    "experimental",
+    "start",
+    "peculiar",
+    "clan",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "superShip",
+    "notForBattle",
+    "coopOnly"
+  ],
+  "id": 4277325744,
+  "index": "PCM016",
+  "modifiers": {
+    "planeSpeed": 1.05
+  },
+  "name": "PCM016_FlightControl_Mod_II",
+  "nation": [
+    "France",
+    "USA",
+    "Russia",
+    "Japan",
+    "United_Kingdom",
+    "Germany",
+    "Italy",
+    "Europe",
+    "Netherlands",
+    "Spain",
+    "Pan_Asia",
+    "Pan_America",
+    "Commonwealth"
+  ],
+  "shiplevel": [
+    9,
+    10,
+    11
+  ],
+  "ships": [
+    "PASA508_Enterprise"
+  ],
+  "shiptype": [
+    "AirCarrier"
+  ],
+  "slot": 5,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

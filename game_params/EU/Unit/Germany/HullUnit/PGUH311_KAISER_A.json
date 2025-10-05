@@ -1,0 +1,13 @@
+{
+  "costCR": 128000,
+  "costXP": 0,
+  "id": 3968610096,
+  "index": "PGUH311",
+  "name": "PGUH311_KAISER_A",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3760634832,
+  "index": "PBRS509",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/radar/search/BRS509_Radar_Type_293Q_Outfit_ANS_Ice/BRS509_Radar_Type_293Q_Outfit_ANS_Ice.model",
+  "name": "PBRS509_Radar_Type_293Q_Outfit_ANS_Ice",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

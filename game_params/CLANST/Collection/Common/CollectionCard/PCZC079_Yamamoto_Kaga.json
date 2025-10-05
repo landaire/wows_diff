@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC079_YAMAMOTO_KAGA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4212038576,
+  "index": "PCZC079",
+  "name": "PCZC079_Yamamoto_Kaga",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

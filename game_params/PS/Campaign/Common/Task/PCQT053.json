@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 16,
+  "conditions": [
+    "<isMyShip shipLevel=\"4,5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isWeaponHits count=\"100\" weaponTypes=\"main atba torps bomber tbomber rocket skipbomber\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4238753712,
+  "index": "PCQT053",
+  "isSingleBattle": true,
+  "lootStars": 4,
+  "name": "PCQT053",
+  "rewards": [
+    "<Item idx=\"PCEF018_IX_SignalFlag\" count=\"10\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT053_1",
+    "isWeaponHits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA014_BritishCVArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC295_BRITISHCVARC_CUT_THROTTLE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3985546160,
+  "index": "PCZC295",
+  "name": "PCZC295_BritishCVArc_Cut_Throttle",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

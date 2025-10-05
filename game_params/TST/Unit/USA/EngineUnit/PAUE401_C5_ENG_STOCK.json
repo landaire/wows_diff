@@ -1,0 +1,13 @@
+{
+  "costCR": 84000,
+  "costXP": 0,
+  "id": 3874336752,
+  "index": "PAUE401",
+  "name": "PAUE401_C5_ENG_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

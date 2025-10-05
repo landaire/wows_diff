@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4273388496,
+  "index": "PBRS020",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/radar/search/BRS020_RDF_Type_281_bow/BRS020_RDF_Type_281_bow.model",
+  "name": "PBRS020_RDF_Type_281_bow",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

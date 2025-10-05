@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA008_Vivalafrance",
+  "compensationCR": 0,
+  "description": "IDS_PCZC169_VIVALAFRANCE_GASCONHA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4117666736,
+  "index": "PCZC169",
+  "name": "PCZC169_VivaLaFrance_Gasconha",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

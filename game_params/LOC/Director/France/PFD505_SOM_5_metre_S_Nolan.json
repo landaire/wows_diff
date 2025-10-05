@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3764581200,
+  "index": "PFD505",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD505_SOM_5_metre_S_Nolan/FD505_SOM_5_metre_S_Nolan.model",
+  "name": "PFD505_SOM_5_metre_S_Nolan",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

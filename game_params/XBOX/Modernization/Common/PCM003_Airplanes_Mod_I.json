@@ -1,0 +1,83 @@
+{
+  "canCharge": true,
+  "costCR": 125000,
+  "excludes": [
+    "PXSB006_Paris",
+    "PXSB007_Alldestroyer",
+    "PXSC004_Galaxy",
+    "PXSC005_Zaya",
+    "PXSC006_Norma",
+    "PXSC007_Aurora",
+    "PXSD004_FlyFire",
+    "PXSD005_Blue_Aster"
+  ],
+  "group": [
+    "upgradeable",
+    "disabled",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "event",
+    "specialUnsellable",
+    "demoWithoutStats",
+    "demoWithoutStatsPrem",
+    "demoWithoutStatsTemporary",
+    "experimental",
+    "start",
+    "peculiar",
+    "clan",
+    "ultimate",
+    "earlyAccess",
+    "notForBattle",
+    "superShip",
+    "coopOnly"
+  ],
+  "id": 4290957232,
+  "index": "PCM003",
+  "modifiers": {
+    "planeEmptyReturnSpeed": 1.2
+  },
+  "name": "PCM003_Airplanes_Mod_I",
+  "nation": [
+    "France",
+    "USA",
+    "Russia",
+    "Japan",
+    "United_Kingdom",
+    "Germany",
+    "Italy",
+    "Europe",
+    "Netherlands",
+    "Spain",
+    "Pan_Asia",
+    "Pan_America",
+    "Commonwealth"
+  ],
+  "shiplevel": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "ships": [
+    "PXSA005_Hellcarrier"
+  ],
+  "shiptype": [
+    "AirCarrier"
+  ],
+  "slot": 0,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

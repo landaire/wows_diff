@@ -1,0 +1,25 @@
+{
+  "allMissions": [
+    "PCQM070",
+    "PCQM071",
+    "PCQM072",
+    "PCQM073",
+    "PCQM074"
+  ],
+  "enabled": true,
+  "endTime": "",
+  "hidden": false,
+  "id": 4284399536,
+  "index": "PCQC010",
+  "isNarrative": true,
+  "mainTask": "PCQT549_Key",
+  "name": "PCQC010_Halsey",
+  "startTime": "",
+  "token": "",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Campaign",
+    "type": "Campaign"
+  },
+  "uiNumber": 8
+}

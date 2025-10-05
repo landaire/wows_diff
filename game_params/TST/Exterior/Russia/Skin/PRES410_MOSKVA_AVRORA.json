@@ -1,0 +1,337 @@
+{
+  "RarityCategory": {
+    "name": "Epic"
+  },
+  "camouflage": "",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 8000,
+  "effects": {
+    "A_Hull": {
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_big.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_big.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_big.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_small_SpaceRed.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_big_SpaceRed.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_medium_SpaceRed.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_medium_SpaceRed.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_big_SpaceRed.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_medium_SpaceRed.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_medium_SpaceRed.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_medium_SpaceRed.xml"
+        ]
+      ],
+      "fireResistance": [],
+      "fixDeluge": [],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_big.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_exhaust_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_exhaust_big_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_small.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_medium.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_medium_SpaceRed.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/idlePort_RunSmoke_medium_SpaceRed.xml"
+        ]
+      ],
+      "repairLight": [
+        [
+          "HP_FX_RepairLight_left_1",
+          "particles/vehicles/RepairLight_medium.xml"
+        ],
+        [
+          "HP_FX_RepairLight_left_2",
+          "particles/vehicles/RepairLight_medium.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_1",
+          "particles/vehicles/RepairLight_medium.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_2",
+          "particles/vehicles/RepairLight_medium.xml"
+        ]
+      ],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_medium_SpaceRed.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/RunSmoke_medium_SpaceRed.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back_wide_3.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_big.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": false,
+  "hullConfig": {},
+  "id": 3864456656,
+  "index": "PRES410",
+  "isTemplate": false,
+  "name": "PRES410_MOSKVA_AVRORA",
+  "nodesConfig": {
+    "A1_Artillery": {
+      "HP_RGM_1": {
+        "deadMesh": "content/gameplay/russia/gun/main/RGM552_220mm_SM_6_Space/RGM552_220mm_SM_6_Space_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/russia/gun/main/RGM552_220mm_SM_6_Space/RGM552_220mm_SM_6_Space.model"
+      },
+      "HP_RGM_2": {
+        "deadMesh": "content/gameplay/russia/gun/main/RGM552_220mm_SM_6_Space/RGM552_220mm_SM_6_Space_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/russia/gun/main/RGM552_220mm_SM_6_Space/RGM552_220mm_SM_6_Space.model"
+      },
+      "HP_RGM_3": {
+        "deadMesh": "content/gameplay/russia/gun/main/RGM552_220mm_SM_6_Space/RGM552_220mm_SM_6_Space_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/russia/gun/main/RGM552_220mm_SM_6_Space/RGM552_220mm_SM_6_Space.model"
+      }
+    },
+    "A_ATBA": {
+      "HP_RGS_1": {
+        "deadMesh": "content/gameplay/russia/gun/secondary/RGS553_130mm_BL_109A_Space/RGS553_130mm_BL_109A_Space_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/russia/gun/secondary/RGS553_130mm_BL_109A_Space/RGS553_130mm_BL_109A_Space.model"
+      },
+      "HP_RGS_2": {
+        "deadMesh": "content/gameplay/russia/gun/secondary/RGS553_130mm_BL_109A_Space/RGS553_130mm_BL_109A_Space_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/russia/gun/secondary/RGS553_130mm_BL_109A_Space/RGS553_130mm_BL_109A_Space.model"
+      },
+      "HP_RGS_3": {
+        "deadMesh": "content/gameplay/russia/gun/secondary/RGS553_130mm_BL_109A_Space/RGS553_130mm_BL_109A_Space_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/russia/gun/secondary/RGS553_130mm_BL_109A_Space/RGS553_130mm_BL_109A_Space.model"
+      },
+      "HP_RGS_4": {
+        "deadMesh": "content/gameplay/russia/gun/secondary/RGS553_130mm_BL_109A_Space/RGS553_130mm_BL_109A_Space_dead.model",
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/russia/gun/secondary/RGS553_130mm_BL_109A_Space/RGS553_130mm_BL_109A_Space.model"
+      }
+    },
+    "A_Finders": {
+      "HP_RF_1": {
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/russia/finder/RF506_SPN_500_Space/RF506_SPN_500_Space.model"
+      },
+      "HP_RF_2": {
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/russia/finder/RF507_KDP1_SM42_Space/RF507_KDP1_SM42_Space.model"
+      },
+      "HP_RF_3": {
+        "filterMode": false,
+        "miscFilter": [],
+        "model": "content/gameplay/russia/finder/RF506_SPN_500_Space/RF506_SPN_500_Space.model"
+      }
+    }
+  },
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "april_space",
+  "peculiarityEffects": {
+    "particles/guns/GK_Purging.xml": "particles/guns/GK_Purging_SpaceRed.xml",
+    "particles/guns/GK_Reload.xml": "particles/guns/GK_Reload_SpaceRed.xml",
+    "particles/guns/GK_Shot.xml": "particles/guns/GK_Shot_SpaceRed.xml",
+    "particles/guns/PMK_Purging.xml": "particles/guns/PMK_Purging_SpaceRed.xml",
+    "particles/guns/PMK_Shot.xml": "particles/guns/PMK_Shot_SpaceRed.xml",
+    "particles/vehicles/AirCarrier_death.xml": "particles/vehicles/AirCarrier_death_Space.xml",
+    "particles/vehicles/Battleship_death.xml": "particles/vehicles/Battleship_death_Space.xml",
+    "particles/vehicles/Cruiser_death.xml": "particles/vehicles/Cruiser_death_Space.xml",
+    "particles/vehicles/Destroyer_death.xml": "particles/vehicles/Destroyer_death_Space.xml"
+  },
+  "peculiarityFlag": "space_warships2018",
+  "peculiarityModels": {
+    "content/gameplay/russia/gun/aaircraft/RGA066_45mm_SM_20_Zif/RGA066_45mm_SM_20_Zif.model": "content/gameplay/russia/gun/aaircraft/RGA551_45mm_SM_20_Zif_Space/RGA551_45mm_SM_20_Zif_Space.model",
+    "content/gameplay/russia/gun/aaircraft/RGA066_45mm_SM_20_Zif/RGA066_45mm_SM_20_Zif_dead.model": "content/gameplay/russia/gun/aaircraft/RGA551_45mm_SM_20_Zif_Space/RGA551_45mm_SM_20_Zif_Space_dead.model",
+    "content/gameplay/russia/gun/aaircraft/RGA089_25mm_4M120/RGA089_25mm_4M120.model": "content/gameplay/russia/gun/aaircraft/RGA550_25mm_4M120_Space/RGA550_25mm_4M120_Space.model",
+    "content/gameplay/russia/gun/aaircraft/RGA089_25mm_4M120/RGA089_25mm_4M120_dead.model": "content/gameplay/russia/gun/aaircraft/RGA550_25mm_4M120_Space/RGA550_25mm_4M120_Space_dead.model",
+    "content/gameplay/russia/radar/search/RRS042_Zalp/RRS042_Zalp.model": "content/gameplay/russia/radar/search/RRS999_Invisible_Radar/RRS999_Invisible_Radar.model",
+    "content/gameplay/russia/ship/cruiser/RSC011_Pr_66_Moskva_1948/RSC011_Pr_66_Moskva_1948.model": "content/gameplay/russia/ship/cruiser/RSC033_Moskva_Space/RSC033_Moskva_Space.model"
+  },
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

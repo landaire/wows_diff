@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC127_HSF_KOUKO_NOSA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4161706928,
+  "index": "PCZC127",
+  "name": "PCZC127_HSF_Kouko_Nosa",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

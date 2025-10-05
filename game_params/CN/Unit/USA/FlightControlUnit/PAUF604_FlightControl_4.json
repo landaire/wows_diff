@@ -1,0 +1,13 @@
+{
+  "costCR": 4000,
+  "costXP": 1,
+  "id": 3661443056,
+  "index": "PAUF604",
+  "name": "PAUF604_FlightControl_4",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

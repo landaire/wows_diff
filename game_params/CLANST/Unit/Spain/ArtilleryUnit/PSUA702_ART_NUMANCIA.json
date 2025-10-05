@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3558845872,
+  "index": "PSUA702",
+  "name": "PSUA702_ART_NUMANCIA",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

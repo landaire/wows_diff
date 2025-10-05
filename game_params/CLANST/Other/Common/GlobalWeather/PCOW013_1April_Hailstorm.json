@@ -1,0 +1,60 @@
+{
+  "audio": {
+    "effect": "Meteor_Rain",
+    "intensity": 100.0
+  },
+  "bounds": {
+    "max": {
+      "height": 1000.0,
+      "radius": 100500.0
+    },
+    "min": {
+      "height": 1000.0,
+      "radius": 20.0
+    },
+    "scale": {
+      "height": 1.0,
+      "radius": 1.0
+    }
+  },
+  "changeDist": 35.0,
+  "changeStart": 25.0,
+  "effects": [
+    "particles/asteroid_storm_APR.xml"
+  ],
+  "graphics": "Rain",
+  "id": 4280600496,
+  "index": "PCOW013",
+  "logic1": {
+    "AAMaxDist": 0.5,
+    "GMIdealRadius": null,
+    "GSIdealRadius": null,
+    "GSMIdealRadius": null,
+    "airDefenseVisibilityTime": null,
+    "bad": 1.0,
+    "burnDamage": null,
+    "burnTime": null,
+    "maxPlaneVisionDistance": 500.0,
+    "maxShipVisionDistance": 500.0,
+    "maxVisibilityDistance": 500,
+    "maxVisibilityDistanceByPlane": 300,
+    "mgVisibilityTime": null,
+    "planeMaxVisibilityDistance": null,
+    "planeMaxVisibilityDistanceByPlane": null,
+    "planeSpeed": 1,
+    "planeVisibilityFactor": null,
+    "planeVisibilityFactorByPlane": null,
+    "shootShift": null,
+    "speedCoef": null,
+    "transparency": 1.0,
+    "visibilityFactor": 0.9,
+    "visibilityFactorByPlane": 0.9
+  },
+  "name": "PCOW013_1April_Hailstorm",
+  "paramsInterpolationDuration": 2.0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "GlobalWeather",
+    "type": "Other"
+  }
+}

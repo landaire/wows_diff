@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4211274576,
+  "index": "PFD079",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD079_4m_Director_DRBC_32A/FD079_4m_Director_DRBC_32A.model",
+  "name": "PFD079_4m_Director_DRBC_32A",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

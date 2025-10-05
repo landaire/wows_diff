@@ -1,0 +1,13 @@
+{
+  "costCR": 80000,
+  "costXP": 800,
+  "id": 4081495504,
+  "index": "PRUS203",
+  "name": "PRUS203_B3_SUO_TOP",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

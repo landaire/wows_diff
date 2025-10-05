@@ -1,0 +1,13 @@
+{
+  "costCR": 1550000,
+  "costXP": 20000,
+  "id": 3558846288,
+  "index": "PFUA702",
+  "name": "PFUA702_C8_ART_TOP",
+  "typeinfo": {
+    "nation": "France",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

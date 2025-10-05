@@ -1,0 +1,496 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "camo_Incomparable_Clanes",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 6000,
+  "effects": {
+    "A_Hull": {
+      "acid": [],
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_vsmall.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_vsmall.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_vsmall.xml"
+        ]
+      ],
+      "descent": [
+        [
+          "HP_FX_Death_1",
+          "particles/submarines/Sub_deform_descent.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/submarines/Sub_deform_descent.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/submarines/Sub_deform_descent.xml"
+        ],
+        [
+          "HP_FX_Descent_1",
+          "particles/submarines/Sub_steam_descent_2.xml"
+        ],
+        [
+          "HP_FX_Descent_2",
+          "particles/submarines/Sub_steam_descent_2.xml"
+        ],
+        [
+          "HP_FX_Descent_3",
+          "particles/submarines/Sub_steam_descent_2.xml"
+        ],
+        [
+          "HP_FX_Descent_4",
+          "particles/submarines/Sub_steam_descent_2.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/submarines/Fire_vvsmall_sub.xml"
+        ],
+        [
+          "HP_FX_Fire_2",
+          "particles/submarines/Fire_vvsmall_sub.xml"
+        ]
+      ],
+      "fire2": [],
+      "fire3": [],
+      "fire4": [],
+      "fireResistance": [],
+      "fixDeluge": [
+        [
+          "HP_FX_Flood_water_left",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_2",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_2",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ]
+      ],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_small.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/submarines/Flood_steam_vsmall_sub.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/submarines/Flood_steam_vsmall_sub.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_small.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_small.xml"
+        ]
+      ],
+      "horn": [],
+      "hydrophone": [
+        [
+          "HP_FX_Hydrophone",
+          "particles/submarines/Hydrophone_waves.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Flood_water_left",
+          "particles/vehicles/idlePort_Flood_deluge_small_sub.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_2",
+          "particles/vehicles/idlePort_Flood_deluge_small_sub.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right",
+          "particles/vehicles/idlePort_Flood_deluge_small_sub.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_2",
+          "particles/vehicles/idlePort_Flood_deluge_small_sub.xml"
+        ]
+      ],
+      "oil": [
+        [
+          "HP_FX_Oil",
+          "particles/submarines/Sub_oil.xml"
+        ]
+      ],
+      "oilBubble": [
+        [
+          "HP_FX_Oil",
+          "particles/submarines/Sub_oil_burst.xml"
+        ]
+      ],
+      "propellerEffect": [
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_small_2.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_small_2.xml"
+        ]
+      ],
+      "propellerEffectReversed": [
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_small_2.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_small_2.xml"
+        ]
+      ],
+      "rageMode": [],
+      "rageModeFullScreen": [],
+      "repairLight": [],
+      "runoff": [
+        [
+          "HP_FX_Runoff_deluge_left",
+          "particles/submarines/Sub_deluge_medium_5points_1.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_left_1",
+          "particles/submarines/Sub_deluge_big_5points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_left_10",
+          "particles/submarines/Sub_deluge_big_3points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_left_11",
+          "particles/submarines/Sub_deluge_medium_5points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_left_12",
+          "particles/submarines/Sub_deluge_medium_3points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_left_13",
+          "particles/submarines/Sub_deluge_medium_3points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_left_14",
+          "particles/submarines/Sub_deluge_small_5points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_left_2",
+          "particles/submarines/Sub_deluge_big_3points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_left_3",
+          "particles/submarines/Sub_deluge_big_3points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_left_4",
+          "particles/submarines/Sub_deluge_big_3points_1.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_left_5",
+          "particles/submarines/Sub_deluge_big_5points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_left_6",
+          "particles/submarines/Sub_deluge_big_3points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_left_7",
+          "particles/submarines/Sub_deluge_big_3points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_left_8",
+          "particles/submarines/Sub_deluge_big_3points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_left_9",
+          "particles/submarines/Sub_deluge_big_3points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_right",
+          "particles/submarines/Sub_deluge_medium_5points_1.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_right_1",
+          "particles/submarines/Sub_deluge_medium_5points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_right_10",
+          "particles/submarines/Sub_deluge_big_3points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_right_11",
+          "particles/submarines/Sub_deluge_big_3points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_right_12",
+          "particles/submarines/Sub_deluge_big_5points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_right_13",
+          "particles/submarines/Sub_deluge_medium_5points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_right_14",
+          "particles/submarines/Sub_deluge_medium_5points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_right_15",
+          "particles/submarines/Sub_deluge_small_5points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_right_2",
+          "particles/submarines/Sub_deluge_big_3points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_right_3",
+          "particles/submarines/Sub_deluge_big_3points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_right_4",
+          "particles/submarines/Sub_deluge_big_5points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_right_5",
+          "particles/submarines/Sub_deluge_big_5points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_right_6",
+          "particles/submarines/Sub_deluge_big_3points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_right_7",
+          "particles/submarines/Sub_deluge_big_3points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_right_8",
+          "particles/submarines/Sub_deluge_big_3points.xml"
+        ],
+        [
+          "HP_FX_Runoff_deluge_right_9",
+          "particles/submarines/Sub_deluge_big_3points.xml"
+        ],
+        [
+          "HP_FX_Runoff_left",
+          "particles/submarines/Sub_runoff_left.xml"
+        ],
+        [
+          "HP_FX_Runoff_left_1",
+          "particles/submarines/Sub_runoff_left.xml"
+        ],
+        [
+          "HP_FX_Runoff_left_2",
+          "particles/submarines/Sub_runoff_left.xml"
+        ],
+        [
+          "HP_FX_Runoff_right",
+          "particles/submarines/Sub_runoff_right.xml"
+        ],
+        [
+          "HP_FX_Runoff_right_1",
+          "particles/submarines/Sub_runoff_right.xml"
+        ],
+        [
+          "HP_FX_Runoff_right_2",
+          "particles/submarines/Sub_runoff_right.xml"
+        ],
+        [
+          "HP_FX_Runoff_tower_left_1",
+          "particles/submarines/Sub_runoff_thin.xml"
+        ],
+        [
+          "HP_FX_Runoff_tower_left_2",
+          "particles/submarines/Sub_runoff_thin.xml"
+        ],
+        [
+          "HP_FX_Runoff_tower_left_3",
+          "particles/submarines/Sub_runoff_thin.xml"
+        ],
+        [
+          "HP_FX_Runoff_tower_left_4",
+          "particles/submarines/Sub_runoff_thin.xml"
+        ],
+        [
+          "HP_FX_Runoff_tower_right_1",
+          "particles/submarines/Sub_runoff_thin.xml"
+        ],
+        [
+          "HP_FX_Runoff_tower_right_2",
+          "particles/submarines/Sub_runoff_thin.xml"
+        ],
+        [
+          "HP_FX_Runoff_tower_right_3",
+          "particles/submarines/Sub_runoff_thin.xml"
+        ],
+        [
+          "HP_FX_Runoff_tower_right_4",
+          "particles/submarines/Sub_runoff_thin.xml"
+        ],
+        [
+          "HP_FX_Runoff_up_left",
+          "particles/submarines/Sub_runoff_up_left.xml"
+        ],
+        [
+          "HP_FX_Runoff_up_left_2",
+          "particles/submarines/Sub_runoff_up_left.xml"
+        ],
+        [
+          "HP_FX_Runoff_up_left_3",
+          "particles/submarines/Sub_runoff_up_left.xml"
+        ],
+        [
+          "HP_FX_Runoff_up_right",
+          "particles/submarines/Sub_runoff_up_right.xml"
+        ],
+        [
+          "HP_FX_Runoff_up_right_2",
+          "particles/submarines/Sub_runoff_up_right.xml"
+        ],
+        [
+          "HP_FX_Runoff_up_right_3",
+          "particles/submarines/Sub_runoff_up_right.xml"
+        ]
+      ],
+      "smoke": [
+        [
+          "HP_FX_Smoke",
+          "particles/submarines/RunSmoke_sub.xml"
+        ],
+        [
+          "HP_FX_Smoke_1",
+          "particles/submarines/RunSmoke_sub.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/submarines/WakeTraceReverce_back.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack_tower",
+          "particles/submarines/WakeTraceForward_splashes.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_periscope",
+          "particles/submarines/WakeTrace_periscope.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/submarines/WakeTraceForward_front.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/submarines/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_periscope",
+          "particles/submarines/WakeTrace_periscope.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/submarines/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/submarines/WakeTraceForward_screw_right_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_tower",
+          "particles/submarines/WakeTraceForward_splashes.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": true,
+  "hullConfig": {
+    "A_Hull": {
+      "caps": {},
+      "customMiscs": {
+        "battle": [
+          "Battle"
+        ],
+        "dock": [
+          "Dock"
+        ]
+      },
+      "model": "content/gameplay/uk/ship/submarine/BSS009_Thrasher_EarlyAccess/BSS009_Thrasher_EarlyAccess.model"
+    }
+  },
+  "id": 3560370128,
+  "index": "PBES700",
+  "isTemplate": false,
+  "name": "PBES700_Trasher_EA",
+  "nodesConfig": {
+    "A_Artillery": {
+      "HP_BGM_1": {
+        "deadMesh": "content/gameplay/uk/gun/main/BGM599_4in_40_MkXII_SI_Thrasher_UKEA/BGM599_4in_40_MkXII_SI_Thrasher_UKEA_dead.model",
+        "miscFilter": [
+          "MP_BM2059_Thrasher_shield_EA"
+        ],
+        "model": "content/gameplay/uk/gun/main/BGM599_4in_40_MkXII_SI_Thrasher_UKEA/BGM599_4in_40_MkXII_SI_Thrasher_UKEA.model"
+      }
+    }
+  },
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "decorative",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "",
+  "peculiarityModels": {},
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

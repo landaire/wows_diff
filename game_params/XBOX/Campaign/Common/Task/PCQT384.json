@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 0,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isEarnBattleAchievements count=\"3\" achievements=\"PCH003_MainCaliber,PCH005_Support\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3891675056,
+  "index": "PCQT384",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT384",
+  "rewards": [
+    "<Item idx=\"PCEF016_NE7_SignalFlag\" count=\"20\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT384_1",
+    "isEarnBattleAchievements",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

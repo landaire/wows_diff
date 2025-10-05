@@ -1,0 +1,22 @@
+{
+  "bubbleDeeps": [
+    1.1,
+    1.8
+  ],
+  "foamDeeps": [
+    -0.5,
+    12.5
+  ],
+  "fountainDeeps": [
+    1.7,
+    3.0
+  ],
+  "id": 4291208112,
+  "index": "PCXS003",
+  "name": "PCXS003_Carrier",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Sinking",
+    "type": "Sfx"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "FogModel": {
+    "bounds": {
+      "max": {
+        "height": 80.0,
+        "radius": null
+      },
+      "min": {
+        "height": 80.0,
+        "radius": null
+      },
+      "scale": {
+        "height": null,
+        "radius": 1.0
+      }
+    },
+    "model": "content/location/misc/trash/LMT184_HW2023_Fog/LMT184_HW2023_Fog.model"
+  },
+  "SmallFogModel": {
+    "bounds": {
+      "max": {
+        "height": 15.0,
+        "radius": null
+      },
+      "min": {
+        "height": 15.0,
+        "radius": null
+      },
+      "scale": {
+        "height": null,
+        "radius": 1.0
+      }
+    },
+    "model": "content/location/misc/trash/LMT185_HW2023_SmallFog/LMT185_HW2023_SmallFog.model"
+  },
+  "audio": {
+    "effect": "Default",
+    "intensity": 100.0
+  },
+  "bounds": {
+    "max": {
+      "height": 100500.0,
+      "radius": 100500.0
+    },
+    "min": {
+      "height": 1.0,
+      "radius": 1.0
+    },
+    "scale": {
+      "height": 1.0,
+      "radius": 1.0
+    }
+  },
+  "changeDist": 15,
+  "changeStart": -25,
+  "effects": [],
+  "graphics": "Dull",
+  "id": 4292167600,
+  "index": "PCOV002",
+  "logic": {
+    "AAMaxDist": 1.0,
+    "GMIdealRadius": 1.0,
+    "GSIdealRadius": 1.0,
+    "GSMIdealRadius": 1.0,
+    "airDefenseVisibilityTime": 2,
+    "bad": 0.0,
+    "burnDamage": 1.0,
+    "burnTime": 1.0,
+    "maxPlaneVisionDistance": 2000.0,
+    "maxShipVisionDistance": 2000.0,
+    "maxVisibilityDistance": 2000.0,
+    "maxVisibilityDistanceByPlane": 2000.0,
+    "mgVisibilityTime": 20,
+    "planeMaxVisibilityDistance": 2000.0,
+    "planeMaxVisibilityDistanceByPlane": 2000.0,
+    "planeSpeed": 1.0,
+    "planeVisibilityFactor": 1.0,
+    "planeVisibilityFactorByPlane": 1.0,
+    "shootShift": 1.0,
+    "speedCoef": 1.0,
+    "transparency": 1.0,
+    "visibilityFactor": 1.0,
+    "visibilityFactorByPlane": 1.0
+  },
+  "name": "PCOV002_No_Felth",
+  "paramsInterpolationDuration": 0.0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "LocalWeather",
+    "type": "Other"
+  }
+}

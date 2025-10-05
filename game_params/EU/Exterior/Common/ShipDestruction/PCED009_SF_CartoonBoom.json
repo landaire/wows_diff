@@ -1,0 +1,33 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "deathSoundEvent": "Custom_Death_SF_Cartoon_Boom",
+  "effectOnDeath": {
+    "AirCarrier": "particles/Smoke_Cartoon_CustomDeath_AirCarrier_Battleship.xml",
+    "Battleship": "particles/Smoke_Cartoon_CustomDeath_AirCarrier_Battleship.xml",
+    "Cruiser": "particles/Smoke_Cartoon_CustomDeath_Destroyer_Cruiser.xml",
+    "Destroyer": "particles/Smoke_Cartoon_CustomDeath_Destroyer_Cruiser.xml",
+    "Submarine": "particles/Smoke_Cartoon_CustomDeath_Submarine.xml"
+  },
+  "effectOnUnderWaterDeath": "particles/vehicles/Submarine_death.xml",
+  "group": "paintwork",
+  "hidden": false,
+  "id": 4285427632,
+  "index": "PCED009",
+  "isTemplate": false,
+  "name": "PCED009_SF_CartoonBoom",
+  "peculiarity": "thematic",
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "ShipDestruction",
+    "type": "Exterior"
+  }
+}

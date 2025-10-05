@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3688035024,
+  "index": "PJD578",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/director/JD578_Machine_Gun_ControlTower_Yamato_HSF/JD578_Machine_Gun_ControlTower_Yamato_HSF.model",
+  "name": "PJD578_Machine_Gun_ControlTower_Yamato_HSF",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Director"
+  }
+}

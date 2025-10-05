@@ -1,0 +1,13 @@
+{
+  "costCR": 1500000,
+  "costXP": 18000,
+  "id": 3558748112,
+  "index": "PBUD702",
+  "name": "PBUD702_CV8_DB_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

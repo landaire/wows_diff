@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2196958000,
+  "index": "PGF2000",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF2000_3m_Rangefinder_Closed/GF2000_3m_Rangefinder_Closed.model",
+  "name": "PGF2000_3m_Rangefinder_Closed",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

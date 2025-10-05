@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA006_HappyNewYear2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC112_NY2018_BELFASTEMBLEM_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4177435568,
+  "index": "PCZC112",
+  "name": "PCZC112_NY2018_BelfastEmblem",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

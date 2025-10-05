@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4165137392,
+  "index": "PAD123",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/director/AD123_Director_Mk34_RF_Mk45/AD123_Director_Mk34_RF_Mk45.model",
+  "name": "PAD123_Director_Mk34_RF_Mk45",
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "Director"
+  }
+}

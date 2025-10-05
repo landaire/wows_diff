@@ -1,0 +1,13 @@
+{
+  "costCR": 1100000,
+  "costXP": 0,
+  "id": 3542068560,
+  "index": "PVUA718",
+  "name": "PVUA718_ART_IPIRANGA",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

@@ -1,0 +1,22 @@
+{
+  "angle": 0.0,
+  "dist": 0.0,
+  "hidePlane": false,
+  "id": 2196960560,
+  "index": "PWC2000",
+  "isInvisible": false,
+  "launchEffectName": "particles/Empty_FX.xml",
+  "linkedGunAngles": [],
+  "linkedGunName": null,
+  "linkedRotationSpeedCoeff": 1.0,
+  "model": "content/gameplay/europe/catapult/WC2000_Catapult_Lorraine/WC2000_Catapult_Lorraine.model",
+  "name": "PWC2000_Catapult_Lorraine",
+  "planeOffsets": {},
+  "rotateTime": 0.0,
+  "translateDelay": 0.0,
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Catapult"
+  }
+}

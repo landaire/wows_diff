@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 53,
+  "conditions": [
+    "<isMyShip shipLevel=\"2,3,4\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE\"/>",
+    "<isRibbons count=\"210\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3619045296,
+  "index": "PCQT644",
+  "isSingleBattle": false,
+  "lootStars": 1,
+  "name": "PCQT644_Ships",
+  "rewards": [
+    "<Lootbox boxType=\"PCL109_FiveEpochs098_Coll\" count=\"1\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT644_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

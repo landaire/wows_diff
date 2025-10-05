@@ -1,0 +1,13 @@
+{
+  "costCR": 1650000,
+  "costXP": 0,
+  "id": 3559664912,
+  "index": "PXUH701",
+  "name": "PXUH701_BISMARCK_A",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

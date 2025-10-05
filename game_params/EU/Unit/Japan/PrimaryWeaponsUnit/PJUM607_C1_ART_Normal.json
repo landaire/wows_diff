@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3658067664,
+  "index": "PJUM607",
+  "name": "PJUM607_C1_ART_Normal",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "PrimaryWeaponsUnit",
+    "type": "Unit"
+  },
+  "ucType": "_PrimaryWeapons"
+}

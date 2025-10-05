@@ -1,0 +1,15 @@
+{
+  "collectionAlbum": "PCZA002_Bismarck",
+  "compensationCR": 0,
+  "description": "IDS_PCZC014_BISMARCK_209SQUADRON_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4280196016,
+  "index": "PCZC014",
+  "name": "PCZC014_Bismarck_209Squadron",
+  "subAlbums": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

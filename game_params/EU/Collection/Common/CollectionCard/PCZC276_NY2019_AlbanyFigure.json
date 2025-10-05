@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA013_HappyNewYear2019",
+  "compensationCR": 0,
+  "description": "IDS_PCZC276_NY2019_ALBANYFIGURE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4005469104,
+  "index": "PCZC276",
+  "name": "PCZC276_NY2019_AlbanyFigure",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

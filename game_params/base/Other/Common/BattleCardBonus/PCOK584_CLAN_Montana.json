@@ -1,0 +1,18 @@
+{
+  "id": 3682256816,
+  "index": "PCOK584",
+  "level_1": {
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityMain": 0.9
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityMain": 0.9
+  },
+  "name": "PCOK584_CLAN_Montana",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

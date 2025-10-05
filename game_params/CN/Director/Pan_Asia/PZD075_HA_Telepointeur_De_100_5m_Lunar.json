@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4215468240,
+  "index": "PZD075",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD075_HA_Telepointeur_De_100_5m_Lunar/ZD075_HA_Telepointeur_De_100_5m_Lunar.model",
+  "name": "PZD075_HA_Telepointeur_De_100_5m_Lunar",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

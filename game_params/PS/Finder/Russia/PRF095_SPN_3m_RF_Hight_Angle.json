@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4194494928,
+  "index": "PRF095",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/finder/RF095_SPN_3m_RF_Hight_Angle/RF095_SPN_3m_RF_Hight_Angle.model",
+  "name": "PRF095_SPN_3m_RF_Hight_Angle",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Finder"
+  }
+}

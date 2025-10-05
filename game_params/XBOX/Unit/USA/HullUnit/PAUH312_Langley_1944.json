@@ -1,0 +1,13 @@
+{
+  "costCR": 233000,
+  "costXP": 1700,
+  "id": 3967561712,
+  "index": "PAUH312",
+  "name": "PAUH312_Langley_1944",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

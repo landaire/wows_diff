@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4282202576,
+  "index": "PRRF012",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/radar/fcontrol/RRF012_Radar_Mk3/RRF012_Radar_Mk3.model",
+  "name": "PRRF012_Radar_Mk3",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Fire control",
+    "type": "Radar"
+  }
+}

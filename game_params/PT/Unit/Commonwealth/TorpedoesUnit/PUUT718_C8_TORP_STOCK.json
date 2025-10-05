@@ -1,0 +1,13 @@
+{
+  "costCR": 900000,
+  "costXP": 0,
+  "id": 3541446000,
+  "index": "PUUT718",
+  "name": "PUUT718_C8_TORP_STOCK",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

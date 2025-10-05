@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC146_HSF_ISE_SAKURA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4141783984,
+  "index": "PCZC146",
+  "name": "PCZC146_HSF_Ise_Sakura",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

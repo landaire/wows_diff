@@ -1,0 +1,13 @@
+{
+  "costCR": 1650000,
+  "costXP": 0,
+  "id": 3307056848,
+  "index": "PJUE942",
+  "name": "PJUE942_D10_ENG_STOCK_2",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

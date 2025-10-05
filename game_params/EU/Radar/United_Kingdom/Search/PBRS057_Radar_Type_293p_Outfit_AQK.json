@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4234591184,
+  "index": "PBRS057",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/radar/search/BRS057_Radar_Type_293p_Outfit_AQK/BRS057_Radar_Type_293p_Outfit_AQK.model",
+  "name": "PBRS057_Radar_Type_293p_Outfit_AQK",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

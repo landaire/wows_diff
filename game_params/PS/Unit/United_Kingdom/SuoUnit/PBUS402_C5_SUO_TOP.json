@@ -1,0 +1,13 @@
+{
+  "costCR": 460000,
+  "costXP": 4200,
+  "id": 3872829392,
+  "index": "PBUS402",
+  "name": "PBUS402_C5_SUO_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

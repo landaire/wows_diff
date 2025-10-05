@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3767414736,
+  "index": "PBUD503",
+  "name": "PBUD503_DB_ARKROYAL",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

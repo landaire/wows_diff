@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 31,
+  "conditions": [
+    "<isMyShip shipLevel=\"5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isStartFire count=\"4\" class=\"Battleship,AirCarrier\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4193664944,
+  "index": "PCQT096",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT096",
+  "rewards": [
+    "<Item idx=\"PCEF018_IX_SignalFlag\" count=\"10\" />"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT096_1",
+    "isStartFire",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 900000,
+  "costXP": 0,
+  "id": 3559763376,
+  "index": "PSUE701",
+  "name": "PSUE701_C8_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2187770192,
+  "index": "PVRS2009",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panamerica/radar/search/VRS2009_Radar_Type_277_Outfit_AUK/VRS2009_Radar_Type_277_Outfit_AUK.model",
+  "name": "PVRS2009_Radar_Type_277_Outfit_AUK",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

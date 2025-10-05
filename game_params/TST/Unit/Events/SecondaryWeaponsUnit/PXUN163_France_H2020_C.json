@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4123602192,
+  "index": "PXUN163",
+  "name": "PXUN163_France_H2020_C",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "SecondaryWeaponsUnit",
+    "type": "Unit"
+  },
+  "ucType": "_SecondaryWeapons"
+}

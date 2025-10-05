@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4216516816,
+  "index": "PZD074",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD074_8m_Rangefinder_Lunar/ZD074_8m_Rangefinder_Lunar.model",
+  "name": "PZD074_8m_Rangefinder_Lunar",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

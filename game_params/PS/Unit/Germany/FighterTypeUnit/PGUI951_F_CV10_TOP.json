@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3297488688,
+  "index": "PGUI951",
+  "name": "PGUI951_F_CV10_TOP",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

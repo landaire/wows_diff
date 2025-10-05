@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 17,
+  "conditions": [
+    "<isMyShip shipLevel=\"4,5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isKillShipsByWeapon count=\"1\" killTypes=\"torps\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4261822384,
+  "index": "PCQT031",
+  "isSingleBattle": true,
+  "lootStars": 1,
+  "name": "PCQT031",
+  "rewards": [
+    "<Item idx=\"PCEF014_NF_SignalFlag\" count=\"5\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT031_1",
+    "isKillShipsByWeapon",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

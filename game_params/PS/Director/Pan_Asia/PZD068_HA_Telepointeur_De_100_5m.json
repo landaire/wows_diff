@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4222808272,
+  "index": "PZD068",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD068_HA_Telepointeur_De_100_5m/ZD068_HA_Telepointeur_De_100_5m.model",
+  "name": "PZD068_HA_Telepointeur_De_100_5m",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 1720000,
+  "costXP": 21000,
+  "id": 4241436656,
+  "index": "PAUB051",
+  "name": "PAUB051_Douglas_BTD_1",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3711616944,
+  "index": "PCOK556",
+  "level_1": {
+    "burnProb": 0.8,
+    "vulnerabilityAP": 0.9,
+    "vulnerabilityHE": 0.85
+  },
+  "level_2": {
+    "burnProb": 0.8,
+    "vulnerabilityAP": 0.9,
+    "vulnerabilityHE": 0.85
+  },
+  "name": "PCOK556_CLAN_Incheon",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

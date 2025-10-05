@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 5,
+  "conditions": [
+    "<isMyShip shipLevel=\"5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isDamage count=\"25000\" damageTypes=\"fire\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4182130608,
+  "index": "PCQT107",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT107",
+  "rewards": [
+    "<Add type=\"FREE_XP\" count=\"500\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT107_1",
+    "isDamage",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

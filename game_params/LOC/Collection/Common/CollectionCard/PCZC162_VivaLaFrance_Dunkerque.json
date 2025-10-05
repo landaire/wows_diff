@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA008_Vivalafrance",
+  "compensationCR": 0,
+  "description": "IDS_PCZC162_VIVALAFRANCE_DUNKERQUE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4125006768,
+  "index": "PCZC162",
+  "name": "PCZC162_VivaLaFrance_Dunkerque",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

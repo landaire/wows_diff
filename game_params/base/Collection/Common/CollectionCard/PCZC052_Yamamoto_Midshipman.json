@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC052_YAMAMOTO_MIDSHIPMAN_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4240350128,
+  "index": "PCZC052",
+  "name": "PCZC052_Yamamoto_Midshipman",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

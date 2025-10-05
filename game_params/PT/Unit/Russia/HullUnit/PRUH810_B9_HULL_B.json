@@ -1,0 +1,13 @@
+{
+  "costCR": 6900000,
+  "costXP": 64000,
+  "id": 3445370320,
+  "index": "PRUH810",
+  "name": "PRUH810_B9_HULL_B",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

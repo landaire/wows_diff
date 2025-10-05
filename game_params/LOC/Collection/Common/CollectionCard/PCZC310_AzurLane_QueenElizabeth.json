@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC310_AZURLANE_QUEENELIZABETH_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3969817520,
+  "index": "PCZC310",
+  "name": "PCZC310_AzurLane_QueenElizabeth",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

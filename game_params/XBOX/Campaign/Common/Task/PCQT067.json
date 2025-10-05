@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 60,
+  "conditions": [
+    "<isMyShip shipLevel=\"4,5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isRibbons count=\"2\" ribbons=\"BASE_DEFENSE\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 4224073648,
+  "index": "PCQT067",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT067",
+  "rewards": [
+    "<Item idx=\"PCEA041_FreeXPboost_1\" count=\"5\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT067_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

@@ -1,0 +1,40 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4241674160,
+  "index": "PCM050",
+  "modifiers": {
+    "GMMaxDist": 1.05,
+    "GMShotDelay": 0.9,
+    "SGRudderTime": 1.0,
+    "visibilityDistCoeff": {
+      "AirCarrier": 1.1,
+      "Auxiliary": 1.1,
+      "Battleship": 1.1,
+      "Cruiser": 1.1,
+      "Destroyer": 1.1,
+      "Submarine": 1.1
+    },
+    "visibilityForSubmarineCoeff": 1.1
+  },
+  "name": "PCM050_Special_Mod_I_Henri_IV",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PFSC110_Henri_IV",
+    "PFSC810_Henri_IV"
+  ],
+  "shiptype": [],
+  "slot": 4,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

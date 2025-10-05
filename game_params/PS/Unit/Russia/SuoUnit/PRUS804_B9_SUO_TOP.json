@@ -1,0 +1,13 @@
+{
+  "costCR": 3900000,
+  "costXP": 36000,
+  "id": 3451301328,
+  "index": "PRUS804",
+  "name": "PRUS804_B9_SUO_TOP",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 22000,
+  "costXP": 0,
+  "id": 4073697232,
+  "index": "PBUA211",
+  "name": "PBUA211_C3_ART_STOCK",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

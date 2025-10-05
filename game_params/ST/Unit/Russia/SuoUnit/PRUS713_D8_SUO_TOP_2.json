@@ -1,0 +1,13 @@
+{
+  "costCR": 1700000,
+  "costXP": 20000,
+  "id": 3546721744,
+  "index": "PRUS713",
+  "name": "PRUS713_D8_SUO_TOP_2",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

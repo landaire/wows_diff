@@ -1,0 +1,13 @@
+{
+  "costCR": 570000,
+  "costXP": 7300,
+  "id": 3557568208,
+  "index": "PJUH703",
+  "name": "PJUH703_Fubuki_1943",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

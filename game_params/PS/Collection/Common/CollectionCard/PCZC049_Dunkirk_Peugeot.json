@@ -1,0 +1,15 @@
+{
+  "collectionAlbum": "PCZA003_Dunkirk",
+  "compensationCR": 0,
+  "description": "IDS_PCZC049_DUNKIRK_PEUGEOT_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4243495856,
+  "index": "PCZC049",
+  "name": "PCZC049_Dunkirk_Peugeot",
+  "subAlbums": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

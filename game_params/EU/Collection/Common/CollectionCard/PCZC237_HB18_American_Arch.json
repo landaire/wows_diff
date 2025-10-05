@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA010_HappyBirthday2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC237_HB18_AMERICAN_ARCH_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4046363568,
+  "index": "PCZC237",
+  "name": "PCZC237_HB18_American_Arch",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

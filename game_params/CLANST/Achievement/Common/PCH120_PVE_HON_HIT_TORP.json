@@ -1,0 +1,158 @@
+{
+  "battleTypes": [
+    "PVE",
+    "PVE_PREMADE"
+  ],
+  "constants": {
+    "hitCount": 15
+  },
+  "enabled": true,
+  "events": [
+    [
+      "meAttack",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "subInstruction",
+          [
+            "subInstruction",
+            [
+              "damage",
+              "weaponType",
+              "==",
+              "weaponType",
+              "TORPEDO"
+            ],
+            "or",
+            "subInstruction",
+            [
+              "subInstruction",
+              [
+                "damage",
+                "weaponType",
+                "==",
+                "weaponType",
+                "TORPEDO_DEEP"
+              ],
+              "or",
+              "subInstruction",
+              [
+                "damage",
+                "weaponType",
+                "==",
+                "weaponType",
+                "TORPEDO_ACC"
+              ]
+            ]
+          ],
+          "or",
+          "subInstruction",
+          [
+            "subInstruction",
+            [
+              "damage",
+              "weaponType",
+              "==",
+              "weaponType",
+              "TORPEDO_MAG"
+            ],
+            "or",
+            "subInstruction",
+            [
+              "subInstruction",
+              [
+                "damage",
+                "weaponType",
+                "==",
+                "weaponType",
+                "TORPEDO_ACC_OFF"
+              ],
+              "or",
+              "subInstruction",
+              [
+                "damage",
+                "weaponType",
+                "==",
+                "weaponType",
+                "TORPEDO_ALTER"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "meAttack",
+      [
+        [
+          "counter",
+          "a",
+          ">=",
+          "constant",
+          "hitCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4168278960,
+  "index": "PCH120",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH120_PVE_HON_HIT_TORP",
+  "onePerBattle": true,
+  "shipCategories": [
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "earlyAccess",
+    "ultimate",
+    "upgradeableUltimate",
+    "superShip"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "honorable",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": true,
+  "uiName": "PVE_HON_HIT_TORP",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_OPERATIONS",
+  "uiType": "honorable"
+}

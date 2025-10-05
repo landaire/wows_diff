@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA022_GF097",
+  "compensationCR": 0,
+  "description": "IDS_PCZC493_GF097_KROFFICER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3777928112,
+  "index": "PCZC493",
+  "name": "PCZC493_GF097_KrOfficer",
+  "subAlbums": [
+    5
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

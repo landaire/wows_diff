@@ -1,0 +1,25 @@
+{
+  "id": 4249765808,
+  "index": "PCOD043",
+  "markerNameActive": "",
+  "markerNameInactive": "",
+  "maxBuffLevel": 0,
+  "name": "PCOD043_EngineBufftDuration",
+  "payload": {
+    "item_1": {
+      "duration": 10,
+      "level": 1,
+      "params": "PXOM042_EngineBoost_FA2023",
+      "type": 1,
+      "weight": 0
+    },
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

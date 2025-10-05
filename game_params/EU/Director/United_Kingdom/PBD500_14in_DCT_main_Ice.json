@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3769824208,
+  "index": "PBD500",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD500_14in_DCT_main_Ice/BD500_14in_DCT_main_Ice.model",
+  "name": "PBD500_14in_DCT_main_Ice",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

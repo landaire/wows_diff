@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA020_Kots",
+  "compensationCR": 0,
+  "description": "IDS_PCZC427_KOTS_STREAMER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3847134128,
+  "index": "PCZC427",
+  "name": "PCZC427_KOTS_Streamer",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

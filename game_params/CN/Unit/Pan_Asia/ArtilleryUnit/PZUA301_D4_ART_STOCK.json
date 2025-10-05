@@ -1,0 +1,13 @@
+{
+  "costCR": 45000,
+  "costXP": 0,
+  "id": 3979324624,
+  "index": "PZUA301",
+  "name": "PZUA301_D4_ART_STOCK",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

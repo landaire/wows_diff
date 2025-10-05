@@ -1,0 +1,61 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 5,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL055_UK_CV_Coll_Free",
+    "PCL056_UK_CV_Coll_Prem"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA014_BRITISHCVARC",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4280261552,
+  "index": "PCZA014",
+  "isPuzzle": false,
+  "name": "PCZA014_BritishCVArc",
+  "rewards": [
+    "<SetUnlock unlockName=\"Second_Ensign_UKAirCarrier\" count=\"1\"/>",
+    "<SetUnlock unlockName=\"Multi_Camo_commonwealth\" count=\"1\"/>",
+    "<Permoflage shipId=\"PBSA108_Implacable\" idx=\"PBEP518_Implacable_CVArc\" onlySilver=\"0\" count=\"1\"/>",
+    "<Multiboost shipId=\"PBSA108_Implacable\" idx=\"PCEU008_Multi_std8\" compensationType=\"GOLD\" compensationValue=\"0\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_BRITISHCVARC_NAME",
+      "'aa",
+      [
+        "<SetUnlock unlockName=\"Multi_Camo_UKDestroyer\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_BRITISHCVARC_NAME",
+      "'bb",
+      [
+        "<SetUnlock unlockName=\"Multi_Camo_UKCruiser\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_BRITISHCVARC_NAME",
+      "'cc",
+      [
+        "<SetUnlock unlockName=\"Multi_Camo_UKBattleship\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_BRITISHCVARC_NAME",
+      "'dd",
+      [
+        "<SetUnlock unlockName=\"Multi_Camo_UKAirCarrier\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

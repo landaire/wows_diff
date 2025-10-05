@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4255988688,
+  "index": "PBRF037",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/radar/fcontrol/BRF037_Radar_Type_978Q/BRF037_Radar_Type_978Q.model",
+  "name": "PBRF037_Radar_Type_978Q",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Fire control",
+    "type": "Radar"
+  }
+}

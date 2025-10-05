@@ -1,0 +1,13 @@
+{
+  "costCR": 200000,
+  "costXP": 2600,
+  "id": 4189007568,
+  "index": "PJUB101",
+  "name": "PJUB101_Ryujo_TB_top",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    [
+      "isInvoiceSell",
+      {
+        "count": 50000
+      }
+    ]
+  ],
+  "id": 4279846832,
+  "index": "PCON014",
+  "name": "PCON014",
+  "rewards": [
+    [
+      "Add",
+      {
+        "count": 200000,
+        "type": "CREDITS"
+      }
+    ]
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "NewbieQuest",
+    "type": "Other"
+  },
+  "unlock": "WEB_STORAGE"
+}

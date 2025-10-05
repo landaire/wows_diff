@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3349589424,
+  "index": "PSUS901",
+  "name": "PSUS901_SUO_BAZAN",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

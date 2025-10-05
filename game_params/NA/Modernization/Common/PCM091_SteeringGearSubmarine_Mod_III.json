@@ -1,0 +1,27 @@
+{
+  "canCharge": true,
+  "costCR": 2000000,
+  "excludes": [],
+  "group": [],
+  "id": 4198682544,
+  "index": "PCM091",
+  "modifiers": {
+    "SGRepairTime": 0.2,
+    "SGRudderTime": 0.6,
+    "buoyancyRudderResetTimeCoeff": 0.6,
+    "buoyancyRudderTimeCoeff": 0.6
+  },
+  "name": "PCM091_SteeringGearSubmarine_Mod_III",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [],
+  "shiptype": [],
+  "slot": 4,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

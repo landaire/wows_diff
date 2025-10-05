@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC136_HSF_YAMASHITA_HIDEKO_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4152269744,
+  "index": "PCZC136",
+  "name": "PCZC136_HSF_Yamashita_Hideko",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

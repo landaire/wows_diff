@@ -1,0 +1,13 @@
+{
+  "costCR": 570000,
+  "costXP": 0,
+  "id": 3664129360,
+  "index": "PVUT601",
+  "name": "PVUT601_C7_TORP_STOCK",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

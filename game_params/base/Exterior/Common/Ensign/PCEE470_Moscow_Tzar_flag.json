@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "tsar_moscow_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3802001328,
+  "index": "PCEE470",
+  "isTemplate": false,
+  "name": "PCEE470_Moscow_Tzar_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHidden_CN"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

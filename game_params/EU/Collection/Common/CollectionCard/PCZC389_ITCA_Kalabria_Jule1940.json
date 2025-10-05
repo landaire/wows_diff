@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA018_ITCA_0810",
+  "compensationCR": 0,
+  "description": "IDS_PCZC389_ITCA_KALABRIA_JULE1940_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3886980016,
+  "index": "PCZC389",
+  "name": "PCZC389_ITCA_Kalabria_Jule1940",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

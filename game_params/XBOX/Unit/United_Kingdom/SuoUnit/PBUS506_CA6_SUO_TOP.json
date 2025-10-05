@@ -1,0 +1,13 @@
+{
+  "costCR": 570000,
+  "costXP": 7100,
+  "id": 3763777488,
+  "index": "PBUS506",
+  "name": "PBUS506_CA6_SUO_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

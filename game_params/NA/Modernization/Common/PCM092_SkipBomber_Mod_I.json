@@ -1,0 +1,69 @@
+{
+  "canCharge": true,
+  "costCR": 500000,
+  "excludes": [
+    "PXSA005_Hellcarrier",
+    "PXSB006_Paris",
+    "PXSB007_Alldestroyer",
+    "PXSC004_Galaxy",
+    "PXSC005_Zaya",
+    "PXSC006_Norma",
+    "PXSC007_Aurora",
+    "PXSD004_FlyFire",
+    "PXSD005_Blue_Aster"
+  ],
+  "group": [
+    "upgradeable",
+    "disabled",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "event",
+    "specialUnsellable",
+    "demoWithoutStats",
+    "demoWithoutStatsPrem",
+    "demoWithoutStatsTemporary",
+    "experimental",
+    "start",
+    "peculiar",
+    "clan",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "superShip",
+    "notForBattle",
+    "coopOnly"
+  ],
+  "id": 4197633968,
+  "index": "PCM092",
+  "modifiers": {
+    "skipBomberAimingTime": 2.0
+  },
+  "name": "PCM092_SkipBomber_Mod_I",
+  "nation": [
+    "Russia"
+  ],
+  "shiplevel": [
+    6,
+    8,
+    10
+  ],
+  "ships": [
+    "PGSA510_Werner_Voss",
+    "PGSA610_Max_Immelmann",
+    "PFSA506_Bearn",
+    "PBSA718_Theseus",
+    "PJSA710_Shinano"
+  ],
+  "shiptype": [
+    "AirCarrier"
+  ],
+  "slot": 2,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC333_AZURLANE_JEANBART_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3945700272,
+  "index": "PCZC333",
+  "name": "PCZC333_AzurLane_JeanBart",
+  "subAlbums": [
+    5
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

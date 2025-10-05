@@ -1,0 +1,30 @@
+{
+  "allMissions": [
+    "PCQM001",
+    "PCQM002",
+    "PCQM003",
+    "PCQM004",
+    "PCQM005",
+    "PCQM006",
+    "PCQM007",
+    "PCQM008",
+    "PCQM009",
+    "PCQM010"
+  ],
+  "enabled": true,
+  "endTime": "",
+  "hidden": false,
+  "id": 4293836720,
+  "index": "PCQC001",
+  "isNarrative": false,
+  "mainTask": "PCQT148_Key",
+  "name": "PCQC001_Campaign1",
+  "startTime": "",
+  "token": "",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Campaign",
+    "type": "Campaign"
+  },
+  "uiNumber": 3
+}

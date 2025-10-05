@@ -1,0 +1,110 @@
+{
+  "constants": {
+    "playerRibbonCount": 4,
+    "totalRibbonCount": 12
+  },
+  "enabled": true,
+  "events": [
+    [
+      "meRibbon",
+      [
+        [
+          "me",
+          "inReferralSquad"
+        ],
+        [
+          "forReferralSquad",
+          [
+            "ribbon",
+            "ids",
+            "not in",
+            "set",
+            "get"
+          ],
+          "==",
+          "me",
+          "shipsInReferralSquad"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "meRibbon",
+      [
+        [
+          "me",
+          "inReferralSquad"
+        ]
+      ],
+      [
+        [
+          "set",
+          "add",
+          ":",
+          "ribbon",
+          "ids"
+        ]
+      ]
+    ],
+    [
+      "onRibbon",
+      [
+        [
+          "me",
+          "inReferralSquad"
+        ],
+        [
+          "forReferralSquad",
+          [
+            "counter",
+            "a"
+          ],
+          ">=",
+          "constant",
+          "totalRibbonCount"
+        ],
+        [
+          "forReferralSquad",
+          [
+            "set",
+            "len",
+            ">=",
+            "constant",
+            "playerRibbonCount"
+          ],
+          "==",
+          "me",
+          "shipsInReferralSquad"
+        ]
+      ],
+      [
+        [
+          "forReferralSquad",
+          [
+            "doAction",
+            "done"
+          ]
+        ]
+      ]
+    ]
+  ],
+  "id": 4288595888,
+  "index": "PCOC006",
+  "keepCounters": false,
+  "name": "PCOC006_REF_SQUAD_DIFFERENT_RIBBONS",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "AchievementCondition",
+    "type": "Other"
+  },
+  "uiDescription": "IDS_ACHIEVEMENT_CONDITION_REF_SQUAD_DIFFERENT_RIBBONS_DESCRIPTION",
+  "uiHeader": "IDS_ACHIEVEMENT_CONDITION_REF_SQUAD_DIFFERENT_RIBBONS_TITLE"
+}

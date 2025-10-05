@@ -1,0 +1,96 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "ArmsBattles",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 1.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 0,
+  "gameLogicConfig": {},
+  "id": 4268600240,
+  "index": "PCVE025",
+  "matchmakerConfig": "event2Airships",
+  "name": "PCVE025_2Airships",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        1
+      ],
+      "Battleship": [
+        0,
+        6
+      ],
+      "Cruiser": [
+        0,
+        7
+      ],
+      "Destroyer": [
+        0,
+        4
+      ],
+      "Submarine": [
+        0,
+        2
+      ]
+    },
+    "filters": [
+      {
+        "shipLevels": [
+          8,
+          9,
+          10
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship",
+          "AirCarrier",
+          "Submarine"
+        ]
+      }
+    ],
+    "totalShips": 24
+  },
+  "scenariosByMap": {
+    "spaces/15_NE_north": [
+      "two_airships"
+    ],
+    "spaces/16_OC_bees_to_honey": [
+      "two_airships"
+    ],
+    "spaces/18_NE_ice_islands": [
+      "two_airships"
+    ],
+    "spaces/23_Shards": [
+      "two_airships"
+    ],
+    "spaces/25_sea_hope": [
+      "two_airships"
+    ],
+    "spaces/38_Canada": [
+      "two_airships"
+    ],
+    "spaces/41_Conquest": [
+      "two_airships"
+    ],
+    "spaces/44_Path_warrior": [
+      "two_airships"
+    ],
+    "spaces/46_Estuary": [
+      "two_airships"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3660772048,
+  "index": "PJD604",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/director/JD604_Director_Type_98_10m_HW19/JD604_Director_Type_98_10m_HW19.model",
+  "name": "PJD604_Director_Type_98_10m_HW19",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Director"
+  }
+}

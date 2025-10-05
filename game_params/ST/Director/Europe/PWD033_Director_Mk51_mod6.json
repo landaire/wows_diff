@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4259508528,
+  "index": "PWD033",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/director/WD033_Director_Mk51_mod6/WD033_Director_Mk51_mod6.model",
+  "name": "PWD033_Director_Mk51_mod6",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Director"
+  }
+}

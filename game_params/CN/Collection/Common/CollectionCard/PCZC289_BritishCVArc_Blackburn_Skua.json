@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA014_BritishCVArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC289_BRITISHCVARC_BLACKBURN_SKUA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3991837616,
+  "index": "PCZC289",
+  "name": "PCZC289_BritishCVArc_Blackburn_Skua",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

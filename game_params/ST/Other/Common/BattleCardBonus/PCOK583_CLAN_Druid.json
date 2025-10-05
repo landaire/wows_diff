@@ -1,0 +1,18 @@
+{
+  "id": 3683305392,
+  "index": "PCOK583",
+  "level_1": {
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityAP": 0.9
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityAP": 0.9
+  },
+  "name": "PCOK583_CLAN_Druid",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

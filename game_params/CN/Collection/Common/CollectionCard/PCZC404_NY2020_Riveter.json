@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA019_HappyNewYear2020",
+  "compensationCR": 0,
+  "description": "IDS_PCZC404_NY2020_RIVETER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3871251376,
+  "index": "PCZC404",
+  "name": "PCZC404_NY2020_Riveter",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

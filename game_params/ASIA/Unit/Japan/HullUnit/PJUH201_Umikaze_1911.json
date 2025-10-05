@@ -1,0 +1,13 @@
+{
+  "costCR": 8900,
+  "costXP": 0,
+  "id": 4083953360,
+  "index": "PJUH201",
+  "name": "PJUH201_Umikaze_1911",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,34 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4239577008,
+  "index": "PCM052",
+  "modifiers": {
+    "SGRudderTime": 0.8,
+    "engineBackwardForsageMaxSpeed": 2.0,
+    "engineBackwardForsagePower": 1.15,
+    "engineBackwardUpTime": 0.5,
+    "engineForwardForsageMaxSpeed": 3.75,
+    "engineForwardForsagePower": 1.1,
+    "engineForwardUpTime": 0.5
+  },
+  "name": "PCM052_Special_Mod_I_Des_Moines",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PASC020_Des_Moines_1948"
+  ],
+  "shiptype": [],
+  "slot": 5,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

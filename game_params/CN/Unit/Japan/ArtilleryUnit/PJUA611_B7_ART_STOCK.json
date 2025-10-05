@@ -1,0 +1,13 @@
+{
+  "costCR": 560000,
+  "costXP": 0,
+  "id": 3654266576,
+  "index": "PJUA611",
+  "name": "PJUA611_B7_ART_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

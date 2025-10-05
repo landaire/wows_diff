@@ -1,0 +1,13 @@
+{
+  "costCR": 16000,
+  "costXP": 0,
+  "id": 4084051408,
+  "index": "PRUE201",
+  "name": "PRUE201_D3_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

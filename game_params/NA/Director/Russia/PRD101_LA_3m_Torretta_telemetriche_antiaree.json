@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4188205520,
+  "index": "PRD101",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/director/RD101_LA_3m_Torretta_telemetriche_antiaree/RD101_LA_3m_Torretta_telemetriche_antiaree.model",
+  "name": "PRD101_LA_3m_Torretta_telemetriche_antiaree",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Director"
+  }
+}

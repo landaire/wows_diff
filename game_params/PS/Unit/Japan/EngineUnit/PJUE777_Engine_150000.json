@@ -1,0 +1,13 @@
+{
+  "costCR": 9000,
+  "costXP": 3500,
+  "id": 3480071888,
+  "index": "PJUE777",
+  "name": "PJUE777_Engine_150000",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

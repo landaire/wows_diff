@@ -1,0 +1,18 @@
+{
+  "id": 3717908400,
+  "index": "PCOK550",
+  "level_1": {
+    "burnProb": 0.7,
+    "vulnerabilityHE": 0.9
+  },
+  "level_2": {
+    "burnProb": 0.7,
+    "vulnerabilityHE": 0.9
+  },
+  "name": "PCOK550_CLAN_Oranje",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

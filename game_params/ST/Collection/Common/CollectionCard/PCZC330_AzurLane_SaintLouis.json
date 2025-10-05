@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC330_AZURLANE_SAINTLOUIS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3948846000,
+  "index": "PCZC330",
+  "name": "PCZC330_AzurLane_SaintLouis",
+  "subAlbums": [
+    5
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 260000,
+  "costXP": 3200,
+  "id": 4289441488,
+  "index": "PJUI005",
+  "name": "PJUI005_Mitsubishi_A5M2",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

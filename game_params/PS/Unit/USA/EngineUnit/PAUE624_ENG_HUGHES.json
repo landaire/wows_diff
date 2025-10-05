@@ -1,0 +1,13 @@
+{
+  "costCR": 395000,
+  "costXP": 0,
+  "id": 3640504304,
+  "index": "PAUE624",
+  "name": "PAUE624_ENG_HUGHES",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

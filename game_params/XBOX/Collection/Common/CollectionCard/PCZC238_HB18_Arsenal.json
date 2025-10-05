@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA010_HappyBirthday2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC238_HB18_ARSENAL_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4045314992,
+  "index": "PCZC238",
+  "name": "PCZC238_HB18_Arsenal",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

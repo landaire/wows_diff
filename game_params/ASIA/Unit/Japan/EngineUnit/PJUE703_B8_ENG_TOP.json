@@ -1,0 +1,13 @@
+{
+  "costCR": 900000,
+  "costXP": 12500,
+  "id": 3557666512,
+  "index": "PJUE703",
+  "name": "PJUE703_B8_ENG_TOP",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,22 @@
+{
+  "angle": 0.0,
+  "dist": 0.0,
+  "hidePlane": false,
+  "id": 4278384592,
+  "index": "PBC015",
+  "isInvisible": false,
+  "launchEffectName": "particles/Empty_FX.xml",
+  "linkedGunAngles": [],
+  "linkedGunName": null,
+  "linkedRotationSpeedCoeff": 1.0,
+  "model": "content/gameplay/uk/catapult/BC015_Catapult_D_II_H/BC015_Catapult_D_II_H.model",
+  "name": "PBC015_Catapult_D_II_H",
+  "planeOffsets": {},
+  "rotateTime": 0.0,
+  "translateDelay": 0.0,
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Catapult"
+  }
+}

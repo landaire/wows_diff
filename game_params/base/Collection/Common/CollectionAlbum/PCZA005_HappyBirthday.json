@@ -1,0 +1,63 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 2,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL016_Bday2Y_Coll_Free"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA005_HAPPYBIRTHDAY",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4289698736,
+  "index": "PCZA005",
+  "isPuzzle": false,
+  "name": "PCZA005_HappyBirthday",
+  "rewards": [
+    "<Permoflage shipId=\"PBSB108_Monarch\" idx=\"PCEP306_Birthday_2017\" onlySilver=\"0\" count=\"1\"/>",
+    "<Multiboost shipId=\"PBSB108_Monarch\" idx=\"PCEU008_Multi_std8\" compensationType=\"GOLD\" compensationValue=\"0\" count=\"1\"/>",
+    "<Item idx=\"PCEE131_Second_anniversary\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_BDSUBCOLLECTION_NAME",
+      "'aa",
+      [
+        "<Permoflage shipId=\"PRSD308_Pr_48\" idx=\"PCEP306_Birthday_2017\" onlySilver=\"0\" count=\"1\"/>",
+        "<Multiboost shipId=\"PRSD308_Pr_48\" idx=\"PCEU008_Multi_std8\" compensationType=\"GOLD\" compensationValue=\"0\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_BDSUBCOLLECTION_NAME",
+      "'bb",
+      [
+        "<Permoflage shipId=\"PFSC108_Charles_Martel\" idx=\"PCEP306_Birthday_2017\" onlySilver=\"0\" count=\"1\"/>",
+        "<Multiboost shipId=\"PFSC108_Charles_Martel\" idx=\"PCEU008_Multi_std8\" compensationType=\"GOLD\" compensationValue=\"0\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_BDSUBCOLLECTION_NAME",
+      "'cc",
+      [
+        "<Permoflage shipId=\"PGSD108_Z_23\" idx=\"PCEP306_Birthday_2017\" onlySilver=\"0\" count=\"1\"/>",
+        "<Multiboost shipId=\"PGSD108_Z_23\" idx=\"PCEU008_Multi_std8\" compensationType=\"GOLD\" compensationValue=\"0\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_BDSUBCOLLECTION_NAME",
+      "'dd",
+      [
+        "<Permoflage shipId=\"PASC107_New_Orlean_1944\" idx=\"PCEP306_Birthday_2017\" onlySilver=\"0\" count=\"1\"/>",
+        "<Multiboost shipId=\"PASC107_New_Orlean_1944\" idx=\"PCEU007_Multi_std7\" compensationType=\"GOLD\" compensationValue=\"0\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

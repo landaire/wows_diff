@@ -1,0 +1,29 @@
+{
+  "backgroundIconID": 3,
+  "conditions": [
+    "<isMyShip shipLevel=\"9,10,11\" nation=\"USA\" class=\"Cruiser\"/>",
+    "<isBattleType battleTypes=\"PVP,RANKED\"/>",
+    "<isBattleResult battleResult=\"win\"/>",
+    "<isDamage count=\"500000\" nation=\"Japan\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3732291504,
+  "index": "PCQT536",
+  "isSingleBattle": false,
+  "lootStars": 3,
+  "name": "PCQT536",
+  "rewards": [
+    "<Item idx=\"PCEF007_ID_SignalFlag\" count=\"30\" />"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT536_1",
+    "isDamage",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

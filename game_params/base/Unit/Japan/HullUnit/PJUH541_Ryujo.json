@@ -1,0 +1,13 @@
+{
+  "costCR": 220000,
+  "costXP": 0,
+  "id": 3727437520,
+  "index": "PJUH541",
+  "name": "PJUH541_Ryujo",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

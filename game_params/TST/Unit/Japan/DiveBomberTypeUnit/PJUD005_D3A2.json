@@ -1,0 +1,13 @@
+{
+  "costCR": 580000,
+  "costXP": 8800,
+  "id": 4289605328,
+  "index": "PJUD005",
+  "name": "PJUD005_D3A2",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

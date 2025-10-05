@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA013_HappyNewYear2019",
+  "compensationCR": 0,
+  "description": "IDS_PCZC268_NY2019_PRINZEITELFRIEDRICHEMBLEM_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4013857712,
+  "index": "PCZC268",
+  "name": "PCZC268_NY2019_PrinzEitelFriedrichEmblem",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

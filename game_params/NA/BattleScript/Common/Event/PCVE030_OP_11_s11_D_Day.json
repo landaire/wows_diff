@@ -1,0 +1,90 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [
+    "Operation1",
+    "TestType1"
+  ],
+  "battleProvider": "PVEEventBattle",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 0,
+  "gameLogicConfig": {},
+  "id": 4263357360,
+  "index": "PCVE030",
+  "matchmakerConfig": "eventEV29DDay",
+  "name": "PCVE030_OP_11_s11_D_Day",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        -1
+      ],
+      "Battleship": [
+        0,
+        2
+      ],
+      "Cruiser": [
+        0,
+        4
+      ],
+      "Destroyer": [
+        0,
+        4
+      ],
+      "Submarine": [
+        0,
+        -1
+      ]
+    },
+    "filters": [
+      {
+        "excludeShips": [
+          "PWSD105_Visby",
+          "PWSD106_Vasteras",
+          "PWSD107_Skane",
+          "PWSD205_Muavenet",
+          "PWSB504_Viribus_Unitis",
+          "PWSC506_Elli"
+        ],
+        "nations": [
+          "United_Kingdom",
+          "France",
+          "USA",
+          "Netherlands",
+          "Europe",
+          "Commonwealth"
+        ],
+        "shipLevels": [
+          5,
+          6,
+          7
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship"
+        ]
+      }
+    ],
+    "minShips": 6,
+    "totalShips": 6
+  },
+  "scenariosByMap": {
+    "spaces/s11_D_day_2": [
+      "D_Day_operation_3"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

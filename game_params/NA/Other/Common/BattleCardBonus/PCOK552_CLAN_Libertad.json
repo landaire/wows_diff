@@ -1,0 +1,20 @@
+{
+  "id": 3715811248,
+  "index": "PCOK552",
+  "level_1": {
+    "GMPenetrationCoeffHE": 1.6,
+    "GSPenetrationCoeffHE": 1.6,
+    "vulnerabilityAtba": 0.8
+  },
+  "level_2": {
+    "GMPenetrationCoeffHE": 1.6,
+    "GSPenetrationCoeffHE": 1.6,
+    "vulnerabilityAtba": 0.8
+  },
+  "name": "PCOK552_CLAN_Libertad",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

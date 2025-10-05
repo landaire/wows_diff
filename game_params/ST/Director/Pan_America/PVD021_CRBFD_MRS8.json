@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4272091472,
+  "index": "PVD021",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panamerica/director/VD021_CRBFD_MRS8/VD021_CRBFD_MRS8.model",
+  "name": "PVD021_CRBFD_MRS8",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": null,
+    "type": "Director"
+  }
+}

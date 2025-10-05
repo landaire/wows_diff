@@ -1,0 +1,13 @@
+{
+  "costCR": 7500,
+  "costXP": 0,
+  "id": 4157583344,
+  "index": "PAUA131",
+  "name": "PAUA131_D2_ART_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

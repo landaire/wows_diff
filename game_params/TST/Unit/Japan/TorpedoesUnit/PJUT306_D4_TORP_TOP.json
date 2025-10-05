@@ -1,0 +1,13 @@
+{
+  "costCR": 200000,
+  "costXP": 2600,
+  "id": 3973459664,
+  "index": "PJUT306",
+  "name": "PJUT306_D4_TORP_TOP",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

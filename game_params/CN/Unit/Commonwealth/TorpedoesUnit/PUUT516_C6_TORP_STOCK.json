@@ -1,0 +1,13 @@
+{
+  "costCR": 300000,
+  "costXP": 0,
+  "id": 3753258352,
+  "index": "PUUT516",
+  "name": "PUUT516_C6_TORP_STOCK",
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

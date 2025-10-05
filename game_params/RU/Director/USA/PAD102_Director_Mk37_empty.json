@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4187157488,
+  "index": "PAD102",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/director/AD102_Director_Mk37_empty/AD102_Director_Mk37_empty.model",
+  "name": "PAD102_Director_Mk37_empty",
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "Director"
+  }
+}

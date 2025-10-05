@@ -1,0 +1,29 @@
+{
+  "backgroundIconID": 56,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\"/>",
+    "<isBattleType battleTypes=\"PVP,RANKED\"/>",
+    "<isTopXP rank=\"3\" topType=\"team\"/>",
+    "<isBattleResultCount battleResult=\"win\" count=\"5\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 4120264624,
+  "index": "PCQT166",
+  "isSingleBattle": false,
+  "lootStars": 3,
+  "name": "PCQT166_CampaignSB_Mission02_Task06",
+  "rewards": [
+    "<Item idx=\"PCEA021_TotalXPboost_1\" count=\"14\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT166_CAMPAIGNSB_MISSION02_TASK06_1",
+    "isBattleResultCount",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

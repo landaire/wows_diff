@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3767726928,
+  "index": "PFD502",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD502_OPL_8_metre_SRF_330mm_Nolan/FD502_OPL_8_metre_SRF_330mm_Nolan.model",
+  "name": "PFD502_OPL_8_metre_SRF_330mm_Nolan",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

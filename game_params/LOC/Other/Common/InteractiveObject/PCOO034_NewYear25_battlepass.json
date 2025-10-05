@@ -1,0 +1,74 @@
+{
+  "id": 4258842544,
+  "index": "PCOO034",
+  "logic": {
+    "InteractiveObjectEvents": {
+      "OnMouseClick": {
+        "InteractiveObjectActions": {
+          "mousePressAction": {
+            "eventData": null,
+            "isSFM": true,
+            "type": 5,
+            "uiEvent": "request.showBattlePassMain"
+          },
+          "mousePressAction2": {
+            "eventData": [
+              "io:newyear25_battlepass_click"
+            ],
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "statistics.log"
+          }
+        },
+        "activeTime": 0.0,
+        "requiredState": "hovered",
+        "targetState": "selected",
+        "type": "onMouseClick"
+      },
+      "OnMouseOver": {
+        "InteractiveObjectActions": {},
+        "activeTime": -1.0,
+        "requiredState": "idle",
+        "targetState": "hovered",
+        "type": "onMouseOver"
+      },
+      "OnMouseOverEnd": {
+        "InteractiveObjectActions": {},
+        "activeTime": 0.0,
+        "requiredState": "hovered",
+        "targetState": "released",
+        "type": "onMouseOverEnd"
+      },
+      "onUIMouseClick": {
+        "InteractiveObjectActions": {
+          "mousePressAction": {
+            "eventData": null,
+            "isSFM": true,
+            "type": 5,
+            "uiEvent": "request.showBattlePassMain"
+          },
+          "mousePressAction2": {
+            "eventData": [
+              "io:newyear25_battlepass_marker_click"
+            ],
+            "isSFM": false,
+            "type": 5,
+            "uiEvent": "statistics.log"
+          }
+        },
+        "activeTime": 0.0,
+        "requiredState": "hovered",
+        "targetState": "selected",
+        "type": "onUISelect"
+      }
+    },
+    "state": "idle"
+  },
+  "name": "PCOO034_NewYear25_battlepass",
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "InteractiveObject",
+    "type": "Other"
+  }
+}

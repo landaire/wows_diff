@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC054_YAMAMOTO_PILOTSUMMER_UNIFORM_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4238252976,
+  "index": "PCZC054",
+  "name": "PCZC054_Yamamoto_PilotSummer_Uniform",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA021_CAPT",
+  "compensationCR": 0,
+  "description": "IDS_PCZC456_CAPT_4_3_FISH_DESCRIPTION",
+  "hasVideo": true,
+  "id": 3816725424,
+  "index": "PCZC456",
+  "name": "PCZC456_CAPT_4_3_fish",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

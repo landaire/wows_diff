@@ -1,0 +1,21 @@
+{
+  "id": 4289611696,
+  "index": "PCOD005",
+  "markerNameActive": "heburnchance_active",
+  "markerNameInactive": "heburnchance_inactive",
+  "maxBuffLevel": 0,
+  "name": "PCOD005_HEBurnChance",
+  "payload": {
+    "duration": -1,
+    "level": 1,
+    "params": "PCOM005_HEBurnChance",
+    "type": 1,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

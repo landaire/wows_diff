@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 20,
+  "conditions": [
+    "<isMyShip shipIds=\"PJSC015_Tatsuta_1919,PJSC013_Kuma_1938,PRSC104_Svetlana,PGSC104_Karlsruhe\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE\"/>",
+    "<isXP count=\"5400\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3604365232,
+  "index": "PCQT658",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT658_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF014_NF_SignalFlag\" count=\"6\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT658_1",
+    "isXP",
+    "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_CA_1"
+  ],
+  "unlockMissions": []
+}

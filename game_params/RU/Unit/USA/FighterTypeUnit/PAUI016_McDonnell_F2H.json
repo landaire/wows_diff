@@ -1,0 +1,13 @@
+{
+  "costCR": 1400000,
+  "costXP": 18000,
+  "id": 4277907440,
+  "index": "PAUI016",
+  "name": "PAUI016_McDonnell_F2H",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

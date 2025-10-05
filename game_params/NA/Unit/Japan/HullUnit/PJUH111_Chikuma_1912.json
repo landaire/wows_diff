@@ -1,0 +1,13 @@
+{
+  "costCR": 10000,
+  "costXP": 0,
+  "id": 4178325200,
+  "index": "PJUH111",
+  "name": "PJUH111_Chikuma_1912",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

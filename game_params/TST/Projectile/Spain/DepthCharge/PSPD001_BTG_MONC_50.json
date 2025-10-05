@@ -1,0 +1,110 @@
+{
+  "acidProb": 0.0,
+  "additionalShips": [],
+  "affectedByPTZ": true,
+  "alertDist": 100,
+  "alphaDamage": 3200.0,
+  "alphaPiercingHE": 0.0,
+  "ammoType": "depthcharge",
+  "applyPTZCoeff": true,
+  "blowUpEffect": "particles/guns/DEPTH_Explo_Water.xml",
+  "bulletSpeed": 300.0,
+  "buoyancyToDamageCoeff": {
+    "DEEP_WATER": 1.0,
+    "DEEP_WATER_INVUL": 1.0,
+    "PERISCOPE": 1.0,
+    "SEMI_DEEP_WATER": 1.0,
+    "SURFACE": 1.0
+  },
+  "burnProb": 0.13,
+  "costCR": 30,
+  "customSoundPostfix": "",
+  "customUIPostfix": "",
+  "damage": 600.0,
+  "depthSplashRadius": 26.67,
+  "directDamage": 0.0,
+  "enemyHitSurfaceEffect": "particles/guns/DEPTH_Explo_Water.xml",
+  "enemyHitUnderwaterEffect": "particles/guns/DEPTH_Explo_UWater.xml",
+  "explosivePower": 100.0,
+  "fallDistance": 20.0,
+  "fallTime": 20.0,
+  "fallingTimeCoef": 1.0,
+  "fallingTracerEffect": "particles/guns/DEPTH_Tracer_Plane.xml",
+  "floodGeneration": true,
+  "ground": "particles/guns/DEPTH_Drop_Ground.xml",
+  "hitDecalSize": 0.0,
+  "id": 4293804464,
+  "ignoreBuoyancyStates": [],
+  "ignoreClasses": [
+    "AirCarrier",
+    "Battleship",
+    "Cruiser",
+    "Destroyer",
+    "Auxiliary"
+  ],
+  "index": "PSPD001",
+  "integralPower": 10,
+  "maxDepth": -80,
+  "model": "content/gameplay/italy/projectile/depthcharge/IPD001_Depth_Charge/IPD001_Depth_Charge.model",
+  "name": "PSPD001_BTG_MONC_50",
+  "onHit": {},
+  "ownTracerEffect": "particles/guns/DEPTH_Tracer_UWater.xml",
+  "parachuteHeightCoeff": 0.75,
+  "parachuteTimeCoeff": 0.95,
+  "planeAmmoType": "depthcharge",
+  "pointsOfDamage": [
+    [
+      0,
+      1
+    ],
+    [
+      0.15,
+      1
+    ],
+    [
+      0.151,
+      0.33
+    ],
+    [
+      1,
+      0.33
+    ]
+  ],
+  "projDestroyedEffect": "particles/guns/DEPTH_Explo_UWater.xml",
+  "secondsToEffects": [
+    [
+      2.0,
+      "particles/guns/DEPTH_Tracer_UWater_Deep_1.xml"
+    ],
+    [
+      5.0,
+      "particles/guns/DEPTH_Tracer_UWater_Deep_2.xml"
+    ],
+    [
+      8.0,
+      "particles/guns/DEPTH_Tracer_UWater_Deep_3.xml"
+    ]
+  ],
+  "shipDestroyEffect": "particles/Empty_FX.xml",
+  "speed": 10.0,
+  "speedDeltaRelative": 0.2,
+  "splashArmorCoeff": -0.18,
+  "splashCubeSize": 0.65,
+  "timer": 7.0,
+  "timerDeltaAbsolute": 0.5,
+  "tracerAirEffect": "particles/guns/DEPTH_Tracer_Ship.xml",
+  "tracerEffect": "particles/guns/DEPTH_Tracer_UWater.xml",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "DepthCharge",
+    "type": "Projectile"
+  },
+  "useEnhancedRegenerationRules": false,
+  "uwAbility": true,
+  "uwCritical": 0.17,
+  "visibilityFactor": 1.5,
+  "volume": 2.76,
+  "water": "particles/guns/DEPTH_Explo_UWater.xml",
+  "waterHitEffect": "particles/guns/DEPTH_Drop_Water.xml",
+  "withParachute": false
+}

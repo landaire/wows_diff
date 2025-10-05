@@ -1,0 +1,53 @@
+{
+  "id": 4251862960,
+  "index": "PCOD041",
+  "markerNameActive": "health_active",
+  "markerNameInactive": "health_inactive",
+  "maxBuffLevel": 3,
+  "name": "PCOD041_AR_AddHeath",
+  "payload": {
+    "item_1": {
+      "duration": -1,
+      "level": 1,
+      "params": "PCOM044_AR_HullHealth_Submarine",
+      "type": 1,
+      "weight": 0
+    },
+    "item_2": {
+      "duration": -1,
+      "level": 1,
+      "params": "PCOM047_AR_HullHealth_Destroyer",
+      "type": 1,
+      "weight": 0
+    },
+    "item_3": {
+      "duration": -1,
+      "level": 1,
+      "params": "PCOM048_AR_HullHealth_Cruiser",
+      "type": 1,
+      "weight": 0
+    },
+    "item_4": {
+      "duration": -1,
+      "level": 1,
+      "params": "PCOM049_AR_HullHealth_Battleship",
+      "type": 1,
+      "weight": 0
+    },
+    "item_5": {
+      "duration": -1,
+      "level": 1,
+      "params": "PCOM046_AR_PlanesHealth",
+      "type": 1,
+      "weight": 0
+    },
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 2,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

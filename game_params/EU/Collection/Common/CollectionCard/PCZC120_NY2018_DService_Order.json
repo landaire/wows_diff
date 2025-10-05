@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA006_HappyNewYear2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC120_NY2018_DSERVICE_ORDER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4169046960,
+  "index": "PCZC120",
+  "name": "PCZC120_NY2018_DService_Order",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

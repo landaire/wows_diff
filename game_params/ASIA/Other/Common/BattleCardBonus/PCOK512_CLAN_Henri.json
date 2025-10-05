@@ -1,0 +1,20 @@
+{
+  "id": 3757754288,
+  "index": "PCOK512",
+  "level_1": {
+    "allAlphaMultiplier": 1.1,
+    "burnProb": 0.8,
+    "vulnerabilityHE": 0.9
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.1,
+    "burnProb": 0.8,
+    "vulnerabilityHE": 0.9
+  },
+  "name": "PCOK512_CLAN_Henri",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

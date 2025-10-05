@@ -1,0 +1,18 @@
+{
+  "id": 3678062512,
+  "index": "PCOK588",
+  "level_1": {
+    "allAlphaMultiplier": 1.15,
+    "vulnerabilityMain": 0.95
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.15,
+    "vulnerabilityMain": 0.95
+  },
+  "name": "PCOK588_CLAN_RhodeIsland",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "StarTrek_Operation_3_PlaneBuff_Regen": {
+    "availableBuoyancyStates": [],
+    "consumableType": "planeBuff",
+    "descIDs": "",
+    "group": "squadron",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "applyType": "personal",
+      "buff": "PXOM082_Planes_Regen",
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 10,
+    "periodical": true,
+    "preparationTime": 30.0,
+    "reloadTime": 50.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 30.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 3647118608,
+  "index": "PXY617",
+  "name": "PXY617_ST_Planes_Regen",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

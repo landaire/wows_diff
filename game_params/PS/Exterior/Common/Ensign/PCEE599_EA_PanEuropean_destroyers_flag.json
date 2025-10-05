@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "ea_paneuropean_destroyers_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3666735024,
+  "index": "PCEE599",
+  "isTemplate": false,
+  "name": "PCEE599_EA_PanEuropean_destroyers_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

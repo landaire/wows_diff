@@ -1,0 +1,115 @@
+{
+  "HitLocationArtillery": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 0.6,
+    "autoRepairTime": 30,
+    "autoRepairTimeMin": 25,
+    "brokenRepairHealthCoefficient": 0.5,
+    "brokenRepairTime": 45.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": true,
+    "critProb": [
+      0.05,
+      0.75
+    ],
+    "critProbHP": [
+      1.0,
+      0.02
+    ],
+    "damageEffects": [],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "artillery_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 3750.0,
+    "moduleCritCoeffCR": 1.0,
+    "moduleCritCoeffXP": 1.0,
+    "parentHL": null,
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 1.0,
+    "splashBoxes": [],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 0.5,
+    "volumeCoeff": 0.1
+  },
+  "aiMGmaxEllipseRanging": 4.0,
+  "aiMGmedEllipseRanging": 3.7,
+  "aiMGminEllipseRanging": 3.5,
+  "ammoList": [
+    "PRPA043_152_HE_C",
+    "PRPA042_152_AP_C"
+  ],
+  "ammoSwitchCoeff": 1.0,
+  "antiAirAuraDistance": 0.0,
+  "antiAirAuraStrength": 0.0,
+  "armor": {
+    "65568": 20.0,
+    "65569": 0.0,
+    "65635": 0.0
+  },
+  "barrelDiameter": 0.152,
+  "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+  "coeffPerSecondMin": 0.3,
+  "customMiscs": {},
+  "damagedEffect": "particles/guns/Gun_Broken_vvsmall.xml",
+  "deadMesh": "content/gameplay/russia/gun/main/RGM100_152mm_45_casemate_R/RGM100_152mm_45_casemate_R_dead.model",
+  "deadZone": [],
+  "delim": 0.5,
+  "effectIntensityModifier": 1.0,
+  "ellipseRangeMax": 250.0,
+  "ellipseRangeMin": 50.0,
+  "horizSector": [
+    -150.0,
+    150.0
+  ],
+  "id": 4189709776,
+  "idealDistance": 1000.0,
+  "idealRadius": 8,
+  "index": "PRGM100",
+  "lensEffect": "particles/guns/GK_Lens.xml",
+  "maxEllipseRanging": 1.003,
+  "medEllipseRanging": 1.002,
+  "minEllipseRanging": 1.001,
+  "minRadius": 1.1,
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/gun/main/RGM100_152mm_45_casemate_R/RGM100_152mm_45_casemate_R.model",
+  "name": "PRGM100_152mm_45_casemate_R",
+  "numBarrels": 1,
+  "onMoveTarPosCoeffDelim": 1.001,
+  "onMoveTarPosCoeffMaxDist": 1.002,
+  "onMoveTarPosCoeffZero": 1.0,
+  "onMoveTarPosDelim": 0.1,
+  "pitchDeadZones": [],
+  "position": [
+    0,
+    0
+  ],
+  "purgingEffect": "particles/guns/GK_Purging.xml",
+  "radiusOnDelim": 0.5,
+  "radiusOnMax": 0.6,
+  "radiusOnZero": 0.2,
+  "reduceTime": 0.1,
+  "reloadBoostEffect": "particles/guns/GK_Reload.xml",
+  "rotationSpeed": [
+    5.0,
+    4.0
+  ],
+  "shotDelay": 7.2,
+  "shotEffect": "particles/guns/GK_Shot.xml",
+  "smallGun": null,
+  "smokePenalty": 0.0001,
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Main",
+    "type": "Gun"
+  },
+  "vertSector": [
+    -2.0,
+    20.0
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "canCharge": true,
+  "costCR": 1250000,
+  "excludes": [
+    "PJSS518_I56"
+  ],
+  "group": [
+    "upgradeable",
+    "peculiar",
+    "disabled",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "event",
+    "specialUnsellable",
+    "demoWithoutStats",
+    "demoWithoutStatsPrem",
+    "demoWithoutStatsTemporary",
+    "experimental",
+    "clan",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "superShip",
+    "notForBattle",
+    "coopOnly"
+  ],
+  "id": 4185051056,
+  "index": "PCM104",
+  "modifiers": {
+    "submarineLocatorReloadCoeff": 0.8
+  },
+  "name": "PCM104_SubmarineLocator_Mod_I",
+  "nation": [
+    "France",
+    "USA",
+    "Russia",
+    "Japan",
+    "United_Kingdom",
+    "Germany",
+    "Europe",
+    "Netherlands",
+    "Spain",
+    "Pan_Asia",
+    "Pan_America",
+    "Commonwealth",
+    "Italy"
+  ],
+  "shiplevel": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "ships": [
+    "PJSC205_Agano",
+    "PJSC206_Gokase",
+    "PJSC207_Omono",
+    "PJSC208_Shimanto",
+    "PJSC209_Takahashi",
+    "PJSC819_BA_Takahashi",
+    "PJSC210_Yodo",
+    "PJSC005_Furutaka_1926",
+    "PJSC007_Aoba_1943",
+    "PJSC008_Myoko_1945",
+    "PJSC009_Mogami_1935",
+    "PJSC012_Ibuki_1944",
+    "PJSC034_Zao_1944",
+    "PJSC890_CLR_Zao",
+    "PJSC810_TST_ZAO",
+    "PJSC934_Zao_1944",
+    "PISC105_Raimondo_Montecuccoli",
+    "PISC106_Trento",
+    "PISC107_Zara",
+    "PISC108_Amalfi",
+    "PISC109_Brindisi",
+    "PISC110_Venezia",
+    "PISC990_Ravenna",
+    "PISC111_Piemonte",
+    "PJSC705_Myoko",
+    "PJSC707_Ashigara",
+    "PJSC709_Haguro",
+    "PJSC717_Yellow_Dragon",
+    "PJSC727_Blue_Dragon",
+    "PJSC737_Nachi",
+    "PUSC015_Delhi",
+    "PUSC025_Red_Fort",
+    "PUSC016_Hobart",
+    "PUSC017_Uganda",
+    "PUSC018_Auckland",
+    "PUSC019_Encounter",
+    "PUSC010_Cerberus",
+    "PBSB737_Royal_Sovereign"
+  ],
+  "shiptype": [
+    "Submarine"
+  ],
+  "slot": 2,
+  "tags": [
+    "special"
+  ],
+  "type": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

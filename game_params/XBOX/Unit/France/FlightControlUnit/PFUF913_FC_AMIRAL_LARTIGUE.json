@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3337432912,
+  "index": "PFUF913",
+  "name": "PFUF913_FC_AMIRAL_LARTIGUE",
+  "typeinfo": {
+    "nation": "France",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

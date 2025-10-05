@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4287820624,
+  "index": "PFD006",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD006_SOM_3_metre_S/FD006_SOM_3_metre_S.model",
+  "name": "PFD006_SOM_3_metre_S",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 2500000,
+  "costXP": 38000,
+  "id": 3348770256,
+  "index": "PRUL902",
+  "name": "PRUL902_CV10_SB_TOP",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SkipBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_SkipBomber"
+}

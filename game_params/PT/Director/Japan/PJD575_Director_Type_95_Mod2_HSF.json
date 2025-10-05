@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3691180752,
+  "index": "PJD575",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/director/JD575_Director_Type_95_Mod2_HSF/JD575_Director_Type_95_Mod2_HSF.model",
+  "name": "PJD575_Director_Type_95_Mod2_HSF",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Director"
+  }
+}

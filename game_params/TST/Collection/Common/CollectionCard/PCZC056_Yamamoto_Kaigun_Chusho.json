@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC056_YAMAMOTO_KAIGUN_CHUSHO_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4236155824,
+  "index": "PCZC056",
+  "name": "PCZC056_Yamamoto_Kaigun_Chusho",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

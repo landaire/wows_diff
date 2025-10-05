@@ -1,0 +1,18 @@
+{
+  "id": 3769288624,
+  "index": "PCOK501",
+  "level_1": {
+    "burnProb": 0.8,
+    "vulnerabilityHE": 0.8
+  },
+  "level_2": {
+    "burnProb": 0.8,
+    "vulnerabilityHE": 0.8
+  },
+  "name": "PCOK501_CLAN_Irresistible",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

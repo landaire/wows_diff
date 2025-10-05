@@ -1,0 +1,20 @@
+{
+  "id": 3752511408,
+  "index": "PCOK517",
+  "level_1": {
+    "allAlphaMultiplier": 1.05,
+    "vulnerabilityHE": 0.9,
+    "vulnerabilityTorpedo": 0.9
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.05,
+    "vulnerabilityHE": 0.9,
+    "vulnerabilityTorpedo": 0.9
+  },
+  "name": "PCOK517_CLAN_Cassard",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

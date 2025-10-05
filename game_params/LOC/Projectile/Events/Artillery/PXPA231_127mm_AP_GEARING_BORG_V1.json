@@ -1,0 +1,197 @@
+{
+  "acidProb": 0.0,
+  "additionalShips": [],
+  "affectedByPTZ": false,
+  "alphaDamage": 760.0,
+  "alphaPiercingCS": 0,
+  "alphaPiercingHE": 0.0,
+  "ammoType": "AP",
+  "applyPTZCoeff": false,
+  "blowUpEffect": [
+    "particles/guns/PROJ_Explo.xml",
+    "particles/guns/PROJ_Explo_2.xml"
+  ],
+  "bonusOffset": 0,
+  "bulletAirDrag": 0.3379,
+  "bulletAlwaysRicochetAt": 80.0,
+  "bulletCap": true,
+  "bulletCapNormalizeMaxAngle": 60.0,
+  "bulletDetonator": 0.005,
+  "bulletDetonatorSpread": 0.0,
+  "bulletDetonatorThreshold": 16.0,
+  "bulletDiametr": 0.46,
+  "bulletKrupp": 600.0,
+  "bulletMass": 1000.0,
+  "bulletPenetrationSpread": 0.0,
+  "bulletRicochetAt": 70.0,
+  "bulletSpeed": 1350.0,
+  "bulletUnderwaterDistFactor": 0.8,
+  "bulletUnderwaterPenetrationFactor": 0.9,
+  "bulletWaterDrag": 10.0,
+  "buoyancyToDamageCoeff": {
+    "DEEP_WATER": 1.0,
+    "DEEP_WATER_INVUL": 0.0,
+    "PERISCOPE": 1.0,
+    "SEMI_DEEP_WATER": 1.0,
+    "SURFACE": 1.0
+  },
+  "burnProb": -0.5,
+  "costCR": 10,
+  "customSoundPostfix": "",
+  "customUIPostfix": "",
+  "damage": 0.0,
+  "damageDistribution": {},
+  "damageVulnerabilityForShipClasses": {
+    "AirCarrier": 1,
+    "Auxiliary": 1,
+    "Battleship": 1,
+    "Cruiser": 1,
+    "Destroyer": 1,
+    "Submarine": 1
+  },
+  "depthSplashRadius": 1.39,
+  "directDamage": 0.0,
+  "distParams": [
+    -0.12,
+    0.1,
+    0.12,
+    0.0
+  ],
+  "distTile": 3.0,
+  "explosionRadius": 200.0,
+  "floodGeneration": false,
+  "ground": [
+    "particles/StarTrek_GK_Art_AP_Yellow_Explo_Ground.xml",
+    "particles/StarTrek_GK_Art_AP_Yellow_Explo_Ground.xml",
+    "particles/StarTrek_GK_Art_AP_Yellow_Explo_Ground.xml",
+    "particles/StarTrek_GK_Art_AP_Yellow_Explo_Ground.xml"
+  ],
+  "groundHitDecalSize": 1.0,
+  "groundHorizontal": [
+    "particles/StarTrek_GK_Art_AP_Yellow_Explo_Ground.xml",
+    "particles/StarTrek_GK_Art_AP_Yellow_Explo_Ground.xml",
+    "particles/StarTrek_GK_Art_AP_Yellow_Explo_Ground.xml"
+  ],
+  "groundVertical": [
+    "particles/StarTrek_GK_Art_AP_Yellow_Explo_Ground.xml",
+    "particles/StarTrek_GK_Art_AP_Yellow_Explo_Ground.xml",
+    "particles/StarTrek_GK_Art_AP_Yellow_Explo_Ground.xml",
+    "particles/StarTrek_GK_Art_AP_Yellow_Explo_Ground.xml"
+  ],
+  "gunCaliber": 0.1,
+  "hatTracerTexture": "particles/trails/Trail_Shell_Hat.dds",
+  "hitDecalSize": 0.3,
+  "id": 4052730128,
+  "ignoreBuoyancyStates": [
+    "SEMI_DEEP_WATER",
+    "DEEP_WATER",
+    "DEEP_WATER_INVUL"
+  ],
+  "ignoreClasses": [],
+  "index": "PXPA231",
+  "isBomb": false,
+  "maxDepth": -15,
+  "model": "",
+  "name": "PXPA231_127mm_AP_GEARING_BORG_V1",
+  "onHit": {},
+  "ownHatTracerTexture": "particles/trails/Trail_Shell_Hat_Own.dds",
+  "ownTracerEffect": "",
+  "ownTracerTexture": "particles/trails/Trail_GK_Own.dds",
+  "pointsOfDamage": [
+    [
+      0,
+      0.1
+    ],
+    [
+      1,
+      0.1
+    ]
+  ],
+  "projDestroyedEffect": [
+    "particles/StarTrek_GK_Art_AP_Yellow_Explo.xml"
+  ],
+  "projDestroyedEffectHorizontal": [
+    "particles/StarTrek_GK_Art_AP_Yellow_Explo.xml"
+  ],
+  "projDestroyedEffectVertical": [
+    "particles/StarTrek_GK_Art_AP_Yellow_Explo.xml"
+  ],
+  "projHitCitadelEffectHorizontal": [
+    "particles/guns/PROJ_Explo_CIT.xml"
+  ],
+  "projHitCitadelEffectVertical": [
+    "particles/guns/PROJ_Explo_CIT.xml"
+  ],
+  "projHitNoPenetrationEffectHorizontal": [
+    "particles/StarTrek_GK_Art_AP_Yellow_Explo.xml"
+  ],
+  "projHitNoPenetrationEffectVertical": [
+    "particles/StarTrek_GK_Art_AP_Yellow_Explo.xml"
+  ],
+  "projOverPenetrationEffectHorizontal": [
+    "particles/StarTrek_GK_Art_AP_Yellow_Explo.xml"
+  ],
+  "projOverPenetrationEffectVertical": [
+    "particles/StarTrek_GK_Art_AP_Yellow_Explo.xml"
+  ],
+  "projOverPenetrationExitEffectHorizontal": [
+    "particles/StarTrek_GK_Art_AP_Yellow_Explo.xml"
+  ],
+  "projOverPenetrationExitEffectVertical": [
+    "particles/StarTrek_GK_Art_AP_Yellow_Explo.xml"
+  ],
+  "projRicochetEffectHorizontal": [
+    "particles/guns/PROJ_AP_Ship_RIC.xml"
+  ],
+  "projRicochetEffectVertical": [
+    "particles/guns/PROJ_AP_Ship_RIC.xml"
+  ],
+  "rotationCoeff": 1.0,
+  "shellDistortTexture": "particles/trails/Trail_Distort_Neutral.dds",
+  "shellGlow": 10.0,
+  "shellLength": 3.0,
+  "shellModelScale": 0.1,
+  "shellTint": [
+    0.53,
+    0.855,
+    0.925
+  ],
+  "shipDestroyEffect": "particles/Empty_FX.xml",
+  "smokeAlphaFalloff": 70.0,
+  "smokeDistortTexture": "particles/trails/Trail_Distort_Smoke.dds",
+  "smokeOpacity": 0.37,
+  "smokeTexture": "particles/trails/Trail_Smoke_AP.dds",
+  "smokeThickness": 0.2,
+  "smokeTileLength": 2.0,
+  "smokeTint": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "splashArmorCoeff": 0.0,
+  "splashCubeSize": 0.0,
+  "timeFactor": 1.0,
+  "tracerEffect": "",
+  "tracerLength": 75.0,
+  "tracerOpacity": 1.0,
+  "tracerTexture": "particles/trails/Trail_GK.dds",
+  "tracerThickness": 0.097,
+  "typeinfo": {
+    "nation": "Events",
+    "species": "Artillery",
+    "type": "Projectile"
+  },
+  "useEnhancedRegenerationRules": false,
+  "uvSpeed": -0.2,
+  "uwCritical": 0.0,
+  "volume": 0.0,
+  "water": [
+    "particles/StarTrek_GK_Art_AP_Yellow_Water.xml"
+  ],
+  "waterEffectMaxIntensity": 10.0,
+  "waterEffectMinIntensity": 0.1,
+  "waterRefractionReflectDeltaAngleInterval": [
+    2.0,
+    6.0
+  ]
+}

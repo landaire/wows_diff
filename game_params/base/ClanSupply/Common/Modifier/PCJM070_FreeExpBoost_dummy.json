@@ -1,0 +1,20 @@
+{
+  "accumulativeResourceRequired": 0,
+  "bonusType": "free_exp_boost",
+  "buildingType": "PCJB008_Design_Department",
+  "buyable": true,
+  "cost": 0,
+  "id": 4221164464,
+  "index": "PCJM070",
+  "isDummy": true,
+  "name": "PCJM070_FreeExpBoost_dummy",
+  "previousModifier": null,
+  "shipLevelMax": null,
+  "shipLevelMin": null,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Modifier",
+    "type": "ClanSupply"
+  },
+  "value": 0
+}

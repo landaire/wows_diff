@@ -1,0 +1,38 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "camo_ItalianArc2021",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 2250,
+  "hidden": true,
+  "id": 3973607152,
+  "index": "PIEP306",
+  "isTemplate": false,
+  "name": "PIEP306_Doria_Roman",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "Permoflage",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    [
+      "isArmoryPurchase",
+      {
+        "count": 1
+      }
+    ]
+  ],
+  "id": 4281943984,
+  "index": "PCON012",
+  "name": "PCON012",
+  "rewards": [
+    [
+      "Add",
+      {
+        "count": 5000,
+        "type": "COAL"
+      }
+    ]
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "NewbieQuest",
+    "type": "Other"
+  },
+  "unlock": "METASHOP"
+}

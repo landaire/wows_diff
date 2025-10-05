@@ -1,0 +1,13 @@
+{
+  "costCR": 76000,
+  "costXP": 700,
+  "id": 4051087344,
+  "index": "PAUS232",
+  "name": "PAUS232_Suo",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4247972304,
+  "index": "PRF044",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/finder/RF044_SPN_500_1_4m/RF044_SPN_500_1_4m.model",
+  "name": "PRF044_SPN_500_1_4m",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Finder"
+  }
+}

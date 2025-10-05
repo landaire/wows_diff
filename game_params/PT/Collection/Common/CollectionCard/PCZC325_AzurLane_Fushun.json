@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC325_AZURLANE_FUSHUN_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3954088880,
+  "index": "PCZC325",
+  "name": "PCZC325_AzurLane_Fushun",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 480000,
+  "costXP": 0,
+  "id": 3664129488,
+  "index": "PRUT601",
+  "name": "PRUT601_D7_TORP_STOCK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

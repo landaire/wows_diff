@@ -1,0 +1,66 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "tacticalTrigger1",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 5.0,
+    "tacticalParams": {
+      "aimRange": 3000,
+      "usageType": "position",
+      "workRange": 15000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "Operation_3": {
+    "availableBuoyancyStates": [],
+    "consumableType": "tacticalTrigger1",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": -1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 100.0,
+    "tacticalParams": {
+      "aimRange": 5000,
+      "usageType": "position",
+      "workRange": 150000.0
+    },
+    "titleIDs": "",
+    "workTime": 60.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 3652361488,
+  "index": "PXY612",
+  "name": "PXY612_Mass_Target",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

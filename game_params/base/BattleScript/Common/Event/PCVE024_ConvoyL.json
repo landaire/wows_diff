@@ -1,0 +1,98 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "EventBattles",
+  "economics": {
+    "currencyType": "CREDITS",
+    "earningBySelf": 1.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 0,
+  "gameLogicConfig": {},
+  "id": 4269648816,
+  "index": "PCVE024",
+  "matchmakerConfig": "eventConvoyL",
+  "name": "PCVE024_ConvoyL",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        1
+      ],
+      "Battleship": [
+        0,
+        3
+      ],
+      "Cruiser": [
+        0,
+        7
+      ],
+      "Destroyer": [
+        0,
+        7
+      ],
+      "Submarine": [
+        0,
+        -1
+      ]
+    },
+    "filters": [
+      {
+        "shipLevels": [
+          8
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship",
+          "AirCarrier"
+        ]
+      }
+    ],
+    "totalShips": 14
+  },
+  "scenariosByMap": {
+    "spaces/14_Atlantic": [
+      "convoy1R_Light",
+      "convoy1R_LightB"
+    ],
+    "spaces/18_NE_ice_islands": [
+      "convoy1R_Light",
+      "convoy1R_LightB"
+    ],
+    "spaces/22_tierra_del_fuego": [
+      "convoy1R_Light",
+      "convoy1R_LightB"
+    ],
+    "spaces/44_Path_warrior": [
+      "convoy1R_Light",
+      "convoy1R_LightB"
+    ],
+    "spaces/45_Zigzag": [
+      "convoy1R_Light",
+      "convoy1R_LightB"
+    ],
+    "spaces/50_Gold_harbor": [
+      "convoy1R_Light",
+      "convoy1R_LightB"
+    ],
+    "spaces/53_Shoreside": [
+      "convoy1R_Light",
+      "convoy1R_LightB"
+    ],
+    "spaces/s03_Labyrinth": [
+      "convoy1R_Light",
+      "convoy1R_LightB"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

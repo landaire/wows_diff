@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4225952208,
+  "index": "PRF065",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/finder/RF065_3m_Rangefinder_Night_HA/RF065_3m_Rangefinder_Night_HA.model",
+  "name": "PRF065_3m_Rangefinder_Night_HA",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Finder"
+  }
+}

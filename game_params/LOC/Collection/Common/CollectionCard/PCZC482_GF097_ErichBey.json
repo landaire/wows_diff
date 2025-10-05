@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA022_GF097",
+  "compensationCR": 0,
+  "description": "IDS_PCZC482_GF097_ERICHBEY_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3789462448,
+  "index": "PCZC482",
+  "name": "PCZC482_GF097_ErichBey",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

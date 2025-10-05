@@ -1,0 +1,67 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "eventName": "PCH309_COLLECTOR_PA"
+  },
+  "enabled": true,
+  "events": [
+    [
+      "battleEvent",
+      [
+        [
+          "event",
+          "name",
+          "==",
+          "constant",
+          "eventName"
+        ],
+        [
+          "receiver",
+          "id",
+          "==",
+          "me",
+          "id"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 3970098096,
+  "index": "PCH309",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH309_COLLECTOR_PA",
+  "onePerBattle": false,
+  "shipCategories": [
+    "event"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "COLLECTOR_PA",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_TEAM_BATTLE_ROYALE",
+  "uiType": "service_medal"
+}

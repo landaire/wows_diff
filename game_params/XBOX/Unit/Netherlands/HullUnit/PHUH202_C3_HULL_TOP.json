@@ -1,0 +1,13 @@
+{
+  "costCR": 105000,
+  "costXP": 900,
+  "id": 4082904848,
+  "index": "PHUH202",
+  "name": "PHUH202_C3_HULL_TOP",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

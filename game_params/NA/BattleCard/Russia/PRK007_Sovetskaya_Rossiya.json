@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4286764496,
+  "index": "PRK007",
+  "maxLevel": 2,
+  "name": "PRK007_Sovetskaya_Rossiya",
+  "personalCardBonus": {
+    "clan": "PCOK600_CLAN_BB_Close"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PRSB110_Sovetskaya_Rossiya"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

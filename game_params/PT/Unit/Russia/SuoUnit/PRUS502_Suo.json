@@ -1,0 +1,13 @@
+{
+  "costCR": 580000,
+  "costXP": 7200,
+  "id": 3767971280,
+  "index": "PRUS502",
+  "name": "PRUS502_Suo",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

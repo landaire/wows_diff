@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    [
+      "isBattleType",
+      {
+        "battleTypes": [
+          "RANKED"
+        ]
+      }
+    ],
+    [
+      "isBattleResultCount",
+      {
+        "battleResult": "win",
+        "count": 1
+      }
+    ]
+  ],
+  "id": 4278798256,
+  "index": "PCON015",
+  "name": "PCON015",
+  "rewards": [
+    [
+      "Lootbox",
+      {
+        "boxType": "PCL051_BelleEpoque_Coll",
+        "count": 5
+      }
+    ]
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "NewbieQuest",
+    "type": "Other"
+  },
+  "unlock": "RANK_BATTLES"
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA013_HappyNewYear2019",
+  "compensationCR": 0,
+  "description": "IDS_PCZC271_NY2019_ABRUZZIEMBLEM_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4010711984,
+  "index": "PCZC271",
+  "name": "PCZC271_NY2019_AbruzziEmblem",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

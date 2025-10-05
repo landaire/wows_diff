@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4230149072,
+  "index": "PBD061",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD061_14in_DCT_secondary/BD061_14in_DCT_secondary.model",
+  "name": "PBD061_14in_DCT_secondary",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

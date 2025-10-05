@@ -1,0 +1,13 @@
+{
+  "costCR": 300000,
+  "costXP": 3400,
+  "id": 3872829200,
+  "index": "PHUS402",
+  "name": "PHUS402_C5_SUO_TOP",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

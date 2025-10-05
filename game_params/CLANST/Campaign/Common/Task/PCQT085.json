@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 15,
+  "conditions": [
+    "<isMyShip shipLevel=\"5,6,7,8,9,10,11\" class=\"Destroyer,Submarine\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isDamage count=\"100000\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4205199280,
+  "index": "PCQT085",
+  "isSingleBattle": false,
+  "lootStars": 3,
+  "name": "PCQT085",
+  "rewards": [
+    "<Item idx=\"PCEF014_NF_SignalFlag\" count=\"10\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT085_1",
+    "isDamage",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

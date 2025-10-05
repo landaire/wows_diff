@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4289915696,
+  "index": "PGF004",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF004_3m_Rangefinder_Night_HA/GF004_3m_Rangefinder_Night_HA.model",
+  "name": "PGF004_3m_Rangefinder_Night_HA",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

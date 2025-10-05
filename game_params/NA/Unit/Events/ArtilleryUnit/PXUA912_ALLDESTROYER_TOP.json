@@ -1,0 +1,13 @@
+{
+  "costCR": 2500000,
+  "costXP": 35000,
+  "id": 3338644752,
+  "index": "PXUA912",
+  "name": "PXUA912_ALLDESTROYER_TOP",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

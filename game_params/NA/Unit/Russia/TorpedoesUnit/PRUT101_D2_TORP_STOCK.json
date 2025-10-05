@@ -1,0 +1,13 @@
+{
+  "costCR": 6000,
+  "costXP": 0,
+  "id": 4188417488,
+  "index": "PRUT101",
+  "name": "PRUT101_D2_TORP_STOCK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC084_YAMAMOTO_NISSHIN_GUN_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4206795696,
+  "index": "PCZC084",
+  "name": "PCZC084_Yamamoto_Nisshin_Gun",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

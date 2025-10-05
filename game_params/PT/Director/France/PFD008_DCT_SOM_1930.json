@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4285723472,
+  "index": "PFD008",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD008_DCT_SOM_1930/FD008_DCT_SOM_1930.model",
+  "name": "PFD008_DCT_SOM_1930",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

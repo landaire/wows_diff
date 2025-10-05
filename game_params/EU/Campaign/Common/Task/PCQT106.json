@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 83,
+  "conditions": [
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isMyShip class=\"AirCarrier\" shipLevel=\"6,7,8,9,10,11\"/>",
+    "<isModuleHits count=\"5\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4183179184,
+  "index": "PCQT106",
+  "isSingleBattle": false,
+  "lootStars": 1,
+  "name": "PCQT106",
+  "rewards": [
+    "<Add type=\"CREDITS\" count=\"100000\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT106_1",
+    "isModuleHits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

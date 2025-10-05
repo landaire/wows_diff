@@ -1,0 +1,869 @@
+{
+  "RarityCategory": {
+    "name": "Epic"
+  },
+  "camouflage": "mat_Wisconsin_BB",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 8000,
+  "effects": {
+    "A_Hull": {
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_big.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_big.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_big.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_big.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_3",
+          "particles/vehicles/Fire_side_medium.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_big_2.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_3",
+          "particles/vehicles/Fire_side_big.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_big_2.xml"
+        ]
+      ],
+      "fireResistance": [
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_3",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_3",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_5",
+          "particles/vehicles/Fire_big_2.xml"
+        ],
+        [
+          "HP_FX_Fire_5_1",
+          "particles/vehicles/Fire_big_2.xml"
+        ]
+      ],
+      "fixDeluge": [
+        [
+          "HP_FX_Flood_water_left",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_1",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_2",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_3",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_1",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_2",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_3",
+          "particles/vehicles/Flood_deluge_small.xml"
+        ]
+      ],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_big.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_exhaust_1",
+          "particles/vehicles/Flood_steam_exhaust_big_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_exhaust_2",
+          "particles/vehicles/Flood_steam_exhaust_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_big.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_big.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Flood_water_left",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_1",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_2",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_left_3",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_1",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_2",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Flood_water_right_3",
+          "particles/vehicles/idlePort_Flood_deluge_small.xml"
+        ],
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_big.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/idlePort_RunSmoke_big.xml"
+        ]
+      ],
+      "rageMode": [
+        [
+          "HP_FX_Rage_beam_1",
+          "particles/vehicles/beamLight_vsmall.xml"
+        ],
+        [
+          "HP_FX_Rage_beam_2",
+          "particles/vehicles/beamLight_vsmall.xml"
+        ],
+        [
+          "HP_FX_Rage_beam_3",
+          "particles/vehicles/beamLight_vsmall.xml"
+        ],
+        [
+          "HP_FX_Rage_beam_4",
+          "particles/vehicles/beamLight_vsmall.xml"
+        ],
+        [
+          "HP_FX_Rage_beam_5",
+          "particles/vehicles/beamLight_vsmall.xml"
+        ],
+        [
+          "HP_FX_Rage_beam_6",
+          "particles/vehicles/beamLight_vsmall.xml"
+        ]
+      ],
+      "rageModeFullScreen": [
+        [
+          "Scene Root",
+          "particles/vehicles/rageMode_screenEffect.xml"
+        ]
+      ],
+      "repairLight": [
+        [
+          "HP_FX_RepairLight_left_1",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_left_2",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_1",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_2",
+          "particles/vehicles/RepairLight_big.xml"
+        ]
+      ],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_big.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/RunSmoke_big.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back_wide_1.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceReverce_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceReverce_screw_big.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceForward_screw_right_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTrace_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTrace_screw_big.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": true,
+  "hullConfig": {
+    "A_Hull": {
+      "caps": {},
+      "customMiscs": {},
+      "model": "content/gameplay/usa/ship/battleship/ASB404_Wisconsin_1945_Shipyard/ASB404_Wisconsin_1945_Shipyard.model"
+    }
+  },
+  "id": 3548835824,
+  "index": "PAES711",
+  "isTemplate": false,
+  "name": "PAES711_Wisconsin_BB",
+  "nodesConfig": {
+    "A_ATBA": {
+      "HP_AGS_1": {
+        "deadMesh": "content/gameplay/usa/gun/secondary/AGS3015_5in38_Mk32_Mod12/AGS3015_5in38_Mk32_Mod12_dead.model",
+        "model": "content/gameplay/usa/gun/secondary/AGS3015_5in38_Mk32_Mod12/AGS3015_5in38_Mk32_Mod12.model"
+      },
+      "HP_AGS_10": {
+        "deadMesh": "content/gameplay/usa/gun/secondary/AGS3015_5in38_Mk32_Mod12/AGS3015_5in38_Mk32_Mod12_dead.model",
+        "model": "content/gameplay/usa/gun/secondary/AGS3015_5in38_Mk32_Mod12/AGS3015_5in38_Mk32_Mod12.model"
+      },
+      "HP_AGS_2": {
+        "deadMesh": "content/gameplay/usa/gun/secondary/AGS3015_5in38_Mk32_Mod12/AGS3015_5in38_Mk32_Mod12_dead.model",
+        "model": "content/gameplay/usa/gun/secondary/AGS3015_5in38_Mk32_Mod12/AGS3015_5in38_Mk32_Mod12.model"
+      },
+      "HP_AGS_3": {
+        "deadMesh": "content/gameplay/usa/gun/secondary/AGS3015_5in38_Mk32_Mod12/AGS3015_5in38_Mk32_Mod12_dead.model",
+        "model": "content/gameplay/usa/gun/secondary/AGS3015_5in38_Mk32_Mod12/AGS3015_5in38_Mk32_Mod12.model"
+      },
+      "HP_AGS_4": {
+        "deadMesh": "content/gameplay/usa/gun/secondary/AGS3015_5in38_Mk32_Mod12/AGS3015_5in38_Mk32_Mod12_dead.model",
+        "model": "content/gameplay/usa/gun/secondary/AGS3015_5in38_Mk32_Mod12/AGS3015_5in38_Mk32_Mod12.model"
+      },
+      "HP_AGS_5": {
+        "deadMesh": "content/gameplay/usa/gun/secondary/AGS3015_5in38_Mk32_Mod12/AGS3015_5in38_Mk32_Mod12_dead.model",
+        "model": "content/gameplay/usa/gun/secondary/AGS3015_5in38_Mk32_Mod12/AGS3015_5in38_Mk32_Mod12.model"
+      },
+      "HP_AGS_6": {
+        "deadMesh": "content/gameplay/usa/gun/secondary/AGS3015_5in38_Mk32_Mod12/AGS3015_5in38_Mk32_Mod12_dead.model",
+        "model": "content/gameplay/usa/gun/secondary/AGS3015_5in38_Mk32_Mod12/AGS3015_5in38_Mk32_Mod12.model"
+      },
+      "HP_AGS_7": {
+        "deadMesh": "content/gameplay/usa/gun/secondary/AGS3015_5in38_Mk32_Mod12/AGS3015_5in38_Mk32_Mod12_dead.model",
+        "model": "content/gameplay/usa/gun/secondary/AGS3015_5in38_Mk32_Mod12/AGS3015_5in38_Mk32_Mod12.model"
+      },
+      "HP_AGS_8": {
+        "deadMesh": "content/gameplay/usa/gun/secondary/AGS3015_5in38_Mk32_Mod12/AGS3015_5in38_Mk32_Mod12_dead.model",
+        "model": "content/gameplay/usa/gun/secondary/AGS3015_5in38_Mk32_Mod12/AGS3015_5in38_Mk32_Mod12.model"
+      },
+      "HP_AGS_9": {
+        "deadMesh": "content/gameplay/usa/gun/secondary/AGS3015_5in38_Mk32_Mod12/AGS3015_5in38_Mk32_Mod12_dead.model",
+        "model": "content/gameplay/usa/gun/secondary/AGS3015_5in38_Mk32_Mod12/AGS3015_5in38_Mk32_Mod12.model"
+      }
+    },
+    "A_AirDefense": {
+      "HP_AGA_1": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_10": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_11": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_12": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_13": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors.model"
+      },
+      "HP_AGA_14": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors.model"
+      },
+      "HP_AGA_15": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_16": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_17": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors.model"
+      },
+      "HP_AGA_18": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors.model"
+      },
+      "HP_AGA_19": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_2": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_20": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_21": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_22": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_23": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_24": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_25": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_26": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_27": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_28": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_29": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_3": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_30": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_31": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_32": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_33": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_34": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_35": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors.model"
+      },
+      "HP_AGA_36": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors.model"
+      },
+      "HP_AGA_37": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_38": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_39": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_4": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_40": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_41": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_42": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_43": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors.model"
+      },
+      "HP_AGA_44": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors.model"
+      },
+      "HP_AGA_45": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors.model"
+      },
+      "HP_AGA_46": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors.model"
+      },
+      "HP_AGA_47": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors.model"
+      },
+      "HP_AGA_48": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors.model"
+      },
+      "HP_AGA_49": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors.model"
+      },
+      "HP_AGA_5": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors.model"
+      },
+      "HP_AGA_50": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors.model"
+      },
+      "HP_AGA_51": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_52": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_53": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_54": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_55": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_56": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_57": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_58": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_59": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_6": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors.model"
+      },
+      "HP_AGA_60": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_61": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_62": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_63": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_64": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_65": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_66": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors.model"
+      },
+      "HP_AGA_67": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors.model"
+      },
+      "HP_AGA_7": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_8": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGA_9": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3017_20mm_Oerlikon_MK4/AGA3017_20mm_Oerlikon_MK4.model"
+      },
+      "HP_AGM_2_HP_AGA_4": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors.model"
+      },
+      "HP_AGM_3_HP_AGA_4": {
+        "deadMesh": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model",
+        "model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors.model"
+      }
+    },
+    "A_Artillery": {
+      "HP_AGM_1": {
+        "deadMesh": "content/gameplay/usa/gun/main/AGM3014_16in50_Mk7/AGM3014_16in50_Mk7_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_AM6057_Ladder",
+          "MP_AM756_Rangefinder",
+          "MP_AM074_Floater_Net_Basket_2",
+          "MP_AM074_Floater_Net_Basket_2_INDEX_1",
+          "MP_AM6045_Boat_6",
+          "MP_AM6045_Boat_6_INDEX_1",
+          "MP_AM6045_Boat_6_INDEX_2",
+          "MP_AM6045_Boat_6_INDEX_3",
+          "MP_AM1529_Ladder_dead",
+          "MP_AM069_Crane_1",
+          "MP_AM633_Periscope_1",
+          "MP_AM633_Periscope_1_INDEX_1",
+          "MP_AM6049_Rangefinder"
+        ],
+        "model": "content/gameplay/usa/gun/main/AGM3014_16in50_Mk7/AGM3014_16in50_Mk7.model"
+      },
+      "HP_AGM_2": {
+        "deadMesh": "content/gameplay/usa/gun/main/AGM3014_16in50_Mk7/AGM3014_16in50_Mk7_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_AM1525_Director_Deck",
+          "MP_AM646_Director_Mk51",
+          "MP_AM069_Crane_1_INDEX_1",
+          "MP_AM6057_Ladder",
+          "MP_AM226_Gun_Deck",
+          "MP_AM756_Rangefinder",
+          "MP_AM074_Floater_Net_Basket_2",
+          "MP_AM074_Floater_Net_Basket_2_INDEX_1",
+          "MP_AM6045_Boat_6",
+          "MP_AM6045_Boat_6_INDEX_1",
+          "MP_AM6045_Boat_6_INDEX_2",
+          "MP_AM6045_Boat_6_INDEX_3",
+          "MP_AM633_Periscope_1",
+          "MP_AM633_Periscope_1_INDEX_1",
+          "MP_AM1529_Ladder_dead",
+          "MP_AM759_Gun_Deck_dead",
+          "MP_AGM3014_16in50_Mk7_dead",
+          "MP_AM6048_Gun_Deck",
+          "MP_AM6049_Rangefinder"
+        ],
+        "model": "content/gameplay/usa/gun/main/AGM3014_16in50_Mk7/AGM3014_16in50_Mk7.model"
+      },
+      "HP_AGM_3": {
+        "deadMesh": "content/gameplay/usa/gun/main/AGM3014_16in50_Mk7/AGM3014_16in50_Mk7_dead.model",
+        "filterMode": false,
+        "miscFilter": [
+          "MP_AM1525_Director_Deck",
+          "MP_AM646_Director_Mk51",
+          "MP_AM069_Crane_1_INDEX_1",
+          "MP_AM6057_Ladder",
+          "MP_AM226_Gun_Deck",
+          "MP_AM756_Rangefinder",
+          "MP_AM074_Floater_Net_Basket_2",
+          "MP_AM074_Floater_Net_Basket_2_INDEX_1",
+          "MP_AM6045_Boat_6",
+          "MP_AM6045_Boat_6_INDEX_1",
+          "MP_AM6045_Boat_6_INDEX_2",
+          "MP_AM6045_Boat_6_INDEX_3",
+          "MP_AM633_Periscope_1",
+          "MP_AM633_Periscope_1_INDEX_1",
+          "MP_AM1529_Ladder_dead",
+          "MP_AM759_Gun_Deck_dead",
+          "MP_AGM3014_16in50_Mk7_dead",
+          "MP_AM6048_Gun_Deck",
+          "MP_AM6049_Rangefinder"
+        ],
+        "model": "content/gameplay/usa/gun/main/AGM3014_16in50_Mk7/AGM3014_16in50_Mk7.model"
+      }
+    },
+    "A_Directors": {
+      "HP_AD_13": {
+        "filterMode": false,
+        "miscFilter": [
+          "MP_AM6053_Radar_Mk22_Blacl",
+          "MP_AM6054_Radar_Mk12_Black"
+        ],
+        "model": "content/gameplay/usa/director/AD3004_Director_Mk37_Mod2/AD3004_Director_Mk37_Mod2.model"
+      },
+      "HP_AD_14": {
+        "filterMode": false,
+        "miscFilter": [
+          "MP_AM6053_Radar_Mk22_Blacl",
+          "MP_AM6054_Radar_Mk12_Black"
+        ],
+        "model": "content/gameplay/usa/director/AD3004_Director_Mk37_Mod2/AD3004_Director_Mk37_Mod2.model"
+      },
+      "HP_AD_27": {
+        "filterMode": false,
+        "miscFilter": [
+          "MP_AM6066_Radar_Mk8"
+        ],
+        "model": "content/gameplay/usa/director/AD3005_Director_Mk38_Wisconsin/AD3005_Director_Mk38_Wisconsin.model"
+      },
+      "HP_AD_30": {
+        "filterMode": false,
+        "miscFilter": [
+          "MP_AM6053_Radar_Mk22_Blacl",
+          "MP_AM6054_Radar_Mk12_Black"
+        ],
+        "model": "content/gameplay/usa/director/AD3004_Director_Mk37_Mod2/AD3004_Director_Mk37_Mod2.model"
+      },
+      "HP_AD_7": {
+        "filterMode": false,
+        "miscFilter": [
+          "MP_AM6053_Radar_Mk22_Blacl",
+          "MP_AM6054_Radar_Mk12_Black"
+        ],
+        "model": "content/gameplay/usa/director/AD3004_Director_Mk37_Mod2/AD3004_Director_Mk37_Mod2.model"
+      },
+      "HP_AD_8": {
+        "filterMode": false,
+        "miscFilter": [
+          "MP_AM6066_Radar_Mk8"
+        ],
+        "model": "content/gameplay/usa/director/AD3005_Director_Mk38_Wisconsin/AD3005_Director_Mk38_Wisconsin.model"
+      }
+    }
+  },
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "decorative",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "",
+  "peculiarityModels": {
+    "content/gameplay/usa/gun/aaircraft/AGA056_40mm_Bofors/AGA056_40mm_Bofors_dead.model": "content/gameplay/usa/gun/aaircraft/AGA3016_40mm_Bofors/AGA3016_40mm_Bofors_dead.model"
+  },
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "USA",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    [
+      "isBattleType",
+      {
+        "battleTypes": [
+          "PVP"
+        ]
+      }
+    ],
+    [
+      "isBattleResultCount",
+      {
+        "battleResult": "win",
+        "count": 1
+      }
+    ]
+  ],
+  "id": 4292429744,
+  "index": "PCON002",
+  "name": "PCON002",
+  "rewards": [
+    [
+      "Add",
+      {
+        "count": 20000,
+        "type": "CREDITS"
+      }
+    ]
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "NewbieQuest",
+    "type": "Other"
+  },
+  "unlock": "BATTLE_SENIOR"
+}

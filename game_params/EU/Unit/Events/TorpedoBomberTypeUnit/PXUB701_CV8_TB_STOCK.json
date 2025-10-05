@@ -1,0 +1,13 @@
+{
+  "costCR": 240000,
+  "costXP": 0,
+  "id": 3559861520,
+  "index": "PXUB701",
+  "name": "PXUB701_CV8_TB_STOCK",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

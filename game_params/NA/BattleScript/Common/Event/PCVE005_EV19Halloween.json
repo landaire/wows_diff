@@ -1,0 +1,55 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "RoyalBattles",
+  "economics": {
+    "currencyType": "SALTPETER",
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 1.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 0,
+  "gameLogicConfig": {},
+  "id": 4289571760,
+  "index": "PCVE005",
+  "matchmakerConfig": {
+    "max_ship_level": 10,
+    "max_ships_in_team": 3,
+    "min_ship_level": 9,
+    "teams_in_battle": 3
+  },
+  "name": "PCVE005_EV19Halloween",
+  "restrictions": {
+    "filters": [
+      {
+        "nations": [
+          "Events"
+        ],
+        "shipLevels": [
+          9,
+          10
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship"
+        ]
+      }
+    ],
+    "totalShips": 16
+  },
+  "scenariosByMap": {
+    "spaces/e09_Halloween_2019": [
+      "Battle_Royale"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

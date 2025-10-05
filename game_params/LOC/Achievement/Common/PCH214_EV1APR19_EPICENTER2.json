@@ -1,0 +1,94 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "filterKeyShips": {
+      "roles": [
+        "PCH214_EV1APR19_EPICENTER2"
+      ]
+    },
+    "ribbonType": [
+      "RIBBON_BASE_CAPTURE"
+    ]
+  },
+  "enabled": false,
+  "events": [
+    [
+      "onRibbon",
+      [
+        [
+          "ribbon",
+          "ids",
+          "in",
+          "constant",
+          "ribbonType"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "onRibbon",
+      [
+        [
+          "counter",
+          "a",
+          "==",
+          "constant",
+          "5"
+        ],
+        [
+          "me",
+          "alive"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4069712816,
+  "index": "PCH214",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH214_EV1APR19_EPICENTER2",
+  "onePerBattle": true,
+  "shipCategories": [
+    "event"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "EV1APR19_EPICENTER2",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_SPACE_SATURN_TORPEDOBEAT",
+  "uiType": "service_medal"
+}

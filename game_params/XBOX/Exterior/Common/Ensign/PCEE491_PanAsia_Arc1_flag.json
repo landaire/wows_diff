@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "panasia_arc1_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3779981232,
+  "index": "PCEE491",
+  "isTemplate": false,
+  "name": "PCEE491_PanAsia_Arc1_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

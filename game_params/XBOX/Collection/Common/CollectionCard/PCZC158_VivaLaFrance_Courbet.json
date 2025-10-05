@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA008_Vivalafrance",
+  "compensationCR": 0,
+  "description": "IDS_PCZC158_VIVALAFRANCE_COURBET_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4129201072,
+  "index": "PCZC158",
+  "name": "PCZC158_VivaLaFrance_Courbet",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

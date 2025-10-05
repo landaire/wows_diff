@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "scharnhorst_1943_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3605917616,
+  "index": "PCEE657",
+  "isTemplate": false,
+  "name": "PCEE657_Scharnhorst_1943_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "ship"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

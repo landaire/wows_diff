@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "karl_xiv_johan_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3635277744,
+  "index": "PCEE629",
+  "isTemplate": false,
+  "name": "PCEE629_Karl_XIV_Johan_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "ship"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

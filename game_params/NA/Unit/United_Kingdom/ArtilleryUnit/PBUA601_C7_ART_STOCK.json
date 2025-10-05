@@ -1,0 +1,13 @@
+{
+  "costCR": 360000,
+  "costXP": 0,
+  "id": 3664752592,
+  "index": "PBUA601",
+  "name": "PBUA601_C7_ART_STOCK",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

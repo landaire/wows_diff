@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3760384816,
+  "index": "PGF509",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF509_3m_rangefinder_Ice/GF509_3m_rangefinder_Ice.model",
+  "name": "PGF509_3m_rangefinder_Ice",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

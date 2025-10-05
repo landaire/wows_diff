@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3349556656,
+  "index": "PSUT901",
+  "name": "PSUT901_TORP_BAZAN",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

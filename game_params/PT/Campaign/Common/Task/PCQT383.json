@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 0,
+  "conditions": [
+    "<isMyShip shipLevel=\"10,11\" class=\"AirCarrier\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isWeaponHits count=\"10\" weaponTypes=\"tbomber\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3892723632,
+  "index": "PCQT383",
+  "isSingleBattle": true,
+  "lootStars": 3,
+  "name": "PCQT383",
+  "rewards": [
+    "<Item idx=\"PCEF019_JW1_SignalFlag\" count=\"25\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT383_1",
+    "isWeaponHits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

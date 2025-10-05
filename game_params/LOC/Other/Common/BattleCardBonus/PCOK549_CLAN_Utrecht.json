@@ -1,0 +1,20 @@
+{
+  "id": 3718956976,
+  "index": "PCOK549",
+  "level_1": {
+    "vulnerabilityAP": 0.9,
+    "vulnerabilityBombAvia": 0.85,
+    "vulnerabilityHE": 0.9
+  },
+  "level_2": {
+    "vulnerabilityAP": 0.9,
+    "vulnerabilityBombAvia": 0.85,
+    "vulnerabilityHE": 0.9
+  },
+  "name": "PCOK549_CLAN_Utrecht",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

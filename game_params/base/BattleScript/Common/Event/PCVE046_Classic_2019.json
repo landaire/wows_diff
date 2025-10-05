@@ -1,0 +1,411 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "ArmsBattles",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 1,
+  "gameLogicConfig": {},
+  "id": 4246580144,
+  "index": "PCVE046",
+  "matchmakerConfig": "eventEV46Classic19",
+  "name": "PCVE046_Classic_2019",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        -1
+      ],
+      "Battleship": [
+        0,
+        2
+      ],
+      "Cruiser": [
+        0,
+        4
+      ],
+      "Destroyer": [
+        0,
+        3
+      ],
+      "Submarine": [
+        0,
+        -1
+      ]
+    },
+    "filters": [
+      {
+        "excludeShips": [
+          "PASD719_Johnston",
+          "PFSC719_Le_Havre",
+          "PGSB599_Black_Pommern",
+          "PGSC718_Warhammer_Blacktemplar",
+          "PGSC598_Black_Mainz",
+          "PGSC899_AZUR_Aegir",
+          "PBSC558_AZUR_Cheshire",
+          "PGSB538_Black_Brandenburg",
+          "PGSD709_GM_ZF_6",
+          "PZSD718_Warhammer_Ork",
+          "PJSB559_Black_Iwami",
+          "PJSC749_GM_Suzuya",
+          "PFSC708_Metz",
+          "PRSC709_Vyazma",
+          "PJSB719_Hotaka",
+          "PASC728_Protector",
+          "PASB519_Kearsarge",
+          "PASB599_Black_Kearsarge",
+          "PASB889_Azur_Kearsarge",
+          "PJSC018_Tone",
+          "PASB208_Nebraska",
+          "PASB209_Delaware",
+          "PASD519_Halford",
+          "PJSC719_Chikuma_2_Hyb",
+          "PJSC729_GW_Chikuma_2_Hyb",
+          "PFSB528_Champagne",
+          "PGSB508_Odin",
+          "PGSB509_Pommern",
+          "PJSB519_Hizen",
+          "PZSB509_Izumo_Bajie",
+          "PRSB709_AZUR_Sov_Russia",
+          "PASB108_Kansas",
+          "PASB109_Minnesota",
+          "PGSC518_Mainz",
+          "PGSC509_Siegfried",
+          "PGSC519_Aegir",
+          "PZSC518_Martel_Wukong",
+          "PRSC528_Ochakov",
+          "PRSC538_Petr_Bagration",
+          "PRSC208_Tallin",
+          "PRSC209_Riga",
+          "PBSC208_Albemarle",
+          "PBSC508_Cheshire",
+          "PBSC528_Belfast_1943",
+          "PBSC209_Drake",
+          "PASC518_Anchorage",
+          "PWSD108_Oland",
+          "PWSD508_Orkan",
+          "PWSD109_Ostergotland",
+          "PGSD518_Z_35",
+          "PGSD519_Z_44",
+          "PZSD208_Siliwangi_1959",
+          "PFSB538_Flandre",
+          "PGSB518_Brandenburg",
+          "PGSB208_Zieten",
+          "PGSB209_Prinz_Rupprecht",
+          "PZSB519_Alsace_Wujing",
+          "PRSB528_Borodino",
+          "PBSB509_Marlborough",
+          "PASB538_Constellation",
+          "PFSC509_Carnot",
+          "PBSC518_Tiger_1959",
+          "PASC528_Congress",
+          "PASC538_Rochester",
+          "PASC519_Tulsa",
+          "PGSD208_Gustav_Julius_Maerker",
+          "PGSD209_Felix_Schultz",
+          "PGSD529_ZF_6",
+          "PJSD528_Harekaze_2",
+          "PZSD518_Fen_Yang",
+          "PGSB528_Anhalt",
+          "PJSB529_Iwami",
+          "PBSB208_Hawke",
+          "PBSB209_Duncan",
+          "PFSC208_Cherbourg",
+          "PFSC209_Brest",
+          "PGSC529_Admiral_Schroder",
+          "PJSC208_Shimanto",
+          "PJSC209_Takahashi",
+          "PZSC108_Harbin",
+          "PASC548_San_Diego",
+          "PJSB209_Adatara",
+          "PZSB539_Louchuan",
+          "PRSB509_Navarin",
+          "PGSC528_Schill",
+          "PWSD519_Jager",
+          "PFSD018_L_Aventurier",
+          "PBSD718_Eskimo",
+          "PGSC729_Blucher",
+          "PJSC739_Suzuya",
+          "PWSD708_Blyskawica_1944",
+          "PRSD718_Provorny",
+          "PZSB709_Taihang",
+          "PASC719_Cambridge",
+          "PZSD719_Nanning",
+          "PRSB719_Zarya_Svobody",
+          "PASD038_Osborne",
+          "PASD039_Christopher",
+          "PZSC509_Dalian",
+          "PZSC109_Sejong",
+          "PBSC538_Hampshire",
+          "PASC548_San_Diego",
+          "PASC509_Vallejo",
+          "PWSD509_Velos",
+          "PISD108_Vittorio_Cuniberti",
+          "PISD109_Adriatico",
+          "PWSB509_Karl_XIV_Johan",
+          "PFSB548_Picardie",
+          "PJSB208_Yumihari",
+          "PJSB209_Adatara",
+          "PJSB539_Daisen",
+          "PJSB549_Tsurugi",
+          "PZSB529_Sun_Yat_Sen",
+          "PZSB539_Louchuan",
+          "PRSB509_Navarin",
+          "PBSB609_Scarlet_Thunder",
+          "PASB539_Illinois",
+          "PGSC528_Schill",
+          "PISC519_Michelangelo",
+          "PZSC529_Mengchong",
+          "PRSC558_Dmitry_Pozharsky",
+          "PBSC548_Nottingham",
+          "PWSD208_Split",
+          "PWSD519_Jager",
+          "PWSD209_Lambros_Katsonis",
+          "PWSB719_Niord",
+          "PFSD018_L_Aventurier",
+          "PFSD019_Orage",
+          "PGSC728_Wiesbaden",
+          "PZSD708_Zhu_Que",
+          "PZSB708_Xuan_Wu",
+          "PZSC719_Tianjin",
+          "PRSC719_Kozma_Minin",
+          "PJSD719_Minegumo",
+          "PASB718_Tennessee"
+        ],
+        "nations": [
+          "Europe",
+          "France",
+          "Italy",
+          "Germany",
+          "Japan",
+          "Pan_Asia",
+          "Russia",
+          "United_Kingdom",
+          "USA"
+        ],
+        "shipLevels": [
+          8,
+          9
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship"
+        ]
+      },
+      {
+        "concreteShips": [
+          "PJSB021_Izumo_1938",
+          "PASB018_Iowa_1944",
+          "PGSB598_Black_Tirpitz",
+          "PJSB878_Ignis_Purgatio",
+          "PJSB888_Ragnarok",
+          "PASB808_Colorful_North_Carolina",
+          "PGSB002_Tirpiz_1942",
+          "PJSB013_Amagi_1942",
+          "PASB012_North_Carolina_1945",
+          "PGSC809_Colorful_Roon",
+          "PASC109_Buffalo",
+          "PGSC109_Roon",
+          "PJSC012_Ibuki_1944",
+          "PJSC708_ARP_Takao",
+          "PJSC598_Black_Atago",
+          "PJSC718_ARP_Maya",
+          "PGSC108_Hipper",
+          "PJSC038_Atago_1944",
+          "PJSC009_Mogami_1935",
+          "PRSC508_Kutuzov_1952",
+          "PASC108_Baltimore_1944",
+          "PJSD209_Yugumo",
+          "PRSD107_Pr_35_Udaloy",
+          "PASD021_Fletcher_1943",
+          "PJSD208_Kagero",
+          "PRSD308_Pr_48",
+          "PASD008_Benson_1945",
+          "PGSB109_Friedrich_der_Grosse",
+          "PASB509_Missouri",
+          "PGSB898_Azur_Bismarck",
+          "PGSB108_Bismarck",
+          "PRSC109_Dmitry_Donskoy",
+          "PBSC109_Neptune",
+          "PBSC888_Edinburgh_PR",
+          "PGSC508_Prinz_Eugen",
+          "PRSC108_Pr_68_Chapaev",
+          "PBSC108_Edinburgh",
+          "PASD529_Black_Black",
+          "PGSD109_Z_46",
+          "PASD709_Black",
+          "PZSD598_Black_LoYang",
+          "PGSD108_Z_23",
+          "PZSD508_LoYang",
+          "PBSB109_Lion",
+          "PASB708_Alabama",
+          "PASB528_Alabama_VL",
+          "PASB818_Black_Alabama",
+          "PJSB508_Kii",
+          "PBSB108_Monarch",
+          "PASB508_Alabama",
+          "PFSC109_Saint_Louis",
+          "PFSC108_Charles_Martel",
+          "PZSD109_Chung_Mu",
+          "PRSD409_Pr_20i_Tashkent",
+          "PJSD708_HSF_Harekaze",
+          "PZSD108_Hsien_Yang",
+          "PRSD208_Pr_30",
+          "PASD508_Kidd",
+          "PFSB599_Black_Jean_Bart",
+          "PFSB109_Alsace",
+          "PFSB518_Jean_Bart",
+          "PJSB509_Musashi",
+          "PISB708_AZUR_Littorio",
+          "PASB598_Black_Massachusetts",
+          "PFSB508_Gascogne",
+          "PFSB108_Richelieu",
+          "PISB508_Roma",
+          "PBSB508_Vanguard",
+          "PASB518_Massachusetts",
+          "PRSC509_Kronshtadt",
+          "PASC209_Seattle",
+          "PASC208_Cleveland",
+          "PJSD889_Kitakaze_PR",
+          "PBSD519_Somme",
+          "PJSD219_Kitakaze",
+          "PBSD109_Jutland",
+          "PJSD598_Black_Asashio",
+          "PBSD598_Black_Cossack",
+          "PFSD508_Le_Terrible",
+          "PJSD108_Akizuki",
+          "PJSD518_Asashio",
+          "PBSD517_Cossack",
+          "PBSD108_Lightning",
+          "PRSB109_Sovetsky_Soyuz",
+          "PASB729_Georgia",
+          "PRSB518_Lenin",
+          "PRSB108_Vladivostok",
+          "PJSC519_AZUR_Azuma",
+          "PJSC829_Black_Azumaya",
+          "PASC599_Black_Alaska",
+          "PISC109_Brindisi",
+          "PJSC510_Azumaya",
+          "PASC510_Alaska",
+          "PFSC508_Bayard",
+          "PISC108_Amalfi",
+          "PZSC508_Irian",
+          "PASC508_Wichita",
+          "PASC718_AZUR_Montpelier",
+          "PWSD510_Friesland",
+          "PFSD109_Mogador",
+          "PRSD709_Pr_41_Neustrashimy",
+          "PASD509_Benham",
+          "PFSD108_Le_Fantasque",
+          "PJSD718_AZUR_Yukikaze",
+          "PGSB818_BA_Tirpitz"
+        ]
+      }
+    ],
+    "totalShips": 4
+  },
+  "scenariosByMap": {
+    "spaces/14_Atlantic": [
+      "domination_3point_revised",
+      "domination_2point"
+    ],
+    "spaces/15_NE_north": [
+      "domination_3point_revised",
+      "domination_2point"
+    ],
+    "spaces/16_OC_bees_to_honey": [
+      "domination_2point",
+      "domination_3point_revised",
+      "domination_4point_revised"
+    ],
+    "spaces/18_NE_ice_islands": [
+      "domination_2point",
+      "domination_3point_revised"
+    ],
+    "spaces/19_OC_prey": [
+      "domination_3point_revised"
+    ],
+    "spaces/20_NE_two_brothers": [
+      "domination_4point_revised",
+      "domination_2point"
+    ],
+    "spaces/22_tierra_del_fuego": [
+      "domination_3point_revised",
+      "domination_4point_revised",
+      "domination_2point"
+    ],
+    "spaces/23_Shards": [
+      "domination_3point_revised"
+    ],
+    "spaces/25_sea_hope": [
+      "domination_3point_revised"
+    ],
+    "spaces/28_naval_mission": [
+      "domination_3point_revised",
+      "domination_2point"
+    ],
+    "spaces/35_NE_north_winter": [
+      "domination_4point_revised",
+      "domination_2point"
+    ],
+    "spaces/37_Ridge": [
+      "domination_2point",
+      "domination_3point_revised"
+    ],
+    "spaces/38_Canada": [
+      "domination_2point",
+      "domination_3point_revised"
+    ],
+    "spaces/40_Okinawa": [
+      "domination_3point_revised"
+    ],
+    "spaces/41_Conquest": [
+      "domination_2point",
+      "domination_3point_revised"
+    ],
+    "spaces/42_Neighbors": [
+      "domination_2point",
+      "domination_3point_revised"
+    ],
+    "spaces/44_Path_warrior": [
+      "domination_3point_revised"
+    ],
+    "spaces/45_Zigzag": [
+      "domination_3point_revised"
+    ],
+    "spaces/46_Estuary": [
+      "domination_4point_revised",
+      "domination_2point"
+    ],
+    "spaces/47_Sleeping_Giant": [
+      "domination_3point_revised",
+      "domination_4point_revised"
+    ],
+    "spaces/50_Gold_harbor": [
+      "domination_4point_revised",
+      "domination_2point"
+    ],
+    "spaces/51_Greece": [
+      "domination_4point_revised",
+      "domination_3point_revised"
+    ],
+    "spaces/52_Britain": [
+      "domination_4point_revised",
+      "domination_3point_revised"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

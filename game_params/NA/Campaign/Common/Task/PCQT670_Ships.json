@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 15,
+  "conditions": [
+    "<isMyShip shipIds=\"PBSD105_Acasta,PFSD106_Guepard,PFSD105_Jaguar,PFSD506_Aigle,PBSD106_Icarus\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\"/>",
+    "<isRibbons count=\"20\" ribbons=\"BURN,TORPEDO\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3591782320,
+  "index": "PCQT670",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT670_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF017_VL_SignalFlag\" count=\"7\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT670_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_DD_1"
+  ],
+  "unlockMissions": []
+}

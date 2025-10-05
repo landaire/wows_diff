@@ -1,0 +1,66 @@
+{
+  "availableBattleCardType": [],
+  "customIconName": "PCVO024",
+  "customMatchmakerBG": "halloween",
+  "difficulty": "normal",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "id": 4269321136,
+  "index": "PCVO024",
+  "map": "",
+  "name": "PCVO024_EV_HL_16_50_VanHellsing",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        -1
+      ],
+      "Battleship": [
+        0,
+        3
+      ],
+      "Cruiser": [
+        0,
+        4
+      ],
+      "Destroyer": [
+        0,
+        3
+      ],
+      "Submarine": [
+        0,
+        -1
+      ]
+    },
+    "filters": [
+      {
+        "nations": [
+          "Events"
+        ],
+        "shipLevels": [
+          3
+        ]
+      }
+    ],
+    "minShips": 4,
+    "totalShips": 7
+  },
+  "scenariosByMap": {
+    "spaces/50_VanHellsing": [
+      "PCVO024_EV_HL_16_50_VanHellsing"
+    ]
+  },
+  "subtype": "event",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Operation",
+    "type": "BattleScript"
+  }
+}

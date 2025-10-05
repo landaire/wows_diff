@@ -1,0 +1,58 @@
+{
+  "constants": {
+    "_shipCount": 7
+  },
+  "enabled": true,
+  "events": [
+    [
+      "meAttack",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ]
+      ],
+      [
+        [
+          "set",
+          "add",
+          ":",
+          "target",
+          "id"
+        ]
+      ]
+    ],
+    [
+      "meAttack",
+      [
+        [
+          "set",
+          "len",
+          ">=",
+          "constant",
+          "_shipCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "id": 4277061552,
+  "index": "PCOC017",
+  "keepCounters": false,
+  "name": "PCOC017",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "AchievementCondition",
+    "type": "Other"
+  },
+  "uiDescription": "IDS_ACHIEVEMENT_CONDITION_PCOC017_DESCRIPTION",
+  "uiHeader": "IDS_ACHIEVEMENT_CONDITION_PCOC017_TITLE"
+}

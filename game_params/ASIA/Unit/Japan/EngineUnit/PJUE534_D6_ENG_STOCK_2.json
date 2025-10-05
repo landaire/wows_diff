@@ -1,0 +1,13 @@
+{
+  "costCR": 110000,
+  "costXP": 0,
+  "id": 3734875856,
+  "index": "PJUE534",
+  "name": "PJUE534_D6_ENG_STOCK_2",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,61 @@
+{
+  "CrewPersonality": {
+    "canResetSkillsForFree": false,
+    "costCR": 0,
+    "costELXP": 0,
+    "costGold": 0,
+    "costXP": 0,
+    "hasCustomBackground": false,
+    "hasOverlay": false,
+    "hasRank": false,
+    "hasSampleVO": false,
+    "isAnimated": false,
+    "isPerson": true,
+    "isRetrainable": false,
+    "isUnique": false,
+    "peculiarity": "halloween_16",
+    "permissions": 0,
+    "personName": "Helsind",
+    "ships": {
+      "groups": [],
+      "nation": [],
+      "peculiarity": [],
+      "ships": [
+        "PXSD001_VanHellsink"
+      ]
+    },
+    "subnation": "",
+    "tags": [
+      "catalogueHiddenIfMissing"
+    ]
+  },
+  "Skills": {},
+  "UniqueSkills": {},
+  "Vanity": {
+    "bannerFlag": "",
+    "crewExpFactor": 1.0,
+    "fireworkEffect": "",
+    "flareEffect": "",
+    "hasOwnTracer": false,
+    "smokeTexture": "particles/trails/Trail_smoke_commander_R.dds",
+    "smokeTint": [
+      5.0,
+      5.0,
+      5.0
+    ]
+  },
+  "baseTrainingLevel": 1,
+  "canBuy": false,
+  "canCharge": true,
+  "goldTrainingLevel": 11,
+  "id": 4188185872,
+  "index": "PXW101",
+  "isTemplate": false,
+  "moneyTrainingLevel": 7,
+  "name": "PXW101_Dr_Van_Helsind",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Crew"
+  }
+}

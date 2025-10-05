@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA010_HappyBirthday2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC236_HB18_RANK_SEASON_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4047412144,
+  "index": "PCZC236",
+  "name": "PCZC236_HB18_Rank_Season",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

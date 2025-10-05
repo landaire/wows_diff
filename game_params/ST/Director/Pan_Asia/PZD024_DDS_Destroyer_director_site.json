@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4268945616,
+  "index": "PZD024",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD024_DDS_Destroyer_director_site/ZD024_DDS_Destroyer_director_site.model",
+  "name": "PZD024_DDS_Destroyer_director_site",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC206_AA_MARINE_CORPS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4078869424,
+  "index": "PCZC206",
+  "name": "PCZC206_AA_Marine_Corps",
+  "subAlbums": [
+    5
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

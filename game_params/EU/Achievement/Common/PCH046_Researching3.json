@@ -1,0 +1,139 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED"
+  ],
+  "constants": {
+    "shipsCount": 50
+  },
+  "enabled": true,
+  "events": [
+    [
+      "login",
+      [
+        [
+          "counter",
+          "globalA",
+          "<",
+          "dock",
+          "exploredShips"
+        ]
+      ],
+      [
+        [
+          "sendstat",
+          "explored_ships",
+          "=",
+          "dock",
+          "exploredShips"
+        ],
+        [
+          "counter",
+          "globalA",
+          "=",
+          "dock",
+          "exploredShips"
+        ]
+      ]
+    ],
+    [
+      "login",
+      [
+        [
+          "counter",
+          "globalA",
+          ">=",
+          "constant",
+          "shipsCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ],
+    [
+      "explore",
+      [],
+      [
+        [
+          "sendstat",
+          "explored_ships",
+          "=",
+          "dock",
+          "exploredShips"
+        ],
+        [
+          "counter",
+          "globalA",
+          "+=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "explore",
+      [
+        [
+          "counter",
+          "globalA",
+          ">=",
+          "constant",
+          "shipsCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4245873584,
+  "index": "PCH046",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH046_Researching3",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": true,
+  "tags": [],
+  "type": "research",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "CHIEF_ENGINEER",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "common"
+}

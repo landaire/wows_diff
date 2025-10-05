@@ -1,0 +1,13 @@
+{
+  "costCR": 640000,
+  "costXP": 0,
+  "id": 3548819280,
+  "index": "PFUS711",
+  "name": "PFUS711_B8_SUO_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

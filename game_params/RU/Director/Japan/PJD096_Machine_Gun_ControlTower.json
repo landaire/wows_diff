@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4193448656,
+  "index": "PJD096",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/director/JD096_Machine_Gun_ControlTower/JD096_Machine_Gun_ControlTower.model",
+  "name": "PJD096_Machine_Gun_ControlTower",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Director"
+  }
+}

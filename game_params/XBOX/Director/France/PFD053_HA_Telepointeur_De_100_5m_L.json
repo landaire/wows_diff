@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4238537552,
+  "index": "PFD053",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD053_HA_Telepointeur_De_100_5m_L/FD053_HA_Telepointeur_De_100_5m_L.model",
+  "name": "PFD053_HA_Telepointeur_De_100_5m_L",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

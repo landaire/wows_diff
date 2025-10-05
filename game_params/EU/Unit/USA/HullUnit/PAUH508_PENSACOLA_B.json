@@ -1,0 +1,13 @@
+{
+  "costCR": 780000,
+  "costXP": 9800,
+  "id": 3762040816,
+  "index": "PAUH508",
+  "name": "PAUH508_PENSACOLA_B",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

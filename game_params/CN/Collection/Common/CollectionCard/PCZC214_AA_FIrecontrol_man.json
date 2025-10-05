@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC214_AA_FIRECONTROL_MAN_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4070480816,
+  "index": "PCZC214",
+  "name": "PCZC214_AA_FIrecontrol_man",
+  "subAlbums": [
+    6
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

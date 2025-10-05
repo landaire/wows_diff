@@ -1,0 +1,66 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 3,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL035_Bday3Y_Coll_Free"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA010_HAPPYBIRTHDAY2018",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4284455856,
+  "index": "PCZA010",
+  "isPuzzle": false,
+  "name": "PCZA010_HappyBirthday2018",
+  "rewards": [
+    "<Lootbox boxType=\"PCL005_Epic\" count=\"1\" ignoreEpic=\"1\"/>",
+    "<Item idx=\"PCEE211_BD_2018\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_HAPPY_BIRTHDAY2018SUBCOLLECTION_NAME",
+      "'aa",
+      [
+        "<Item idx=\"PCEM046_Tile_wows_birthday\" count=\"1\" />",
+        "<Item idx=\"PCEA021_TotalXPboost_1\" count=\"10\" />",
+        "<Item idx=\"PCEA041_FreeXPboost_1\" count=\"5\" />"
+      ]
+    ],
+    [
+      "IDS_SECOND_HAPPY_BIRTHDAY2018COLLECTION_NAME",
+      "'bb",
+      [
+        "<Item idx=\"PCEA012_CRboost_2\" count=\"8\" />",
+        "<Item idx=\"PCEA021_TotalXPboost_1\" count=\"8\" />"
+      ]
+    ],
+    [
+      "IDS_THIRD_HAPPY_BIRTHDAY2018SUBCOLLECTION_NAME",
+      "'cc",
+      [
+        "<Item idx=\"PCEA012_CRboost_2\" count=\"7\" />",
+        "<Item idx=\"PCEA032_CrewXPboost_2\" count=\"7\" />",
+        "<Item idx=\"PCEA021_TotalXPboost_1\" count=\"7\" />"
+      ]
+    ],
+    [
+      "IDS_FOURTH_HAPPY_BIRTHDAY2018SUBCOLLECTION_NAME",
+      "'dd",
+      [
+        "<Item idx=\"PCEA011_CRboost_1\" count=\"10\" />",
+        "<Item idx=\"PCEA031_CrewXPboost_1\" count=\"10\" />",
+        "<Item idx=\"PCEA021_TotalXPboost_1\" count=\"10\" />",
+        "<Item idx=\"PCEA041_FreeXPboost_1\" count=\"10\" />"
+      ]
+    ]
+  ],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

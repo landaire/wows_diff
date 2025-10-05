@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC071_YAMAMOTO_RUSJAP_WAR_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4220427184,
+  "index": "PCZC071",
+  "name": "PCZC071_Yamamoto_RusJap_War",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 2600000,
+  "costXP": 26000,
+  "id": 3644239184,
+  "index": "PVUS620",
+  "name": "PVUS620_B9_SUO_TOP",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

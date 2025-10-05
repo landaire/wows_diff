@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4283625808,
+  "index": "PVD010",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panamerica/director/VD010_DCT_MK_IV_H_class_UK/VD010_DCT_MK_IV_H_class_UK.model",
+  "name": "PVD010_DCT_MK_IV_H_class_UK",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": null,
+    "type": "Director"
+  }
+}

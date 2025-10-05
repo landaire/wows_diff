@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA027_TFTM_108",
+  "compensationCR": 0,
+  "description": "IDS_PCZC647_TFTM_108_SCREEN5_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3616447408,
+  "index": "PCZC647",
+  "name": "PCZC647_TFTM_108_Screen5",
+  "subAlbums": [
+    7
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

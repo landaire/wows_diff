@@ -1,0 +1,159 @@
+{
+  "childNodes": {
+    "nodeAirCarrier": {
+      "childNodes": {
+        "type": 0,
+        "weight": 0
+      },
+      "ownBattleItem": {
+        "duration": -1,
+        "level": 1,
+        "params": "PXOM049_AirCarrierStartBuff_H2023",
+        "type": 1,
+        "weight": 0
+      },
+      "restrictions": {
+        "forbiddenShips": [],
+        "levels": [],
+        "nations": [],
+        "specificShips": [],
+        "subtype": [
+          "AirCarrier"
+        ]
+      },
+      "type": 5,
+      "weight": 0
+    },
+    "nodeBattleship": {
+      "childNodes": {
+        "type": 0,
+        "weight": 0
+      },
+      "ownBattleItem": {
+        "duration": -1,
+        "level": 1,
+        "params": "PXOM046_BattleshipStartBuff_H2023",
+        "type": 1,
+        "weight": 0
+      },
+      "restrictions": {
+        "forbiddenShips": [],
+        "levels": [],
+        "nations": [],
+        "specificShips": [],
+        "subtype": [
+          "Battleship"
+        ]
+      },
+      "type": 5,
+      "weight": 0
+    },
+    "nodeCruiser": {
+      "childNodes": {
+        "type": 0,
+        "weight": 0
+      },
+      "ownBattleItem": {
+        "duration": -1,
+        "level": 1,
+        "params": "PXOM047_CruiserStartBuff_H2023",
+        "type": 1,
+        "weight": 0
+      },
+      "restrictions": {
+        "forbiddenShips": [],
+        "levels": [],
+        "nations": [],
+        "specificShips": [],
+        "subtype": [
+          "Cruiser"
+        ]
+      },
+      "type": 5,
+      "weight": 0
+    },
+    "nodeDestroyer": {
+      "childNodes": {
+        "type": 0,
+        "weight": 0
+      },
+      "ownBattleItem": {
+        "duration": -1,
+        "level": 1,
+        "params": "PXOM048_DestroyerStartBuff_H2023",
+        "type": 1,
+        "weight": 0
+      },
+      "restrictions": {
+        "forbiddenShips": [],
+        "levels": [],
+        "nations": [],
+        "specificShips": [],
+        "subtype": [
+          "Destroyer"
+        ]
+      },
+      "type": 5,
+      "weight": 0
+    },
+    "nodeSubmarine": {
+      "childNodes": {
+        "type": 0,
+        "weight": 0
+      },
+      "ownBattleItem": {
+        "duration": -1,
+        "level": 1,
+        "params": "PXOM050_SubmarineStartBuff_H2023",
+        "type": 1,
+        "weight": 0
+      },
+      "restrictions": {
+        "forbiddenShips": [],
+        "levels": [],
+        "nations": [],
+        "specificShips": [],
+        "subtype": [
+          "Submarine"
+        ]
+      },
+      "type": 5,
+      "weight": 0
+    },
+    "type": 3,
+    "weight": 0
+  },
+  "id": 4293281040,
+  "index": "PXOT001",
+  "name": "PXOT001_BuffTreeHalloween2023",
+  "ownBattleItem": {
+    "duration": -1,
+    "level": 1,
+    "params": "PXOM060_Common_H2023",
+    "type": 1,
+    "weight": 0
+  },
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [
+      8,
+      9
+    ],
+    "nations": [],
+    "specificShips": [],
+    "subtype": [
+      "Battleship",
+      "Cruiser",
+      "Destroyer",
+      "Submarine",
+      "AirCarrier"
+    ]
+  },
+  "type": 5,
+  "typeinfo": {
+    "nation": "Events",
+    "species": "BattleItemTree",
+    "type": "Other"
+  },
+  "weight": 0
+}

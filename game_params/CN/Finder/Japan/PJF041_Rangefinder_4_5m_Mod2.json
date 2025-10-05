@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4251118288,
+  "index": "PJF041",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/finder/JF041_Rangefinder_4_5m_Mod2/JF041_Rangefinder_4_5m_Mod2.model",
+  "name": "PJF041_Rangefinder_4_5m_Mod2",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Finder"
+  }
+}

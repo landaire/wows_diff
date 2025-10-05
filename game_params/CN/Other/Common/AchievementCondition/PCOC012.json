@@ -1,0 +1,114 @@
+{
+  "constants": {
+    "_damage": 20000
+  },
+  "enabled": true,
+  "events": [
+    [
+      "meVisible",
+      [
+        [
+          "visibility",
+          "value",
+          "==",
+          "constant",
+          "false"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "=",
+          "constant",
+          "0"
+        ]
+      ]
+    ],
+    [
+      "meVisible",
+      [
+        [
+          "visibility",
+          "value",
+          "==",
+          "constant",
+          "true"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "=",
+          "constant",
+          "1"
+        ],
+        [
+          "counter",
+          "b",
+          "=",
+          "constant",
+          "0"
+        ]
+      ]
+    ],
+    [
+      "meAttack",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "counter",
+          "a",
+          "==",
+          "constant",
+          "0"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "b",
+          "+=",
+          "damage",
+          "value"
+        ]
+      ]
+    ],
+    [
+      "meAttack",
+      [
+        [
+          "counter",
+          "b",
+          ">=",
+          "constant",
+          "_damage"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "id": 4282304432,
+  "index": "PCOC012",
+  "keepCounters": false,
+  "name": "PCOC012",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "AchievementCondition",
+    "type": "Other"
+  },
+  "uiDescription": "IDS_ACHIEVEMENT_CONDITION_PCOC012_DESCRIPTION",
+  "uiHeader": "IDS_ACHIEVEMENT_CONDITION_PCOC012_TITLE"
+}

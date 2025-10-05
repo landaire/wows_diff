@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4235391184,
+  "index": "PZD056",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD056_Dir_HA_RF_2m_ACAD/ZD056_Dir_HA_RF_2m_ACAD.model",
+  "name": "PZD056_Dir_HA_RF_2m_ACAD",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

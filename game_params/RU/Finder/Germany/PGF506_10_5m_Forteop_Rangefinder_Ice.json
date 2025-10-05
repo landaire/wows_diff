@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3763530544,
+  "index": "PGF506",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF506_10_5m_Forteop_Rangefinder_Ice/GF506_10_5m_Forteop_Rangefinder_Ice.model",
+  "name": "PGF506_10_5m_Forteop_Rangefinder_Ice",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

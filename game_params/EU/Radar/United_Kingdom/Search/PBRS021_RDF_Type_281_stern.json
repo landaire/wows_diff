@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4272339920,
+  "index": "PBRS021",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/radar/search/BRS021_RDF_Type_281_stern/BRS021_RDF_Type_281_stern.model",
+  "name": "PBRS021_RDF_Type_281_stern",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

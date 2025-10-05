@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4234342608,
+  "index": "PZD057",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD057_Secondary_Battery_dir_6m/ZD057_Secondary_Battery_dir_6m.model",
+  "name": "PZD057_Secondary_Battery_dir_6m",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

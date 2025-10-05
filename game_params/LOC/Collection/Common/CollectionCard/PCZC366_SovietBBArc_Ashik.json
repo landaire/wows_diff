@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA016_SovietBBArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC366_SOVIETBBARC_ASHIK_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3911097264,
+  "index": "PCZC366",
+  "name": "PCZC366_SovietBBArc_Ashik",
+  "subAlbums": [
+    7
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

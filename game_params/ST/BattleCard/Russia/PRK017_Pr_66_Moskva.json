@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4276278736,
+  "index": "PRK017",
+  "maxLevel": 2,
+  "name": "PRK017_Pr_66_Moskva",
+  "personalCardBonus": {
+    "clan": "PCOK603_CLAN_CA_Large"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PRSC110_Pr_66_Moskva"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

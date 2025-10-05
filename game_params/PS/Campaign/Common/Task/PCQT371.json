@@ -1,0 +1,29 @@
+{
+  "backgroundIconID": 0,
+  "conditions": [
+    "<isMyShip shipLevel=\"9,10,11\" class=\"Cruiser\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isTopXP rank=\"1\" topType=\"team\"/>",
+    "<isBattleCount count=\"5\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3905306544,
+  "index": "PCQT371",
+  "isSingleBattle": false,
+  "lootStars": 3,
+  "name": "PCQT371",
+  "rewards": [
+    "<Add type=\"ELITE_XP\" count=\"15000\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT371_1",
+    "isBattleCount",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

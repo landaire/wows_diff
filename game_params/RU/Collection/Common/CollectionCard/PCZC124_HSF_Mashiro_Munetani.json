@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC124_HSF_MASHIRO_MUNETANI_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4164852656,
+  "index": "PCZC124",
+  "name": "PCZC124_HSF_Mashiro_Munetani",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

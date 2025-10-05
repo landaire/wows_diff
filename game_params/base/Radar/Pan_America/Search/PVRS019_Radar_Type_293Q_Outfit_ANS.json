@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4274436432,
+  "index": "PVRS019",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panamerica/radar/search/VRS019_Radar_Type_293Q_Outfit_ANS/VRS019_Radar_Type_293Q_Outfit_ANS.model",
+  "name": "PVRS019_Radar_Type_293Q_Outfit_ANS",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC182_AA_ATLANTA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4104035248,
+  "index": "PCZC182",
+  "name": "PCZC182_AA_Atlanta",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

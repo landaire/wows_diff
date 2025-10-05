@@ -1,0 +1,13 @@
+{
+  "costCR": 1500000,
+  "costXP": 18000,
+  "id": 3555438384,
+  "index": "PGUI705",
+  "name": "PGUI705_F_CV8_TOP",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

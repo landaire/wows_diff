@@ -1,0 +1,40 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {
+      "1": 0,
+      "10": 7000,
+      "11": 10000,
+      "2": 100,
+      "3": 400,
+      "4": 1000,
+      "5": 1500,
+      "6": 2000,
+      "7": 3000,
+      "8": 4000,
+      "9": 5000
+    }
+  },
+  "buffBonus": {},
+  "cardType": "pve",
+  "id": 3232946096,
+  "index": "PCK1012",
+  "maxLevel": 11,
+  "name": "PCK1012_PVE_Flagships_APSAP_DD",
+  "personalCardBonus": {
+    "pve": "PCOK1012_PVE_Flagships_APSAP_DD"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": [
+      "Destroyer"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

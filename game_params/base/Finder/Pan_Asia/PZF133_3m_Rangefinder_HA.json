@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4154648784,
+  "index": "PZF133",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/finder/ZF133_3m_Rangefinder_HA/ZF133_3m_Rangefinder_HA.model",
+  "name": "PZF133_3m_Rangefinder_HA",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Finder"
+  }
+}

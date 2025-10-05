@@ -1,0 +1,13 @@
+{
+  "costCR": 535000,
+  "costXP": 6500,
+  "id": 4292587504,
+  "index": "PAUI002",
+  "name": "PAUI002_Grumman_F6F",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

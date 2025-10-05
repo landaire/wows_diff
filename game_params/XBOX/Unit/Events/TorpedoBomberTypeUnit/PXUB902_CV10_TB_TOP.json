@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3349097744,
+  "index": "PXUB902",
+  "name": "PXUB902_CV10_TB_TOP",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

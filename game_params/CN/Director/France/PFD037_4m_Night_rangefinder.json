@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4255314768,
+  "index": "PFD037",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD037_4m_Night_rangefinder/FD037_4m_Night_rangefinder.model",
+  "name": "PFD037_4m_Night_rangefinder",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

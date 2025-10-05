@@ -1,0 +1,73 @@
+{
+  "id": 4293254416,
+  "index": "PXIU001",
+  "level_1": {
+    "points": 0,
+    "reward": {
+      "available": 0,
+      "count": 0,
+      "type": 4,
+      "weight": 0
+    }
+  },
+  "level_2": {
+    "points": 200,
+    "reward": {
+      "available": 0,
+      "count": 0,
+      "type": 4,
+      "weight": 0
+    }
+  },
+  "level_3": {
+    "points": 300,
+    "reward": {
+      "available": 0,
+      "count": 0,
+      "type": 4,
+      "weight": 0
+    }
+  },
+  "level_4": {
+    "points": 500,
+    "reward": {
+      "available": 0,
+      "count": 0,
+      "type": 4,
+      "weight": 0
+    }
+  },
+  "level_5": {
+    "points": 1000,
+    "reward": {
+      "available": 0,
+      "count": 0,
+      "type": 4,
+      "weight": 0
+    }
+  },
+  "level_6": {
+    "points": 1500,
+    "reward": {
+      "available": 0,
+      "count": 0,
+      "type": 4,
+      "weight": 0
+    }
+  },
+  "level_7": {
+    "points": 1500,
+    "reward": {
+      "available": 0,
+      "count": 0,
+      "type": 4,
+      "weight": 0
+    }
+  },
+  "name": "PXIU001_H2020",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "Upgrade",
+    "type": "Component"
+  }
+}

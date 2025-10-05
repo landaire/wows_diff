@@ -1,0 +1,20 @@
+{
+  "id": 3745171376,
+  "index": "PCOK524",
+  "level_1": {
+    "allAlphaMultiplier": 1.125,
+    "vulnerabilityAP": 0.925,
+    "vulnerabilityHE": 0.925
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.125,
+    "vulnerabilityAP": 0.925,
+    "vulnerabilityHE": 0.925
+  },
+  "name": "PCOK524_CLAN_Z52",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

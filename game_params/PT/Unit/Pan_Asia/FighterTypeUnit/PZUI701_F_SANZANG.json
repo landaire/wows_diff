@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3559632080,
+  "index": "PZUI701",
+  "name": "PZUI701_F_SANZANG",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

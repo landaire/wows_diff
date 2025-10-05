@@ -1,0 +1,22 @@
+{
+  "angle": 0.0,
+  "dist": 0.0,
+  "hidePlane": false,
+  "id": 4290966992,
+  "index": "PRC003",
+  "isInvisible": false,
+  "launchEffectName": "particles/Empty_FX.xml",
+  "linkedGunAngles": [],
+  "linkedGunName": null,
+  "linkedRotationSpeedCoeff": 1.0,
+  "model": "content/gameplay/russia/catapult/RC003_Catapult_K12_Heinshel/RC003_Catapult_K12_Heinshel.model",
+  "name": "PRC003_Catapult_K12_Heinshel",
+  "planeOffsets": {},
+  "rotateTime": 0.0,
+  "translateDelay": 0.0,
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Catapult"
+  }
+}

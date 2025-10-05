@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3637703376,
+  "index": "PJD626",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/director/JD626_Director_Type_91_LanternFest20/JD626_Director_Type_91_LanternFest20.model",
+  "name": "PJD626_Director_Type_91_LanternFest20",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Director"
+  }
+}

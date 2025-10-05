@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA013_HappyNewYear2019",
+  "compensationCR": 0,
+  "description": "IDS_PCZC275_NY2019_KURFURSTSTAMP_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4006517680,
+  "index": "PCZC275",
+  "name": "PCZC275_NY2019_KurfurstStamp",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

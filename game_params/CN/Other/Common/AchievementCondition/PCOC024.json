@@ -1,0 +1,75 @@
+{
+  "constants": {
+    "_damage": 110000,
+    "_potentialDamage": 1500000
+  },
+  "enabled": true,
+  "events": [
+    [
+      "meAttack",
+      [],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "damage",
+          "value"
+        ]
+      ]
+    ],
+    [
+      "onAgro",
+      [],
+      [
+        [
+          "counter",
+          "b",
+          "+=",
+          "agro",
+          "amount"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "me",
+          "alive"
+        ],
+        [
+          "counter",
+          "a",
+          ">=",
+          "constant",
+          "_damage"
+        ],
+        [
+          "counter",
+          "b",
+          ">=",
+          "constant",
+          "_potentialDamage"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "id": 4269721520,
+  "index": "PCOC024",
+  "keepCounters": false,
+  "name": "PCOC024",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "AchievementCondition",
+    "type": "Other"
+  },
+  "uiDescription": "IDS_ACHIEVEMENT_CONDITION_PCOC024_DESCRIPTION",
+  "uiHeader": "IDS_ACHIEVEMENT_CONDITION_PCOC024_TITLE"
+}

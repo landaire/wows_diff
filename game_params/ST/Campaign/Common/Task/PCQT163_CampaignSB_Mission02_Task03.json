@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 3,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\" class=\"Cruiser\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\"/>",
+    "<isModuleHits moduleTypes=\"atba\" count=\"100\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 4123410352,
+  "index": "PCQT163",
+  "isSingleBattle": false,
+  "lootStars": 3,
+  "name": "PCQT163_CampaignSB_Mission02_Task03",
+  "rewards": [
+    "<Item idx=\"PCEF030_CK_SignalFlag\" count=\"15\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT163_CAMPAIGNSB_MISSION02_TASK03_1",
+    "isModuleHits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

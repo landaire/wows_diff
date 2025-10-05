@@ -1,0 +1,30 @@
+{
+  "backgroundIconID": 2,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED,CLAN\" />",
+    "<isTotalXP count=\"30000\" />"
+  ],
+  "costUnlock": 12,
+  "id": 3740680112,
+  "index": "PCQT528",
+  "isSingleBattle": false,
+  "lootStars": 0,
+  "name": "PCQT528_Key",
+  "rewards": [
+    "<Lootbox boxType=\"PCL005_Epic\" count=\"2\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT528_1",
+    "isTotalXP",
+    "IDS_TASKRESTRICTION_PVPCOOPRANKEDCLAN"
+  ],
+  "unlockMissions": [
+    "PCQM073"
+  ]
+}

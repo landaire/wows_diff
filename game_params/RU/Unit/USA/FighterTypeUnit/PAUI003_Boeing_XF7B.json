@@ -1,0 +1,13 @@
+{
+  "costCR": 1750,
+  "costXP": 500,
+  "id": 4291538928,
+  "index": "PAUI003",
+  "name": "PAUI003_Boeing_XF7B",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

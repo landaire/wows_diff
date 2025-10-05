@@ -1,0 +1,55 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "GrandEvent",
+  "economics": {
+    "currencyType": "EVENTUM_2",
+    "earningBySelf": 1.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 0,
+  "gameLogicConfig": {},
+  "id": 4283280304,
+  "index": "PCVE011",
+  "matchmakerConfig": {
+    "max_ship_level": 10,
+    "max_ships_in_team": 1,
+    "min_ship_level": 9,
+    "teams_in_battle": 16
+  },
+  "name": "PCVE011_EV21PortalHard",
+  "restrictions": {
+    "filters": [
+      {
+        "nations": [
+          "Events"
+        ],
+        "shipLevels": [
+          9,
+          10
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship"
+        ]
+      }
+    ],
+    "totalShips": 16
+  },
+  "scenariosByMap": {
+    "spaces/e11_FreshGameplay_2021": [
+      "Portal_Hard"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

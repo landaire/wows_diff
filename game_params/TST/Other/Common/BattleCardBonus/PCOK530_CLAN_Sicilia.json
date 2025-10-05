@@ -1,0 +1,18 @@
+{
+  "id": 3738879920,
+  "index": "PCOK530",
+  "level_1": {
+    "vulnerabilityAP": 0.9,
+    "vulnerabilityAtba": 0.8
+  },
+  "level_2": {
+    "vulnerabilityAP": 0.9,
+    "vulnerabilityAtba": 0.8
+  },
+  "name": "PCOK530_CLAN_Sicilia",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

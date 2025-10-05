@@ -1,0 +1,13 @@
+{
+  "costCR": 1500000,
+  "costXP": 24000,
+  "id": 3661376720,
+  "index": "PZUH604",
+  "name": "PZUH604_C7_HULL_TOP",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

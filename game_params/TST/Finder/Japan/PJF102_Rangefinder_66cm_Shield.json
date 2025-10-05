@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4187155152,
+  "index": "PJF102",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/finder/JF102_Rangefinder_66cm_Shield/JF102_Rangefinder_66cm_Shield.model",
+  "name": "PJF102_Rangefinder_66cm_Shield",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Finder"
+  }
+}

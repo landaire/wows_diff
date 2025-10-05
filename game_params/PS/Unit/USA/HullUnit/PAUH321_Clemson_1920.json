@@ -1,0 +1,13 @@
+{
+  "costCR": 77000,
+  "costXP": 0,
+  "id": 3958124528,
+  "index": "PAUH321",
+  "name": "PAUH321_Clemson_1920",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

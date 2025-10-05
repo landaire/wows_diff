@@ -1,0 +1,14 @@
+{
+  "baseColorHEX": "0xbcbcbc",
+  "canCharge": true,
+  "id": 4292234160,
+  "index": "PCNT002",
+  "isTemplate": false,
+  "name": "PCNT002",
+  "needDescription": false,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BackgroundTexture",
+    "type": "DogTag"
+  }
+}

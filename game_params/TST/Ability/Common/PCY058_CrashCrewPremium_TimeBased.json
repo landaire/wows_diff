@@ -1,0 +1,39 @@
+{
+  "Default_TimeBased": {
+    "availableBuoyancyStates": [],
+    "capacityRegenCoeff": 0.0,
+    "consumableType": "crashCrew",
+    "descIDs": "PCY009_CrashCrew_Limited_Premium",
+    "group": "ship",
+    "iconIDs": "PCY009_CrashCrew_Limited_Premium",
+    "isFake": false,
+    "lifeCycleType": 1,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "maxCapacity": 40.0,
+    "minWorkTime": 10.0,
+    "preparationTime": 0.0,
+    "reloadTime": 40.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY009_CrashCrew_Limited_Premium"
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 4233273264,
+  "index": "PCY058",
+  "name": "PCY058_CrashCrewPremium_TimeBased",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Ability"
+  }
+}

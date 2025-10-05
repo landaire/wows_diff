@@ -1,0 +1,33 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "deathSoundEvent": "Death_Custom_PCDE016_BlueExplosion",
+  "effectOnDeath": {
+    "AirCarrier": "particles/Blue_CustomDeath_Battleship_AirCarrier.xml",
+    "Battleship": "particles/Blue_CustomDeath_Battleship_AirCarrier.xml",
+    "Cruiser": "particles/Blue_CustomDeath_Cruiser_Destroyer.xml",
+    "Destroyer": "particles/Blue_CustomDeath_Cruiser_Destroyer.xml",
+    "Submarine": "particles/Blue_CustomDeath_Submarine.xml"
+  },
+  "effectOnUnderWaterDeath": "particles/vehicles/Submarine_death.xml",
+  "group": "paintwork",
+  "hidden": false,
+  "id": 4278087600,
+  "index": "PCED016",
+  "isTemplate": false,
+  "name": "PCED016_BlueExplosion",
+  "peculiarity": "thematic",
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "ShipDestruction",
+    "type": "Exterior"
+  }
+}

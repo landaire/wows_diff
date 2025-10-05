@@ -1,0 +1,13 @@
+{
+  "costCR": 210000,
+  "costXP": 0,
+  "id": 3765284848,
+  "index": "PAUE505",
+  "name": "PAUE505_CL6_ENG_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

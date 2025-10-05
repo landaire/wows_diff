@@ -1,0 +1,13 @@
+{
+  "costCR": 560000,
+  "costXP": 0,
+  "id": 3655315280,
+  "index": "PFUA610",
+  "name": "PFUA610_B7_ART_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

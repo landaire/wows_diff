@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC080_YAMAMOTO_NAGATO_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4210990000,
+  "index": "PCZC080",
+  "name": "PCZC080_Yamamoto_Nagato",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

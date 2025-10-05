@@ -1,0 +1,13 @@
+{
+  "costCR": 450000,
+  "costXP": 6900,
+  "id": 3866898384,
+  "index": "PBUH408",
+  "name": "PBUH408_CA5_HULL_B",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

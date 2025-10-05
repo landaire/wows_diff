@@ -1,0 +1,13 @@
+{
+  "costCR": 118000,
+  "costXP": 950,
+  "id": 4082904880,
+  "index": "PGUH202",
+  "name": "PGUH202_KOLBERG_B",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

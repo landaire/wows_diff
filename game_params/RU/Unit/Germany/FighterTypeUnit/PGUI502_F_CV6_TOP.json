@@ -1,0 +1,13 @@
+{
+  "costCR": 750000,
+  "costXP": 7000,
+  "id": 3768299312,
+  "index": "PGUI502",
+  "name": "PGUI502_F_CV6_TOP",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

@@ -1,0 +1,110 @@
+{
+  "HitLocationTorpedo": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 0.75,
+    "autoRepairTime": 15,
+    "autoRepairTimeMin": 15,
+    "brokenRepairHealthCoefficient": 0.5,
+    "brokenRepairTime": 45.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": true,
+    "critProb": [
+      0.25,
+      0.25
+    ],
+    "critProbHP": [
+      1.0,
+      0.0
+    ],
+    "damageEffects": [],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "torpedo_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 1200.0,
+    "moduleCritCoeffCR": 0.0,
+    "moduleCritCoeffXP": 0.0,
+    "parentHL": null,
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 0.5,
+    "splashBoxes": [],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 0.5,
+    "volumeCoeff": 1.0
+  },
+  "additionalAimSector": [
+    -0.0,
+    0.0
+  ],
+  "ammoList": [
+    "PXPT040_610MM_AKATSUKI_ROMULANS_1"
+  ],
+  "ammoSwitchCoeff": 0.2,
+  "armor": {
+    "65580": 15.0
+  },
+  "availableBuoyancyStates": [
+    "SURFACE",
+    "PERISCOPE",
+    "SEMI_DEEP_WATER",
+    "DEEP_WATER",
+    "DEEP_WATER_INVUL"
+  ],
+  "barrelDiameter": 0.61,
+  "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+  "customMiscs": {},
+  "damagedEffect": "particles/guns/Gun_Broken_vsmall.xml",
+  "deadMesh": "content/gameplay/germany/gun/torpedo/GGT3064_610mm3_Type_93_StarTrek/GGT3064_610mm3_Type_93_StarTrek_dead.model",
+  "deadZone": [],
+  "horizSector": [
+    0.0,
+    0.0
+  ],
+  "id": 4240860432,
+  "index": "PXGT051",
+  "lensEffect": "particles/Empty_FX.xml",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/gun/torpedo/GGT3064_610mm3_Type_93_StarTrek/GGT3064_610mm3_Type_93_StarTrek.model",
+  "name": "PXGT051_610MM3_AKATSUKI_ROMULANS_1",
+  "numAmmos": 1000,
+  "numBarrels": 4.0,
+  "position": [
+    0,
+    0
+  ],
+  "purgingEffect": "particles/Empty_FX.xml",
+  "reloadBoostEffect": "particles/Empty_FX.xml",
+  "rotationSpeed": [
+    65.0,
+    55.0
+  ],
+  "shootSector": [
+    0.0,
+    0.0
+  ],
+  "shotDelay": 44.0,
+  "shotEffect": "particles/StarTrek_Pulse_Phaser_Shot.xml",
+  "shotEffectCap": "particles/Empty_FX.xml",
+  "smallGun": null,
+  "timeBetweenShots": 0.2,
+  "timeToChangeAngle": 1,
+  "timeToChangeSpeed": 1,
+  "torpedoAngles": [
+    2.0,
+    2.0
+  ],
+  "typeinfo": {
+    "nation": "Events",
+    "species": "Torpedo",
+    "type": "Gun"
+  },
+  "vertSector": [
+    0.0,
+    1.0
+  ]
+}

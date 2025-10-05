@@ -1,0 +1,13 @@
+{
+  "costCR": 5500000,
+  "costXP": 60000,
+  "id": 3422301904,
+  "index": "PJUH832",
+  "name": "PJUH832_Izumo_1942",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

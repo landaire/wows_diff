@@ -1,0 +1,13 @@
+{
+  "costCR": 1300000,
+  "costXP": 17500,
+  "id": 3536596688,
+  "index": "PJUH723",
+  "name": "PJUH723_Myoko_1945",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

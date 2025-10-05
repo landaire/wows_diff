@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4227001296,
+  "index": "PBF064",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/finder/BF064_Rangefinder_MS20_2_7_m/BF064_Rangefinder_MS20_2_7_m.model",
+  "name": "PBF064_Rangefinder_MS20_2_7_m",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Finder"
+  }
+}

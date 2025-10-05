@@ -1,0 +1,74 @@
+{
+  "id": 3237660592,
+  "index": "PCOK1008",
+  "level_1": {
+    "floodDamageMultiplier": 1.1,
+    "torpedoDamageCoeff": 1.1,
+    "vulnerabilityMain": 0.95
+  },
+  "level_10": {
+    "burnProb": 0.2,
+    "floodDamageMultiplier": 1.8,
+    "torpedoDamageCoeff": 1.25,
+    "vulnerabilityMain": 0.7
+  },
+  "level_11": {
+    "burnProb": 0.05,
+    "floodDamageMultiplier": 2,
+    "torpedoDamageCoeff": 1.25,
+    "vulnerabilityMain": 0.7
+  },
+  "level_2": {
+    "floodDamageMultiplier": 1.1,
+    "torpedoDamageCoeff": 1.13,
+    "vulnerabilityMain": 0.9
+  },
+  "level_3": {
+    "burnProb": 0.8,
+    "floodDamageMultiplier": 1.2,
+    "torpedoDamageCoeff": 1.13,
+    "vulnerabilityMain": 0.9
+  },
+  "level_4": {
+    "burnProb": 0.8,
+    "floodDamageMultiplier": 1.2,
+    "torpedoDamageCoeff": 1.16,
+    "vulnerabilityMain": 0.85
+  },
+  "level_5": {
+    "burnProb": 0.6,
+    "floodDamageMultiplier": 1.4,
+    "torpedoDamageCoeff": 1.16,
+    "vulnerabilityMain": 0.85
+  },
+  "level_6": {
+    "burnProb": 0.6,
+    "floodDamageMultiplier": 1.4,
+    "torpedoDamageCoeff": 1.19,
+    "vulnerabilityMain": 0.8
+  },
+  "level_7": {
+    "burnProb": 0.4,
+    "floodDamageMultiplier": 1.6,
+    "torpedoDamageCoeff": 1.19,
+    "vulnerabilityMain": 0.8
+  },
+  "level_8": {
+    "burnProb": 0.4,
+    "floodDamageMultiplier": 1.6,
+    "torpedoDamageCoeff": 1.22,
+    "vulnerabilityMain": 0.75
+  },
+  "level_9": {
+    "burnProb": 0.2,
+    "floodDamageMultiplier": 1.8,
+    "torpedoDamageCoeff": 1.22,
+    "vulnerabilityMain": 0.75
+  },
+  "name": "PCOK1008_PVE_Flagships_Torp_CA",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

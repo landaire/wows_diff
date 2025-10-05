@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3762958160,
+  "index": "PFUL507",
+  "name": "PFUL507_SB_BEARN",
+  "typeinfo": {
+    "nation": "France",
+    "species": "SkipBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_SkipBomber"
+}

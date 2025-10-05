@@ -1,0 +1,13 @@
+{
+  "costCR": 310000,
+  "costXP": 3400,
+  "id": 3870732080,
+  "index": "PGUS404",
+  "name": "PGUS404_D5_SUO_TOP",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

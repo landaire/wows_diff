@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA008_Vivalafrance",
+  "compensationCR": 0,
+  "description": "IDS_PCZC160_VIVALAFRANCE_PROVENCE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4127103920,
+  "index": "PCZC160",
+  "name": "PCZC160_VivaLaFrance_Provence",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

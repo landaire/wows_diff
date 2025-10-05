@@ -1,0 +1,128 @@
+{
+  "FogModel": {
+    "bounds": {
+      "max": {
+        "height": 300.0,
+        "radius": null
+      },
+      "min": {
+        "height": 100.0,
+        "radius": 20.0
+      },
+      "scale": {
+        "height": 2.0,
+        "radius": 1.0
+      }
+    },
+    "model": "content/location/misc/trash/LMT181_HW_Fog/LMT181_HW_Fog.model"
+  },
+  "RayModel": {
+    "bounds": {
+      "max": {
+        "height": 1550.0,
+        "radius": 2.5
+      },
+      "min": {
+        "height": 0.1,
+        "radius": 0.0
+      },
+      "scale": {
+        "height": 250.0,
+        "radius": 0.5
+      }
+    },
+    "model": "content/location/misc/trash/LMT182_HW_Ray/LMT182_HW_Ray.model"
+  },
+  "SmallFogModel": {
+    "bounds": {
+      "max": {
+        "height": 20.0,
+        "radius": null
+      },
+      "min": {
+        "height": 20.0,
+        "radius": 20.0
+      },
+      "scale": {
+        "height": null,
+        "radius": 1.0
+      }
+    },
+    "model": "content/location/misc/trash/LMT183_HW_SmallFog/LMT183_HW_SmallFog.model"
+  },
+  "SpiralModel": {
+    "bounds": {
+      "max": {
+        "height": 155.0,
+        "radius": 130.0
+      },
+      "min": {
+        "height": 141.0,
+        "radius": 0.1
+      },
+      "scale": {
+        "height": 0.075,
+        "radius": 0.55
+      }
+    },
+    "model": "content/location/misc/trash/LMT180_HW_Spiral/LMT180_HW_Spiral.model"
+  },
+  "audio": {
+    "effect": "Filth",
+    "intensity": 10.0
+  },
+  "bounds": {
+    "max": {
+      "height": 35.0,
+      "radius": 100500.0
+    },
+    "min": {
+      "height": 0.0,
+      "radius": 20.0
+    },
+    "scale": {
+      "height": 0.35,
+      "radius": 1.0
+    }
+  },
+  "changeDist": 125.0,
+  "changeStart": 25.0,
+  "effects": [
+    "particles/Halloween_Clouds.xml"
+  ],
+  "graphics": "Storm",
+  "id": 4293216176,
+  "index": "PCOV001",
+  "logic": {
+    "AAMaxDist": null,
+    "GMIdealRadius": null,
+    "GSIdealRadius": null,
+    "GSMIdealRadius": null,
+    "airDefenseVisibilityTime": null,
+    "bad": 1.0,
+    "burnDamage": null,
+    "burnTime": null,
+    "maxPlaneVisionDistance": 166.0,
+    "maxShipVisionDistance": 166.0,
+    "maxVisibilityDistance": 166.0,
+    "maxVisibilityDistanceByPlane": 166.0,
+    "mgVisibilityTime": null,
+    "planeMaxVisibilityDistance": null,
+    "planeMaxVisibilityDistanceByPlane": null,
+    "planeSpeed": null,
+    "planeVisibilityFactor": null,
+    "planeVisibilityFactorByPlane": null,
+    "shootShift": null,
+    "speedCoef": null,
+    "transparency": 1.0,
+    "visibilityFactor": 0.5,
+    "visibilityFactorByPlane": 0.5
+  },
+  "name": "PCOV001_Felth",
+  "paramsInterpolationDuration": 2.0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "LocalWeather",
+    "type": "Other"
+  }
+}

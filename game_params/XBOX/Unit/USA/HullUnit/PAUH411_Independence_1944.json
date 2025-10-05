@@ -1,0 +1,13 @@
+{
+  "costCR": 225000,
+  "costXP": 0,
+  "id": 3863752688,
+  "index": "PAUH411",
+  "name": "PAUH411_Independence_1944",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

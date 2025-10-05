@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC129_HSF_KAEDE_MARIKOUJI_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4159609776,
+  "index": "PCZC129",
+  "name": "PCZC129_HSF_Kaede_Marikouji",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

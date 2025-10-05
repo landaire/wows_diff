@@ -1,0 +1,13 @@
+{
+  "costCR": 2650000,
+  "costXP": 0,
+  "id": 3308006672,
+  "index": "PXUH941",
+  "name": "PXUH941_FLYFIRE",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

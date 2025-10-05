@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4181113104,
+  "index": "PXRS108",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/events/radar/search/XRS108_FuMO25_PostAp/XRS108_FuMO25_PostAp.model",
+  "name": "PXRS108_FuMO25_PostAp",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA022_GF097",
+  "compensationCR": 0,
+  "description": "IDS_PCZC479_GF097_REINHARD_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3792608176,
+  "index": "PCZC479",
+  "name": "PCZC479_GF097_Reinhard",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

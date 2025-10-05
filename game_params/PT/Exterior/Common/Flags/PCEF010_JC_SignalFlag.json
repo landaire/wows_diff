@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": 96000,
+  "costGold": -1,
+  "flags": [
+    "juliet",
+    "charlie"
+  ],
+  "group": 0,
+  "hidden": true,
+  "id": 4284313520,
+  "index": "PCEF010",
+  "isTemplate": false,
+  "modifiers": {},
+  "name": "PCEF010_JC_SignalFlag",
+  "sortOrder": 15,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Flags",
+    "type": "Exterior"
+  }
+}

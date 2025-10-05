@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4243405264,
+  "index": "PRRF049",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/radar/fcontrol/RRF049_Radar_Type281_transmitter/RRF049_Radar_Type281_transmitter.model",
+  "name": "PRRF049_Radar_Type281_transmitter",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Fire control",
+    "type": "Radar"
+  }
+}

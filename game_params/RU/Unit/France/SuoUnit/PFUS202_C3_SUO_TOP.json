@@ -1,0 +1,13 @@
+{
+  "costCR": 53000,
+  "costXP": 400,
+  "id": 4082544464,
+  "index": "PFUS202",
+  "name": "PFUS202_C3_SUO_TOP",
+  "typeinfo": {
+    "nation": "France",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3733637040,
+  "index": "PCOK535",
+  "level_1": {
+    "GMIdealRadius": 0.92,
+    "allAlphaMultiplier": 1.075,
+    "vulnerabilityCS": 0.9
+  },
+  "level_2": {
+    "GMIdealRadius": 0.92,
+    "allAlphaMultiplier": 1.075,
+    "vulnerabilityCS": 0.9
+  },
+  "name": "PCOK535_CLAN_Barbiano",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "audio": {
+    "effect": "Default",
+    "intensity": 100.0
+  },
+  "bounds": {
+    "max": {
+      "height": 35.0,
+      "radius": 100500.0
+    },
+    "min": {
+      "height": 0.0,
+      "radius": 20.0
+    },
+    "scale": {
+      "height": 1.0,
+      "radius": 1.0
+    }
+  },
+  "changeDist": 4.0,
+  "changeStart": 1.0,
+  "effects": [
+    "particles/OilFireOnWater_M.xml"
+  ],
+  "graphics": null,
+  "id": 4257531824,
+  "index": "PCOW035",
+  "logic": {
+    "AAMaxDist": null,
+    "GMIdealRadius": null,
+    "GSIdealRadius": null,
+    "GSMIdealRadius": null,
+    "airDefenseVisibilityTime": null,
+    "bad": 0.0,
+    "burnDamage": null,
+    "burnTime": null,
+    "maxPlaneVisionDistance": null,
+    "maxShipVisionDistance": null,
+    "maxVisibilityDistance": 587,
+    "maxVisibilityDistanceByPlane": null,
+    "mgVisibilityTime": null,
+    "planeMaxVisibilityDistance": null,
+    "planeMaxVisibilityDistanceByPlane": null,
+    "planeSpeed": null,
+    "planeVisibilityFactor": null,
+    "planeVisibilityFactorByPlane": null,
+    "shootShift": null,
+    "speedCoef": null,
+    "transparency": 1.0,
+    "visibilityFactor": 1.8,
+    "visibilityFactorByPlane": null
+  },
+  "name": "PCOW035_WW2_OP2_Dead_Ship_M",
+  "paramsInterpolationDuration": 2.0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "GlobalWeather",
+    "type": "Other"
+  }
+}

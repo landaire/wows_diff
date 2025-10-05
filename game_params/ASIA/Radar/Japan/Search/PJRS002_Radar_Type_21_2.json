@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4292262608,
+  "index": "PJRS002",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/radar/search/JRS002_Radar_Type_21_2/JRS002_Radar_Type_21_2.model",
+  "name": "PJRS002_Radar_Type_21_2",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

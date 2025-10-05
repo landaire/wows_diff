@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4241680592,
+  "index": "PZF050",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/finder/ZF050_Rangefinder_1_5m/ZF050_Rangefinder_1_5m.model",
+  "name": "PZF050_Rangefinder_1_5m",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Finder"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "buoysCount": 20,
+  "containerModel": "content/location/misc/gameplay/LMY106_Airdrop/LMY106_Airdrop.model",
+  "effect": "particles/ContainerLight.xml",
+  "id": 4290627504,
+  "index": "PCOE004",
+  "model": "content/location/misc/port/LMP165_Beacon/LMP165_Beacon.model",
+  "name": "PCOE004_Flagships_Drop",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "DropVisual",
+    "type": "Other"
+  },
+  "waterPhysicsAffect": 0.5
+}

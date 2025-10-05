@@ -1,0 +1,13 @@
+{
+  "costCR": 300000,
+  "costXP": 3700,
+  "id": 3871092432,
+  "index": "PJUH404",
+  "name": "PJUH404_Minekadze_1938",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

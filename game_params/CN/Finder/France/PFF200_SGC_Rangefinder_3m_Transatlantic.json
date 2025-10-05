@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4084394832,
+  "index": "PFF200",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/finder/FF200_SGC_Rangefinder_3m_Transatlantic/FF200_SGC_Rangefinder_3m_Transatlantic.model",
+  "name": "PFF200_SGC_Rangefinder_3m_Transatlantic",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Finder"
+  }
+}

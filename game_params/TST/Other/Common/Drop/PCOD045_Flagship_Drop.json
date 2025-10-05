@@ -1,0 +1,25 @@
+{
+  "id": 4247668656,
+  "index": "PCOD045",
+  "markerNameActive": "reload_active",
+  "markerNameInactive": "reload_inactive",
+  "maxBuffLevel": 0,
+  "name": "PCOD045_Flagship_Drop",
+  "payload": {
+    "item_1": {
+      "duration": -1,
+      "level": 1,
+      "params": "PXOM109_Flagship_Drop_Buff",
+      "type": 1,
+      "weight": 0
+    },
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

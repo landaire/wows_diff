@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3769511760,
+  "index": "PFUD501",
+  "name": "PFUD501_DB_BEARN",
+  "typeinfo": {
+    "nation": "France",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

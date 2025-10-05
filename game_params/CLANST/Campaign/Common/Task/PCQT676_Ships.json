@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 69,
+  "conditions": [
+    "<isMyShip shipIds=\"PGSB002_Tirpiz_1942,PGSB598_Black_Tirpitz,PGSB108_Bismarck,PFSB108_Richelieu\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\"/>",
+    "<isRibbons count=\"1000\" ribbons=\"SECONDARY_CALIBER\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3585490864,
+  "index": "PCQT676",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT676_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF008_IY_SignalFlag\" count=\"8\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT676_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_BB_1"
+  ],
+  "unlockMissions": []
+}

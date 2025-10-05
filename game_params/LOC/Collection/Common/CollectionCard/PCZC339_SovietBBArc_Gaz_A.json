@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA016_SovietBBArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC339_SOVIETBBARC_GAZ_A_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3939408816,
+  "index": "PCZC339",
+  "name": "PCZC339_SovietBBArc_Gaz_A",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

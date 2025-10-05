@@ -1,0 +1,60 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 4,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL125_GerDD0104_Coll_Free",
+    "PCL126_GerDD0104_Coll_Prem"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA025_GERDD_1004",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4268727216,
+  "index": "PCZA025",
+  "isPuzzle": false,
+  "name": "PCZA025_GERDD_1004",
+  "rewards": [
+    "<Permoflage idx=\"PGES528_Maerker_Gefecht\" shipId=\"PGSD208_Gustav_Julius_Maerker\" onlySilver=\"0\" count=\"1\"/>",
+    "<Multiboost shipId=\"PGSD208_Gustav_Julius_Maerker\" idx=\"PCEU008_Multi_std8\" compensationType=\"GOLD\" compensationValue=\"0\" count=\"1\"/>",
+    "<Item idx=\"PCEE420_German_DD2\" count=\"1\" />"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_GERDD_1004_NAME",
+      "'aa",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_GERDD_1004_NAME",
+      "'bb",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_GERDD_1004_NAME",
+      "'cc",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_GERDD_1004_NAME",
+      "'dd",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

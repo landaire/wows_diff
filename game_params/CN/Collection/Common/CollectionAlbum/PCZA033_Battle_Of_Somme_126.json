@@ -1,0 +1,29 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 2,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL172_Somme_Coll",
+    "PCL201_Somme_Coll_Free"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA033_BATTLE_OF_SOMME_126",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4260338608,
+  "index": "PCZA033",
+  "isPuzzle": true,
+  "name": "PCZA033_Battle_Of_Somme_126",
+  "rewards": [
+    "<Ship shipId=\"PBSD519_Somme\" level=\"10\" count=\"1\" onlySilver = \"0\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

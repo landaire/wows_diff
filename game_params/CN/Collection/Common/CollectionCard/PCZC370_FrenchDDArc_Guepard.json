@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA017_FrenchDDArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC370_FRENCHDDARC_GUEPARD_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3906902960,
+  "index": "PCZC370",
+  "name": "PCZC370_FrenchDDArc_Guepard",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

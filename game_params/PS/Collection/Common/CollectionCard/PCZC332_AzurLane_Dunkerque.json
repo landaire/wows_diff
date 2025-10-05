@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC332_AZURLANE_DUNKERQUE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3946748848,
+  "index": "PCZC332",
+  "name": "PCZC332_AzurLane_Dunkerque",
+  "subAlbums": [
+    5
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 13,
+  "conditions": [
+    "<isMyShip shipIds=\"PASA110_Midway,PBSA210_Audacious,PASS510_Gato\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isDamage count=\"1200000\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3569762224,
+  "index": "PCQT691",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT691_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF008_IY_SignalFlag\" count=\"10\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT691_1",
+    "isDamage",
+    "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_AA"
+  ],
+  "unlockMissions": []
+}

@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 51,
+  "conditions": [
+    "<isMyShip shipIds=\"PASB034_New_Mexico_1941,PRSB106_Izmail,PGSB106_Bayern,PASB006_New_York_1934\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\"/>",
+    "<isPotentialDamage count=\"7000000\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3605413808,
+  "index": "PCQT657",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT657_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF008_IY_SignalFlag\" count=\"6\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT657_1",
+    "isPotentialDamage",
+    "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_BB_2"
+  ],
+  "unlockMissions": []
+}

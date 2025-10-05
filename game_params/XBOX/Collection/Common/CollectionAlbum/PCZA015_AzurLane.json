@@ -1,0 +1,73 @@
+{
+  "background": null,
+  "canCharge": false,
+  "cardCost": 5,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL059_AzurLane_Coll_Free"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA015_AZURLANE",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4279212976,
+  "index": "PCZA015",
+  "isPuzzle": false,
+  "name": "PCZA015_AzurLane",
+  "rewards": [
+    "<Crew shipId=\"PJSC510_Azumaya\" level=\"10\" crewId=\"PJW306_Azur_Azuma\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_AZURLANESUBCOLLECTION_NAME",
+      "'aa",
+      [
+        "<Item idx=\"PCEE246_EagleUnion_flag\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_AZURLANESUBCOLLECTION_NAME",
+      "'bb",
+      [
+        "<Item idx=\"PCEE247_RoyalNavy_flag\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_AZURLANESUBCOLLECTION_NAME",
+      "'cc",
+      [
+        "<Item idx=\"PCEE248_MetalBlood_flag\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_AZURLANESUBCOLLECTION_NAME",
+      "'dd",
+      [
+        "<Item idx=\"PCEE249_SakuraEmpire_flag\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FIFTH_AZURLANESUBCOLLECTION_NAME",
+      "'ee",
+      [
+        "<Item idx=\"PCEE250_NorthernUnion_flag\" count=\"1\"/>",
+        "<Item idx=\"PCEE251_EasternRadiance_flag\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SIXTH_AZURLANESUBCOLLECTION_NAME",
+      "'ff",
+      [
+        "<Item idx=\"PCEE252_Iris_flag\" count=\"1\"/>",
+        "<Item idx=\"PCEE253_Vichya_flag\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

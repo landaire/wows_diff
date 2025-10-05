@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC131_HSF_OGASAWARA_HIKARI_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4157512624,
+  "index": "PCZC131",
+  "name": "PCZC131_HSF_Ogasawara_Hikari",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 31000,
+  "id": 3432787664,
+  "index": "PJUH822",
+  "name": "PJUH822_Taiho_1945",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

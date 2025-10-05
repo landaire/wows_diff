@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3768775632,
+  "index": "PBD501",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD501_Ster_Shell_Sight_Ice/BD501_Ster_Shell_Sight_Ice.model",
+  "name": "PBD501_Ster_Shell_Sight_Ice",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

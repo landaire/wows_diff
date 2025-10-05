@@ -1,0 +1,28 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4285715824,
+  "index": "PUK008",
+  "maxLevel": 2,
+  "name": "PUK008_Irresistible",
+  "personalCardBonus": {
+    "clan": "PCOK601_CLAN_BB_Mid"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PUSB710_Irresistible"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "Commonwealth",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

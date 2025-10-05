@@ -1,0 +1,13 @@
+{
+  "costCR": 1000000,
+  "costXP": 16000,
+  "id": 3433934544,
+  "index": "PJUE821",
+  "name": "PJUE821_B9_ENG_TOP",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

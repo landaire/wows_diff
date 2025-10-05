@@ -1,0 +1,13 @@
+{
+  "costCR": 300000,
+  "costXP": 0,
+  "id": 3769347536,
+  "index": "PRUI501",
+  "name": "PRUI501_CV6_F_STOCK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

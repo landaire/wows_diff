@@ -1,0 +1,13 @@
+{
+  "costCR": 110000,
+  "costXP": 0,
+  "id": 3873877968,
+  "index": "PBUS401",
+  "name": "PBUS401_C5_SUO_STOCK",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

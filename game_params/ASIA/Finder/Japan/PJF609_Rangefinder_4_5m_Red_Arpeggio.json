@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3655527120,
+  "index": "PJF609",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/finder/JF609_Rangefinder_4_5m_Red_Arpeggio/JF609_Rangefinder_4_5m_Red_Arpeggio.model",
+  "name": "PJF609_Rangefinder_4_5m_Red_Arpeggio",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Finder"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4268944176,
+  "index": "PGF024",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF024_10_5m_Rangefinders_combo/GF024_10_5m_Rangefinders_combo.model",
+  "name": "PGF024_10_5m_Rangefinders_combo",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4237486544,
+  "index": "PRF054",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/finder/RF054_Rangefinder_3m_Galileo/RF054_Rangefinder_3m_Galileo.model",
+  "name": "PRF054_Rangefinder_3m_Galileo",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Finder"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2184374608,
+  "index": "PVF2012",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panamerica/finder/VF2012_Rangefinders_6m/VF2012_Rangefinders_6m.model",
+  "name": "PVF2012_Rangefinders_6m",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": null,
+    "type": "Finder"
+  }
+}

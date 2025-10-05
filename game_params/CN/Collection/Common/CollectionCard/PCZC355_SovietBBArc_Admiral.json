@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA016_SovietBBArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC355_SOVIETBBARC_ADMIRAL_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3922631600,
+  "index": "PCZC355",
+  "name": "PCZC355_SovietBBArc_Admiral",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

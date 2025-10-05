@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC315_AZURLANE_Z46_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3964574640,
+  "index": "PCZC315",
+  "name": "PCZC315_AzurLane_Z46",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

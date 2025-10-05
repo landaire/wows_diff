@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4256361264,
+  "index": "PGF036",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF036_FuMO61_Hohentwiel_U/GF036_FuMO61_Hohentwiel_U.model",
+  "name": "PGF036_FuMO61_Hohentwiel_U",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4227001136,
+  "index": "PGF064",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF064_4m_Rangefinder_turret/GF064_4m_Rangefinder_turret.model",
+  "name": "PGF064_4m_Rangefinder_turret",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

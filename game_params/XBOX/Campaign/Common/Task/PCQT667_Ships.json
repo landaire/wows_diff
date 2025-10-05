@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 10,
+  "conditions": [
+    "<isMyShip shipIds=\"PJSB010_Nagato_1944,PASB008_Colorado_1945,PBSB517_Nelson,PASS208_Salmon\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\"/>",
+    "<isDamage count=\"500000\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3594928048,
+  "index": "PCQT667",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT667_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF007_ID_SignalFlag\" count=\"7\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT667_1",
+    "isDamage",
+    "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_BB_1"
+  ],
+  "unlockMissions": []
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA011_Ovechkin",
+  "compensationCR": 0,
+  "description": "IDS_PCZC244_OVECHKIN_CALENDAR_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4039023536,
+  "index": "PCZC244",
+  "name": "PCZC244_Ovechkin_Calendar",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

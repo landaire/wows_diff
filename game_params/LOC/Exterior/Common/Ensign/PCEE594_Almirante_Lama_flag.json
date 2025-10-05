@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "almirante_lama_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3671977904,
+  "index": "PCEE594",
+  "isTemplate": false,
+  "name": "PCEE594_Almirante_Lama_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

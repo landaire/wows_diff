@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 68,
+  "conditions": [
+    "<isMyShip shipLevel=\"5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isDamage count=\"50000\" damageTypes=\"main atba\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4207296432,
+  "index": "PCQT083",
+  "isSingleBattle": true,
+  "lootStars": 2,
+  "name": "PCQT083",
+  "rewards": [
+    "<Item idx=\"PCEF030_CK_SignalFlag\" count=\"10\" />"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT083_1",
+    "isDamage",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

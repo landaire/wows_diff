@@ -1,0 +1,13 @@
+{
+  "costCR": 220000,
+  "costXP": 2700,
+  "id": 3863850992,
+  "index": "PAUE411",
+  "name": "PAUE411_B5_ENG_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

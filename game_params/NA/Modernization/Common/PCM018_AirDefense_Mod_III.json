@@ -1,0 +1,102 @@
+{
+  "canCharge": true,
+  "costCR": 500000,
+  "excludes": [
+    "PXSA005_Hellcarrier",
+    "PXSB006_Paris",
+    "PXSB007_Alldestroyer",
+    "PXSC004_Galaxy",
+    "PXSC005_Zaya",
+    "PXSC006_Norma",
+    "PXSC007_Aurora",
+    "PXSD004_FlyFire",
+    "PXSD005_Blue_Aster",
+    "PXSD002_Benson_1945_H2017",
+    "PXSD009_Kiev_H2018",
+    "PXSD008_Z_23_H2018",
+    "PXSC009_Mogami_H2018",
+    "PXSC002_Charles_Martel_H2017",
+    "PXSB008_North_Carolina_H2018",
+    "PXSB005_Bismarck_H2017",
+    "PXSB002_Rasputin",
+    "PVSB505_Rio_de_Janeiro",
+    "PXSB011_Montana_H2019",
+    "PXSB009_Yamato_H2019",
+    "PGSB920_Schlieffen",
+    "PXSD025_Berserk",
+    "PXSC101_Hindenburg_H2020",
+    "PXSB103_France_H2020",
+    "PXSC016_Monster_Cruiser",
+    "PXSC102_Smolensk_H2020",
+    "PXSB015_Crab_Battleship",
+    "PBSB505_Agincourt"
+  ],
+  "group": [
+    "upgradeable",
+    "disabled",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "event",
+    "specialUnsellable",
+    "demoWithoutStats",
+    "demoWithoutStatsPrem",
+    "demoWithoutStatsTemporary",
+    "experimental",
+    "start",
+    "peculiar",
+    "clan",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "superShip",
+    "notForBattle",
+    "coopOnly"
+  ],
+  "id": 4275228592,
+  "index": "PCM018",
+  "modifiers": {
+    "prioritySectorCooldownMultiplier": 0.8
+  },
+  "name": "PCM018_AirDefense_Mod_III",
+  "nation": [
+    "France",
+    "USA",
+    "Russia",
+    "Japan",
+    "United_Kingdom",
+    "Germany",
+    "Italy",
+    "Europe",
+    "Netherlands",
+    "Spain",
+    "Pan_Asia",
+    "Pan_America",
+    "Commonwealth"
+  ],
+  "shiplevel": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "ships": [
+    "PJSC026_Iwaki_1944"
+  ],
+  "shiptype": [
+    "Battleship",
+    "Cruiser",
+    "Destroyer"
+  ],
+  "slot": 2,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

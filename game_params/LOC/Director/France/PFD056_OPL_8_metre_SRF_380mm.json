@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4235391824,
+  "index": "PFD056",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD056_OPL_8_metre_SRF_380mm/FD056_OPL_8_metre_SRF_380mm.model",
+  "name": "PFD056_OPL_8_metre_SRF_380mm",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3694839728,
+  "index": "PCOK572",
+  "level_1": {
+    "allAlphaMultiplier": 1.1,
+    "burnProb": 0.6
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.1,
+    "burnProb": 0.6
+  },
+  "name": "PCOK572_CLAN_Conqueror",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

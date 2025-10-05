@@ -1,0 +1,49 @@
+{
+  "conditions": [
+    [
+      "isLootboxOpen",
+      {
+        "count": 3
+      }
+    ]
+  ],
+  "id": 4287186864,
+  "index": "PCON007",
+  "name": "PCON007",
+  "rewards": [
+    [
+      "Lootbox",
+      {
+        "boxType": "PCL001_Credits",
+        "count": 1
+      }
+    ],
+    [
+      "Lootbox",
+      {
+        "boxType": "PCL002_Signals",
+        "count": 1
+      }
+    ],
+    [
+      "Lootbox",
+      {
+        "boxType": "PCL004_Lucky",
+        "count": 1
+      }
+    ],
+    [
+      "Lootbox",
+      {
+        "boxType": "PCL034_Resourses",
+        "count": 1
+      }
+    ]
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "NewbieQuest",
+    "type": "Other"
+  },
+  "unlock": "LOOTBOXES"
+}

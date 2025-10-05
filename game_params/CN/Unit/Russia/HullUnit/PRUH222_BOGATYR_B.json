@@ -1,0 +1,13 @@
+{
+  "costCR": 90000,
+  "costXP": 700,
+  "id": 4061933008,
+  "index": "PRUH222",
+  "name": "PRUH222_BOGATYR_B",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

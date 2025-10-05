@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4277582608,
+  "index": "PHRS016",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/netherlands/radar/search/HRS016_Radar_Type_277_Outfit_AUK/HRS016_Radar_Type_277_Outfit_AUK.model",
+  "name": "PHRS016_Radar_Type_277_Outfit_AUK",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

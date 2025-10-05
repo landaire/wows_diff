@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4278631184,
+  "index": "PHRS015",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/netherlands/radar/search/HRS015_Radar_Type_293p_Outfit_AQK/HRS015_Radar_Type_293p_Outfit_AQK.model",
+  "name": "PHRS015_Radar_Type_293p_Outfit_AQK",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

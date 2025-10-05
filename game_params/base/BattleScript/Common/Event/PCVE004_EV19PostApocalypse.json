@@ -1,0 +1,54 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "RoyalBattles",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 0,
+  "gameLogicConfig": {},
+  "id": 4290620336,
+  "index": "PCVE004",
+  "matchmakerConfig": {
+    "max_ship_level": 10,
+    "max_ships_in_team": 3,
+    "min_ship_level": 8,
+    "teams_in_battle": 4
+  },
+  "name": "PCVE004_EV19PostApocalypse",
+  "restrictions": {
+    "filters": [
+      {
+        "nations": [
+          "Events"
+        ],
+        "shipLevels": [
+          8,
+          9,
+          10
+        ],
+        "shipTypes": [
+          "Destroyer"
+        ]
+      }
+    ],
+    "totalShips": 12
+  },
+  "scenariosByMap": {
+    "spaces/e08_PostApocalypse": [
+      "Battle_Royale"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

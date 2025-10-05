@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 67,
+  "conditions": [
+    "<isMyShip shipLevel=\"5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isEarnBattleAchievements count=\"2\" type=\"heroic\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4148576176,
+  "index": "PCQT139",
+  "isSingleBattle": true,
+  "lootStars": 4,
+  "name": "PCQT139",
+  "rewards": [
+    "<Item idx=\"PCEF030_CK_SignalFlag\" count=\"10\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT139_1",
+    "isEarnBattleAchievements",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

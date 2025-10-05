@@ -1,0 +1,13 @@
+{
+  "costCR": 780000,
+  "costXP": 8000,
+  "id": 3449204432,
+  "index": "PJUS806",
+  "name": "PJUS806_D8_SUO_TOP",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2187520208,
+  "index": "PZF2009",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/finder/ZF2009_DM_1_5_RF/ZF2009_DM_1_5_RF.model",
+  "name": "PZF2009_DM_1_5_RF",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Finder"
+  }
+}

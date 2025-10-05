@@ -1,0 +1,13 @@
+{
+  "costCR": 178000,
+  "costXP": 1100,
+  "id": 3957075952,
+  "index": "PAUH322",
+  "name": "PAUH322_Clemson_1930",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

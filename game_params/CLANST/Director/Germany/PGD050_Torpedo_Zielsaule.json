@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4241683248,
+  "index": "PGD050",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/director/GD050_Torpedo_Zielsaule/GD050_Torpedo_Zielsaule.model",
+  "name": "PGD050_Torpedo_Zielsaule",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Director"
+  }
+}

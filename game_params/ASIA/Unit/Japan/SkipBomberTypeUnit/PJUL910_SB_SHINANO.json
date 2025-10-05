@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3340381904,
+  "index": "PJUL910",
+  "name": "PJUL910_SB_SHINANO",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "SkipBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_SkipBomber"
+}

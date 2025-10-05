@@ -1,0 +1,117 @@
+{
+  "HitLocationArtillery": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 0.0,
+    "autoRepairTime": 30,
+    "autoRepairTimeMin": 25,
+    "brokenRepairHealthCoefficient": 0.5,
+    "brokenRepairTime": 45.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": true,
+    "critProb": [
+      0.05,
+      0.75
+    ],
+    "critProbHP": [
+      1.0,
+      0.02
+    ],
+    "damageEffects": [],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "artillery_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 10000.0,
+    "moduleCritCoeffCR": 1.0,
+    "moduleCritCoeffXP": 1.0,
+    "parentHL": null,
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 1.0,
+    "splashBoxes": [],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 0.5,
+    "volumeCoeff": 0.1
+  },
+  "aiMGmaxEllipseRanging": 4.0,
+  "aiMGmedEllipseRanging": 3.7,
+  "aiMGminEllipseRanging": 3.5,
+  "ammoList": [
+    "PXPA224_431MM_AP_FRANCE_BORG_V1"
+  ],
+  "ammoSwitchCoeff": 1.0,
+  "antiAirAuraDistance": 0.0,
+  "antiAirAuraStrength": 0.0,
+  "armor": {
+    "1": 0.0,
+    "65568": 350.0,
+    "65569": 255.0,
+    "65571": 330.0,
+    "65635": 165.0,
+    "65636": 590.0
+  },
+  "barrelDiameter": 0.431,
+  "brokenEffect": "particles/guns/Gun_Damage_vbig.xml",
+  "coeffPerSecondMin": 0.3,
+  "customMiscs": {},
+  "damagedEffect": "particles/Empty_FX.xml",
+  "deadMesh": "content/gameplay/uk/gun/main/BGM3052_6in50_MK_XXIII_StarTrek_BorgBot_Artillery_L/BGM3052_6in50_MK_XXIII_StarTrek_BorgBot_Artillery_L_dead.model",
+  "deadZone": [],
+  "delim": 0.5,
+  "effectIntensityModifier": 1.0,
+  "ellipseRangeMax": 250.0,
+  "ellipseRangeMin": 50.0,
+  "horizSector": [
+    -150.0,
+    150.0
+  ],
+  "id": 4188661008,
+  "idealDistance": 14500.0,
+  "idealRadius": 3.0,
+  "index": "PXGM101",
+  "lensEffect": "particles/Empty_FX.xml",
+  "maxEllipseRanging": 1.003,
+  "medEllipseRanging": 1.002,
+  "minEllipseRanging": 1.001,
+  "minRadius": 2.0,
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/gun/main/BGM3052_6in50_MK_XXIII_StarTrek_BorgBot_Artillery_L/BGM3052_6in50_MK_XXIII_StarTrek_BorgBot_Artillery_L.model",
+  "name": "PXGM101_430_Mle_FRANCE_BORG_V1",
+  "numBarrels": 4,
+  "onMoveTarPosCoeffDelim": 1.001,
+  "onMoveTarPosCoeffMaxDist": 1.002,
+  "onMoveTarPosCoeffZero": 1.0,
+  "onMoveTarPosDelim": 0.1,
+  "pitchDeadZones": [],
+  "position": [
+    0,
+    0
+  ],
+  "purgingEffect": "particles/Empty_FX.xml",
+  "radiusOnDelim": 0.5,
+  "radiusOnMax": 0.6,
+  "radiusOnZero": 0.2,
+  "reduceTime": 0.1,
+  "reloadBoostEffect": "particles/Empty_FX.xml",
+  "rotationSpeed": [
+    5.0,
+    5.5
+  ],
+  "shotDelay": 15.0,
+  "shotEffect": "particles/guns/GK_Shot_ST_Klingon.xml",
+  "smallGun": null,
+  "smokePenalty": 0.0001,
+  "typeinfo": {
+    "nation": "Events",
+    "species": "Main",
+    "type": "Gun"
+  },
+  "vertSector": [
+    -2.0,
+    40.0
+  ]
+}

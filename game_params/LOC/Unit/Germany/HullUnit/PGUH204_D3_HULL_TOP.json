@@ -1,0 +1,13 @@
+{
+  "costCR": 96000,
+  "costXP": 700,
+  "id": 4080807728,
+  "index": "PGUH204",
+  "name": "PGUH204_D3_HULL_TOP",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4189253840,
+  "index": "PZD100",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD100_Director_Mk51_mod6/ZD100_Director_Mk51_mod6.model",
+  "name": "PZD100_Director_Mk51_mod6",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "angle": 0.0,
+  "dist": 0.0,
+  "hidePlane": false,
+  "id": 3246585808,
+  "index": "PBC999",
+  "isInvisible": false,
+  "launchEffectName": "particles/Empty_FX.xml",
+  "linkedGunAngles": [],
+  "linkedGunName": null,
+  "linkedRotationSpeedCoeff": 1.0,
+  "model": "content/gameplay/uk/catapult/BC999_Invisible_catapult/BC999_Invisible_catapult.model",
+  "name": "PBC999_Invisible_catapult",
+  "planeOffsets": {},
+  "rotateTime": 0.0,
+  "translateDelay": 0.0,
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Catapult"
+  }
+}

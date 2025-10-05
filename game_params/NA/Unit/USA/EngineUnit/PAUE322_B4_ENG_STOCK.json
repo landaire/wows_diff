@@ -1,0 +1,13 @@
+{
+  "costCR": 32000,
+  "costXP": 0,
+  "id": 3957174256,
+  "index": "PAUE322",
+  "name": "PAUE322_B4_ENG_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

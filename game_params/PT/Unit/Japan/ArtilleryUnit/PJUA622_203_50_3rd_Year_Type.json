@@ -1,0 +1,13 @@
+{
+  "costCR": 1600000,
+  "costXP": 15000,
+  "id": 3642732240,
+  "index": "PJUA622",
+  "name": "PJUA622_203_50_3rd_Year_Type",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

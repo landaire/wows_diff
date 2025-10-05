@@ -1,0 +1,13 @@
+{
+  "costCR": 810000,
+  "costXP": 13500,
+  "id": 3767283120,
+  "index": "PSUH503",
+  "name": "PSUH503_C6_HULL_TOP",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

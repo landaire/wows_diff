@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4268945872,
+  "index": "PRD024",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/director/RD024_Dip_Compass_dir_TA_ITA/RD024_Dip_Compass_dir_TA_ITA.model",
+  "name": "PRD024_Dip_Compass_dir_TA_ITA",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Director"
+  }
+}

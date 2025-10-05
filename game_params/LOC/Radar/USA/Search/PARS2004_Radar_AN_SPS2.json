@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2193013744,
+  "index": "PARS2004",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/radar/search/ARS2004_Radar_AN_SPS2/ARS2004_Radar_AN_SPS2.model",
+  "name": "PARS2004_Radar_AN_SPS2",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA014_BritishCVArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC294_BRITISHCVARC_HIGH_DIP_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3986594736,
+  "index": "PCZC294",
+  "name": "PCZC294_BritishCVArc_High_Dip",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

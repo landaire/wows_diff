@@ -1,0 +1,18 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4284675056,
+  "index": "PAD009",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/director/AD009_Director_Mk28/AD009_Director_Mk28.model",
+  "name": "PAD009_Director_Mk28",
+  "nation": "America",
+  "otype": "Director",
+  "stype": "",
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "Director"
+  }
+}

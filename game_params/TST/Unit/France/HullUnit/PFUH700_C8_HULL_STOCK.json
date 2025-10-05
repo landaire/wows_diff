@@ -1,0 +1,13 @@
+{
+  "costCR": 1350000,
+  "costXP": 0,
+  "id": 3560714064,
+  "index": "PFUH700",
+  "name": "PFUH700_C8_HULL_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

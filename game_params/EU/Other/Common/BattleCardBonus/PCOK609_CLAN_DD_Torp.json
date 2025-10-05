@@ -1,0 +1,20 @@
+{
+  "id": 3656042416,
+  "index": "PCOK609",
+  "level_1": {
+    "GMIdealRadius": 0.96,
+    "allAlphaMultiplier": 1.075,
+    "vulnerabilityTorpedo": 0.85
+  },
+  "level_2": {
+    "GMIdealRadius": 0.96,
+    "allAlphaMultiplier": 1.075,
+    "vulnerabilityTorpedo": 0.85
+  },
+  "name": "PCOK609_CLAN_DD_Torp",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

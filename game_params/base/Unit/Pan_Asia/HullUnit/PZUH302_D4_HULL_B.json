@@ -1,0 +1,13 @@
+{
+  "costCR": 150000,
+  "costXP": 1100,
+  "id": 3978046672,
+  "index": "PZUH302",
+  "name": "PZUH302_D4_HULL_B",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,88 @@
+{
+  "battleTypes": [
+    "EVENT"
+  ],
+  "constants": {
+    "damageRatio": 2.0,
+    "damagersCount": 1,
+    "filterKeyShips": {
+      "roles": [
+        "PCH219_EV1APR19_TORPEDO1"
+      ]
+    }
+  },
+  "enabled": false,
+  "events": [
+    [
+      "meDamaged",
+      [],
+      [
+        [
+          "counter",
+          "attackerA",
+          "+=",
+          "damage",
+          "ratio"
+        ]
+      ]
+    ],
+    [
+      "meDamaged",
+      [
+        [
+          "me",
+          "appropriate",
+          ":",
+          "constant",
+          "filterKeyShips"
+        ],
+        [
+          "shipCountersA",
+          "sumValues",
+          ">=",
+          "constant",
+          "damageRatio"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4064469936,
+  "index": "PCH219",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH219_EV1APR19_TORPEDO1",
+  "onePerBattle": true,
+  "shipCategories": [
+    "event"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "EV1APR19_TORPEDO1",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "IDS_ACHIEVEMENT_RESTRICTIONS_SPACE_TORPEDOBEAT",
+  "uiType": "service_medal"
+}

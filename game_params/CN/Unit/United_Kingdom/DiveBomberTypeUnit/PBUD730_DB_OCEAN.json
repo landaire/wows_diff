@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3529387984,
+  "index": "PBUD730",
+  "name": "PBUD730_DB_OCEAN",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

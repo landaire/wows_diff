@@ -1,0 +1,20 @@
+{
+  "accumulativeResourceRequired": 0,
+  "bonusType": "vanity",
+  "buildingType": "PCJB009_Monument",
+  "buyable": true,
+  "cost": 0,
+  "id": 4210678704,
+  "index": "PCJM080",
+  "isDummy": false,
+  "name": "PCJM080_Monument_dummy",
+  "previousModifier": null,
+  "shipLevelMax": null,
+  "shipLevelMin": null,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Modifier",
+    "type": "ClanSupply"
+  },
+  "value": 0
+}

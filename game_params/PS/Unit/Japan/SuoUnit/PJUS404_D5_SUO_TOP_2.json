@@ -1,0 +1,13 @@
+{
+  "costCR": 150000,
+  "costXP": 1600,
+  "id": 3870731984,
+  "index": "PJUS404",
+  "name": "PJUS404_D5_SUO_TOP_2",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC176_AA_ST_LOUIS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4110326704,
+  "index": "PCZC176",
+  "name": "PCZC176_AA_St_Louis",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

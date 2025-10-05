@@ -1,0 +1,413 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "VehicleVisualStateModule": {
+    "GameLogicTriggerVisibility": {
+      "Action": {
+        "activeValue": "2",
+        "inactiveValue": "1",
+        "statePartName": "stage",
+        "type": "SwitchVehicleVisualStateAction"
+      },
+      "Activator": {
+        "isVisible": true,
+        "requiredCount": 1,
+        "separateTracking": true,
+        "timeLimit": 0.0,
+        "type": "VisibilityChangedActivator"
+      },
+      "startEnabled": true,
+      "type": "SwitchTrigger"
+    },
+    "VehicleVisualStateDetected": {
+      "artilleryShotEffect": "particles/guns/GK_Shot_Edinburgh.xml",
+      "atbaShotEffect": "particles/guns/PMK_Shot_Edinburgh.xml",
+      "colorSwitchTime": 1.5,
+      "condition": {
+        "stage": "2"
+      },
+      "emissiveColor": [
+        1.0,
+        1.0,
+        1.0,
+        0.65
+      ],
+      "fromStates": [
+        "VehicleVisualStateNotDetected"
+      ],
+      "soundSwitch": "On",
+      "stateSwitchTime": 10.0
+    },
+    "VehicleVisualStateNotDetected": {
+      "artilleryShotEffect": "",
+      "atbaShotEffect": "",
+      "colorSwitchTime": 1.5,
+      "condition": {
+        "stage": "1"
+      },
+      "emissiveColor": [
+        0.34,
+        0.55,
+        1.0,
+        1.0
+      ],
+      "fromStates": [
+        "VehicleVisualStateDetected"
+      ],
+      "soundSwitch": "Off",
+      "stateSwitchTime": 10.0
+    },
+    "dockStateSwitchInterval": 15.0,
+    "initialState": "VehicleVisualStateNotDetected",
+    "stateSwitchSound": "UI_Skin_Mode"
+  },
+  "camouflage": "mat_Edinburge_Rangers",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 4500,
+  "effects": {
+    "A_Hull": {
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_medium.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_medium.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_small.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_medium.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_small.xml"
+        ]
+      ],
+      "fireResistance": [],
+      "fixDeluge": [],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_medium.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_exhaust_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_exhaust_big_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_medium.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_big.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_medium.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_medium.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_medium.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/idlePort_RunSmoke_medium.xml"
+        ]
+      ],
+      "repairLight": [
+        [
+          "HP_FX_RepairLight_left_1",
+          "particles/vehicles/RepairLight_medium.xml"
+        ],
+        [
+          "HP_FX_RepairLight_left_2",
+          "particles/vehicles/RepairLight_medium.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_1",
+          "particles/vehicles/RepairLight_medium.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_2",
+          "particles/vehicles/RepairLight_medium.xml"
+        ]
+      ],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_medium.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/RunSmoke_medium.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceReverce_screw_medium.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_l",
+          "particles/vehicles/WakeTraceForward_front_left.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_r",
+          "particles/vehicles/WakeTraceForward_front_right.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_left_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceForward_screw_right_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTrace_screw_medium.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": true,
+  "hullConfig": {
+    "A_Hull": {
+      "caps": {},
+      "customMiscs": {},
+      "model": "content/gameplay/uk/ship/cruiser/BSC046_Edinburgh_Rangers/BSC046_Edinburgh_Rangers.model"
+    }
+  },
+  "id": 3845582800,
+  "index": "PBES428",
+  "isTemplate": false,
+  "name": "PBES428_Edinburgh_ranger",
+  "nodesConfig": {
+    "A_ATBA": {
+      "HP_BGS_1": {
+        "deadMesh": "content/gameplay/uk/gun/secondary/BGS595_4in45_QF_Mk_XIX_Ranger/BGS595_4in45_QF_Mk_XIX_Ranger_dead.model",
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/secondary/BGS595_4in45_QF_Mk_XIX_Ranger/BGS595_4in45_QF_Mk_XIX_Ranger.model"
+      },
+      "HP_BGS_2": {
+        "deadMesh": "content/gameplay/uk/gun/secondary/BGS595_4in45_QF_Mk_XIX_Ranger/BGS595_4in45_QF_Mk_XIX_Ranger_dead.model",
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/secondary/BGS595_4in45_QF_Mk_XIX_Ranger/BGS595_4in45_QF_Mk_XIX_Ranger.model"
+      },
+      "HP_BGS_3": {
+        "deadMesh": "content/gameplay/uk/gun/secondary/BGS595_4in45_QF_Mk_XIX_Ranger/BGS595_4in45_QF_Mk_XIX_Ranger_dead.model",
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/secondary/BGS595_4in45_QF_Mk_XIX_Ranger/BGS595_4in45_QF_Mk_XIX_Ranger.model"
+      },
+      "HP_BGS_4": {
+        "deadMesh": "content/gameplay/uk/gun/secondary/BGS595_4in45_QF_Mk_XIX_Ranger/BGS595_4in45_QF_Mk_XIX_Ranger_dead.model",
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/secondary/BGS595_4in45_QF_Mk_XIX_Ranger/BGS595_4in45_QF_Mk_XIX_Ranger.model"
+      },
+      "HP_BGS_5": {
+        "deadMesh": "content/gameplay/uk/gun/secondary/BGS595_4in45_QF_Mk_XIX_Ranger/BGS595_4in45_QF_Mk_XIX_Ranger_dead.model",
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/secondary/BGS595_4in45_QF_Mk_XIX_Ranger/BGS595_4in45_QF_Mk_XIX_Ranger.model"
+      },
+      "HP_BGS_6": {
+        "deadMesh": "content/gameplay/uk/gun/secondary/BGS595_4in45_QF_Mk_XIX_Ranger/BGS595_4in45_QF_Mk_XIX_Ranger_dead.model",
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/secondary/BGS595_4in45_QF_Mk_XIX_Ranger/BGS595_4in45_QF_Mk_XIX_Ranger.model"
+      }
+    },
+    "A_Artillery": {
+      "HP_BGM_1": {
+        "deadMesh": "content/gameplay/uk/gun/main/BGM594_16in50_MK_XXIII_Ranger/BGM594_16in50_MK_XXIII_Ranger_dead.model",
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/main/BGM594_16in50_MK_XXIII_Ranger/BGM594_16in50_MK_XXIII_Ranger.model"
+      },
+      "HP_BGM_2": {
+        "deadMesh": "content/gameplay/uk/gun/main/BGM594_16in50_MK_XXIII_Ranger/BGM594_16in50_MK_XXIII_Ranger_dead.model",
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/main/BGM594_16in50_MK_XXIII_Ranger/BGM594_16in50_MK_XXIII_Ranger.model"
+      },
+      "HP_BGM_3": {
+        "deadMesh": "content/gameplay/uk/gun/main/BGM594_16in50_MK_XXIII_Ranger/BGM594_16in50_MK_XXIII_Ranger_dead.model",
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/main/BGM594_16in50_MK_XXIII_Ranger/BGM594_16in50_MK_XXIII_Ranger.model"
+      },
+      "HP_BGM_4": {
+        "deadMesh": "content/gameplay/uk/gun/main/BGM594_16in50_MK_XXIII_Ranger/BGM594_16in50_MK_XXIII_Ranger_dead.model",
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/main/BGM594_16in50_MK_XXIII_Ranger/BGM594_16in50_MK_XXIII_Ranger.model"
+      }
+    },
+    "A_DepthChargeGuns": {
+      "HP_BGB_1": {
+        "deadMesh": "content/gameplay/uk/gun/dcharge/BGB598_Depth_Charge_Shelving_Ranger/BGB598_Depth_Charge_Shelving_Ranger_dead.model",
+        "miscFilter": [],
+        "model": "content/gameplay/uk/gun/dcharge/BGB598_Depth_Charge_Shelving_Ranger/BGB598_Depth_Charge_Shelving_Ranger.model"
+      }
+    }
+  },
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "rangers",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "color_green_flag",
+  "peculiarityModels": {
+    "content/gameplay/uk/gun/aaircraft/BGA020_20mm_Oerlikon_MK_V/BGA020_20mm_Oerlikon_MK_V.model": "content/gameplay/uk/gun/aaircraft/BGA596_20mm_Oerlikon_MK_V_Ranger/BGA596_20mm_Oerlikon_MK_V_Ranger.model",
+    "content/gameplay/uk/gun/aaircraft/BGA020_20mm_Oerlikon_MK_V/BGA020_20mm_Oerlikon_MK_V_dead.model": "content/gameplay/uk/gun/aaircraft/BGA596_20mm_Oerlikon_MK_V_Ranger/BGA596_20mm_Oerlikon_MK_V_Ranger_dead.model",
+    "content/gameplay/uk/gun/aaircraft/BGA033_40mm_Bofors_MK_VI/BGA033_40mm_Bofors_MK_VI.model": "content/gameplay/uk/gun/aaircraft/BGA597_40mm_Bofors_MK_VI_Ranger/BGA597_40mm_Bofors_MK_VI_Ranger.model",
+    "content/gameplay/uk/gun/aaircraft/BGA033_40mm_Bofors_MK_VI/BGA033_40mm_Bofors_MK_VI_dead.model": "content/gameplay/uk/gun/aaircraft/BGA597_40mm_Bofors_MK_VI_Ranger/BGA597_40mm_Bofors_MK_VI_Ranger_dead.model"
+  },
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

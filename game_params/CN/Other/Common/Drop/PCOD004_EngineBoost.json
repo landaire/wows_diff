@@ -1,0 +1,32 @@
+{
+  "id": 4290660272,
+  "index": "PCOD004",
+  "markerNameActive": "engineboost_active",
+  "markerNameInactive": "engineboost_inactive",
+  "maxBuffLevel": 0,
+  "name": "PCOD004_EngineBoost",
+  "payload": {
+    "item_1": {
+      "duration": -1,
+      "level": 1,
+      "params": "PCOM004_EngineBoost",
+      "type": 1,
+      "weight": 0
+    },
+    "item_2": {
+      "duration": -1,
+      "level": 1,
+      "params": "PCOM021_PlaneEngineBoost",
+      "type": 1,
+      "weight": 0
+    },
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

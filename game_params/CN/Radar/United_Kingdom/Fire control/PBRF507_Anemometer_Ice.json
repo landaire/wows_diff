@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3763157968,
+  "index": "PBRF507",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/radar/fcontrol/BRF507_Anemometer_Ice/BRF507_Anemometer_Ice.model",
+  "name": "PBRF507_Anemometer_Ice",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Fire control",
+    "type": "Radar"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 230000,
+  "costXP": 1500,
+  "id": 3978046928,
+  "index": "PRUH302",
+  "name": "PRUH302_IZYASLAV_B",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

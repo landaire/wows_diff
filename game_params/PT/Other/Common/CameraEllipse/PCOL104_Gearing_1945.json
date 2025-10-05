@@ -1,0 +1,129 @@
+{
+  "Gearing_1945": {
+    "InnerTrajectory": {
+      "backwardResistance": [
+        0.0,
+        0.0
+      ],
+      "backwardResistanceTime": [
+        0.0,
+        0.0
+      ],
+      "bevelAngle": [
+        0.0,
+        0.0
+      ],
+      "bevelRange": [
+        0.0,
+        0.0
+      ],
+      "defaultPitch": [
+        0.0,
+        0.0
+      ],
+      "defaultYaw": [
+        0.0,
+        0.0
+      ],
+      "forwardResistance": [
+        0.0,
+        0.0
+      ],
+      "forwardResistanceTime": [
+        0.0,
+        0.0
+      ],
+      "horizontalResistance": [
+        0.0,
+        0.0
+      ],
+      "horizontalResistanceTime": [
+        0.0,
+        0.0
+      ],
+      "ignoreControllerPitch": false,
+      "ignoreHeightMultiplier": false,
+      "inclineH": [
+        0.0,
+        0.0
+      ],
+      "inclineV": [
+        0.0,
+        0.0
+      ],
+      "lockOnDefaultPitch": false,
+      "lockOnDefaultYaw": false,
+      "maxPitch": [
+        90.0,
+        90.0
+      ],
+      "maxYaw": [
+        0.0,
+        0.0
+      ],
+      "minPitch": [
+        -89.0,
+        -89.0
+      ],
+      "minPosY": [
+        0.0,
+        0.0
+      ],
+      "minYaw": [
+        -0.0,
+        -0.0
+      ],
+      "pitchInfluenceOnHeight": [
+        0.0,
+        0.0
+      ],
+      "posCenter": [
+        [
+          0,
+          5,
+          0
+        ],
+        [
+          0,
+          5,
+          0
+        ]
+      ],
+      "semiAxisH": [
+        10.0,
+        10.0
+      ],
+      "semiAxisV": [
+        10.0,
+        10.0
+      ],
+      "verticalResistance": [
+        0.0,
+        0.0
+      ],
+      "verticalResistanceTime": [
+        0.0,
+        0.0
+      ],
+      "zoomControllerCoef": [
+        1.0,
+        1.0
+      ]
+    },
+    "castZoom": {},
+    "hulls": [],
+    "tags": "",
+    "weapons": []
+  },
+  "id": 4185540528,
+  "index": "PCOL104",
+  "inertialRollCoef": 1.0,
+  "name": "PCOL104_Gearing_1945",
+  "rockingCompensationCoef": 1.0,
+  "smartZoomAngleCoef": 1.0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CameraEllipse",
+    "type": "Other"
+  }
+}

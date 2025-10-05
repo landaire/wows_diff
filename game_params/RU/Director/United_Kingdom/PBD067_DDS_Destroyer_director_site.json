@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4223857616,
+  "index": "PBD067",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD067_DDS_Destroyer_director_site/BD067_DDS_Destroyer_director_site.model",
+  "name": "PBD067_DDS_Destroyer_director_site",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

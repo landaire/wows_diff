@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA023_BD098",
+  "compensationCR": 0,
+  "description": "IDS_PCZC504_BD098_QUEEN_ELIZABETH_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3766393776,
+  "index": "PCZC504",
+  "name": "PCZC504_BD098_Queen_Elizabeth",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA005_HappyBirthday",
+  "compensationCR": 0,
+  "description": "IDS_PCZC096_WOWS_ALTJAPAN_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4194212784,
+  "index": "PCZC096",
+  "name": "PCZC096_Wows_AltJapan",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

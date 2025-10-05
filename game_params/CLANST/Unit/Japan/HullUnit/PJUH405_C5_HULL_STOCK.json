@@ -1,0 +1,13 @@
+{
+  "costCR": 201000,
+  "costXP": 0,
+  "id": 3870043856,
+  "index": "PJUH405",
+  "name": "PJUH405_C5_HULL_STOCK",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

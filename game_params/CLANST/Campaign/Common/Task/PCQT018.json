@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 5,
+  "conditions": [
+    "<isMyShip shipLevel=\"4,5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isEarnBattleAchievements count=\"1\" achievements=\"PCH012_Arsonist\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4275453872,
+  "index": "PCQT018",
+  "isSingleBattle": true,
+  "lootStars": 4,
+  "name": "PCQT018",
+  "rewards": [
+    "<Item idx=\"PCEF017_VL_SignalFlag\" count=\"10\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT018_1",
+    "isEarnBattleAchievements",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

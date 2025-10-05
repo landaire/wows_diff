@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4257412080,
+  "index": "PAD035",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/director/AD035_Torpedo_Director_27/AD035_Torpedo_Director_27.model",
+  "name": "PAD035_Torpedo_Director_27",
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "Director"
+  }
+}

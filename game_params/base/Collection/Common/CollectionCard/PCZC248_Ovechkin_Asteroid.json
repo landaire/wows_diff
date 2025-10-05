@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA011_Ovechkin",
+  "compensationCR": 0,
+  "description": "IDS_PCZC248_OVECHKIN_ASTEROID_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4034829232,
+  "index": "PCZC248",
+  "name": "PCZC248_Ovechkin_Asteroid",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

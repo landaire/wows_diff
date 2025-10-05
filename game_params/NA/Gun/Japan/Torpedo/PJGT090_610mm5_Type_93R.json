@@ -1,0 +1,110 @@
+{
+  "HitLocationTorpedo": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 1.0,
+    "autoRepairTime": 15,
+    "autoRepairTimeMin": 15,
+    "brokenRepairHealthCoefficient": 0.5,
+    "brokenRepairTime": 45.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": true,
+    "critProb": [
+      0.25,
+      0.25
+    ],
+    "critProbHP": [
+      1.0,
+      0.0
+    ],
+    "damageEffects": [],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "torpedo_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 1200.0,
+    "moduleCritCoeffCR": 0.0,
+    "moduleCritCoeffXP": 0.0,
+    "parentHL": null,
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 0.5,
+    "splashBoxes": [],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 0.5,
+    "volumeCoeff": 1.0
+  },
+  "additionalAimSector": [
+    -0.0,
+    0.0
+  ],
+  "ammoList": [
+    "PJPT001_Sea_Torpedo_Type93"
+  ],
+  "ammoSwitchCoeff": 0.2,
+  "armor": {
+    "65580": 6.0
+  },
+  "availableBuoyancyStates": [
+    "SURFACE",
+    "PERISCOPE",
+    "SEMI_DEEP_WATER",
+    "DEEP_WATER",
+    "DEEP_WATER_INVUL"
+  ],
+  "barrelDiameter": 0.61,
+  "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+  "customMiscs": {},
+  "damagedEffect": "particles/guns/Gun_Broken_vsmall.xml",
+  "deadMesh": "content/gameplay/japan/gun/torpedo/JGT090_610mm5_Type_93R/JGT090_610mm5_Type_93R_dead.model",
+  "deadZone": [],
+  "horizSector": [
+    0.0,
+    0.0
+  ],
+  "id": 4199966416,
+  "index": "PJGT090",
+  "lensEffect": "",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/gun/torpedo/JGT090_610mm5_Type_93R/JGT090_610mm5_Type_93R.model",
+  "name": "PJGT090_610mm5_Type_93R",
+  "numAmmos": 1000,
+  "numBarrels": 5,
+  "position": [
+    0,
+    0
+  ],
+  "purgingEffect": "particles/Empty_FX.xml",
+  "reloadBoostEffect": "particles/guns/Torpedo_Reload.xml",
+  "rotationSpeed": [
+    25.0,
+    25.0
+  ],
+  "shootSector": [
+    0.0,
+    0.0
+  ],
+  "shotDelay": 150.0,
+  "shotEffect": "particles/guns/torpedo.xml",
+  "shotEffectCap": "particles/Empty_FX.xml",
+  "smallGun": null,
+  "timeBetweenShots": 0.2,
+  "timeToChangeAngle": 1,
+  "timeToChangeSpeed": 1,
+  "torpedoAngles": [
+    6.0,
+    20.0
+  ],
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "Torpedo",
+    "type": "Gun"
+  },
+  "vertSector": [
+    0.0,
+    1.0
+  ]
+}

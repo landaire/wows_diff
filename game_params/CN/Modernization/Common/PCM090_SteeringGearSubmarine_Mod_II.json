@@ -1,0 +1,71 @@
+{
+  "canCharge": true,
+  "costCR": 1000000,
+  "excludes": [],
+  "group": [
+    "upgradeable",
+    "disabled",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "event",
+    "specialUnsellable",
+    "demoWithoutStats",
+    "demoWithoutStatsPrem",
+    "demoWithoutStatsTemporary",
+    "experimental",
+    "start",
+    "peculiar",
+    "clan",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "superShip",
+    "demoWithStats",
+    "notForBattle",
+    "coopOnly"
+  ],
+  "id": 4199731120,
+  "index": "PCM090",
+  "modifiers": {
+    "SGRudderTime": 0.5,
+    "buoyancyRudderResetTimeCoeff": 0.5,
+    "buoyancyRudderTimeCoeff": 0.5
+  },
+  "name": "PCM090_SteeringGearSubmarine_Mod_II",
+  "nation": [
+    "France",
+    "USA",
+    "Russia",
+    "Japan",
+    "United_Kingdom",
+    "Germany",
+    "Italy",
+    "Europe",
+    "Netherlands",
+    "Spain",
+    "Pan_Asia",
+    "Pan_America",
+    "Commonwealth"
+  ],
+  "shiplevel": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "ships": [],
+  "shiptype": [
+    "Submarine"
+  ],
+  "slot": 3,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

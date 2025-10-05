@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC068_YAMAMOTO_GOLDEN_KITE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4223572912,
+  "index": "PCZC068",
+  "name": "PCZC068_Yamamoto_Golden_Kite",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

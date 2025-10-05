@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3763780560,
+  "index": "PBRS506",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/radar/search/BRS506_Type_251_surface_radar_Ice/BRS506_Type_251_surface_radar_Ice.model",
+  "name": "PBRS506_Type_251_surface_radar_Ice",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

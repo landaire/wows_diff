@@ -1,0 +1,18 @@
+{
+  "id": 3681208240,
+  "index": "PCOK585",
+  "level_1": {
+    "shootShift": 1.15,
+    "vulnerabilityAP": 0.85
+  },
+  "level_2": {
+    "shootShift": 1.15,
+    "vulnerabilityAP": 0.85
+  },
+  "name": "PCOK585_CLAN_Vermont",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3727345584,
+  "index": "PCOK541",
+  "level_1": {
+    "burnProb": 0.75,
+    "vulnerabilityHE": 0.85
+  },
+  "level_2": {
+    "burnProb": 0.75,
+    "vulnerabilityHE": 0.85
+  },
+  "name": "PCOK541_CLAN_Yoshino",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

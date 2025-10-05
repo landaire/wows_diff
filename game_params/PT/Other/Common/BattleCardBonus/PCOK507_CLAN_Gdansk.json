@@ -1,0 +1,20 @@
+{
+  "id": 3762997168,
+  "index": "PCOK507",
+  "level_1": {
+    "GMIdealRadius": 0.88,
+    "vulnerabilityHE": 0.925,
+    "vulnerabilityTorpedo": 0.925
+  },
+  "level_2": {
+    "GMIdealRadius": 0.88,
+    "vulnerabilityHE": 0.925,
+    "vulnerabilityTorpedo": 0.925
+  },
+  "name": "PCOK507_CLAN_Gdansk",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

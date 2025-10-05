@@ -1,0 +1,13 @@
+{
+  "costCR": 2500000,
+  "costXP": 35000,
+  "id": 3443503056,
+  "index": "PBUA812",
+  "name": "PBUA812_B9_ART_TOP",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

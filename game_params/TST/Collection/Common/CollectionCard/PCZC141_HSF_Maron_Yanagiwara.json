@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC141_HSF_MARON_YANAGIWARA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4147026864,
+  "index": "PCZC141",
+  "name": "PCZC141_HSF_Maron_Yanagiwara",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

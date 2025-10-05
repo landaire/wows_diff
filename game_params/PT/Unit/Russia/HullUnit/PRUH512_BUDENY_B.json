@@ -1,0 +1,13 @@
+{
+  "costCR": 1000000,
+  "costXP": 13500,
+  "id": 3757845968,
+  "index": "PRUH512",
+  "name": "PRUH512_BUDENY_B",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

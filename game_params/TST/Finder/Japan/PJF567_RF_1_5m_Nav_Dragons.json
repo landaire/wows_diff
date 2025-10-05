@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3699567312,
+  "index": "PJF567",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/finder/JF567_RF_1_5m_Nav_Dragons/JF567_RF_1_5m_Nav_Dragons.model",
+  "name": "PJF567_RF_1_5m_Nav_Dragons",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Finder"
+  }
+}

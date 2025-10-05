@@ -1,0 +1,31 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4230139824,
+  "index": "PCM061",
+  "modifiers": {
+    "bombAlphaDamageMultiplier": 1.1,
+    "diveBomberMaxSpeedMultiplier": 0.9899,
+    "diveBomberMinSpeedMultiplier": 1.0142,
+    "diveBomberSpeedMultiplier": 1.05
+  },
+  "name": "PCM061_Special_Mod_I_Midway",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PASA110_Midway"
+  ],
+  "shiptype": [],
+  "slot": 5,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

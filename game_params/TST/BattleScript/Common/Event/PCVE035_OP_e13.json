@@ -1,0 +1,78 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [
+    "Startrek"
+  ],
+  "battleProvider": "PVEEventBattle",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 3,
+  "gameLogicConfig": {},
+  "id": 4258114480,
+  "index": "PCVE035",
+  "matchmakerConfig": "eventEV32Space",
+  "name": "PCVE035_OP_e13",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        1
+      ],
+      "Battleship": [
+        0,
+        4
+      ],
+      "Cruiser": [
+        0,
+        5
+      ],
+      "Destroyer": [
+        0,
+        4
+      ],
+      "Submarine": [
+        0,
+        -1
+      ]
+    },
+    "filters": [
+      {
+        "nations": [
+          "Events"
+        ],
+        "shipLevels": [
+          11
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship",
+          "AirCarrier"
+        ]
+      }
+    ],
+    "minShips": 5,
+    "totalShips": 5
+  },
+  "scenariosByMap": {
+    "spaces/e13_Space_1_Defence": [
+      "1_defence_west",
+      "1_defence_east",
+      "1_defence_north",
+      "1_defence_south"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

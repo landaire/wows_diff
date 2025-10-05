@@ -1,0 +1,13 @@
+{
+  "costCR": 500000,
+  "costXP": 6200,
+  "id": 3656822608,
+  "index": "PFUS608",
+  "name": "PFUS608_SUO_TOP",
+  "typeinfo": {
+    "nation": "France",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

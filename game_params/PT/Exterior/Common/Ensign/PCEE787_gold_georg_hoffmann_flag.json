@@ -1,0 +1,26 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "gold_georg_hoffmann_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3469602736,
+  "index": "PCEE787",
+  "isTemplate": false,
+  "name": "PCEE787_gold_georg_hoffmann_flag",
+  "needExtraDescription": true,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other",
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

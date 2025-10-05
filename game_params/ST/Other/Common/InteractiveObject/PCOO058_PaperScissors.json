@@ -1,0 +1,67 @@
+{
+  "id": 4233676720,
+  "index": "PCOO058",
+  "logic": {
+    "InteractiveObjectEvents": {
+      "OnMouseClick": {
+        "InteractiveObjectActions": {
+          "modelAction": {
+            "actionName": "action",
+            "deactivationActionName": "",
+            "type": 3
+          },
+          "soundAction": {
+            "eventName": "UI_Bday25_Scissors_Click",
+            "type": 4
+          }
+        },
+        "activeTime": 8.0,
+        "requiredState": "hovered",
+        "targetState": "selected",
+        "type": "onMouseClick"
+      },
+      "OnMouseOver": {
+        "InteractiveObjectActions": {
+          "mousePressAction": {
+            "actionName": "On",
+            "deactivationActionName": "",
+            "type": 3
+          },
+          "soundAction": {
+            "eventName": "UI_Bday25_Scissors_Over",
+            "type": 4
+          }
+        },
+        "activeTime": -1.0,
+        "requiredState": "idle",
+        "targetState": "hovered",
+        "type": "onMouseOver"
+      },
+      "OnMouseOverEnd": {
+        "InteractiveObjectActions": {
+          "modelAction": {
+            "actionName": "Off",
+            "deactivationActionName": "",
+            "type": 3
+          },
+          "soundAction": {
+            "eventName": "UI_Bday25_Scissors_Over_Paper",
+            "type": 4
+          }
+        },
+        "activeTime": 0.3,
+        "requiredState": "hovered",
+        "targetState": "released",
+        "type": "onMouseOverEnd"
+      }
+    },
+    "state": "idle"
+  },
+  "name": "PCOO058_PaperScissors",
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "InteractiveObject",
+    "type": "Other"
+  }
+}

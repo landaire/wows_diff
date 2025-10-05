@@ -1,0 +1,13 @@
+{
+  "costCR": 2100000,
+  "costXP": 36000,
+  "id": 3436982032,
+  "index": "PHUH818",
+  "name": "PHUH818_C8_HULL_TOP",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

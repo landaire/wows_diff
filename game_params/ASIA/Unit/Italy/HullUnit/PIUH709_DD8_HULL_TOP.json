@@ -1,0 +1,13 @@
+{
+  "costCR": 2100000,
+  "costXP": 33000,
+  "id": 3551276784,
+  "index": "PIUH709",
+  "name": "PIUH709_DD8_HULL_TOP",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

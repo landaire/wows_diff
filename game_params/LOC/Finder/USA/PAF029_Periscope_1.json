@@ -1,0 +1,18 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4263701488,
+  "index": "PAF029",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/finder/AF029_Periscope_1/AF029_Periscope_1.model",
+  "name": "PAF029_Periscope_1",
+  "nation": "America",
+  "otype": "Finder",
+  "stype": "",
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "Finder"
+  }
+}

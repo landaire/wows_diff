@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 0,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isModuleHits count=\"250\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3902160816,
+  "index": "PCQT374",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT374",
+  "rewards": [
+    "<Item idx=\"PCEF019_JW1_SignalFlag\" count=\"25\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT374_1",
+    "isModuleHits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

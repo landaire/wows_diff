@@ -1,0 +1,13 @@
+{
+  "costCR": 2500000,
+  "costXP": 38000,
+  "id": 3349097936,
+  "index": "PRUB902",
+  "name": "PRUB902_CV10_TB_TOP",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

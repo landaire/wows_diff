@@ -1,0 +1,13 @@
+{
+  "costCR": 1150000,
+  "costXP": 14000,
+  "id": 4240388080,
+  "index": "PAUB052",
+  "name": "PAUB052_Grumman_TBM3",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4199739600,
+  "index": "PZD090",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD090_Pom_Pom_director_mk1/ZD090_Pom_Pom_director_mk1.model",
+  "name": "PZD090_Pom_Pom_director_mk1",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

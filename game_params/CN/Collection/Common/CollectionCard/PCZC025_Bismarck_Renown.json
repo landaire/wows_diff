@@ -1,0 +1,15 @@
+{
+  "collectionAlbum": "PCZA002_Bismarck",
+  "compensationCR": 0,
+  "description": "IDS_PCZC025_BISMARCK_RENOWN_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4268661680,
+  "index": "PCZC025",
+  "name": "PCZC025_Bismarck_Renown",
+  "subAlbums": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

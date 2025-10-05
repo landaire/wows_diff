@@ -1,0 +1,29 @@
+{
+  "backgroundIconID": 0,
+  "conditions": [
+    "<isMyShip shipLevel=\"9,10,11\" class=\"Cruiser,Submarine\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isWeaponHits count=\"5\" weaponTypes=\"torps\"/>",
+    "<isAlive isAlive=\"true\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3882237872,
+  "index": "PCQT393",
+  "isSingleBattle": true,
+  "lootStars": 3,
+  "name": "PCQT393",
+  "rewards": [
+    "<Item idx=\"PCEF019_JW1_SignalFlag\" count=\"30\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT393_1",
+    "isWeaponHits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

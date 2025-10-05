@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3348868368,
+  "index": "PXUI902",
+  "name": "PXUI902_CV10_F_TOP",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

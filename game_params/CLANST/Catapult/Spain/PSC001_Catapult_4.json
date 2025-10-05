@@ -1,0 +1,35 @@
+{
+  "angle": 0.0,
+  "dist": 0.0,
+  "hidePlane": false,
+  "id": 4293064112,
+  "index": "PSC001",
+  "isInvisible": false,
+  "launchEffectName": "particles/Empty_FX.xml",
+  "linkedGunAngles": [],
+  "linkedGunName": null,
+  "linkedRotationSpeedCoeff": 1.0,
+  "model": "content/gameplay/spain/catapult/SC001_Catapult_4/SC001_Catapult_4.model",
+  "name": "PSC001_Catapult_4",
+  "planeOffsets": {
+    "SAS001_IMAM_Ro43": [
+      [
+        0.0,
+        0.45,
+        -3.12
+      ],
+      [
+        0.0,
+        -2.5,
+        0.0
+      ]
+    ]
+  },
+  "rotateTime": 0.0,
+  "translateDelay": 0.0,
+  "typeinfo": {
+    "nation": "Spain",
+    "species": null,
+    "type": "Catapult"
+  }
+}

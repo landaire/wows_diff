@@ -1,0 +1,100 @@
+{
+  "battleTypes": [
+    "PVP"
+  ],
+  "constants": {
+    "keyTargetMarker": 1,
+    "potentialDamage": 1000000,
+    "teamPosition": 3
+  },
+  "enabled": true,
+  "events": [
+    [
+      "onAgro",
+      [],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "agro",
+          "amount"
+        ]
+      ]
+    ],
+    [
+      "battleEnd",
+      [
+        [
+          "me",
+          "isKeyTargetInOurTeamAlive"
+        ],
+        [
+          "counter",
+          "a",
+          ">=",
+          "constant",
+          "potentialDamage"
+        ],
+        [
+          "battleEnd",
+          "teamExpRate",
+          "<=",
+          "constant",
+          "teamPosition"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 3868386224,
+  "index": "PCH406",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH406_KeyTarget_Fire_On_Myself",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "KEYTARGET_FIRE_ON_MYSELF",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

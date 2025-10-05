@@ -1,0 +1,176 @@
+{
+  "battleTypes": [
+    "PVP"
+  ],
+  "constants": {
+    "damageA": 30000.0,
+    "damageB": 20000.0,
+    "ships": [
+      "PRSD208_Pr_30",
+      "PRSD107_Pr_35_Udaloy",
+      "PRSD210_Grozovoy_pr_40N"
+    ]
+  },
+  "enabled": false,
+  "events": [
+    [
+      "meAttack",
+      [
+        [
+          "me",
+          "vehicleName",
+          "in",
+          "constant",
+          "ships"
+        ],
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "subInstruction",
+          [
+            "damage",
+            "weaponType",
+            "==",
+            "weaponType",
+            "MAIN_AP"
+          ],
+          "or",
+          "subInstruction",
+          [
+            "damage",
+            "weaponType",
+            "==",
+            "weaponType",
+            "MAIN_HE"
+          ]
+        ]
+      ],
+      [
+        [
+          "counter",
+          "a",
+          "+=",
+          "damage",
+          "value"
+        ]
+      ]
+    ],
+    [
+      "meAttack",
+      [
+        [
+          "me",
+          "vehicleName",
+          "in",
+          "constant",
+          "ships"
+        ],
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "damage",
+          "weaponType",
+          "==",
+          "weaponType",
+          "TORPEDO"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "b",
+          "+=",
+          "damage",
+          "value"
+        ]
+      ]
+    ],
+    [
+      "meAttack",
+      [
+        [
+          "target",
+          "entityType",
+          "==",
+          "entityType",
+          "Vehicle"
+        ],
+        [
+          "counter",
+          "a",
+          ">=",
+          "constant",
+          "damageA"
+        ],
+        [
+          "counter",
+          "b",
+          ">=",
+          "constant",
+          "damageB"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": true,
+  "hiddenCustom": {
+    "alwaysShowIfAchieved": true
+  },
+  "hint": "",
+  "id": 4142064560,
+  "index": "PCH145",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": true,
+  "name": "PCH145_BD2_USSR",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": false,
+  "tags": [],
+  "type": "festival",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "BD2_USSR",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "service_medal"
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA022_GF097",
+  "compensationCR": 0,
+  "description": "IDS_PCZC487_GF097_TIRPITZ_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3784219568,
+  "index": "PCZC487",
+  "name": "PCZC487_GF097_Tirpitz",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

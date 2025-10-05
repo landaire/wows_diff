@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4253215536,
+  "index": "PGF039",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF039_2m_Deck_Rangefinder/GF039_2m_Deck_Rangefinder.model",
+  "name": "PGF039_2m_Deck_Rangefinder",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

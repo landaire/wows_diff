@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA017_FrenchDDArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC380_FRENCHDDARC_LETERRIBLE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3896417200,
+  "index": "PCZC380",
+  "name": "PCZC380_FrenchDDArc_LeTerrible",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

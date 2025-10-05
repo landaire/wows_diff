@@ -1,0 +1,26 @@
+{
+  "id": 3701131184,
+  "index": "PCOK566",
+  "level_1": {
+    "GMAPDamageCoeff": 1.2,
+    "GMCSDamageCoeff": 1.2,
+    "GMHEDamageCoeff": 1.1,
+    "burnDamageMultiplier": 1.25,
+    "floodDamageMultiplier": 1.25,
+    "ignorePTZBonus": 10
+  },
+  "level_2": {
+    "GMAPDamageCoeff": 1.2,
+    "GMCSDamageCoeff": 1.2,
+    "GMHEDamageCoeff": 1.1,
+    "burnDamageMultiplier": 1.25,
+    "floodDamageMultiplier": 1.25,
+    "ignorePTZBonus": 10
+  },
+  "name": "PCOK566_CLAN_Stalingrad",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

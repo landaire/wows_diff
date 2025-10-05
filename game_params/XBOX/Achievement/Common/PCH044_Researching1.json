@@ -1,0 +1,125 @@
+{
+  "battleTypes": [
+    "PVP",
+    "RANKED"
+  ],
+  "constants": {
+    "shipsCount": 1
+  },
+  "enabled": true,
+  "events": [
+    [
+      "login",
+      [
+        [
+          "counter",
+          "globalA",
+          "<",
+          "dock",
+          "exploredShips"
+        ]
+      ],
+      [
+        [
+          "counter",
+          "globalA",
+          "=",
+          "dock",
+          "exploredShips"
+        ]
+      ]
+    ],
+    [
+      "login",
+      [
+        [
+          "counter",
+          "globalA",
+          ">=",
+          "constant",
+          "shipsCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ],
+    [
+      "explore",
+      [],
+      [
+        [
+          "counter",
+          "globalA",
+          "+=",
+          "constant",
+          "1"
+        ]
+      ]
+    ],
+    [
+      "explore",
+      [
+        [
+          "counter",
+          "globalA",
+          ">=",
+          "constant",
+          "shipsCount"
+        ]
+      ],
+      [
+        [
+          "doAction",
+          "done"
+        ]
+      ]
+    ]
+  ],
+  "group": false,
+  "hidden": false,
+  "hiddenCustom": {},
+  "hint": "",
+  "id": 4247970736,
+  "index": "PCH044",
+  "isTemplate": false,
+  "keepCounters": false,
+  "maxShipLevel": 0,
+  "minShipLevel": 0,
+  "multiple": false,
+  "name": "PCH044_Researching1",
+  "onePerBattle": true,
+  "shipCategories": [
+    "start",
+    "upgradeable",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "specialUnsellable",
+    "peculiar",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "demoWithStats",
+    "superShip",
+    "experimental"
+  ],
+  "showProgress": true,
+  "tags": [],
+  "type": "research",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Achievement"
+  },
+  "uiDescription": "",
+  "uiHeader": "",
+  "uiHideMultiplicity": false,
+  "uiName": "JUNIOR_PLANNER",
+  "uiOutOfDate": false,
+  "uiRestrictionIDS": "",
+  "uiType": "common"
+}

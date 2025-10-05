@@ -1,0 +1,13 @@
+{
+  "costCR": 820000,
+  "costXP": 7600,
+  "id": 3830198256,
+  "index": "PAUH443",
+  "name": "PAUH443_New_York_1942",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

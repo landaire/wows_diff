@@ -1,0 +1,13 @@
+{
+  "costCR": 9000,
+  "costXP": 180,
+  "id": 4290522832,
+  "index": "PJUH004",
+  "name": "PJUH004_UJI_B",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

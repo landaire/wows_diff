@@ -1,0 +1,59 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 5,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL084_Legion_Coll_Free",
+    "PCL085_Legion_Coll_Prem"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA017_FRENCHDDARC",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4277115824,
+  "index": "PCZA017",
+  "isPuzzle": false,
+  "name": "PCZA017_FrenchDDArc",
+  "rewards": [
+    "<SetUnlock unlockName=\"Second_Ensign_FRDestroyer\" count=\"1\"/>",
+    "<SetUnlock unlockName=\"Multi_Camo_FRDestroyer\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_FRENCHDDARC_NAME",
+      "'aa",
+      [
+        "<SetUnlock unlockName=\"Multi_Camo_FRBattleship\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_FRENCHDDARC_NAME",
+      "'bb",
+      [
+        "<SetUnlock unlockName=\"Multi_Camo_FRCruiser\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_FRENCHDDARC_NAME",
+      "'cc",
+      [
+        "<SetUnlock unlockName=\"Second_Ensign_FRBattleship\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_FRENCHDDARC_NAME",
+      "'dd",
+      [
+        "<SetUnlock unlockName=\"Second_Ensign_FRCruiser\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

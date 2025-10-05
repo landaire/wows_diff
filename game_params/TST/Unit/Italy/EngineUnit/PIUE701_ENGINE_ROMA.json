@@ -1,0 +1,14 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "histEnginePower": 121000,
+  "id": 3559763696,
+  "index": "PIUE701",
+  "name": "PIUE701_ENGINE_ROMA",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

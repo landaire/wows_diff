@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA032_PA_SAZHENBING",
+  "compensationCR": 0,
+  "description": "IDS_PCZC716_PA_3_2_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3544095664,
+  "index": "PCZC716",
+  "name": "PCZC716_PA_3_2",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

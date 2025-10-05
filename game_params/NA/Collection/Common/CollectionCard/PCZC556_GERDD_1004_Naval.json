@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA025_GERDD_1004",
+  "compensationCR": 0,
+  "description": "IDS_PCZC556_GERDD_1004_NAVAL_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3711867824,
+  "index": "PCZC556",
+  "name": "PCZC556_GERDD_1004_Naval",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

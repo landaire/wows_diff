@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3742808528,
+  "index": "PRRS526",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/radar/search/RRS526_Guys1B_radar_HW19/RRS526_Guys1B_radar_HW19.model",
+  "name": "PRRS526_Guys1B_radar_HW19",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4203933904,
+  "index": "PZD086",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD086_DCT_MK_XXl_with_finder_15_ft/ZD086_DCT_MK_XXl_with_finder_15_ft.model",
+  "name": "PZD086_DCT_MK_XXl_with_finder_15_ft",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

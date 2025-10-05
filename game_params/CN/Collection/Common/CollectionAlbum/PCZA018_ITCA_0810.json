@@ -1,0 +1,58 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 3,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL091_ITCA0810_Coll_Free",
+    "PCL092_ITCA0810_Coll_Prem"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA018_ITCA_0810",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4276067248,
+  "index": "PCZA018",
+  "isPuzzle": false,
+  "name": "PCZA018_ITCA_0810",
+  "rewards": [
+    "<Crew level=\"10\" shipId=\"PISC101_Eritrea\" crewId=\"PIW101_Sansonetti\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_ITCA_0810_NAME",
+      "'aa",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_ITCA_0810_NAME",
+      "'bb",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_ITCA_0810_NAME",
+      "'cc",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_ITCA_0810_NAME",
+      "'dd",
+      [
+        "<Add type=\"WOWS_PREM\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 860000,
+  "costXP": 10700,
+  "id": 3768331728,
+  "index": "PRUH502",
+  "name": "PRUH502_OGNEVOY_B",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

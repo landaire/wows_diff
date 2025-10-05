@@ -1,0 +1,28 @@
+{
+  "allTasks": [
+    "PCQT171_CampaignSB_Mission03_Task01",
+    "PCQT172_CampaignSB_Mission03_Task02",
+    "PCQT173_CampaignSB_Mission03_Task03",
+    "PCQT174_CampaignSB_Mission03_Task04",
+    "PCQT175_CampaignSB_Mission03_Task05",
+    "PCQT176_CampaignSB_Mission03_Task06",
+    "PCQT177_CampaignSB_Mission03_Task07",
+    "PCQT178_CampaignSB_Mission03_Task08_Key"
+  ],
+  "id": 4280926128,
+  "index": "PCQM013",
+  "isStart": false,
+  "mainTask": "PCQT178_CampaignSB_Mission03_Task08_Key",
+  "mapPosition": [
+    0.43,
+    0.25
+  ],
+  "name": "PCQM013_CampaignSB_Mission03",
+  "startTime": "",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Mission",
+    "type": "Campaign"
+  },
+  "uiNumber": "3"
+}

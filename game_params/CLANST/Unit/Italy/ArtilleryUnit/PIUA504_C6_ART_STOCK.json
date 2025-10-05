@@ -1,0 +1,13 @@
+{
+  "costCR": 225000,
+  "costXP": 0,
+  "id": 3766464240,
+  "index": "PIUA504",
+  "name": "PIUA504_C6_ART_STOCK",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

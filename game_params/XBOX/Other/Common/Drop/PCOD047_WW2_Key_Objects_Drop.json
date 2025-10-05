@@ -1,0 +1,32 @@
+{
+  "id": 4245571504,
+  "index": "PCOD047",
+  "markerNameActive": "repair_active",
+  "markerNameInactive": "repair_inactive",
+  "maxBuffLevel": 0,
+  "name": "PCOD047_WW2_Key_Objects_Drop",
+  "payload": {
+    "item_1": {
+      "duration": -1,
+      "level": 1,
+      "params": "PXOM111_WW2_Key_Objects_Drop_DD",
+      "type": 1,
+      "weight": 0
+    },
+    "item_2": {
+      "duration": -1,
+      "level": 1,
+      "params": "PXOM112_WW2_Key_Objects_Drop_BB",
+      "type": 1,
+      "weight": 0
+    },
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

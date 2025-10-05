@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA027_TFTM_108",
+  "compensationCR": 0,
+  "description": "IDS_PCZC639_TFTM_108_RUMBLE_HABAROVSK_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3624836016,
+  "index": "PCZC639",
+  "name": "PCZC639_TFTM_108_Rumble_Habarovsk",
+  "subAlbums": [
+    5
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

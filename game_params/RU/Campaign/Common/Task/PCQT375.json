@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 0,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\" class=\"Cruiser\"/>",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isCitadelHits count=\"40\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3901112240,
+  "index": "PCQT375",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT375",
+  "rewards": [
+    "<Add type=\"FREE_XP\" count=\"5000\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT375_1",
+    "isCitadelHits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

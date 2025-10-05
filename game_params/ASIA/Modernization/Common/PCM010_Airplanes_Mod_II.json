@@ -1,0 +1,24 @@
+{
+  "canCharge": true,
+  "costCR": 500000,
+  "excludes": [],
+  "group": [],
+  "id": 4283617200,
+  "index": "PCM010",
+  "modifiers": {
+    "fighterHealth": 1.04
+  },
+  "name": "PCM010_Airplanes_Mod_II",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [],
+  "shiptype": [],
+  "slot": -1,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

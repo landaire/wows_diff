@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA017_FrenchDDArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC372_FRENCHDDARC_GRAND_CROIX_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3904805808,
+  "index": "PCZC372",
+  "name": "PCZC372_FrenchDDArc_Grand_Croix",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

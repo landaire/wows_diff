@@ -1,0 +1,18 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4247974896,
+  "index": "PAD044",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/director/AD044_Director_Mk54/AD044_Director_Mk54.model",
+  "name": "PAD044_Director_Mk54",
+  "nation": "America",
+  "otype": "Director",
+  "stype": "",
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "Director"
+  }
+}

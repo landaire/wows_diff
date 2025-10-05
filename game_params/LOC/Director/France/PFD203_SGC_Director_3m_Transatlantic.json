@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4081251152,
+  "index": "PFD203",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD203_SGC_Director_3m_Transatlantic/FD203_SGC_Director_3m_Transatlantic.model",
+  "name": "PFD203_SGC_Director_3m_Transatlantic",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

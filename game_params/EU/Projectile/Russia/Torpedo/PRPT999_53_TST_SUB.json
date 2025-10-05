@@ -1,0 +1,189 @@
+{
+  "SubmarineTorpedoParams": {
+    "affectedByPTZ": [
+      true,
+      true,
+      true
+    ],
+    "applyPTZCoeff": [
+      true,
+      false,
+      false
+    ],
+    "countdown": 0.1,
+    "dropTargetAtDistance": {
+      "AirCarrier": [
+        1300,
+        1300,
+        1300
+      ],
+      "Battleship": [
+        1440,
+        1440,
+        1440
+      ],
+      "Cruiser": [
+        860,
+        430,
+        430
+      ],
+      "Destroyer": [
+        290,
+        145,
+        145
+      ],
+      "Submarine": [
+        290,
+        145,
+        145
+      ],
+      "default": [
+        1300,
+        1300,
+        1300
+      ]
+    },
+    "dynamicVisibilityCoeff": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "maxDepthLevel": [
+      80.0,
+      80.0,
+      80.0
+    ],
+    "maxVerticalSpeed": [
+      1.1,
+      1.1,
+      1.1
+    ],
+    "maxYaw": [
+      3.4,
+      5.0,
+      5.0
+    ],
+    "predictionShiftCoefs": [
+      [
+        1.0,
+        0.5
+      ],
+      [
+        1.0,
+        0.5
+      ],
+      [
+        1.0,
+        0.5
+      ]
+    ],
+    "predictionShiftDropDistance": [
+      3600.0,
+      3600.0,
+      3600.0
+    ],
+    "searchAngle": [
+      90,
+      90,
+      90
+    ],
+    "searchRadius": [
+      80000,
+      80000,
+      80000
+    ],
+    "speedDecrCoef": [
+      0.7,
+      0.7,
+      0.7
+    ],
+    "targetLostDegradationTime": 3.0,
+    "useEnhancedRegenerationRules": false,
+    "verticalAcceleration": [
+      0.375,
+      0.375,
+      0.375
+    ],
+    "yawChangeSpeed": [
+      2.0,
+      2.5,
+      2.5
+    ]
+  },
+  "acidProb": 0.0,
+  "additionalShips": [],
+  "affectedByPTZ": true,
+  "alertDist": 100,
+  "alphaDamage": 13400.0,
+  "alphaPiercingHE": 1000.0,
+  "ammoType": "torpedo",
+  "applyPTZCoeff": true,
+  "armingTime": 1.0,
+  "blowUpEffect": "particles/guns/TORP_Explo_UWater.xml",
+  "bulletDiametr": 0.533,
+  "buoyancyToDamageCoeff": {},
+  "burnProb": 0.0,
+  "costCR": 350,
+  "customSoundPostfix": "",
+  "customUIPostfix": "_subDefault",
+  "damage": 700.0,
+  "damageCoeffMaxPing": 2.0,
+  "depth": 0.14,
+  "directDamage": 0.0,
+  "distanceOfDamage": [],
+  "dropToTheGroundEffect": "particles/guns/TORP_Drop_Ground.xml",
+  "fallDistance": 20.0,
+  "fallTime": 20.0,
+  "fallingTimeCoef": 1,
+  "fallingTracerEffect": "particles/Empty_FX.xml",
+  "floodGeneration": true,
+  "ground": "particles/guns/TORP_Explo_Ground.xml",
+  "hitDecalSize": 0.0,
+  "id": 3246801360,
+  "ignoreBuoyancyStates": [],
+  "ignoreClasses": [],
+  "index": "PRPT999",
+  "isDeepWater": false,
+  "isFeedbackAndMarkerHidden": false,
+  "maneuverDist": 8.0,
+  "maxDist": 410.0,
+  "model": "content/gameplay/russia/projectile/torpedo/RPT005_Torpedo_53_39/RPT005_Torpedo_53_39.model",
+  "name": "PRPT999_53_TST_SUB",
+  "onHit": {},
+  "ownTracerEffect": "particles/guns/TORP_Tracer_Acoustic.xml",
+  "parachuteHeightCoeff": 0.75,
+  "parachuteModel": "content/location/misc/gameplay/LMY052_Parachute/LMY052_Parachute.model",
+  "parachuteTimeCoeff": 0.95,
+  "planeAmmoType": "torpedo",
+  "projDestroyedEffect": [
+    "particles/guns/TORP_Explo_Ship.xml",
+    "particles/guns/TORP_Explo_Ship_1.xml",
+    "particles/guns/TORP_Explo_Ship_2.xml",
+    "particles/guns/TORP_Explo_Ship_3.xml"
+  ],
+  "shipDestroyEffect": "particles/Empty_FX.xml",
+  "speed": 65.0,
+  "splashArmorCoeff": 0.1,
+  "splashCubeSize": 0.8,
+  "torpedoProjDestroyedEffect": [
+    "particles/guns/TORP_Explo_Ship.xml",
+    "particles/guns/TORP_Explo_Ship_1.xml",
+    "particles/guns/TORP_Explo_Ship_2.xml",
+    "particles/guns/TORP_Explo_Ship_3.xml"
+  ],
+  "torpedoType": 1,
+  "tracerEffect": "particles/guns/TORP_Tracer_Acoustic.xml",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Torpedo",
+    "type": "Projectile"
+  },
+  "underwaterTracerEffect": "particles/guns/TORP_Tracer_UWater.xml",
+  "useDefaultDepth": true,
+  "useEnhancedRegenerationRules": true,
+  "uwCritical": 0.77,
+  "visibilityFactor": 1.7,
+  "volume": 0.6,
+  "water": "particles/guns/TORP_Drop_Ship_Water.xml",
+  "withParachute": false
+}

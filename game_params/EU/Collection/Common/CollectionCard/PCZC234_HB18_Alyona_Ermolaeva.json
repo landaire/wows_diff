@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA010_HappyBirthday2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC234_HB18_ALYONA_ERMOLAEVA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4049509296,
+  "index": "PCZC234",
+  "name": "PCZC234_HB18_Alyona_Ermolaeva",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3749365680,
+  "index": "PCOK520",
+  "level_1": {
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityAtba": 0.8
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityAtba": 0.8
+  },
+  "name": "PCOK520_CLAN_Schlieffen",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

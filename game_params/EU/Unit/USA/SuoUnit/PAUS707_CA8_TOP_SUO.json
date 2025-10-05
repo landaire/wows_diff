@@ -1,0 +1,13 @@
+{
+  "costCR": 1200000,
+  "costXP": 15000,
+  "id": 3553013744,
+  "index": "PAUS707",
+  "name": "PAUS707_CA8_TOP_SUO",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

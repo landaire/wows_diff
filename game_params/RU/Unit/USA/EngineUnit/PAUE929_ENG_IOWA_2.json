@@ -1,0 +1,13 @@
+{
+  "costCR": 1300000,
+  "costXP": 19000,
+  "id": 3320688624,
+  "index": "PAUE929",
+  "name": "PAUE929_ENG_IOWA_2",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

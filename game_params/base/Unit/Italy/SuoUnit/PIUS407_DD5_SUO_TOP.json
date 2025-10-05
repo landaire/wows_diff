@@ -1,0 +1,13 @@
+{
+  "costCR": 300000,
+  "costXP": 3200,
+  "id": 3867586288,
+  "index": "PIUS407",
+  "name": "PIUS407_DD5_SUO_TOP",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3764579120,
+  "index": "PGF505",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF505_4m_Rangefinder_Type_SL_8_Ice/GF505_4m_Rangefinder_Type_SL_8_Ice.model",
+  "name": "PGF505_4m_Rangefinder_Type_SL_8_Ice",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

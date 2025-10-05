@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA024_USABB_0910",
+  "compensationCR": 0,
+  "description": "IDS_PCZC531_USABB_0910_DEFSERVICEMEDAL_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3738082224,
+  "index": "PCZC531",
+  "name": "PCZC531_USABB_0910_DefServiceMedal",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

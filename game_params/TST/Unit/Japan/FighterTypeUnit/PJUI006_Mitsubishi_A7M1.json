@@ -1,0 +1,13 @@
+{
+  "costCR": 1180000,
+  "costXP": 15000,
+  "id": 4288392912,
+  "index": "PJUI006",
+  "name": "PJUI006_Mitsubishi_A7M1",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

@@ -1,0 +1,62 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 4,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL114_USA_BB0910_Coll_Free",
+    "PCL115_USA_BB0910_Coll_Prem"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA024_USABB_0910",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4269775792,
+  "index": "PCZA024",
+  "isPuzzle": false,
+  "name": "PCZA024_USABB_0910",
+  "rewards": [
+    "<Ship shipId=\"PASB505_Oklahoma\" level=\"6\" count=\"1\" onlySilver = \"0\"/>",
+    "<Permoflage idx=\"PAES305_OKLAHOMA_WW1\" shipId=\"PASB505_Oklahoma\" onlySilver=\"0\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_USABB_0910_NAME",
+      "'aa",
+      [
+        "<Item idx=\"PCEM083_Tile_American_Arc\" count=\"1\"/>",
+        "<Item idx=\"PCEA022_TotalXPboost_2\" count=\"5\"/>",
+        "<Item idx=\"PCEA041_FreeXPboost_1\" count=\"5\"/>",
+        "<Item idx=\"PCEA032_CrewXPboost_2\" count=\"5\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_USABB_0910_NAME",
+      "'bb",
+      [
+        "<DogTag idx=\"PCNP082\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_USABB_0910_NAME",
+      "'cc",
+      [
+        "<DogTag idx=\"PCNP083\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_USABB_0910_NAME",
+      "'dd",
+      [
+        "<DogTag idx=\"PCNP084\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

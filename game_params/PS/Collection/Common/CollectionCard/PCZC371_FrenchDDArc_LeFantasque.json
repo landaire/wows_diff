@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA017_FrenchDDArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC371_FRENCHDDARC_LEFANTASQUE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3905854384,
+  "index": "PCZC371",
+  "name": "PCZC371_FrenchDDArc_LeFantasque",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

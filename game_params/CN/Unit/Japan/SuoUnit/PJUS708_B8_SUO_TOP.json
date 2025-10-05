@@ -1,0 +1,13 @@
+{
+  "costCR": 2600000,
+  "costXP": 30000,
+  "id": 3551964880,
+  "index": "PJUS708",
+  "name": "PJUS708_B8_SUO_TOP",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

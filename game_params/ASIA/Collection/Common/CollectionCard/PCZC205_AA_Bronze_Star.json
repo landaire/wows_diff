@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC205_AA_BRONZE_STAR_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4079918000,
+  "index": "PCZC205",
+  "name": "PCZC205_AA_Bronze_Star",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

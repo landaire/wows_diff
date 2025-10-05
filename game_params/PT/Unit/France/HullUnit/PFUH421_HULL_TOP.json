@@ -1,0 +1,13 @@
+{
+  "costCR": 370000,
+  "costXP": 3600,
+  "id": 3853266768,
+  "index": "PFUH421",
+  "name": "PFUH421_HULL_TOP",
+  "typeinfo": {
+    "nation": "France",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC308_AZURLANE_ILLUSTRIOUS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3971914672,
+  "index": "PCZC308",
+  "name": "PCZC308_AzurLane_Illustrious",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

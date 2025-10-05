@@ -1,0 +1,13 @@
+{
+  "costCR": 300000,
+  "costXP": 3400,
+  "id": 3860245968,
+  "index": "PRUS414",
+  "name": "PRUS414_D5_SUO_TOP_2",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

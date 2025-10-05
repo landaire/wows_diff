@@ -1,0 +1,13 @@
+{
+  "costCR": 175000,
+  "costXP": 1200,
+  "id": 3977686832,
+  "index": "PGUS302",
+  "name": "PGUS302_SUO",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

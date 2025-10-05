@@ -1,0 +1,13 @@
+{
+  "costCR": 575000,
+  "costXP": 7200,
+  "id": 3758501872,
+  "index": "PAUT511",
+  "name": "PAUT511_D6_TORP_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

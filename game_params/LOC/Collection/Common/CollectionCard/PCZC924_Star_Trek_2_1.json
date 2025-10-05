@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA036_Star_Trek_1310",
+  "compensationCR": 0,
+  "description": "IDS_PCZC695_BD_2_1_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3325991856,
+  "index": "PCZC924",
+  "name": "PCZC924_Star_Trek_2_1",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

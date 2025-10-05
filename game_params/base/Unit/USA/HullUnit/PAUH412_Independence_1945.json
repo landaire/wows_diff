@@ -1,0 +1,13 @@
+{
+  "costCR": 640000,
+  "costXP": 8000,
+  "id": 3862704112,
+  "index": "PAUH412",
+  "name": "PAUH412_Independence_1945",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

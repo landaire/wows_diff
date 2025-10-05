@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA016_SovietBBArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC356_SOVIETBBARC_305MM_SHELL_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3921583024,
+  "index": "PCZC356",
+  "name": "PCZC356_SovietBBArc_305mm_Shell",
+  "subAlbums": [
+    5
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

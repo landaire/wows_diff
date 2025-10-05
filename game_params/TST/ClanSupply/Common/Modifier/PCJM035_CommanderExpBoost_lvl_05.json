@@ -1,0 +1,20 @@
+{
+  "accumulativeResourceRequired": 0,
+  "bonusType": "commander_exp_boost",
+  "buildingType": "PCJB004_Academy",
+  "buyable": true,
+  "cost": 20000,
+  "id": 4257864624,
+  "index": "PCJM035",
+  "isDummy": false,
+  "name": "PCJM035_CommanderExpBoost_lvl_05",
+  "previousModifier": "PCJM034_CommanderExpBoost_lvl_04",
+  "shipLevelMax": null,
+  "shipLevelMin": null,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Modifier",
+    "type": "ClanSupply"
+  },
+  "value": 15
+}

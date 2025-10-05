@@ -1,0 +1,66 @@
+{
+  "availableBattleCardType": [],
+  "customIconName": "",
+  "customMatchmakerBG": "pcve018",
+  "difficulty": "nightmare",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "id": 4267223984,
+  "index": "PCVO026",
+  "map": "",
+  "name": "PCVO026_EV_HL_16_50_VanHellsing_Nightmare",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        1
+      ],
+      "Battleship": [
+        0,
+        3
+      ],
+      "Cruiser": [
+        0,
+        4
+      ],
+      "Destroyer": [
+        0,
+        3
+      ],
+      "Submarine": [
+        0,
+        -1
+      ]
+    },
+    "filters": [
+      {
+        "nations": [
+          "Events"
+        ],
+        "shipLevels": [
+          3
+        ]
+      }
+    ],
+    "minShips": 4,
+    "totalShips": 7
+  },
+  "scenariosByMap": {
+    "spaces/50_VanHellsing": [
+      "PCVO026_EV_HL_16_50_VanHellsing_Nightmare"
+    ]
+  },
+  "subtype": "event",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Operation",
+    "type": "BattleScript"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4252169040,
+  "index": "PFD040",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD040_Designator_Objective_127/FD040_Designator_Objective_127.model",
+  "name": "PFD040_Designator_Objective_127",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

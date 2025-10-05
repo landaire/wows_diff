@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4159893712,
+  "index": "PZD128",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD128_Zeilsaule_C38_Night_Dir/ZD128_Zeilsaule_C38_Night_Dir.model",
+  "name": "PZD128_Zeilsaule_C38_Night_Dir",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    [
+      "isCampaignTasksCompleted",
+      {
+        "count": 3
+      }
+    ]
+  ],
+  "id": 4282992560,
+  "index": "PCON011",
+  "name": "PCON011",
+  "rewards": [
+    [
+      "Add",
+      {
+        "count": 5000,
+        "type": "FREE_XP"
+      }
+    ]
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "NewbieQuest",
+    "type": "Other"
+  },
+  "unlock": "CAMPAIGNS"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4187156944,
+  "index": "PRD102",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/director/RD102_Rilevatore_Tiro_1_5m/RD102_Rilevatore_Tiro_1_5m.model",
+  "name": "PRD102_Rilevatore_Tiro_1_5m",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Director"
+  }
+}

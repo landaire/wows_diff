@@ -1,0 +1,11 @@
+{
+  "id": 4288633776,
+  "index": "PCJB006",
+  "name": "PCJB006_Steel_Yard",
+  "type": "steel_yard",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BuildingType",
+    "type": "ClanSupply"
+  }
+}

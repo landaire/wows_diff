@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 0,
+  "conditions": [
+    "<isMyShip shipLevel=\"9,10,11\" class=\"Cruiser\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isKillPlanes count=\"25\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3858120624,
+  "index": "PCQT416",
+  "isSingleBattle": true,
+  "lootStars": 3,
+  "name": "PCQT416",
+  "rewards": [
+    "<Item idx=\"PCEF016_NE7_SignalFlag\" count=\"40\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT416_1",
+    "isKillPlanes",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

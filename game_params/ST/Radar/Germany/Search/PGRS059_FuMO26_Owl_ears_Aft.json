@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4232493872,
+  "index": "PGRS059",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/radar/search/GRS059_FuMO26_Owl_ears_Aft/GRS059_FuMO26_Owl_ears_Aft.model",
+  "name": "PGRS059_FuMO26_Owl_ears_Aft",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

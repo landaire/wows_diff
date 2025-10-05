@@ -1,0 +1,46 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "capacityRegenCoeff": 0.0,
+    "consumableType": "planeSmokeGenerator",
+    "descIDs": "",
+    "group": "squadron",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 1,
+    "logic": {
+      "descIDs": "",
+      "height": 10.0,
+      "iconIDs": "",
+      "lifeTime": 65.0,
+      "livePointEffect": "particles/SmokeScreen.xml",
+      "radius": 15.0,
+      "spawnPointEffect": "particles/SmokeScreen_spawn.xml",
+      "spawnShiftRadius": 0.0,
+      "specialSoundID": "Default",
+      "startDelayTime": 1.0,
+      "titleIDs": ""
+    },
+    "maxCapacity": 36.0,
+    "minWorkTime": 9.0,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": ""
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 4219641776,
+  "index": "PCY071",
+  "name": "PCY071_PlaneSmokeGenerator_TimeBased",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Ability"
+  }
+}

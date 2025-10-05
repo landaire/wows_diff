@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 71,
+  "conditions": [
+    "<isMyShip shipIds=\"PASC005_Omaha_1923,PBSC104_Danae,PBSC205_Hawkins,PFSC104_Duguay_Trouin,PHSC103_Java\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\"/>",
+    "<isRibbons count=\"360\" ribbons=\"MAIN_CALIBER\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3603316656,
+  "index": "PCQT659",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT659_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF030_CK_SignalFlag\" count=\"6\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT659_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_CA_2"
+  ],
+  "unlockMissions": []
+}

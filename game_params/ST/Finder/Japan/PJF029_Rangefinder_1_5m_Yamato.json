@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4263701200,
+  "index": "PJF029",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/finder/JF029_Rangefinder_1_5m_Yamato/JF029_Rangefinder_1_5m_Yamato.model",
+  "name": "PJF029_Rangefinder_1_5m_Yamato",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Finder"
+  }
+}

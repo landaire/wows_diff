@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA025_GERDD_1004",
+  "compensationCR": 0,
+  "description": "IDS_PCZC554_GERDD_1004_DESTROYER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3713964976,
+  "index": "PCZC554",
+  "name": "PCZC554_GERDD_1004_Destroyer",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

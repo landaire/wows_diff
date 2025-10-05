@@ -1,0 +1,13 @@
+{
+  "costCR": 140000,
+  "costXP": 4200,
+  "id": 3548360400,
+  "index": "PJUA712",
+  "name": "PJUA712_410_45_Type3Year",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

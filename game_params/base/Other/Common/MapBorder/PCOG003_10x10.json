@@ -1,0 +1,13 @@
+{
+  "height": 1000.0,
+  "id": 4291610544,
+  "index": "PCOG003",
+  "model": "content/location/misc/gameplay/LMY025_map_border_10x10/LMY025_map_border_10x10.model",
+  "name": "PCOG003_10x10",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "MapBorder",
+    "type": "Other"
+  },
+  "width": 1000.0
+}

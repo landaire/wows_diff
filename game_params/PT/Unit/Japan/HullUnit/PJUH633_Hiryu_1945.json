@@ -1,0 +1,13 @@
+{
+  "costCR": 860000,
+  "costXP": 12000,
+  "id": 3630968528,
+  "index": "PJUH633",
+  "name": "PJUH633_Hiryu_1945",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

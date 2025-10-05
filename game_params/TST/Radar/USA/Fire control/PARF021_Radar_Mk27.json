@@ -1,0 +1,18 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4272765936,
+  "index": "PARF021",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/radar/fcontrol/ARF021_Radar_Mk27/ARF021_Radar_Mk27.model",
+  "name": "PARF021_Radar_Mk27",
+  "nation": "America",
+  "otype": "Radar",
+  "stype": "Fire",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "Fire control",
+    "type": "Radar"
+  }
+}

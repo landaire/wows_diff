@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3767724848,
+  "index": "PGF502",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF502_10_5m_Rangefinders_Nolan/GF502_10_5m_Rangefinders_Nolan.model",
+  "name": "PGF502_10_5m_Rangefinders_Nolan",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

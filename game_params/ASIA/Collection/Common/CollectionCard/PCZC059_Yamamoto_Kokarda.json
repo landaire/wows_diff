@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC059_YAMAMOTO_KOKARDA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4233010096,
+  "index": "PCZC059",
+  "name": "PCZC059_Yamamoto_Kokarda",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

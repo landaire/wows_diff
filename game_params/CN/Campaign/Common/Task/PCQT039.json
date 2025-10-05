@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 61,
+  "conditions": [
+    "<isMyShip shipLevel=\"4,5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isModuleHits count=\"2\" moduleTypes=\"main\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4253433776,
+  "index": "PCQT039",
+  "isSingleBattle": false,
+  "lootStars": 3,
+  "name": "PCQT039",
+  "rewards": [
+    "<Item idx=\"PCEA021_TotalXPboost_1\" count=\"5\" />"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT039_1",
+    "isModuleHits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 1400000,
+  "costXP": 18500,
+  "id": 3453758928,
+  "index": "PRUH802",
+  "name": "PRUH802_KIEV_B",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

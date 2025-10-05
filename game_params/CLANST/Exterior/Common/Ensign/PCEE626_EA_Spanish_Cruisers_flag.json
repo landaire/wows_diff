@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "EA_Spanish_Cruisers_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3638423472,
+  "index": "PCEE626",
+  "isTemplate": false,
+  "name": "PCEE626_EA_Spanish_Cruisers_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

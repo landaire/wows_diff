@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2189867312,
+  "index": "PWRS2007",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/radar/search/WRS2007_Radar_Sadir_ME140_MR126/WRS2007_Radar_Sadir_ME140_MR126.model",
+  "name": "PWRS2007_Radar_Sadir_ME140_MR126",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

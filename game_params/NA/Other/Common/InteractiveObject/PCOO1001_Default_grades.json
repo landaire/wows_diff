@@ -1,0 +1,55 @@
+{
+  "grades": {
+    "level_0": {
+      "actionName": "idle",
+      "allowedNextLevels": [
+        "level_1"
+      ]
+    },
+    "level_1": {
+      "actionName": "On",
+      "allowedNextLevels": [
+        "level_2"
+      ]
+    },
+    "level_2": {
+      "actionName": "Off",
+      "allowedNextLevels": []
+    }
+  },
+  "id": 3244869552,
+  "index": "PCOO1001",
+  "logic": {
+    "InteractiveObjectEvents": {
+      "OnMouseClick": {
+        "InteractiveObjectActions": {},
+        "activeTime": 2.0,
+        "requiredState": "hovered",
+        "targetState": "selected",
+        "type": "onMouseClick"
+      },
+      "OnMouseOver": {
+        "InteractiveObjectActions": {},
+        "activeTime": -1.0,
+        "requiredState": "idle",
+        "targetState": "hovered",
+        "type": "onMouseOver"
+      },
+      "OnMouseOverEnd": {
+        "InteractiveObjectActions": {},
+        "activeTime": 0.3,
+        "requiredState": "hovered",
+        "targetState": "released",
+        "type": "onMouseOverEnd"
+      }
+    },
+    "state": "idle"
+  },
+  "name": "PCOO1001_Default_grades",
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "InteractiveObject",
+    "type": "Other"
+  }
+}

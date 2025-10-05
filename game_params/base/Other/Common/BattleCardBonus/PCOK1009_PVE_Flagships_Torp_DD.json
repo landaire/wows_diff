@@ -1,0 +1,95 @@
+{
+  "id": 3236612016,
+  "index": "PCOK1009",
+  "level_1": {
+    "burnProb": 0.9,
+    "floodChanceBonus": 100,
+    "floodProb": 0.9,
+    "torpedoDamageCoeff": 1.1
+  },
+  "level_10": {
+    "burnProb": 0.05,
+    "floodChanceBonus": 100,
+    "floodDamageMultiplier": 2,
+    "floodProb": 0.05,
+    "torpedoDamageCoeff": 1.22,
+    "vulnerabilityTorpedo": 0.75
+  },
+  "level_11": {
+    "burnProb": 0.05,
+    "floodChanceBonus": 100,
+    "floodDamageMultiplier": 2,
+    "floodProb": 0.05,
+    "torpedoDamageCoeff": 1.25,
+    "vulnerabilityTorpedo": 0.7
+  },
+  "level_2": {
+    "burnProb": 0.8,
+    "floodChanceBonus": 100,
+    "floodDamageMultiplier": 1.2,
+    "floodProb": 0.8,
+    "torpedoDamageCoeff": 1.1
+  },
+  "level_3": {
+    "burnProb": 0.8,
+    "floodChanceBonus": 100,
+    "floodDamageMultiplier": 1.2,
+    "floodProb": 0.8,
+    "torpedoDamageCoeff": 1.13,
+    "vulnerabilityTorpedo": 0.9
+  },
+  "level_4": {
+    "burnProb": 0.6,
+    "floodChanceBonus": 100,
+    "floodDamageMultiplier": 1.4,
+    "floodProb": 0.6,
+    "torpedoDamageCoeff": 1.13,
+    "vulnerabilityTorpedo": 0.9
+  },
+  "level_5": {
+    "burnProb": 0.6,
+    "floodChanceBonus": 100,
+    "floodDamageMultiplier": 1.4,
+    "floodProb": 0.6,
+    "torpedoDamageCoeff": 1.16,
+    "vulnerabilityTorpedo": 0.85
+  },
+  "level_6": {
+    "burnProb": 0.4,
+    "floodChanceBonus": 100,
+    "floodDamageMultiplier": 1.6,
+    "floodProb": 0.4,
+    "torpedoDamageCoeff": 1.16,
+    "vulnerabilityTorpedo": 0.85
+  },
+  "level_7": {
+    "burnProb": 0.4,
+    "floodChanceBonus": 100,
+    "floodDamageMultiplier": 1.6,
+    "floodProb": 0.4,
+    "torpedoDamageCoeff": 1.19,
+    "vulnerabilityTorpedo": 0.8
+  },
+  "level_8": {
+    "burnProb": 0.2,
+    "floodChanceBonus": 100,
+    "floodDamageMultiplier": 1.8,
+    "floodProb": 0.2,
+    "torpedoDamageCoeff": 1.19,
+    "vulnerabilityTorpedo": 0.8
+  },
+  "level_9": {
+    "burnProb": 0.2,
+    "floodChanceBonus": 100,
+    "floodDamageMultiplier": 1.8,
+    "floodProb": 0.2,
+    "torpedoDamageCoeff": 1.22,
+    "vulnerabilityTorpedo": 0.75
+  },
+  "name": "PCOK1009_PVE_Flagships_Torp_DD",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

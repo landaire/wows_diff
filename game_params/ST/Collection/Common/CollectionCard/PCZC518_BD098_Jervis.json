@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA023_BD098",
+  "compensationCR": 0,
+  "description": "IDS_PCZC518_BD098_JERVIS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3751713712,
+  "index": "PCZC518",
+  "name": "PCZC518_BD098_Jervis",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

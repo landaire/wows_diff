@@ -1,0 +1,25 @@
+{
+  "canCharge": true,
+  "costCR": 125000,
+  "excludes": [],
+  "group": [],
+  "id": 4293054384,
+  "index": "PCM001",
+  "modifiers": {
+    "GMCritProb": 0.8,
+    "GMRepairTime": 0.8
+  },
+  "name": "PCM001_MainGun_Mod_I",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [],
+  "shiptype": [],
+  "slot": -1,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

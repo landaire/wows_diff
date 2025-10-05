@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3349032208,
+  "index": "PXUD902",
+  "name": "PXUD902_CV10_DB_TOP",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC183_AA_COLUMBIA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4102986672,
+  "index": "PCZC183",
+  "name": "PCZC183_AA_Columbia",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

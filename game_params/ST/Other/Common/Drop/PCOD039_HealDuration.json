@@ -1,0 +1,25 @@
+{
+  "id": 4253960112,
+  "index": "PCOD039",
+  "markerNameActive": "pack_chooser_active",
+  "markerNameInactive": "pack_chooser_inactive",
+  "maxBuffLevel": 0,
+  "name": "PCOD039_HealDuration",
+  "payload": {
+    "item_1": {
+      "duration": 30,
+      "level": 1,
+      "params": "PCOM025_Regeneration_H2020",
+      "type": 1,
+      "weight": 0
+    },
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

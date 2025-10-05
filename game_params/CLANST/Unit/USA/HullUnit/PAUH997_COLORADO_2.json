@@ -1,0 +1,13 @@
+{
+  "costCR": 680000,
+  "costXP": 0,
+  "id": 3249287152,
+  "index": "PAUH997",
+  "name": "PAUH997_COLORADO_2",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

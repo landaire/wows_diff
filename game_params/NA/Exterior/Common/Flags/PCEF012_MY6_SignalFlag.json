@@ -1,0 +1,30 @@
+{
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": 48000,
+  "costGold": -1,
+  "flags": [
+    "mike",
+    "yankee",
+    "soxisix"
+  ],
+  "group": 0,
+  "hidden": false,
+  "id": 4282216368,
+  "index": "PCEF012",
+  "isTemplate": false,
+  "modifiers": {
+    "GSIdealRadius": 0.95,
+    "GSMaxDist": 1.05,
+    "GSShotDelay": 0.95
+  },
+  "name": "PCEF012_MY6_SignalFlag",
+  "sortOrder": 2,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Flags",
+    "type": "Exterior"
+  }
+}

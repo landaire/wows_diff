@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 1,
+  "conditions": [
+    "<isMyShip shipLevel=\"4,5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isTotalCrewXP count=\"25000\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 4237705136,
+  "index": "PCQT054",
+  "isSingleBattle": false,
+  "lootStars": 5,
+  "name": "PCQT054",
+  "rewards": [
+    "<Item idx=\"PCEF005_SM_SignalFlag\" count=\"10\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT054_1",
+    "isTotalCrewXP",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

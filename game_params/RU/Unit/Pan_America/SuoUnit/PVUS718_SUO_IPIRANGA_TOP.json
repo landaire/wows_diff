@@ -1,0 +1,13 @@
+{
+  "costCR": 1500000,
+  "costXP": 23500,
+  "id": 3541478736,
+  "index": "PVUS718",
+  "name": "PVUS718_SUO_IPIRANGA_TOP",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3533320144,
+  "index": "PBUL726",
+  "name": "PBUL726_SB_THESEUS",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "SkipBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_SkipBomber"
+}

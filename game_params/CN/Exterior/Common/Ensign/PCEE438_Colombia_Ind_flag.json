@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "colombia_ind_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3835555760,
+  "index": "PCEE438",
+  "isTemplate": false,
+  "name": "PCEE438_Colombia_Ind_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "history"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

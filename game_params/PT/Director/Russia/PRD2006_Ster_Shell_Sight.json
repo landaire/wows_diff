@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2190668240,
+  "index": "PRD2006",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/director/RD2006_Ster_Shell_Sight/RD2006_Ster_Shell_Sight.model",
+  "name": "PRD2006_Ster_Shell_Sight",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Director"
+  }
+}

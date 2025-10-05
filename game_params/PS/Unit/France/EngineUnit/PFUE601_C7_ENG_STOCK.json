@@ -1,0 +1,13 @@
+{
+  "costCR": 390000,
+  "costXP": 0,
+  "id": 3664621392,
+  "index": "PFUE601",
+  "name": "PFUE601_C7_ENG_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

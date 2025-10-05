@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "chinese_new_year",
+  "group": 3,
+  "hidden": true,
+  "id": 4221431728,
+  "index": "PCEE070",
+  "isTemplate": false,
+  "name": "PCEE070_Chinese_New_Year",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

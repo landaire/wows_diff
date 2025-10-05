@@ -1,0 +1,13 @@
+{
+  "costCR": 810000,
+  "costXP": 0,
+  "id": 3453857776,
+  "index": "PAUE802",
+  "name": "PAUE802_CV9_ENG_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

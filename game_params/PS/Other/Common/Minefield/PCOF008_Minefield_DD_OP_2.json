@@ -1,0 +1,53 @@
+{
+  "activationDelay": 40.0,
+  "destroyThreshold": 100,
+  "id": 4286400432,
+  "index": "PCOF008",
+  "innerInterval": 130.0,
+  "innerRadius": 1400.0,
+  "isTeamVisibility": true,
+  "layer_1": {
+    "depth": 1.5,
+    "mineRadius": 1.0,
+    "objects": "PCPM002_SeaMine",
+    "weight": 25.0
+  },
+  "layer_2": {
+    "depth": 8.0,
+    "mineRadius": 1.0,
+    "objects": "PCPM002_SeaMine",
+    "weight": 25.0
+  },
+  "layer_3": {
+    "depth": 15.0,
+    "mineRadius": 1.0,
+    "objects": "PCPM002_SeaMine",
+    "weight": 15.0
+  },
+  "layer_4": {
+    "depth": 20.0,
+    "mineRadius": 1.0,
+    "objects": "PCPM002_SeaMine",
+    "weight": 10.0
+  },
+  "layer_5": {
+    "depth": 25.5,
+    "mineRadius": 1.0,
+    "objects": "PCPM002_SeaMine",
+    "weight": 10.0
+  },
+  "lifeTime": 220.0,
+  "markersRevealTime": 30.0,
+  "mines": 500,
+  "name": "PCOF008_Minefield_DD_OP_2",
+  "outerInterval": 220.0,
+  "radius": 2500.0,
+  "type": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Minefield",
+    "type": "Other"
+  },
+  "visibilityDistance": 1100.0,
+  "visibleToAll": false
+}

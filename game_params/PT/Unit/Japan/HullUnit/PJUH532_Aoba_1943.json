@@ -1,0 +1,13 @@
+{
+  "costCR": 980000,
+  "costXP": 14000,
+  "id": 3736874704,
+  "index": "PJUH532",
+  "name": "PJUH532_Aoba_1943",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

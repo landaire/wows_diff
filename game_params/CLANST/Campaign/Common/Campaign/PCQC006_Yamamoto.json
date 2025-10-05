@@ -1,0 +1,25 @@
+{
+  "allMissions": [
+    "PCQM051",
+    "PCQM052",
+    "PCQM053",
+    "PCQM054",
+    "PCQM055"
+  ],
+  "enabled": true,
+  "endTime": "",
+  "hidden": false,
+  "id": 4288593840,
+  "index": "PCQC006",
+  "isNarrative": true,
+  "mainTask": "PCQT428_Key",
+  "name": "PCQC006_Yamamoto",
+  "startTime": "",
+  "token": "",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Campaign",
+    "type": "Campaign"
+  },
+  "uiNumber": 7
+}

@@ -1,0 +1,29 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 1,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL260_USA250_Free"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA040_USA250_PUZZLE",
+  "disabled": false,
+  "duplicatesCR": 45000,
+  "endTime": "",
+  "id": 4252998576,
+  "index": "PCZA040",
+  "isInArmory": false,
+  "isPuzzle": true,
+  "name": "PCZA040_USA250_puzzle",
+  "rewards": [
+    "<Crew shipId=\"PASC001_Erie_1936\" level=\"10\" crewId=\"PAW472_David_Farragut\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

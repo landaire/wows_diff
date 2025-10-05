@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC177_AA_CHESTER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4109278128,
+  "index": "PCZC177",
+  "name": "PCZC177_AA_Chester",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

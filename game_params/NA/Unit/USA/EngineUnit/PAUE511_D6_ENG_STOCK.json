@@ -1,0 +1,13 @@
+{
+  "costCR": 155000,
+  "costXP": 0,
+  "id": 3758993392,
+  "index": "PAUE511",
+  "name": "PAUE511_D6_ENG_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

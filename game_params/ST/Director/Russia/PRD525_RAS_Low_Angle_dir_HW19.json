@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3743609296,
+  "index": "PRD525",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/director/RD525_RAS_Low_Angle_dir_HW19/RD525_RAS_Low_Angle_dir_HW19.model",
+  "name": "PRD525_RAS_Low_Angle_dir_HW19",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": null,
+    "type": "Director"
+  }
+}

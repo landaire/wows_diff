@@ -1,0 +1,21 @@
+{
+  "id": 4287514544,
+  "index": "PCOD007",
+  "markerNameActive": "repair_party_active",
+  "markerNameInactive": "repair_party_inactive",
+  "maxBuffLevel": 0,
+  "name": "PCOD007_AddConsumables",
+  "payload": {
+    "consumable": "regenCrew",
+    "count": 1,
+    "slot": null,
+    "type": 2,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

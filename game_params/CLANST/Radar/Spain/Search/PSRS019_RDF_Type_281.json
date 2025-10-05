@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4274436528,
+  "index": "PSRS019",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/spain/radar/search/SRS019_RDF_Type_281/SRS019_RDF_Type_281.model",
+  "name": "PSRS019_RDF_Type_281",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

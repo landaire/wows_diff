@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA030_May_Day",
+  "compensationCR": 0,
+  "description": "IDS_PCZC727_MAY_DAY_1_1_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3532561328,
+  "index": "PCZC727",
+  "name": "PCZC727_May_Day_1_1",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 160000,
+  "costXP": 2000,
+  "id": 4289671152,
+  "index": "PAUB005",
+  "name": "PAUB005_Martin_T4M",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

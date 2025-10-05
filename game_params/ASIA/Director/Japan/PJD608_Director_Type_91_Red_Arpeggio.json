@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3656577744,
+  "index": "PJD608",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/director/JD608_Director_Type_91_Red_Arpeggio/JD608_Director_Type_91_Red_Arpeggio.model",
+  "name": "PJD608_Director_Type_91_Red_Arpeggio",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Director"
+  }
+}

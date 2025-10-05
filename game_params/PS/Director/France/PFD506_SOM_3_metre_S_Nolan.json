@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3763532624,
+  "index": "PFD506",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD506_SOM_3_metre_S_Nolan/FD506_SOM_3_metre_S_Nolan.model",
+  "name": "PFD506_SOM_3_metre_S_Nolan",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

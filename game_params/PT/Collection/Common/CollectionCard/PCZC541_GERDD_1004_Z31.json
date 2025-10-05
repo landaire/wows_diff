@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA025_GERDD_1004",
+  "compensationCR": 0,
+  "description": "IDS_PCZC541_GERDD_1004_Z31_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3727596464,
+  "index": "PCZC541",
+  "name": "PCZC541_GERDD_1004_Z31",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

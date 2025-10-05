@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4290966352,
+  "index": "PFD003",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD003_OPL_6_metre_SRF_130mm/FD003_OPL_6_metre_SRF_130mm.model",
+  "name": "PFD003_OPL_6_metre_SRF_130mm",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

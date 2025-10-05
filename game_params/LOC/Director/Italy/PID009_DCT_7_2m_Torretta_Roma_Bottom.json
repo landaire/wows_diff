@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4284674800,
+  "index": "PID009",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/italy/director/ID009_DCT_7_2m_Torretta_Roma_Bottom/ID009_DCT_7_2m_Torretta_Roma_Bottom.model",
+  "name": "PID009_DCT_7_2m_Torretta_Roma_Bottom",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": null,
+    "type": "Director"
+  }
+}

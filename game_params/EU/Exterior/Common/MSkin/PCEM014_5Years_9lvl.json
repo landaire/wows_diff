@@ -1,0 +1,83 @@
+{
+  "RarityCategory": {
+    "name": "Rare"
+  },
+  "camouflage": "camo_WowsBirthday5_tile_01",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 5250,
+  "effects": {},
+  "filterIsWhitelist": false,
+  "hidden": true,
+  "hullConfig": {},
+  "id": 4279889840,
+  "index": "PCEM014",
+  "isTemplate": false,
+  "isTileflage": false,
+  "linkedCamouflage": null,
+  "miscFilter": [],
+  "miscSubTypeSpecification": {},
+  "name": "PCEM014_5Years_9lvl",
+  "nodesConfig": {},
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "decorative",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "",
+  "peculiarityModels": {},
+  "planesConfig": {},
+  "renderSetsStates": {
+    "@Bow_wire": true,
+    "@MidBack_wire": true,
+    "@MidFront_wire": true,
+    "@Stern_wire": true
+  },
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [
+      9
+    ],
+    "nations": [],
+    "specificShips": [],
+    "subtype": [
+      "Battleship",
+      "Cruiser",
+      "Destroyer"
+    ]
+  },
+  "sortOrder": 210,
+  "styleEffects": {},
+  "styleMiscs": [
+    "YMS001_YHBM_M_1",
+    "YMS002_YHBL_M_1",
+    "YMS003_YHBR_M_1",
+    "YMS030_YHAM_M_1",
+    "YMS033_YHAM_S_1",
+    "YMS060_YHGF_S_1",
+    "YMS061_YHGH_S_1",
+    "YMS062_YHGH_M_1",
+    "YMS096_YHZC_S_1",
+    "YMS105_YGLC_M_1",
+    "YMS106_YGLL_M_1",
+    "YMS107_YGLR_M_1"
+  ],
+  "subTypes": [
+    "WowsBirthday5"
+  ],
+  "tags": [
+    "catalogueHidden"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "MSkin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

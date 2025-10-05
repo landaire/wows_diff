@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA017_FrenchDDArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC375_FRENCHDDARC_CHEVALIER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3901660080,
+  "index": "PCZC375",
+  "name": "PCZC375_FrenchDDArc_Chevalier",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3659188144,
+  "index": "PCOK606",
+  "level_1": {
+    "burnProb": 0.8,
+    "floodProb": 0.8,
+    "vulnerabilityBombAvia": 0.85,
+    "vulnerabilityTorpedo": 0.85
+  },
+  "level_2": {
+    "burnProb": 0.8,
+    "floodProb": 0.8,
+    "vulnerabilityBombAvia": 0.85,
+    "vulnerabilityTorpedo": 0.85
+  },
+  "name": "PCOK606_CLAN_CA_Auxiliary",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

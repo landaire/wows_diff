@@ -1,0 +1,13 @@
+{
+  "costCR": 525000,
+  "costXP": 0,
+  "id": 3755749168,
+  "index": "PGUH514",
+  "name": "PGUH514_BB6_HULL_STOCK",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

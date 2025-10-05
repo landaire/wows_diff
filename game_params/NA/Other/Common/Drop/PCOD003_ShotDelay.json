@@ -1,0 +1,25 @@
+{
+  "id": 4291708848,
+  "index": "PCOD003",
+  "markerNameActive": "reload_active",
+  "markerNameInactive": "reload_inactive",
+  "maxBuffLevel": 3,
+  "name": "PCOD003_ShotDelay",
+  "payload": {
+    "item_1": {
+      "duration": -1,
+      "level": 1,
+      "params": "PCOM106_ALL_WEAPONS_SHOT_DELAY",
+      "type": 1,
+      "weight": 0
+    },
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "canCharge": true,
+  "costCR": 5000000,
+  "excludes": [],
+  "group": [],
+  "id": 4215459760,
+  "index": "PCM075",
+  "modifiers": {
+    "GTShotDelay": 0.8,
+    "torpedoDamageCoeff": 1.15,
+    "visibilityDistCoeff": {
+      "AirCarrier": 0.95,
+      "Auxiliary": 0.95,
+      "Battleship": 0.95,
+      "Cruiser": 0.95,
+      "Destroyer": 0.95,
+      "Submarine": 0.95
+    },
+    "visibilityForSubmarineCoeff": 0.95
+  },
+  "name": "PCM075_Special_Mod_I_Daring",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PBSD110_Daring"
+  ],
+  "shiptype": [],
+  "slot": 4,
+  "tags": [
+    "unique"
+  ],
+  "type": 3,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

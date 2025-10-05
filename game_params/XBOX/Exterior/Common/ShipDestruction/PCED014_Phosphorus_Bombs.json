@@ -1,0 +1,33 @@
+{
+  "RarityCategory": {
+    "name": "Epic"
+  },
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "deathSoundEvent": "Custom_Death_Phosphorus_Bombs",
+  "effectOnDeath": {
+    "AirCarrier": "particles/PhosphorusExplosion_CustomDeath_AirCarrier.xml",
+    "Battleship": "particles/PhosphorusExplosion_CustomDeath_Battleship.xml",
+    "Cruiser": "particles/PhosphorusExplosion_CustomDeath_Cruiser.xml",
+    "Destroyer": "particles/PhosphorusExplosion_CustomDeath_Destroyer.xml",
+    "Submarine": "particles/PhosphorusExplosion_CustomDeath_Submarine.xml"
+  },
+  "effectOnUnderWaterDeath": "particles/vehicles/Submarine_death.xml",
+  "group": "paintwork",
+  "hidden": false,
+  "id": 4280184752,
+  "index": "PCED014",
+  "isTemplate": false,
+  "name": "PCED014_Phosphorus_Bombs",
+  "peculiarity": "thematic",
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "ShipDestruction",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 250000,
+  "costXP": 3000,
+  "id": 3973853136,
+  "index": "PBUH306",
+  "name": "PBUH306_CV4_HULL_B",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

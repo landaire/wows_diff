@@ -1,0 +1,30 @@
+{
+  "backgroundIconID": 59,
+  "conditions": [
+    "<isMyShip shipLevel=\"9,10,11\" nation=\"USA\"/>",
+    "<isBattleType battleTypes=\"PVP,RANKED\"/>",
+    "<isBattleResult battleResult=\"win\"/>",
+    "<isTopXP rank=\"3\" topType=\"team\"/>",
+    "<isModuleHits count=\"12\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3733340080,
+  "index": "PCQT535",
+  "isSingleBattle": true,
+  "lootStars": 2,
+  "name": "PCQT535",
+  "rewards": [
+    "<Item idx=\"PCEF030_CK_SignalFlag\" count=\"30\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT535_1",
+    "isModuleHits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4232245552,
+  "index": "PWD059",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/director/WD059_Director_DT_7_MK_II_w_RF_12ft/WD059_Director_DT_7_MK_II_w_RF_12ft.model",
+  "name": "PWD059_Director_DT_7_MK_II_w_RF_12ft",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Director"
+  }
+}

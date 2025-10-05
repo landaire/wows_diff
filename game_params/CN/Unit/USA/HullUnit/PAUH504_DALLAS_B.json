@@ -1,0 +1,13 @@
+{
+  "costCR": 770000,
+  "costXP": 9300,
+  "id": 3766235120,
+  "index": "PAUH504",
+  "name": "PAUH504_DALLAS_B",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

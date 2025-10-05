@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC133_HSF_MATSUNAGA_RITSUKO_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4155415472,
+  "index": "PCZC133",
+  "name": "PCZC133_HSF_Matsunaga_Ritsuko",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

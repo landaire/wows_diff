@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4286771408,
+  "index": "PZD007",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD007_Torpedo_Director_27/ZD007_Torpedo_Director_27.model",
+  "name": "PZD007_Torpedo_Director_27",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

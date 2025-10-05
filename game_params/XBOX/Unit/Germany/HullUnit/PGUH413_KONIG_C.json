@@ -1,0 +1,13 @@
+{
+  "costCR": 480000,
+  "costXP": 5400,
+  "id": 3861655344,
+  "index": "PGUH413",
+  "name": "PGUH413_KONIG_C",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

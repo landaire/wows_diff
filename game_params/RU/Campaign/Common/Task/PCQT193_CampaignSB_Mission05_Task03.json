@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 61,
+  "conditions": [
+    "<isMyShip shipLevel=\"10,11\"/>",
+    "<isBattleType battleTypes=\"PVP,RANKED\"/>",
+    "<isModuleHits count=\"50\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 4091953072,
+  "index": "PCQT193",
+  "isSingleBattle": false,
+  "lootStars": 3,
+  "name": "PCQT193_CampaignSB_Mission05_Task03",
+  "rewards": [
+    "<Item idx=\"PCM074_AuxiliaryArmament_Mod_I\" count=\"1\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT193_CAMPAIGNSB_MISSION05_TASK03_1",
+    "isModuleHits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

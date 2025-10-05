@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4210226128,
+  "index": "PBD080",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD080_Director_MkIII_15ft/BD080_Director_MkIII_15ft.model",
+  "name": "PBD080_Director_MkIII_15ft",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

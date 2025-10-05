@@ -1,0 +1,29 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 2,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL242_NED_Free",
+    "PCL241_NED_Prem"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA037_NED_LEGENDARYCAP_PUZZLE",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4256144304,
+  "index": "PCZA037",
+  "isPuzzle": true,
+  "name": "PCZA037_NED_LegendaryCap_puzzle",
+  "rewards": [
+    "<Crew shipId=\"PHSC101_Van_Kinsbergen\" level=\"10\" crewId=\"PHW100_Helfrich\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

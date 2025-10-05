@@ -1,0 +1,13 @@
+{
+  "costCR": 3900000,
+  "costXP": 52000,
+  "id": 3541839184,
+  "index": "PVUH718",
+  "name": "PVUH718_HULL_IPIRANGA_TOP",
+  "typeinfo": {
+    "nation": "Pan_America",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

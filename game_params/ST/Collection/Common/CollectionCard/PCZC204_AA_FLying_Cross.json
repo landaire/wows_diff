@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC204_AA_FLYING_CROSS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4080966576,
+  "index": "PCZC204",
+  "name": "PCZC204_AA_FLying_Cross",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

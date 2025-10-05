@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 11,
+  "conditions": [
+    "<isMyShip shipIds=\"PJSC035_Chikuma_1912,PGSC103_Kolberg,PBSC102_Weymouth,PISC102_Nino_Bixio\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE\"/>",
+    "<isTotalXP count=\"6500\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3613802416,
+  "index": "PCQT649",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT649_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF012_MY6_SignalFlag\" count=\"5\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT649_1",
+    "isTotalXP",
+    "IDS_TASKRESTRICTIONSPECIAL_1EPOCH_CA_1"
+  ],
+  "unlockMissions": []
+}

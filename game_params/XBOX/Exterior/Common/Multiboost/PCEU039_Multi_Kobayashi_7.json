@@ -1,0 +1,34 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 6000,
+  "hidden": false,
+  "id": 4253413296,
+  "index": "PCEU039",
+  "isTemplate": false,
+  "modifiers": {
+    "creditsFactor": 1.45,
+    "crewExpFactor": 2.0,
+    "expFactor": 2.0,
+    "freeExpFactor": 2.0
+  },
+  "name": "PCEU039_Multi_Kobayashi_7",
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [
+      7
+    ],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 1,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Multiboost",
+    "type": "Exterior"
+  }
+}

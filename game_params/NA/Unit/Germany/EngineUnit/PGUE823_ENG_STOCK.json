@@ -1,0 +1,13 @@
+{
+  "costCR": 840000,
+  "costXP": 0,
+  "id": 3431837488,
+  "index": "PGUE823",
+  "name": "PGUE823_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

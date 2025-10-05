@@ -1,0 +1,11 @@
+{
+  "id": 4291779504,
+  "index": "PCJB003",
+  "name": "PCJB003_Headquarters",
+  "type": "headquarters",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BuildingType",
+    "type": "ClanSupply"
+  }
+}

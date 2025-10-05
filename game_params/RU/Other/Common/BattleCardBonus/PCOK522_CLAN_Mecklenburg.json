@@ -1,0 +1,20 @@
+{
+  "id": 3747268528,
+  "index": "PCOK522",
+  "level_1": {
+    "GMDamageCoeff": 1.05,
+    "shootShift": 1.2,
+    "vulnerabilityMain": 0.85
+  },
+  "level_2": {
+    "GMDamageCoeff": 1.05,
+    "shootShift": 1.2,
+    "vulnerabilityMain": 0.85
+  },
+  "name": "PCOK522_CLAN_Mecklenburg",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

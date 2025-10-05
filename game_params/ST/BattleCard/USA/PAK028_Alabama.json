@@ -1,0 +1,31 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4264744944,
+  "index": "PAK028",
+  "maxLevel": 2,
+  "name": "PAK028_Alabama",
+  "personalCardBonus": {
+    "clan": "PCOK006_Balldmg_DAPdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PASB508_Alabama",
+      "PASB528_Alabama_VL",
+      "PASB708_Alabama",
+      "PASB818_Black_Alabama"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 150000,
+  "costXP": 1800,
+  "id": 4054593520,
+  "index": "PAUH229",
+  "name": "PAUH229_False_Michigan_1919",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

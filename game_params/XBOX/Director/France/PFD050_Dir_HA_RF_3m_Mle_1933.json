@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4241683280,
+  "index": "PFD050",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD050_Dir_HA_RF_3m_Mle_1933/FD050_Dir_HA_RF_3m_Mle_1933.model",
+  "name": "PFD050_Dir_HA_RF_3m_Mle_1933",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

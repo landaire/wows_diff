@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 32,
+  "conditions": [
+    "<isMyShip shipLevel=\"5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isWeaponHits count=\"75\" weaponTypes=\"main atba torps bomber tbomber rocket skipbomber\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4149624752,
+  "index": "PCQT138",
+  "isSingleBattle": true,
+  "lootStars": 1,
+  "name": "PCQT138",
+  "rewards": [
+    "<Add type=\"CREDITS\" count=\"100000\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT138_1",
+    "isWeaponHits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

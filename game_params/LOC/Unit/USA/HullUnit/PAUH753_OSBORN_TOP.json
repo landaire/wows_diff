@@ -1,0 +1,13 @@
+{
+  "costCR": 2100000,
+  "costXP": 32000,
+  "id": 3505139696,
+  "index": "PAUH753",
+  "name": "PAUH753_OSBORN_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 540000,
+  "costXP": 8000,
+  "id": 3765841648,
+  "index": "PIUT504",
+  "name": "PIUT504_DD6_TORP_TOP",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

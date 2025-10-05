@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3744656176,
+  "index": "PGF524",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF524_4m_Rangefinder_Type_space/GF524_4m_Rangefinder_Type_space.model",
+  "name": "PGF524_4m_Rangefinder_Type_space",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

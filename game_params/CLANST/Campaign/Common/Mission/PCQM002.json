@@ -1,0 +1,30 @@
+{
+  "allTasks": [
+    "PCQT011",
+    "PCQT012",
+    "PCQT013",
+    "PCQT014",
+    "PCQT015",
+    "PCQT016",
+    "PCQT017",
+    "PCQT018",
+    "PCQT019",
+    "PCQT020_Key"
+  ],
+  "id": 4292460464,
+  "index": "PCQM002",
+  "isStart": false,
+  "mainTask": "PCQT020_Key",
+  "mapPosition": [
+    0.25,
+    0.39
+  ],
+  "name": "PCQM002",
+  "startTime": "",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Mission",
+    "type": "Campaign"
+  },
+  "uiNumber": "2"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 940000,
+  "costXP": 0,
+  "id": 3560714224,
+  "index": "PAUH700",
+  "name": "PAUH700_CV8_HULL_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4177720304,
+  "index": "PAD111",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/director/AD111_Director_Mk34_old/AD111_Director_Mk34_old.model",
+  "name": "PAD111_Director_Mk34_old",
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "Director"
+  }
+}

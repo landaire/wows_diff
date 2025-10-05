@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 15,
+  "conditions": [
+    "<isMyShip shipIds=\"PBSC110_Minotaur,PASC108_Baltimore_1944,PASC020_Des_Moines_1948,PBSC109_Neptune\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isRibbons count=\"18\" ribbons=\"CITADEL\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 3572907952,
+  "index": "PCQT688",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT688_Ships",
+  "rewards": [
+    "<Item idx=\"PCEF030_CK_SignalFlag\" count=\"10\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT688_1",
+    "isRibbons",
+    "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_CA_1"
+  ],
+  "unlockMissions": []
+}

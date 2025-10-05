@@ -1,0 +1,13 @@
+{
+  "costCR": 640000,
+  "costXP": 0,
+  "id": 3548819152,
+  "index": "PJUS711",
+  "name": "PJUS711_Suo",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

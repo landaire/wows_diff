@@ -1,0 +1,13 @@
+{
+  "costCR": 1300000,
+  "costXP": 15500,
+  "id": 3453726704,
+  "index": "PAUI802",
+  "name": "PAUI802_CV9_F_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

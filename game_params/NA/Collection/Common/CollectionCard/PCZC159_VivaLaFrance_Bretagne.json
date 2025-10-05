@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA008_Vivalafrance",
+  "compensationCR": 0,
+  "description": "IDS_PCZC159_VIVALAFRANCE_BRETAGNE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4128152496,
+  "index": "PCZC159",
+  "name": "PCZC159_VivaLaFrance_Bretagne",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

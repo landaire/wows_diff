@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4285723440,
+  "index": "PGD008",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/director/GD008_Zeilsaule_C38_Night_Dir/GD008_Zeilsaule_C38_Night_Dir.model",
+  "name": "PGD008_Zeilsaule_C38_Night_Dir",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Director"
+  }
+}

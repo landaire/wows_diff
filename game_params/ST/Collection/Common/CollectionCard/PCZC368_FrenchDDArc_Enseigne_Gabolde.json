@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA017_FrenchDDArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC368_FRENCHDDARC_ENSEIGNE_GABOLDE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3909000112,
+  "index": "PCZC368",
+  "name": "PCZC368_FrenchDDArc_Enseigne_Gabolde",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

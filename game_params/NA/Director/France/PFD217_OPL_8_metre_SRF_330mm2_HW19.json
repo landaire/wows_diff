@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4066571088,
+  "index": "PFD217",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD217_OPL_8_metre_SRF_330mm2_HW19/FD217_OPL_8_metre_SRF_330mm2_HW19.model",
+  "name": "PFD217_OPL_8_metre_SRF_330mm2_HW19",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

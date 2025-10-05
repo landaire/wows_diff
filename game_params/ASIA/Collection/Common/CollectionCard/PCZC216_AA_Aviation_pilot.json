@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC216_AA_AVIATION_PILOT_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4068383664,
+  "index": "PCZC216",
+  "name": "PCZC216_AA_Aviation_pilot",
+  "subAlbums": [
+    6
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4194497232,
+  "index": "PJD095",
+  "miscFilter": [
+    "MP_JM386_MachineGun_Control_Position"
+  ],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/director/JD095_Director_Type_95_Mod2/JD095_Director_Type_95_Mod2.model",
+  "name": "PJD095_Director_Type_95_Mod2",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Director"
+  }
+}

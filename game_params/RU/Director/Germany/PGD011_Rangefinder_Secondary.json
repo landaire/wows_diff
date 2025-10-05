@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4282577712,
+  "index": "PGD011",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/director/GD011_Rangefinder_Secondary/GD011_Rangefinder_Secondary.model",
+  "name": "PGD011_Rangefinder_Secondary",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Director"
+  }
+}

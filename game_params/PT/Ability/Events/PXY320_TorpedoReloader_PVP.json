@@ -1,0 +1,95 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "torpedoReloadTime": 60.0
+    },
+    "numConsumables": 2,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 270.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "H2018_PVP": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "TorpedoReloader_PVP",
+      "titleIDs": "",
+      "torpedoReloadTime": 5.0
+    },
+    "numConsumables": 3,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "H2019": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "TorpedoReloader_PVP",
+      "titleIDs": "",
+      "torpedoReloadTime": 5.0
+    },
+    "numConsumables": 0,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 3958545680,
+  "index": "PXY320",
+  "name": "PXY320_TorpedoReloader_PVP",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

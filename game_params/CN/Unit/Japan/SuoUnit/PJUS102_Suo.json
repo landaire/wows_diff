@@ -1,0 +1,13 @@
+{
+  "costCR": 850,
+  "costXP": 275,
+  "id": 4187401936,
+  "index": "PJUS102",
+  "name": "PJUS102_Suo",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

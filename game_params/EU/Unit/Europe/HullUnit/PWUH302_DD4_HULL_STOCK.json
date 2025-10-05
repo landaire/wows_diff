@@ -1,0 +1,13 @@
+{
+  "costCR": 75000,
+  "costXP": 0,
+  "id": 3978046768,
+  "index": "PWUH302",
+  "name": "PWUH302_DD4_HULL_STOCK",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

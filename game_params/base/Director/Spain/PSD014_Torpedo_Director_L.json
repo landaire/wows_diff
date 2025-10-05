@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4279431600,
+  "index": "PSD014",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/spain/director/SD014_Torpedo_Director_L/SD014_Torpedo_Director_L.model",
+  "name": "PSD014_Torpedo_Director_L",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": null,
+    "type": "Director"
+  }
+}

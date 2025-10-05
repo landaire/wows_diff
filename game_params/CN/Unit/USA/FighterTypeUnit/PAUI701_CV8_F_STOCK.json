@@ -1,0 +1,13 @@
+{
+  "costCR": 320000,
+  "costXP": 0,
+  "id": 3559632880,
+  "index": "PAUI701",
+  "name": "PAUI701_CV8_F_STOCK",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

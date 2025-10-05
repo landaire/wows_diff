@@ -1,0 +1,13 @@
+{
+  "costCR": 1900000,
+  "costXP": 0,
+  "id": 3345984784,
+  "index": "PXUA905",
+  "name": "PXUA905_NORMA_ART",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

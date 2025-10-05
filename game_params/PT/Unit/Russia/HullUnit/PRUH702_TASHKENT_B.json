@@ -1,0 +1,13 @@
+{
+  "costCR": 2400000,
+  "costXP": 29000,
+  "id": 3558616528,
+  "index": "PRUH702",
+  "name": "PRUH702_TASHKENT_B",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

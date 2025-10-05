@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    [
+      "isModernizationInstalled",
+      {
+        "count": 1
+      }
+    ]
+  ],
+  "id": 4284041136,
+  "index": "PCON010",
+  "name": "PCON010",
+  "rewards": [
+    [
+      "Item",
+      {
+        "count": 1,
+        "idx": "PCM030_MainWeapon_Mod_I"
+      }
+    ],
+    [
+      "Item",
+      {
+        "count": 1,
+        "idx": "PCM031_SecondaryWeapon_Mod_I"
+      }
+    ],
+    [
+      "Item",
+      {
+        "count": 1,
+        "idx": "PCM020_DamageControl_Mod_I"
+      }
+    ]
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "NewbieQuest",
+    "type": "Other"
+  },
+  "unlock": "MODERNIZATIONS"
+}

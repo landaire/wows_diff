@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA028_NY2022",
+  "compensationCR": 0,
+  "description": "IDS_PCZC665_NY2022_3_4_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3597573040,
+  "index": "PCZC665",
+  "name": "PCZC665_NY2022_3_4",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

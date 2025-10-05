@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA012_BritishArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC263_HMSMEDEA1916_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4019100592,
+  "index": "PCZC263",
+  "name": "PCZC263_HMSMedea1916",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

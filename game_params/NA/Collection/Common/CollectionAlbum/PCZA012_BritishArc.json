@@ -1,0 +1,61 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 5,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL044_UK_Coll_Free",
+    "PCL045_UK_Coll_Prem"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA012_BRITISHARC",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4282358704,
+  "index": "PCZA012",
+  "isPuzzle": false,
+  "name": "PCZA012_BritishArc",
+  "rewards": [
+    "<Permoflage shipId=\"PBSD108_Lightning\" idx=\"PBEP108_Lightning_British\" onlySilver=\"0\" count=\"1\"/>",
+    "<Multiboost shipId=\"PBSD108_Lightning\" idx=\"PCEU008_Multi_std8\" compensationType=\"GOLD\" compensationValue=\"0\" count=\"1\"/>",
+    "<Permoflage shipId=\"PUSD507_Haida\" idx=\"PUEP517_Haida_Commonwealth\" onlySilver=\"0\" count=\"1\"/>",
+    "<Item idx=\"PCEE224_BritishCollectionFlag\" count=\"1\" />"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [
+    [
+      "IDS_FIRST_BRITISHARC_NAME",
+      "'aa",
+      [
+        "<SetUnlock unlockName=\"Second_Ensign_UKDestroyer\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_SECOND_BRITISHARC_NAME",
+      "'bb",
+      [
+        "<SetUnlock unlockName=\"Second_Ensign_UKCruiser\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_THIRD_BRITISHARC_NAME",
+      "'cc",
+      [
+        "<SetUnlock unlockName=\"Second_Ensign_UKBattleship\" count=\"1\"/>"
+      ]
+    ],
+    [
+      "IDS_FOURTH_BRITISHARC_NAME",
+      "'dd",
+      [
+        "<SetUnlock unlockName=\"Second_Ensign_Commonwealth\" count=\"1\"/>"
+      ]
+    ]
+  ],
+  "subscribeType": 1,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

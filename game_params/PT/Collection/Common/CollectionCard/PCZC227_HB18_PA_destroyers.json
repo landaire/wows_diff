@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA010_HappyBirthday2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC227_HB18_PA_DESTROYERS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4056849328,
+  "index": "PCZC227",
+  "name": "PCZC227_HB18_PA_destroyers",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "dmitry_pozharsky_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3660443568,
+  "index": "PCEE605",
+  "isTemplate": false,
+  "name": "PCEE605_Dmitry_Pozharsky_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "other"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

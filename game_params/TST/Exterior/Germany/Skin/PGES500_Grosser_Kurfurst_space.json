@@ -1,0 +1,61 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "camouflage": "",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 5000,
+  "effects": {},
+  "hidden": true,
+  "hullConfig": {},
+  "id": 3770085168,
+  "index": "PGES500",
+  "isTemplate": false,
+  "name": "PGES500_Grosser_Kurfurst_space",
+  "nodesConfig": {},
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "halloween_16",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "halloween_2016_ally",
+  "peculiarityModels": {
+    "content/gameplay/germany/catapult/GC001_Catapult_1/GC001_Catapult_1.model": "content/gameplay/germany/catapult/GC010_Catapult_1_null_mesh_space/GC010_Catapult_1_null_mesh_space.model",
+    "content/gameplay/germany/finder/GF001_10_5m_Rangefinders/GF001_10_5m_Rangefinders.model": "content/gameplay/germany/finder/GF300_10_5m_Rangefinders_Space/GF300_10_5m_Rangefinders_Space.model",
+    "content/gameplay/germany/finder/GF002_10_5m_Rangefinders_with_mast/GF002_10_5m_Rangefinders_with_mast.model": "content/gameplay/germany/finder/GF300_10_5m_Rangefinders_Space/GF300_10_5m_Rangefinders_Space.model",
+    "content/gameplay/germany/finder/GF005_4m_Rangefinder_Type_SL_8/GF005_4m_Rangefinder_Type_SL_8.model": "content/gameplay/germany/finder/GF302_4m_Rangefinder_Type_SL_8_Space/GF302_4m_Rangefinder_Type_SL_8_Space.model",
+    "content/gameplay/germany/finder/GF027_15m_10_5m_Rangefinders/GF027_15m_10_5m_Rangefinders.model": "content/gameplay/germany/finder/GF301_15m_10_5m_Rangefinders_Space/GF301_15m_10_5m_Rangefinders_Space.model",
+    "content/gameplay/germany/gun/aaircraft/GGA035_20mm_Flak_38_C35/GGA035_20mm_Flak_38_C35.model": "content/gameplay/germany/gun/aaircraft/GGA309_20mm_Flack_38_C35_Space/GGA309_20mm_Flack_38_C35_Space.model",
+    "content/gameplay/germany/gun/aaircraft/GGA042_20mm_Flack_38_quad/GGA042_20mm_Flack_38_quad.model": "content/gameplay/germany/gun/aaircraft/GGA308_20mm_Flack_38_quad_Space/GGA308_20mm_Flack_38_quad_Space.model",
+    "content/gameplay/germany/gun/aaircraft/GGA044_55mm_Gerat_twin/GGA044_55mm_Gerat_twin.model": "content/gameplay/germany/gun/aaircraft/GGA307_55mm_Gerat_Twin55_Space/GGA307_55mm_Gerat_Twin55_Space.model",
+    "content/gameplay/germany/gun/main/GGM026_127mm_KC_40/GGM026_127mm_KC_40.model": "content/gameplay/germany/gun/main/GGM305_127mm_KC_40_Space/GGM305_127mm_KC_40_Space.model",
+    "content/gameplay/germany/gun/main/GGM039_406mm_C34/GGM039_406mm_C34.model": "content/gameplay/germany/gun/main/GGM304_406_C36_Space/GGM304_406_C36_Space.model",
+    "content/gameplay/germany/gun/secondary/GGS002_150mm_SKC_28_RF/GGS002_150mm_SKC_28_RF.model": "content/gameplay/germany/gun/secondary/GGS306_150mm_SKC28_RF_Space/GGS306_150mm_SKC28_RF_Space.model",
+    "content/gameplay/germany/ship/battleship/GSB006_Grossdeutschland_1945/GSB006_Grossdeutschland_1945.model": "content/gameplay/germany/ship/battleship/GSB023_Grosser_Kurfurst_Space/GSB023_Grosser_Kurfurst_Space.model"
+  },
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHidden"
+  ],
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 100,
+  "costXP": 1,
+  "id": 4192186352,
+  "index": "PAUA098",
+  "name": "PAUA098_ART_TEST",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

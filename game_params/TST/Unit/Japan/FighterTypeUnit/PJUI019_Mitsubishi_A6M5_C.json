@@ -1,0 +1,13 @@
+{
+  "costCR": 430000,
+  "costXP": 6400,
+  "id": 4274761424,
+  "index": "PJUI019",
+  "name": "PJUI019_Mitsubishi_A6M5_C",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "FighterTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Fighter"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 1600000,
+  "costXP": 24000,
+  "id": 3639357424,
+  "index": "PAUH625",
+  "name": "PAUH625_HUGHES_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

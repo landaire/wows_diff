@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2180182800,
+  "index": "PHD2016",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/netherlands/director/HD2016_Ster_Shell_Sight/HD2016_Ster_Shell_Sight.model",
+  "name": "PHD2016_Ster_Shell_Sight",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": null,
+    "type": "Director"
+  }
+}

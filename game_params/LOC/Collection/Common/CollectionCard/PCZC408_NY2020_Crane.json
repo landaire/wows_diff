@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA019_HappyNewYear2020",
+  "compensationCR": 0,
+  "description": "IDS_PCZC408_NY2020_CRANE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3867057072,
+  "index": "PCZC408",
+  "name": "PCZC408_NY2020_Crane",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

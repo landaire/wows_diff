@@ -1,0 +1,969 @@
+{
+  "Bow": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 0.0,
+    "autoRepairTime": 10,
+    "autoRepairTimeMin": 5,
+    "brokenRepairHealthCoefficient": 0.5,
+    "brokenRepairTime": 90.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": false,
+    "critProb": [
+      0.0,
+      0.0
+    ],
+    "critProbHP": [
+      1.0,
+      0.0
+    ],
+    "damageEffects": [
+      [
+        0.1,
+        ""
+      ],
+      [
+        0.3,
+        ""
+      ],
+      [
+        0.6,
+        ""
+      ]
+    ],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "simple_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 1000000.0,
+    "moduleCritCoeffCR": 0.0,
+    "moduleCritCoeffXP": 0.0,
+    "parentHL": "Hull",
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 0.5,
+    "splashBoxes": [
+      "CM_SB_bow_1",
+      "CM_SB_bow_2",
+      "CM_SB_bow_3"
+    ],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 0.95,
+    "volumeCoeff": 0.165
+  },
+  "Cas": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 0.0,
+    "autoRepairTime": 10,
+    "autoRepairTimeMin": 5,
+    "brokenRepairHealthCoefficient": 0.5,
+    "brokenRepairTime": 90.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": false,
+    "critProb": [
+      0.0,
+      0.0
+    ],
+    "critProbHP": [
+      1.0,
+      0.0
+    ],
+    "damageEffects": [
+      [
+        0.1,
+        ""
+      ],
+      [
+        0.3,
+        ""
+      ],
+      [
+        0.6,
+        ""
+      ]
+    ],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "simple_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 1000000.0,
+    "moduleCritCoeffCR": 0.0,
+    "moduleCritCoeffXP": 0.0,
+    "parentHL": "Hull",
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 0.5,
+    "splashBoxes": [
+      "CM_SB_cas_1",
+      "CM_SB_cas_2"
+    ],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 1.65,
+    "volumeCoeff": 0.165
+  },
+  "Cit": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 0.0,
+    "autoRepairTime": 10,
+    "autoRepairTimeMin": 5,
+    "brokenRepairHealthCoefficient": 0.5,
+    "brokenRepairTime": 90.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": false,
+    "critProb": [
+      0.0,
+      0.0
+    ],
+    "critProbHP": [
+      1.0,
+      0.0
+    ],
+    "damageEffects": [
+      [
+        0.1,
+        ""
+      ],
+      [
+        0.3,
+        ""
+      ],
+      [
+        0.6,
+        ""
+      ]
+    ],
+    "enhancedRegeneratedHPPart": 0.5,
+    "hlType": "citadel_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 1000000.0,
+    "moduleCritCoeffCR": 0.0,
+    "moduleCritCoeffXP": 0.0,
+    "parentHL": null,
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 0.33,
+    "splashBoxes": [
+      "CM_SB_cit_1",
+      "CM_SB_cit_2",
+      "CM_SB_cit_3"
+    ],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 2.83,
+    "volumeCoeff": 0.5
+  },
+  "Hull": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 0.0,
+    "autoRepairTime": 10,
+    "autoRepairTimeMin": 5,
+    "brokenRepairHealthCoefficient": 0.5,
+    "brokenRepairTime": 90.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": false,
+    "critProb": [
+      0.0,
+      0.0
+    ],
+    "critProbHP": [
+      1.0,
+      0.0
+    ],
+    "damageEffects": [
+      [
+        0.1,
+        ""
+      ],
+      [
+        0.3,
+        ""
+      ],
+      [
+        0.6,
+        ""
+      ]
+    ],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "hull_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 1000000.0,
+    "moduleCritCoeffCR": 0.0,
+    "moduleCritCoeffXP": 0.0,
+    "parentHL": null,
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 0.5,
+    "splashBoxes": [],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 1.0,
+    "volumeCoeff": 0.165
+  },
+  "SG": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 0.6,
+    "autoRepairTime": 40,
+    "autoRepairTimeMin": 40,
+    "brokenRepairHealthCoefficient": 0.5,
+    "brokenRepairTime": 90.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": false,
+    "critProb": [
+      0.65,
+      0.25
+    ],
+    "critProbHP": [
+      1.0,
+      0.0
+    ],
+    "damageEffects": [
+      [
+        0.1,
+        ""
+      ],
+      [
+        0.3,
+        ""
+      ],
+      [
+        0.6,
+        ""
+      ]
+    ],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "steering_gear_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 1000000.0,
+    "moduleCritCoeffCR": 0.0,
+    "moduleCritCoeffXP": 0.0,
+    "parentHL": null,
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 0.5,
+    "splashBoxes": [
+      "CM_SB_ruder_1_1",
+      "CM_SB_ruder_1_2",
+      "CM_SB_ruder_1_3",
+      "CM_SB_ruder_1_4",
+      "CM_SB_ruder_1_5"
+    ],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 1.0,
+    "volumeCoeff": 1.0
+  },
+  "SS": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 0.0,
+    "autoRepairTime": 10,
+    "autoRepairTimeMin": 5,
+    "brokenRepairHealthCoefficient": 0.5,
+    "brokenRepairTime": 90.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": false,
+    "critProb": [
+      0.0,
+      0.0
+    ],
+    "critProbHP": [
+      1.0,
+      0.0
+    ],
+    "damageEffects": [
+      [
+        0.1,
+        ""
+      ],
+      [
+        0.3,
+        ""
+      ],
+      [
+        0.6,
+        ""
+      ]
+    ],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "supersctructure_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 1000000.0,
+    "moduleCritCoeffCR": 0.0,
+    "moduleCritCoeffXP": 0.0,
+    "parentHL": "Hull",
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 0.5,
+    "splashBoxes": [
+      "CM_SB_ss_1_1",
+      "CM_SB_ss_1_2",
+      "CM_SB_ss_1_3",
+      "CM_SB_ss_1_4",
+      "CM_SB_ss_3_1",
+      "CM_SB_ss_3_2",
+      "CM_SB_ss_3_3",
+      "CM_SB_ss_3_4",
+      "CM_SB_ss_3_5"
+    ],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 0.95,
+    "volumeCoeff": 0.165
+  },
+  "St": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 0.0,
+    "autoRepairTime": 10,
+    "autoRepairTimeMin": 5,
+    "brokenRepairHealthCoefficient": 0.5,
+    "brokenRepairTime": 90.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": false,
+    "critProb": [
+      0.0,
+      0.0
+    ],
+    "critProbHP": [
+      1.0,
+      0.0
+    ],
+    "damageEffects": [
+      [
+        0.1,
+        ""
+      ],
+      [
+        0.3,
+        ""
+      ],
+      [
+        0.6,
+        ""
+      ]
+    ],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "simple_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 1000000.0,
+    "moduleCritCoeffCR": 0.0,
+    "moduleCritCoeffXP": 0.0,
+    "parentHL": "Hull",
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 0.5,
+    "splashBoxes": [
+      "CM_SB_stern_1",
+      "CM_SB_stern_2",
+      "CM_SB_stern_3"
+    ],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 0.76,
+    "volumeCoeff": 0.165
+  },
+  "acidDamage": 1.0,
+  "acidDuration": 20,
+  "armor": {
+    "1": 0.0,
+    "131128": 16.0,
+    "131129": 0.0,
+    "131131": 16.0,
+    "131137": 16.0,
+    "131161": 0.0,
+    "131162": 0.0,
+    "131165": 20.0,
+    "65583": 25.0,
+    "65584": 16.0,
+    "65585": 16.0,
+    "65587": 0.0,
+    "65591": 100.0,
+    "65592": 16.0,
+    "65593": 16.0,
+    "65594": 100.0,
+    "65595": 100.0,
+    "65597": 70.0,
+    "65598": 25.0,
+    "65600": 50.0,
+    "65601": 100.0,
+    "65603": 16.0,
+    "65616": 20.0,
+    "65617": 20.0,
+    "65619": 20.0,
+    "65625": 13.0,
+    "65626": 13.0,
+    "65628": 25.0,
+    "65629": 16.0,
+    "65630": 16.0,
+    "65632": 0.0,
+    "65643": 100.0,
+    "65644": 100.0,
+    "65645": 100.0,
+    "65670": 70.0,
+    "65671": 70.0,
+    "65672": 70.0,
+    "65673": 70.0,
+    "65710": 0.0,
+    "65711": 0.0,
+    "65712": 0.0,
+    "65713": 0.0,
+    "65750": 35.0,
+    "65751": 35.0,
+    "65752": 35.0,
+    "65753": 35.0
+  },
+  "armourCas": [
+    -1,
+    -1
+  ],
+  "armourCit": [
+    -1,
+    -1
+  ],
+  "armourDeck": [
+    -1,
+    -1
+  ],
+  "armourExtremities": [
+    -1,
+    -1
+  ],
+  "backwardMovementDragCoef": 0.25,
+  "backwardPowerCoef": 1.0,
+  "barbettes": {
+    "HP_XGM_1": [
+      65670,
+      65710,
+      65750
+    ],
+    "HP_XGM_2": [
+      65671,
+      65711,
+      65751
+    ],
+    "HP_XGM_3": [
+      65672,
+      65712,
+      65752
+    ],
+    "HP_XGM_4": [
+      65673,
+      65713,
+      65753
+    ]
+  },
+  "baseUnderwaterPitchAngle": 0.0,
+  "bodyType": "dynamic",
+  "boilerExplosionPostDeath": "particles/Empty_FX.xml",
+  "buoyancy": 200000,
+  "buoyancyEffects": [],
+  "buoyancyHighlightEffect": "particles/submarines/Sub_location.xml",
+  "buoyancyRudderDepths": [
+    0,
+    -8,
+    -16,
+    -24,
+    -32,
+    -40,
+    -48,
+    -56,
+    -64,
+    -72,
+    -80
+  ],
+  "buoyancyRudderResetTime": 1.0,
+  "buoyancyRudderTime": 1.0,
+  "buoyancyStates": {
+    "DEEP_WATER": [
+      [
+        -34.0,
+        -59.0
+      ],
+      0.63,
+      10.0
+    ],
+    "DEEP_WATER_INVUL": [
+      [
+        -59.0,
+        -80.0
+      ],
+      0.63,
+      10.0
+    ],
+    "PERISCOPE": [
+      [
+        -4.0,
+        -13.0
+      ],
+      0.63,
+      10.0
+    ],
+    "SEMI_DEEP_WATER": [
+      [
+        -13.0,
+        -34.0
+      ],
+      0.63,
+      10.0
+    ],
+    "SURFACE": [
+      [
+        0.0,
+        -4.0
+      ],
+      1.0,
+      1.0
+    ]
+  },
+  "buoyancyStopLine": 10.0,
+  "buoyancyStopLineMinSpeedCoeff": 0.35,
+  "burnNodes": [
+    [
+      0.5005,
+      0.3,
+      30.0
+    ],
+    [
+      0.5005,
+      0.3,
+      30.0
+    ],
+    [
+      0.5005,
+      0.3,
+      30.0
+    ],
+    [
+      0.5005,
+      0.3,
+      30.0
+    ]
+  ],
+  "canReceiveAcid": true,
+  "canReceiveWildFire": true,
+  "chimneyMaxAngle": 45.0,
+  "consumablePlaneTypes": {
+    "fighter": "",
+    "scout": "",
+    "smokePlane": ""
+  },
+  "coolingOffSpeed": 0.02,
+  "crackCoords": [
+    0.25,
+    0.0,
+    -0.25
+  ],
+  "customMiscs": {},
+  "deathBubblesEffect": "particles/NF_Empty_APR.xml",
+  "deathFaultEffect": "particles/Empty_FX.xml",
+  "deathFireEffect": "particles/Empty_FX.xml",
+  "deathFoamEffect": "particles/vehicles/Death_foam_medium.xml",
+  "deathFountainsEffect": "particles/NF_Empty_APR.xml",
+  "deathFumingEffect": "particles/NF_CC_fuming_at_flooding_post_death.xml",
+  "deathNodes": [
+    "HP_Ship_death_1",
+    "HP_Ship_death_2",
+    "HP_Ship_death_3"
+  ],
+  "deathPlaneEffect": "particles/NF_AA_death_catapult_ships.xml",
+  "deathPostFireEffect": "particles/NF_CC_fuming_post_fire.xml",
+  "deathSettings": "PXOS002_HW20",
+  "deathShellEffect": "particles/Empty_FX.xml",
+  "deathSoundEvent": "Damage_Death",
+  "deathTorpedoEffect": "particles/guns/TORP_Explo_APR.xml",
+  "deathUnderWaterBubblesEffects": [
+    "particles/guns/DEPTH_Tracer_UWater.xml",
+    "particles/guns/DEPTH_Tracer_UWater.xml"
+  ],
+  "deckHeight": 6.07,
+  "deepwaterVisionCoeff": {},
+  "deepwaterVisionToPlaneCoeff": {},
+  "defaultCamouflage": "",
+  "dockYOffset": -0.046,
+  "draft": 11,
+  "effectCauldronExplosion": "particles/Empty_FX.xml",
+  "effectOnDeath": "particles/vehicles/Cruiser_death_Space.xml",
+  "effectOnFloodDeath": "particles/vehicles/Cruiser_death_Space.xml",
+  "effectOnUnderWaterDeath": "particles/vehicles/Submarine_death.xml",
+  "effectShipCracksAndOilPuddle": "particles/Empty_FX.xml",
+  "effects": {
+    "acid": [
+      [
+        "HP_FX_Acid_1",
+        "particles/vehicles/Flood_steam_exhaust_big_H2017.xml"
+      ],
+      [
+        "HP_FX_Acid_1",
+        "particles/vehicles/Flood_steam_exhaust_big_delayed_H2017.xml"
+      ],
+      [
+        "HP_FX_Acid_1",
+        "particles/vehicles/Flood_steam_medium_H2017.xml"
+      ]
+    ],
+    "death": [
+      [
+        "HP_FX_Death_1",
+        "particles/vehicles/Death_foam_medium.xml"
+      ],
+      [
+        "HP_FX_Death_2",
+        "particles/vehicles/Death_foam_medium.xml"
+      ],
+      [
+        "HP_FX_Death_3",
+        "particles/vehicles/Death_foam_medium.xml"
+      ]
+    ],
+    "fire1": [
+      [
+        "HP_FX_Fire_1",
+        "particles/vehicles/Fire_medium_H2020.xml"
+      ]
+    ],
+    "fire2": [
+      [
+        "HP_FX_Fire_2",
+        "particles/vehicles/Fire_medium_H2020.xml"
+      ]
+    ],
+    "fire3": [
+      [
+        "HP_FX_Fire_3",
+        "particles/vehicles/Fire_medium_H2020.xml"
+      ]
+    ],
+    "fire4": [
+      [
+        "HP_FX_Fire_4",
+        "particles/vehicles/Fire_medium_H2020.xml"
+      ]
+    ],
+    "fireResistance": [],
+    "fixDeluge": [],
+    "fixLight": [
+      [
+        "HP_FX_FloodLight_left_1",
+        "particles/vehicles/FixLight_medium.xml"
+      ],
+      [
+        "HP_FX_FloodLight_left_2",
+        "particles/vehicles/FixLight_medium.xml"
+      ],
+      [
+        "HP_FX_FloodLight_right_1",
+        "particles/vehicles/FixLight_medium.xml"
+      ],
+      [
+        "HP_FX_FloodLight_right_2",
+        "particles/vehicles/FixLight_medium.xml"
+      ]
+    ],
+    "flood": [
+      [
+        "HP_FX_Flood_steam_1",
+        "particles/vehicles/Flood_steam_medium.xml"
+      ],
+      [
+        "HP_FX_Flood_steam_1",
+        "particles/vehicles/Flood_steam_exhaust_big_delayed.xml"
+      ],
+      [
+        "HP_FX_Flood_steam_2",
+        "particles/vehicles/Flood_steam_medium.xml"
+      ],
+      [
+        "HP_FX_Flood_steam_2",
+        "particles/vehicles/Flood_steam_exhaust_big.xml"
+      ],
+      [
+        "HP_FX_Flood_steam_left",
+        "particles/vehicles/Flood_steam_side_small.xml"
+      ],
+      [
+        "HP_FX_Flood_steam_right",
+        "particles/vehicles/Flood_steam_side_small.xml"
+      ]
+    ],
+    "floodLight": [
+      [
+        "HP_FX_FloodLight_left_1",
+        "particles/vehicles/FloodLight_medium.xml"
+      ],
+      [
+        "HP_FX_FloodLight_left_2",
+        "particles/vehicles/FloodLight_medium.xml"
+      ],
+      [
+        "HP_FX_FloodLight_right_1",
+        "particles/vehicles/FloodLight_medium.xml"
+      ],
+      [
+        "HP_FX_FloodLight_right_2",
+        "particles/vehicles/FloodLight_medium.xml"
+      ]
+    ],
+    "horn": [
+      [
+        "HP_FX_Smoke_1",
+        "particles/vehicles/Horn.xml"
+      ],
+      [
+        "HP_FX_Smoke_2",
+        "particles/vehicles/Horn.xml"
+      ]
+    ],
+    "idle": [],
+    "idlePort": [
+      [
+        "HP_FX_Smoke_1",
+        "particles/vehicles/idlePort_RunSmoke_medium.xml"
+      ],
+      [
+        "HP_FX_Smoke_2",
+        "particles/vehicles/idlePort_RunSmoke_medium.xml"
+      ]
+    ],
+    "repairLight": [],
+    "smoke": [
+      [
+        "HP_FX_Smoke_1",
+        "particles/vehicles/RunSmoke_HW20.xml"
+      ],
+      [
+        "HP_FX_Smoke_2",
+        "particles/vehicles/RunSmoke_HW20.xml"
+      ]
+    ],
+    "waketraceback": [
+      [
+        "HP_FX_WakeTraceBack",
+        "particles/vehicles/WakeTraceReverce_back.xml"
+      ],
+      [
+        "HP_FX_WakeTrace_screw_1",
+        "particles/vehicles/WakeTraceReverce_screw_small.xml"
+      ],
+      [
+        "HP_FX_WakeTrace_screw_2",
+        "particles/vehicles/WakeTraceReverce_screw_small.xml"
+      ],
+      [
+        "HP_FX_WakeTrace_screw_3",
+        "particles/vehicles/WakeTraceReverce_screw_small.xml"
+      ]
+    ],
+    "waketracefront": [
+      [
+        "HP_FX_WakeTrace",
+        "particles/vehicles/WakeTraceForward_front.xml"
+      ],
+      [
+        "HP_FX_WakeTraceBack",
+        "particles/vehicles/WakeTraceForward_back.xml"
+      ],
+      [
+        "HP_FX_WakeTrace_screw_1",
+        "particles/vehicles/WakeTrace_screw_small.xml"
+      ],
+      [
+        "HP_FX_WakeTrace_screw_2",
+        "particles/vehicles/WakeTrace_screw_small.xml"
+      ],
+      [
+        "HP_FX_WakeTrace_screw_3",
+        "particles/vehicles/WakeTrace_screw_small.xml"
+      ],
+      [
+        "HP_FX_WakeTrace_screw_1",
+        "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+      ],
+      [
+        "HP_FX_WakeTrace_screw_2",
+        "particles/vehicles/WakeTraceForward_screw_mid.xml"
+      ],
+      [
+        "HP_FX_WakeTrace_screw_3",
+        "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+      ]
+    ]
+  },
+  "elasticity": 0.1,
+  "enemyEngineEffects": false,
+  "enemyVisibilityCoeffByDepth": {
+    "-44.0": 1.0,
+    "0.0": 1.0
+  },
+  "enginePower": 680000.0,
+  "finderBase": 4.0,
+  "finderHeight": 23.0,
+  "flagPoleModelName": "content/gameplay/common/misc/CM500/CM500.model",
+  "floodNodes": [
+    [
+      0.333,
+      0.25,
+      40.0
+    ],
+    [
+      0.333,
+      0.25,
+      40.0
+    ]
+  ],
+  "foghornEffect": "particles/Hooter.xml",
+  "friction": 0.05,
+  "health": 32400.0,
+  "heatChangeValue": 1,
+  "heightIntensityEffects": [],
+  "id": 4291583248,
+  "index": "PXIH003",
+  "isBlind": false,
+  "isFakeSubmarine": false,
+  "mass": 10230000.0,
+  "maxBuoyancyLevel": 0.0,
+  "maxBuoyancySpeed": 0.0,
+  "maxHeatValue": 5.0,
+  "maxRudderAngle": 30.0,
+  "maxSpeed": 35.0,
+  "minVisionDistance": 0.0,
+  "model": "content/gameplay/russia/ship/cruiser/RSC037_Smolensk_1951/RSC037_Smolensk_1951.model",
+  "name": "PXIH003_Smolensk_H2020",
+  "numOfParts": 0,
+  "oilLeakDuration": 40.0,
+  "oilLeakIntervalInvisible": 5.0,
+  "oilLeakStartDelay": 5.0,
+  "partialHpDecalsAmount": 16,
+  "partialHpHitDecalSize": 0.37,
+  "propellerEffect": "",
+  "propellerEffectReversed": "",
+  "pushingMaxRudderAngle": 16.0,
+  "pushingMinRudderAngle": 1.0,
+  "regenerationHPSpeed": 0.0,
+  "repairingCoeff": 0.0,
+  "rollEffect": 15.0,
+  "rudderPower": 41500000.0,
+  "rudderTime": 10.72,
+  "shipBodySunkDifferenceCoeff": 2.0,
+  "shipBodySunkStartMassCoeff": 1.0,
+  "shipPartSunkDifferenceCoeff": 2.2,
+  "shipPartSunkStartMassCoeff": 2.2,
+  "shipWheelsPresent": false,
+  "sideDragCoef": 245000.0,
+  "sinkStartTime": [
+    [
+      4.0,
+      10.0
+    ],
+    [
+      2.0,
+      4.0
+    ],
+    [
+      3.0,
+      3.0
+    ],
+    [
+      4.0,
+      1.0
+    ]
+  ],
+  "sinkTime": [
+    [
+      45.0,
+      130.0
+    ],
+    [
+      18.0,
+      30.0
+    ],
+    [
+      21.0,
+      27.0
+    ],
+    [
+      27.0,
+      15.0
+    ]
+  ],
+  "sinkingEffects": "PCXS006_Cruiser",
+  "size": [
+    179.0,
+    18.14,
+    24.22
+  ],
+  "smokeScanRadius": 27.0,
+  "speedCoef": 1.0,
+  "startHealthCoeff": 1.0,
+  "startHealthToRegenerationCoeff": 0.5,
+  "surfaceOilLeakEffect": "particles/OnBomb_Oil.xml",
+  "timeBeforeCauldronExplosion": 4.0,
+  "timeBeforeDeathEffect": 0.2,
+  "toMineVisionDistance": [
+    600.0,
+    600.0,
+    100.0
+  ],
+  "tonnage": 10230.0,
+  "torpedoImpactMassImpulseCoeff": 0.5,
+  "turningRadius": 750.0,
+  "typeinfo": {
+    "nation": "Events",
+    "species": "Hull",
+    "type": "Component"
+  },
+  "underwaterMaxRudderAngle": 0.0,
+  "underwaterRollEffect": 0.0,
+  "unpeculiarCamouflage": "",
+  "unpeculiarCamouflageColorSchemeId": 0,
+  "visibilityCoefATBAByPlane": 1e-6,
+  "visibilityCoefAirDefense": 1e-6,
+  "visibilityCoefFire": 2.0,
+  "visibilityCoefFireByPlane": 2.0,
+  "visibilityCoefGK": 1e-6,
+  "visibilityCoefGKByPlane": 1e-6,
+  "visibilityCoefGKInSmoke": 30.0,
+  "visibilityCoefPinger": {
+    "0.0": 0.0
+  },
+  "visibilityCoefPingerByPlane": {
+    "0.0": 0.0
+  },
+  "visibilityCoefPingerInSmoke": 1e-6,
+  "visibilityCoeffUnderwaterDepths": {
+    "0.0": 1.0
+  },
+  "visibilityCoeffUnderwaterDepthsByPlane": {
+    "0.0": 1.0
+  },
+  "visibilityFactor": 30.0,
+  "visibilityFactorByPlane": 30.0,
+  "visibilityFactorInSmoke": 1e-6,
+  "visibilityFactorsBySubmarine": {
+    "DEEP_WATER": 30.0,
+    "DEEP_WATER_INVUL": 30.0,
+    "PERISCOPE": 30.0,
+    "SEMI_DEEP_WATER": 30.0,
+    "SURFACE": 30.0
+  },
+  "visionDistance": 0.0,
+  "wildFireDamage": 0.0,
+  "wildFireDuration": -1.0
+}

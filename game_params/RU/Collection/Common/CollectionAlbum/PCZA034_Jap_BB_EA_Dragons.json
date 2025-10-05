@@ -1,0 +1,29 @@
+{
+  "background": null,
+  "canCharge": true,
+  "cardCost": 2,
+  "compensationCR": 0,
+  "containersID": [
+    "PCL191_Jap_EA_126_Coll"
+  ],
+  "description": "IDS_DESCRIPTION_PCZA034_JAP_BB_DRAGONS",
+  "disabled": false,
+  "duplicatesCR": 15000,
+  "endTime": "",
+  "id": 4259290032,
+  "index": "PCZA034",
+  "isPuzzle": true,
+  "name": "PCZA034_Jap_BB_EA_Dragons",
+  "rewards": [
+    "<Permoflage idx=\"PJES390_Yumihari_UGC\" shipId=\"PJSB208_Yumihari\" onlySilver=\"0\" count=\"1\"/>",
+    "<SetUnlock unlockName=\"Multi_Camo_JapSubmarine\" count=\"1\"/>"
+  ],
+  "startTime": "",
+  "subAlbumDiscribtions": [],
+  "subscribeType": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionAlbum",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 900000,
+  "costXP": 12000,
+  "id": 3638996976,
+  "index": "PAUS625",
+  "name": "PAUS625_SUO_TOP",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

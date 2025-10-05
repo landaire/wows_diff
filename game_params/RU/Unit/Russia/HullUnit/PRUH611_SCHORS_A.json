@@ -1,0 +1,13 @@
+{
+  "costCR": 690000,
+  "costXP": 0,
+  "id": 3654036944,
+  "index": "PRUH611",
+  "name": "PRUH611_SCHORS_A",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

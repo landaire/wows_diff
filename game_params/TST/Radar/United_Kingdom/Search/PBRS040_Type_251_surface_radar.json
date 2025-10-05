@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4252416976,
+  "index": "PBRS040",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/radar/search/BRS040_Type_251_surface_radar/BRS040_Type_251_surface_radar.model",
+  "name": "PBRS040_Type_251_surface_radar",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

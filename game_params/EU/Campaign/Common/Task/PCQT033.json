@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 8,
+  "conditions": [
+    "<isMyShip shipLevel=\"4,5,6,7,8,9,10,11\" />",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isWeaponHits count=\"10\" weaponTypes=\"atba\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4259725232,
+  "index": "PCQT033",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT033",
+  "rewards": [
+    "<Item idx=\"PCEF012_MY6_SignalFlag\" count=\"10\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT033_1",
+    "isWeaponHits",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

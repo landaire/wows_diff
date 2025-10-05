@@ -1,0 +1,13 @@
+{
+  "costCR": 2300000,
+  "costXP": 0,
+  "id": 3327110416,
+  "index": "PXUA923",
+  "name": "PXUA923_YAMATO_H19_ART",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

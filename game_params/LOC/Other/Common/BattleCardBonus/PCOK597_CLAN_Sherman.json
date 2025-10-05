@@ -1,0 +1,18 @@
+{
+  "id": 3668625328,
+  "index": "PCOK597",
+  "level_1": {
+    "allAlphaMultiplier": 1.075,
+    "vulnerabilityMain": 0.85
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.075,
+    "vulnerabilityMain": 0.85
+  },
+  "name": "PCOK597_CLAN_Sherman",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "weaponReloadBooster",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "reloadBoostCoeff": 0.5,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "weaponTypes": [
+        "artillery"
+      ]
+    },
+    "numConsumables": -1,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 10.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 10.0
+  },
+  "H2020": {
+    "availableBuoyancyStates": [],
+    "consumableType": "weaponReloadBooster",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "reloadBoostCoeff": 0.33,
+      "specialSoundID": "Halloween2020_ResistAllBuff",
+      "titleIDs": "",
+      "weaponTypes": [
+        "artillery",
+        "charge_laser",
+        "impulse_laser",
+        "axis_laser",
+        "waves"
+      ]
+    },
+    "numConsumables": -1,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 50.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 30.0
+  },
+  "StarTrek": {
+    "availableBuoyancyStates": [],
+    "consumableType": "weaponReloadBooster",
+    "descIDs": "PXY503_GMShotDelay_Startrek",
+    "group": "ship",
+    "iconIDs": "PXY503_GMShotDelay_Startrek",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.75,
+      "descIDs": "",
+      "iconIDs": "",
+      "reloadBoostCoeff": 0.5,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "weaponTypes": [
+        "artillery",
+        "phaser_laser"
+      ]
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PXY503_GMShotDelay_Startrek",
+    "workTime": 25.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 3766656272,
+  "index": "PXY503",
+  "name": "PXY503_GMShotDelay",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

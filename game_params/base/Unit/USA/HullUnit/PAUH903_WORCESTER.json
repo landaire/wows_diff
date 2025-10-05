@@ -1,0 +1,13 @@
+{
+  "costCR": 2600000,
+  "costXP": 0,
+  "id": 3347853296,
+  "index": "PAUH903",
+  "name": "PAUH903_WORCESTER",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

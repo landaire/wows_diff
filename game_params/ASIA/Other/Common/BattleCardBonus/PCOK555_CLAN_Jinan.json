@@ -1,0 +1,18 @@
+{
+  "id": 3712665520,
+  "index": "PCOK555",
+  "level_1": {
+    "burnProb": 0.7,
+    "vulnerabilityTorpedo": 0.85
+  },
+  "level_2": {
+    "burnProb": 0.7,
+    "vulnerabilityTorpedo": 0.85
+  },
+  "name": "PCOK555_CLAN_Jinan",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

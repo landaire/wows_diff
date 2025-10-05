@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4214417616,
+  "index": "PZF076",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/finder/ZF076_SPN_3_Smena_4m/ZF076_SPN_3_Smena_4m.model",
+  "name": "PZF076_SPN_3_Smena_4m",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Finder"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 1900000,
+  "costXP": 25000,
+  "id": 3630968816,
+  "index": "PAUH633",
+  "name": "PAUH633_Colorado_1945",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

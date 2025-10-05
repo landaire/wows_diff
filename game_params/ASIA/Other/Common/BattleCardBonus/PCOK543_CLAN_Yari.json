@@ -1,0 +1,18 @@
+{
+  "id": 3725248432,
+  "index": "PCOK543",
+  "level_1": {
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityTorpedo": 0.85
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.1,
+    "vulnerabilityTorpedo": 0.85
+  },
+  "name": "PCOK543_CLAN_Yari",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

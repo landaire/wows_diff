@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA007_HSF2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC135_HSF_SATOKO_KATSUTA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4153318320,
+  "index": "PCZC135",
+  "name": "PCZC135_HSF_Satoko_Katsuta",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

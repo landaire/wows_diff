@@ -1,0 +1,314 @@
+{
+  "RarityCategory": {
+    "name": "Epic"
+  },
+  "camouflage": "",
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 5000,
+  "effects": {
+    "A_Hull": {
+      "acid": [],
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_big.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_big.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_big.xml"
+        ]
+      ],
+      "descent": [],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_big_2.xml"
+        ],
+        [
+          "HP_FX_Fire_1_side_1",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_1_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_big_2.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_3",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_4",
+          "particles/vehicles/Fire_side_medium.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_medium.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_big_2.xml"
+        ]
+      ],
+      "fireResistance": [],
+      "fixDeluge": [],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_big.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_big_Enterprise_StarTrek.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_exhaust_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_2",
+          "particles/vehicles/Flood_steam_big_Enterprise_StarTrek.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_3",
+          "particles/vehicles/Flood_steam_big_Enterprise_StarTrek.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_3",
+          "particles/vehicles/Flood_steam_exhaust_big_delayed.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_big.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_big.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn_Enterprise_StarTrek.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/Horn_Enterprise_StarTrek.xml"
+        ],
+        [
+          "HP_FX_Smoke_3",
+          "particles/vehicles/Horn_Enterprise_StarTrek.xml"
+        ]
+      ],
+      "idle": [
+        [
+          "HP_FX_Custom_1",
+          "particles/SmokeRedEngine_Enterprise_StarStrek.xml"
+        ],
+        [
+          "HP_FX_Custom_2",
+          "particles/SmokeRed_Enterprise_StarStrek.xml"
+        ],
+        [
+          "HP_FX_Custom_3",
+          "particles/Glow_Blue_Enterprise_StarStrek.xml"
+        ]
+      ],
+      "idlePort": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_vsmall.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/idlePort_RunSmoke_vsmall.xml"
+        ],
+        [
+          "HP_FX_Smoke_3",
+          "particles/vehicles/idlePort_RunSmoke_vsmall.xml"
+        ]
+      ],
+      "oil": [],
+      "oilBubble": [],
+      "propellerEffect": [],
+      "propellerEffectReversed": [],
+      "rageMode": [],
+      "rageModeFullScreen": [],
+      "repairLight": [],
+      "runoff": [],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_vsmall_Enterprise_StarTrek.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/RunSmoke_vsmall_Enterprise_StarTrek.xml"
+        ],
+        [
+          "HP_FX_Smoke_3",
+          "particles/vehicles/RunSmoke_vsmall_Enterprise_StarTrek.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back_wide_2.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": true,
+  "hullConfig": {
+    "A_Hull": {
+      "caps": {},
+      "customMiscs": {
+        "dock": [
+          "dock"
+        ]
+      },
+      "model": "content/gameplay/usa/ship/aircarrier/ASA403_Enterprise_Star_Trek/ASA403_Enterprise_Star_Trek.model"
+    }
+  },
+  "id": 4065783792,
+  "index": "PAES218",
+  "isTemplate": false,
+  "name": "PAES218_Enterprise_Star_Trek",
+  "nodesConfig": {},
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "startrek",
+  "peculiarityEffects": {
+    "particles/guns/AA_shot.xml": "particles/guns/AA_Shot_ST_Enterprise.xml",
+    "particles/guns/PMK_Purging.xml": "particles/Empty_FX.xml",
+    "particles/guns/PMK_Shot.xml": "particles/guns/PMK_Shot_ST_Enterprise.xml",
+    "particles/vehicles/AirCarrier_death.xml": "particles/vehicles/AirCarrier_death.xml",
+    "particles/vehicles/Battleship_death.xml": "particles/vehicles/Battleship_death.xml",
+    "particles/vehicles/Cruiser_death.xml": "particles/vehicles/Cruiser_death.xml",
+    "particles/vehicles/Destroyer_death.xml": "particles/vehicles/Destroyer_death.xml"
+  },
+  "peculiarityFlag": "",
+  "peculiarityModels": {
+    "content/gameplay/usa/aircraft/bomber/AAB702_Grumman_TBF_proto/AAB702_Grumman_TBF_proto.model": "content/gameplay/usa/aircraft/bomber/AAB811_Enterprise_StarTrek/AAB811_Enterprise_StarTrek.model",
+    "content/gameplay/usa/aircraft/bomber/AAB706_Consolidated_PB4Y_2_Privateer/AAB706_Consolidated_PB4Y_2_Privateer.model": "content/gameplay/usa/aircraft/bomber/AAB811_Enterprise_StarTrek/AAB811_Enterprise_StarTrek.model",
+    "content/gameplay/usa/aircraft/dive/AAD701_Curtiss_SB2C_proto/AAD701_Curtiss_SB2C_proto.model": "content/gameplay/usa/aircraft/dive/AAD811_Enterprise_StarTrek/AAD811_Enterprise_StarTrek.model",
+    "content/gameplay/usa/aircraft/fighter/AAF702_Grumman_F6F_proto/AAF702_Grumman_F6F_proto.model": "content/gameplay/usa/aircraft/fighter/AAF811_Enterprise_StarTrek/AAF811_Enterprise_StarTrek.model",
+    "content/gameplay/usa/aircraft/fighter/AAF711_Vought_F4U_1D_proto/AAF711_Vought_F4U_1D_proto.model": "content/gameplay/usa/aircraft/fighter/AAF811_Enterprise_StarTrek/AAF811_Enterprise_StarTrek.model",
+    "content/gameplay/usa/gun/aaircraft/AGA002_40mm_Bofors_Mk1/AGA002_40mm_Bofors_Mk1.model": "content/gameplay/usa/gun/aaircraft/AGA3010_40mm_Bofors_Mk1_StarTrek/AGA3010_40mm_Bofors_Mk1_StarTrek.model",
+    "content/gameplay/usa/gun/aaircraft/AGA002_40mm_Bofors_Mk1/AGA002_40mm_Bofors_Mk1_dead.model": "content/gameplay/usa/gun/aaircraft/AGA3010_40mm_Bofors_Mk1_StarTrek/AGA3010_40mm_Bofors_Mk1_StarTrek_dead.model",
+    "content/gameplay/usa/gun/aaircraft/AGA003_20mm_Oerlikon_MK4/AGA003_20mm_Oerlikon_MK4.model": "content/gameplay/usa/gun/aaircraft/AGA3011_20mm_Oerlikon_MK4_StarTrek/AGA3011_20mm_Oerlikon_MK4_StarTrek.model",
+    "content/gameplay/usa/gun/aaircraft/AGA003_20mm_Oerlikon_MK4/AGA003_20mm_Oerlikon_MK4_dead.model": "content/gameplay/usa/gun/aaircraft/AGA3011_20mm_Oerlikon_MK4_StarTrek/AGA3011_20mm_Oerlikon_MK4_StarTrek_dead.model",
+    "content/gameplay/usa/gun/aaircraft/AGA008_40mm_Bofors_Mk2/AGA008_40mm_Bofors_Mk2.model": "content/gameplay/usa/gun/aaircraft/AGA3012_40mm_Bofors_Mk2_StarTrek/AGA3012_40mm_Bofors_Mk2_StarTrek.model",
+    "content/gameplay/usa/gun/aaircraft/AGA008_40mm_Bofors_Mk2/AGA008_40mm_Bofors_Mk2_dead.model": "content/gameplay/usa/gun/aaircraft/AGA3012_40mm_Bofors_Mk2_StarTrek/AGA3012_40mm_Bofors_Mk2_StarTrek_dead.model",
+    "content/gameplay/usa/gun/secondary/AGS022_5in38_Mk24/AGS022_5in38_Mk24.model": "content/gameplay/usa/gun/secondary/AGS3013_5in38_Mk24_StarTrek/AGS3013_5in38_Mk24_StarTrek.model",
+    "content/gameplay/usa/gun/secondary/AGS022_5in38_Mk24/AGS022_5in38_Mk24_dead.model": "content/gameplay/usa/gun/secondary/AGS3013_5in38_Mk24_StarTrek/AGS3013_5in38_Mk24_StarTrek_dead.model",
+    "content/gameplay/usa/projectile/bomb/APB004_AN_M67_GP1600lb/APB004_AN_M67_GP1600lb.model": "content/gameplay/usa/projectile/bomb/APB007_Enterprise_StarTrek/APB007_Enterprise_StarTrek.model",
+    "content/gameplay/usa/projectile/rocket/APR003_FFAR/APR003_FFAR.model": "content/gameplay/usa/projectile/rocket/APR005_Enterpise_StarTrek/APR005_Enterpise_StarTrek.model",
+    "content/gameplay/usa/projectile/torpedo/APT013_Avia_Torpedo_Mk13_2/APT013_Avia_Torpedo_Mk13_2.model": "content/gameplay/usa/projectile/torpedo/APT014_Enterprise_StarTrek/APT014_Enterprise_StarTrek.model"
+  },
+  "planesConfig": {
+    "PAAB508_Enterprise_stock": {
+      "startAngle": 0.0
+    },
+    "PAAD508_Enterprise_stock": {
+      "startAngle": 0.0
+    },
+    "PAAF508_Enterprise_stock": {
+      "startAngle": 0.0
+    }
+  },
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "USA",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

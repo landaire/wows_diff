@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA012_BritishArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC264_CAMO1940_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4018052016,
+  "index": "PCZC264",
+  "name": "PCZC264_Camo1940",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

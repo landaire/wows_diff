@@ -1,0 +1,29 @@
+{
+  "RarityCategory": {
+    "name": "Common"
+  },
+  "camouflage": "PEV_color_tile_04",
+  "canBuy": true,
+  "canCharge": true,
+  "canSell": true,
+  "costCR": -1,
+  "costGold": -1,
+  "hidden": false,
+  "id": 4199477168,
+  "index": "PCEC091",
+  "isTemplate": false,
+  "name": "PCEC091_Activity4Camo",
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "sortOrder": 2147483647,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Camouflage",
+    "type": "Exterior"
+  }
+}

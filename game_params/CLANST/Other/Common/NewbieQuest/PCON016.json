@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    [
+      "isClanApply",
+      {
+        "count": 1
+      }
+    ]
+  ],
+  "id": 4277749680,
+  "index": "PCON016",
+  "name": "PCON016",
+  "rewards": [
+    [
+      "Add",
+      {
+        "count": 100,
+        "type": "GOLD"
+      }
+    ]
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "NewbieQuest",
+    "type": "Other"
+  },
+  "unlock": "CLAN_BATTLE"
+}

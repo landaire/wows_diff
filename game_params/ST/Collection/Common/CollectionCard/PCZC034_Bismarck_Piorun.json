@@ -1,0 +1,15 @@
+{
+  "collectionAlbum": "PCZA002_Bismarck",
+  "compensationCR": 0,
+  "description": "IDS_PCZC034_BISMARCK_PIORUN_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4259224496,
+  "index": "PCZC034",
+  "name": "PCZC034_Bismarck_Piorun",
+  "subAlbums": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

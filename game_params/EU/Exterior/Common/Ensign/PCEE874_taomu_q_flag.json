@@ -1,0 +1,29 @@
+{
+  "canBuy": false,
+  "canCharge": false,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "taomu_q_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3378376624,
+  "index": "PCEE874",
+  "isTemplate": false,
+  "name": "PCEE874_taomu_q_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing",
+    "catalogueHidden_NA",
+    "catalogueHidden_EU",
+    "catalogueHidden_ASIA",
+    "psplive"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

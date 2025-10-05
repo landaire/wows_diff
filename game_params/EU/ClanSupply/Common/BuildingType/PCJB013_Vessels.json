@@ -1,0 +1,11 @@
+{
+  "id": 4281293744,
+  "index": "PCJB013",
+  "name": "PCJB013_Vessels",
+  "type": "vessels",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BuildingType",
+    "type": "ClanSupply"
+  }
+}

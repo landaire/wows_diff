@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 0,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\" class=\"Cruiser\" />",
+    "<isBattleType battleTypes=\"PVP,RANKED\" />",
+    "<isDamage count=\"500000\" damageTypes=\"main\" />"
+  ],
+  "costUnlock": 0,
+  "id": 3900063664,
+  "index": "PCQT376",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT376",
+  "rewards": [
+    "<Item idx=\"PCEF005_SM_SignalFlag\" count=\"15\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT376_1",
+    "isDamage",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

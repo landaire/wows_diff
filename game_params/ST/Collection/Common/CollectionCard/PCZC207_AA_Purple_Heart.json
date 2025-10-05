@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA009_AmericanArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC207_AA_PURPLE_HEART_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4077820848,
+  "index": "PCZC207",
+  "name": "PCZC207_AA_Purple_Heart",
+  "subAlbums": [
+    5
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

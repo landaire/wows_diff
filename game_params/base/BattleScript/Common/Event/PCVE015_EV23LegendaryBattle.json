@@ -1,0 +1,87 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "LegendaryBattle",
+  "economics": {
+    "currencyType": "EVENTUM_1",
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {
+      "10": 3,
+      "9": 3
+    },
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 0,
+  "gameLogicConfig": {
+    "shipsToIntroduce": [
+      "PJSB999_Satsuma",
+      "PGSB999_Hannover"
+    ]
+  },
+  "id": 4279086000,
+  "index": "PCVE015",
+  "matchmakerConfig": "eventEV23LegendaryBattle",
+  "name": "PCVE015_EV23LegendaryBattle",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        1
+      ],
+      "Battleship": [
+        0,
+        2
+      ],
+      "Cruiser": [
+        0,
+        3
+      ],
+      "Destroyer": [
+        0,
+        3
+      ],
+      "Submarine": [
+        0,
+        -1
+      ]
+    },
+    "filters": [
+      {
+        "shipLevels": [
+          9,
+          10
+        ]
+      }
+    ],
+    "totalShips": 3
+  },
+  "scenariosByMap": {
+    "spaces/19_OC_prey": [
+      "National_Battles"
+    ],
+    "spaces/22_tierra_del_fuego": [
+      "National_Battles"
+    ],
+    "spaces/40_Okinawa": [
+      "National_Battles"
+    ],
+    "spaces/41_Conquest": [
+      "National_Battles"
+    ],
+    "spaces/42_Neighbors": [
+      "National_Battles"
+    ],
+    "spaces/51_Greece": [
+      "National_Battles"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

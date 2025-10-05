@@ -1,0 +1,92 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "WWIIBattle",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 2,
+  "gameLogicConfig": {},
+  "id": 4249725872,
+  "index": "PCVE043",
+  "matchmakerConfig": "eventEV43_WW2_OP_Random",
+  "name": "PCVE043_WW2_OP_Random",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        1
+      ],
+      "Battleship": [
+        0,
+        4
+      ],
+      "Cruiser": [
+        0,
+        6
+      ],
+      "Destroyer": [
+        0,
+        4
+      ],
+      "Submarine": [
+        0,
+        -1
+      ]
+    },
+    "filters": [
+      {
+        "nations": [
+          "United_Kingdom",
+          "France",
+          "Netherlands",
+          "Europe",
+          "Russia",
+          "USA",
+          "Commonwealth",
+          "Pan_America",
+          "Pan_Asia",
+          "Italy"
+        ],
+        "shipLevels": [
+          7,
+          8,
+          9
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship",
+          "AirCarrier"
+        ]
+      }
+    ],
+    "totalShips": 6
+  },
+  "scenariosByMap": {
+    "spaces/s12_WW2_OP1": [
+      "WW2_OPERATION_1_78LVL",
+      "WW2_OPERATION_1_9LVL"
+    ],
+    "spaces/s13_WW2_OP2": [
+      "WW2_OPERATION_2_78LVL",
+      "WW2_OPERATION_2_9LVL"
+    ],
+    "spaces/s14_WW2_OP3": [
+      "WW2_OPERATION_3_78LVL",
+      "WW2_OPERATION_3_9LVL"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

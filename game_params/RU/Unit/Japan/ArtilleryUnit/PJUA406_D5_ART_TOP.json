@@ -1,0 +1,13 @@
+{
+  "costCR": 210000,
+  "costXP": 2500,
+  "id": 3869224656,
+  "index": "PJUA406",
+  "name": "PJUA406_D5_ART_TOP",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

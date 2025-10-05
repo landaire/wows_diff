@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2181905168,
+  "index": "PHRF2015",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/netherlands/radar/fcontrol/HRF2015_Anemometer/HRF2015_Anemometer.model",
+  "name": "PHRF2015_Anemometer",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": "Fire control",
+    "type": "Radar"
+  }
+}

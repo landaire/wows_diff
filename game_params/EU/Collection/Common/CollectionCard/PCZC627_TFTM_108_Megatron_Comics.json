@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA027_TFTM_108",
+  "compensationCR": 0,
+  "description": "IDS_PCZC627_TFTM_108_MEGATRON_COMICS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3637418928,
+  "index": "PCZC627",
+  "name": "PCZC627_TFTM_108_Megatron_Comics",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA012_BritishArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC259_113MMMARK5_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4023294896,
+  "index": "PCZC259",
+  "name": "PCZC259_113mmMark5",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

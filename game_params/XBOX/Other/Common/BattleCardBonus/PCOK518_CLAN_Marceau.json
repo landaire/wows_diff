@@ -1,0 +1,20 @@
+{
+  "id": 3751462832,
+  "index": "PCOK518",
+  "level_1": {
+    "GMIdealRadius": 0.9,
+    "allAlphaMultiplier": 1.1,
+    "burnProb": 0.8
+  },
+  "level_2": {
+    "GMIdealRadius": 0.9,
+    "allAlphaMultiplier": 1.1,
+    "burnProb": 0.8
+  },
+  "name": "PCOK518_CLAN_Marceau",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

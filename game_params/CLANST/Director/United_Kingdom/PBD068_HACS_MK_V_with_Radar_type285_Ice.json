@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4222809040,
+  "index": "PBD068",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/uk/director/BD068_HACS_MK_V_with_Radar_type285_Ice/BD068_HACS_MK_V_with_Radar_type285_Ice.model",
+  "name": "PBD068_HACS_MK_V_with_Radar_type285_Ice",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": null,
+    "type": "Director"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4257409840,
+  "index": "PGF035",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/germany/finder/GF035_7m_Bridge_Rangefinder/GF035_7m_Bridge_Rangefinder.model",
+  "name": "PGF035_7m_Bridge_Rangefinder",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": null,
+    "type": "Finder"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 400000,
+  "costXP": 7000,
+  "id": 3654135632,
+  "index": "PFUE611",
+  "name": "PFUE611_B7_ENG_TOP",
+  "typeinfo": {
+    "nation": "France",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

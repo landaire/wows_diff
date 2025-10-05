@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3560910576,
+  "index": "PIUB700",
+  "name": "PIUB700_TB_AQUILA",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

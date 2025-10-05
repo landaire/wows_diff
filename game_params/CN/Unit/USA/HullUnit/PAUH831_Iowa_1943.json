@@ -1,0 +1,13 @@
+{
+  "costCR": 1750000,
+  "costXP": 0,
+  "id": 3423350768,
+  "index": "PAUH831",
+  "name": "PAUH831_Iowa_1943",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

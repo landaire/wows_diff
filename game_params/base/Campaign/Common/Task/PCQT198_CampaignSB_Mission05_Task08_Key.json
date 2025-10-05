@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 48,
+  "conditions": [
+    "<isMyShip shipLevel=\"8,9,10,11\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\"/>",
+    "<isBattleCount count=\"1\"/>"
+  ],
+  "costUnlock": 10,
+  "id": 4086710192,
+  "index": "PCQT198",
+  "isSingleBattle": true,
+  "lootStars": 0,
+  "name": "PCQT198_CampaignSB_Mission05_Task08_Key",
+  "rewards": [
+    "<Ship shipId=\"PJSD706_Shinonome\" level=\"11\" count=\"1\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT198_CAMPAIGNSB_MISSION05_TASK08_KEY_1",
+    "isBattleCount",
+    "IDS_TASKRESTRICTION_PVPCOOPRANKED"
+  ],
+  "unlockMissions": []
+}

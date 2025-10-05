@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC329_AZURLANE_AVRORA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3949894576,
+  "index": "PCZC329",
+  "name": "PCZC329_AzurLane_Avrora",
+  "subAlbums": [
+    4
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

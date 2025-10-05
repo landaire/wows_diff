@@ -1,0 +1,13 @@
+{
+  "costCR": 510000,
+  "costXP": 6500,
+  "id": 3764825936,
+  "index": "PFUS505",
+  "name": "PFUS505_D6_SUO_TOP",
+  "typeinfo": {
+    "nation": "France",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

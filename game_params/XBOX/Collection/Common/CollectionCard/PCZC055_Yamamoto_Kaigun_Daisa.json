@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA004_Yamamoto",
+  "compensationCR": 0,
+  "description": "IDS_PCZC055_YAMAMOTO_KAIGUN_DAISA_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4237204400,
+  "index": "PCZC055",
+  "name": "PCZC055_Yamamoto_Kaigun_Daisa",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

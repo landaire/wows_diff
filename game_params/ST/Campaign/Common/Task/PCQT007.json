@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 32,
+  "conditions": [
+    "<isMyShip shipLevel=\"3,4,5,6,7,8,9,10,11\"\t/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\" />",
+    "<isKillShips count=\"5\" />"
+  ],
+  "costUnlock": 0,
+  "id": 4286988208,
+  "index": "PCQT007",
+  "isSingleBattle": false,
+  "lootStars": 2,
+  "name": "PCQT007",
+  "rewards": [
+    "<Add type=\"FREE_XP\" count=\"200\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT007_1",
+    "isKillShips",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

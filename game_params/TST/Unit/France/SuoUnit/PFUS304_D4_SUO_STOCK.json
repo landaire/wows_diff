@@ -1,0 +1,13 @@
+{
+  "costCR": 38000,
+  "costXP": 0,
+  "id": 3975589712,
+  "index": "PFUS304",
+  "name": "PFUS304_D4_SUO_STOCK",
+  "typeinfo": {
+    "nation": "France",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

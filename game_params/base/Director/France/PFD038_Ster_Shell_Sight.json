@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4254266192,
+  "index": "PFD038",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD038_Ster_Shell_Sight/FD038_Ster_Shell_Sight.model",
+  "name": "PFD038_Ster_Shell_Sight",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

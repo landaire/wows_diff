@@ -1,0 +1,85 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "ArmsBattles",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 0,
+  "gameLogicConfig": {},
+  "id": 4272794544,
+  "index": "PCVE021",
+  "matchmakerConfig": "eventEV23AirBarrier",
+  "name": "PCVE021_EV23AirBarrier",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        1
+      ],
+      "Battleship": [
+        0,
+        3
+      ],
+      "Cruiser": [
+        0,
+        3
+      ],
+      "Destroyer": [
+        0,
+        3
+      ],
+      "Submarine": [
+        0,
+        1
+      ]
+    },
+    "filters": [
+      {
+        "shipLevels": [
+          9,
+          10
+        ]
+      }
+    ],
+    "totalShips": 3
+  },
+  "scenariosByMap": {
+    "spaces/15_NE_north": [
+      "airbarrier"
+    ],
+    "spaces/16_OC_bees_to_honey": [
+      "airbarrier"
+    ],
+    "spaces/19_OC_prey": [
+      "airbarrier"
+    ],
+    "spaces/23_Shards": [
+      "airbarrier"
+    ],
+    "spaces/25_sea_hope": [
+      "airbarrier"
+    ],
+    "spaces/28_naval_mission": [
+      "airbarrier"
+    ],
+    "spaces/37_Ridge": [
+      "airbarrier"
+    ],
+    "spaces/45_Zigzag": [
+      "airbarrier"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

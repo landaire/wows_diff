@@ -1,0 +1,32 @@
+{
+  "id": 4283320240,
+  "index": "PCOD011",
+  "markerNameActive": "",
+  "markerNameInactive": "",
+  "maxBuffLevel": 0,
+  "name": "PCOD011_AddAnyConsumables_H2019",
+  "payload": {
+    "item1": {
+      "consumable": "Any",
+      "count": 1,
+      "slot": null,
+      "type": 2,
+      "weight": 0
+    },
+    "item2": {
+      "consumable": "Any",
+      "count": 1,
+      "slot": null,
+      "type": 2,
+      "weight": 0
+    },
+    "type": 3,
+    "weight": 0
+  },
+  "sorting": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Drop",
+    "type": "Other"
+  }
+}

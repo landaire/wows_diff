@@ -1,0 +1,431 @@
+{
+  "Bandai": {
+    "availableBuoyancyStates": [],
+    "consumableType": "scout",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "artilleryDistCoeff": 1.2,
+      "descIDs": "",
+      "iconIDs": "",
+      "modifiers": {},
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 90.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 240.0
+  },
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "scout",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "artilleryDistCoeff": 1.2,
+      "descIDs": "",
+      "iconIDs": "",
+      "modifiers": {},
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 240.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 100.0
+  },
+  "JAP_BC_10": {
+    "availableBuoyancyStates": [],
+    "consumableType": "scout",
+    "descIDs": "PCY013_JAP_BC",
+    "group": "ship",
+    "iconIDs": "PCY013_JAP_BC",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "artilleryDistCoeff": 1.1,
+      "descIDs": "",
+      "iconIDs": "",
+      "modifiers": {
+        "GMIdealRadius": 0.8
+      },
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 5,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY013_JAP_BC",
+    "workTime": 65.0
+  },
+  "JAP_BC_8_9": {
+    "availableBuoyancyStates": [],
+    "consumableType": "scout",
+    "descIDs": "PCY013_JAP_BC",
+    "group": "ship",
+    "iconIDs": "PCY013_JAP_BC",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "artilleryDistCoeff": 1.1,
+      "descIDs": "",
+      "iconIDs": "",
+      "modifiers": {
+        "GMIdealRadius": 0.9
+      },
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 5,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY013_JAP_BC",
+    "workTime": 55.0
+  },
+  "Lanzhou_Spotter": {
+    "availableBuoyancyStates": [],
+    "consumableType": "scout",
+    "descIDs": "PCY013_JAP_BC",
+    "group": "ship",
+    "iconIDs": "PCY013_JAP_BC",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "artilleryDistCoeff": 1.1,
+      "descIDs": "",
+      "iconIDs": "",
+      "modifiers": {
+        "GMIdealRadius": 0.9
+      },
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 5,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 100.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY013_JAP_BC",
+    "workTime": 30.0
+  },
+  "Lazo": {
+    "availableBuoyancyStates": [],
+    "consumableType": "scout",
+    "descIDs": "PCY013_Spotter_Circle_Premium",
+    "group": "ship",
+    "iconIDs": "PCY013_Spotter_Circle_Premium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "artilleryDistCoeff": 1.2,
+      "descIDs": "",
+      "iconIDs": "",
+      "modifiers": {},
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 5,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 10.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY013_Spotter_Circle_Premium",
+    "workTime": 60.0
+  },
+  "Musashi": {
+    "availableBuoyancyStates": [],
+    "consumableType": "scout",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "artilleryDistCoeff": 1.2,
+      "descIDs": "",
+      "iconIDs": "",
+      "modifiers": {},
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 120.0
+  },
+  "PAM_CL": {
+    "availableBuoyancyStates": [],
+    "consumableType": "scout",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "artilleryDistCoeff": 1.2,
+      "descIDs": "",
+      "iconIDs": "",
+      "modifiers": {},
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 240.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 100.0
+  },
+  "Perth": {
+    "availableBuoyancyStates": [],
+    "consumableType": "scout",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "artilleryDistCoeff": 1.2,
+      "descIDs": "",
+      "iconIDs": "",
+      "modifiers": {},
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 240.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 180.0
+  },
+  "Teng_She": {
+    "availableBuoyancyStates": [],
+    "consumableType": "scout",
+    "descIDs": "PCY013_JAP_BC",
+    "group": "ship",
+    "iconIDs": "PCY013_JAP_BC",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "artilleryDistCoeff": 1.1,
+      "descIDs": "",
+      "iconIDs": "",
+      "modifiers": {
+        "GMIdealRadius": 0.9
+      },
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 5,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY013_JAP_BC",
+    "workTime": 55.0
+  },
+  "Tianjin": {
+    "availableBuoyancyStates": [],
+    "consumableType": "scout",
+    "descIDs": "PCY013_JAP_BC",
+    "group": "ship",
+    "iconIDs": "PCY013_JAP_BC",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "artilleryDistCoeff": 1.1,
+      "descIDs": "",
+      "iconIDs": "",
+      "modifiers": {
+        "GMIdealRadius": 0.9
+      },
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 5,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 100.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY013_JAP_BC",
+    "workTime": 30.0
+  },
+  "US_VALLEJO_FAST": {
+    "availableBuoyancyStates": [],
+    "consumableType": "scout",
+    "descIDs": "PCY013_Spotter_Circle_Premium",
+    "group": "ship",
+    "iconIDs": "PCY013_Spotter_Circle_Premium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "artilleryDistCoeff": 1.2,
+      "descIDs": "",
+      "iconIDs": "",
+      "modifiers": {},
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 5,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 10.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY013_Spotter_Circle_Premium",
+    "workTime": 60.0
+  },
+  "Weimar": {
+    "availableBuoyancyStates": [],
+    "consumableType": "scout",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "artilleryDistCoeff": 1.3,
+      "descIDs": "",
+      "iconIDs": "",
+      "modifiers": {},
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 240.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 60.0
+  },
+  "Wisconsin_Faster": {
+    "availableBuoyancyStates": [],
+    "consumableType": "scout",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "artilleryDistCoeff": 1.2,
+      "descIDs": "",
+      "iconIDs": "",
+      "modifiers": {},
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 100.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 70.0
+  },
+  "Yari_Test": {
+    "availableBuoyancyStates": [],
+    "consumableType": "scout",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "artilleryDistCoeff": 1.1,
+      "descIDs": "",
+      "iconIDs": "",
+      "modifiers": {
+        "shootShift": 1.2
+      },
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 5,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 60.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 4280459184,
+  "index": "PCY013",
+  "name": "PCY013_SpotterPremium",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Ability"
+  }
+}

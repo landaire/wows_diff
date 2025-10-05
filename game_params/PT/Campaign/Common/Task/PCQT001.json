@@ -1,0 +1,28 @@
+{
+  "backgroundIconID": 68,
+  "conditions": [
+    "<isMyShip shipLevel=\"3,4,5,6,7,8,9,10,11\"/>",
+    "<isBattleType battleTypes=\"PVP,COOPERATIVE,RANKED\"/>",
+    "<isDamage count=\"20000\" damageTypes=\"main\"/>"
+  ],
+  "costUnlock": 0,
+  "id": 4293279664,
+  "index": "PCQT001",
+  "isSingleBattle": false,
+  "lootStars": 1,
+  "name": "PCQT001",
+  "rewards": [
+    "<Add type=\"CREDITS\" count=\"50000\"/>"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Task",
+    "type": "Campaign"
+  },
+  "uiCondition": [
+    "IDS_PCQT001_1",
+    "isDamage",
+    "IDS_TASKRESTRICTION_STANDART"
+  ],
+  "unlockMissions": []
+}

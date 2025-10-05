@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4281529104,
+  "index": "PHD012",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/netherlands/director/HD012_Centraal_Richttoestel/HD012_Centraal_Richttoestel.model",
+  "name": "PHD012_Centraal_Richttoestel",
+  "typeinfo": {
+    "nation": "Netherlands",
+    "species": null,
+    "type": "Director"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3680159664,
+  "index": "PCOK586",
+  "level_1": {
+    "allAlphaMultiplier": 1.15,
+    "vulnerabilityMain": 0.95
+  },
+  "level_2": {
+    "allAlphaMultiplier": 1.15,
+    "vulnerabilityMain": 0.95
+  },
+  "name": "PCOK586_CLAN_Ohio",
+  "typeinfo": {
+    "nation": "Common",
+    "species": "BattleCardBonus",
+    "type": "Other"
+  }
+}

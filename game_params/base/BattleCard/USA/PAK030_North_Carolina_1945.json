@@ -1,0 +1,30 @@
+{
+  "UpgradeInfo": {
+    "costBattlecardum": {}
+  },
+  "buffBonus": {},
+  "cardType": "clan",
+  "id": 4262647792,
+  "index": "PAK030",
+  "maxLevel": 2,
+  "name": "PAK030_North_Carolina_1945",
+  "personalCardBonus": {
+    "clan": "PCOK006_Balldmg_DAPdmg"
+  },
+  "shipFilter": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [
+      "PASB012_North_Carolina_1945",
+      "PASB998_North_Carolina_2",
+      "PASB808_Colorful_North_Carolina"
+    ],
+    "subtype": []
+  },
+  "typeinfo": {
+    "nation": "USA",
+    "species": null,
+    "type": "BattleCard"
+  }
+}

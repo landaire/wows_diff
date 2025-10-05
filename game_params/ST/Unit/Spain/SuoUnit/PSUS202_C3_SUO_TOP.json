@@ -1,0 +1,13 @@
+{
+  "costCR": 70000,
+  "costXP": 600,
+  "id": 4082544048,
+  "index": "PSUS202",
+  "name": "PSUS202_C3_SUO_TOP",
+  "typeinfo": {
+    "nation": "Spain",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

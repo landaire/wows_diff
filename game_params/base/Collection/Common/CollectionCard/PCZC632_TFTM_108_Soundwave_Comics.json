@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA027_TFTM_108",
+  "compensationCR": 0,
+  "description": "IDS_PCZC632_TFTM_108_SOUNDWAVE_COMICS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3632176048,
+  "index": "PCZC632",
+  "name": "PCZC632_TFTM_108_Soundwave_Comics",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4276533552,
+  "index": "PWRS017",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/radar/search/WRS017_Radar_Type_293Q_Outfit_ANS/WRS017_Radar_Type_293Q_Outfit_ANS.model",
+  "name": "PWRS017_Radar_Type_293Q_Outfit_ANS",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

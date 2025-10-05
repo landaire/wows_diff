@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA016_SovietBBArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC361_SOVIETBBARC_NAKHIMOV_ORDER_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3916340144,
+  "index": "PCZC361",
+  "name": "PCZC361_SovietBBArc_Nakhimov_Order",
+  "subAlbums": [
+    6
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

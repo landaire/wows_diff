@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA016_SovietBBArc",
+  "compensationCR": 0,
+  "description": "IDS_PCZC337_SOVIETBBARC_EPAULETS_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3941505968,
+  "index": "PCZC337",
+  "name": "PCZC337_SovietBBArc_Epaulets",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

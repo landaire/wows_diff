@@ -1,0 +1,13 @@
+{
+  "costCR": 2500000,
+  "costXP": 38000,
+  "id": 3348770608,
+  "index": "PGUL902",
+  "name": "PGUL902_CV10_SB_TOP",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "SkipBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_SkipBomber"
+}

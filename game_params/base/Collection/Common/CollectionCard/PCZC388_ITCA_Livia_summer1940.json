@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA018_ITCA_0810",
+  "compensationCR": 0,
+  "description": "IDS_PCZC388_ITCA_LIVIA_SUMMER1940_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3888028592,
+  "index": "PCZC388",
+  "name": "PCZC388_ITCA_Livia_summer1940",
+  "subAlbums": [
+    1
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

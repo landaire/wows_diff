@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA018_ITCA_0810",
+  "compensationCR": 0,
+  "description": "IDS_PCZC398_ITCA_TRIESTE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3877542832,
+  "index": "PCZC398",
+  "name": "PCZC398_ITCA_Trieste",
+  "subAlbums": [
+    3
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

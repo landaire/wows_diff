@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4274189136,
+  "index": "PFD019",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/france/director/FD019_Searchlight_control_positions/FD019_Searchlight_control_positions.model",
+  "name": "PFD019_Searchlight_control_positions",
+  "typeinfo": {
+    "nation": "France",
+    "species": null,
+    "type": "Director"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 2000,
+  "hidden": false,
+  "id": 4271239088,
+  "index": "PCEU022",
+  "isTemplate": false,
+  "modifiers": {
+    "creditsFactor": 1.25,
+    "crewExpFactor": 1.5,
+    "expFactor": 2.0,
+    "freeExpFactor": 2.0
+  },
+  "name": "PCEU022_Multi_Kamikaze_R",
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [
+      5
+    ],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 1,
+  "tags": [],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Multiboost",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 8000,
+  "costXP": 0,
+  "id": 3360534512,
+  "index": "PAUE891",
+  "name": "PAUE891_Engine_150000",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

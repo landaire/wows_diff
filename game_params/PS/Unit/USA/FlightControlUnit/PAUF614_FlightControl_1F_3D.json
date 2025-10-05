@@ -1,0 +1,13 @@
+{
+  "costCR": 890000,
+  "costXP": 11500,
+  "id": 3650957296,
+  "index": "PAUF614",
+  "name": "PAUF614_FlightControl_1F_3D",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

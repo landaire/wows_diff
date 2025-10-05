@@ -1,0 +1,13 @@
+{
+  "costCR": 345000,
+  "costXP": 0,
+  "id": 3333173040,
+  "index": "PGUH917",
+  "name": "PGUH917_HULL_STOCK",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

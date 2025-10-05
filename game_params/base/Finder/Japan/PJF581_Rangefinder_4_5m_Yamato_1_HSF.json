@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 3684887248,
+  "index": "PJF581",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/japan/finder/JF581_Rangefinder_4_5m_Yamato_1_HSF/JF581_Rangefinder_4_5m_Yamato_1_HSF.model",
+  "name": "PJF581_Rangefinder_4_5m_Yamato_1_HSF",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": null,
+    "type": "Finder"
+  }
+}

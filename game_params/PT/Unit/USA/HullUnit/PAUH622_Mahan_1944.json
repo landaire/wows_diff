@@ -1,0 +1,13 @@
+{
+  "costCR": 1240000,
+  "costXP": 14200,
+  "id": 3642503152,
+  "index": "PAUH622",
+  "name": "PAUH622_Mahan_1944",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

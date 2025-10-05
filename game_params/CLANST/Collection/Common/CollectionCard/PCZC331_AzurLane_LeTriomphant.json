@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA015_AzurLane",
+  "compensationCR": 0,
+  "description": "IDS_PCZC331_AZURLANE_LETRIOMPHANT_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3947797424,
+  "index": "PCZC331",
+  "name": "PCZC331_AzurLane_LeTriomphant",
+  "subAlbums": [
+    5
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

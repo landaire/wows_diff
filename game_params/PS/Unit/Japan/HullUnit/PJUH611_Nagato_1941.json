@@ -1,0 +1,13 @@
+{
+  "costCR": 690000,
+  "costXP": 0,
+  "id": 3654037200,
+  "index": "PJUH611",
+  "name": "PJUH611_Nagato_1941",
+  "typeinfo": {
+    "nation": "Japan",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

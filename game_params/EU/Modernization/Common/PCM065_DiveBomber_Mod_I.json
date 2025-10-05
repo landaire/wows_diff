@@ -1,0 +1,86 @@
+{
+  "canCharge": true,
+  "costCR": 1000000,
+  "excludes": [
+    "PXSA005_Hellcarrier",
+    "PXSB006_Paris",
+    "PXSB007_Alldestroyer",
+    "PXSC004_Galaxy",
+    "PXSC005_Zaya",
+    "PXSC006_Norma",
+    "PXSC007_Aurora",
+    "PXSD004_FlyFire",
+    "PXSD005_Blue_Aster",
+    "PGSA610_Max_Immelmann",
+    "PRSA110_Admiral_Nakhimov",
+    "PRSA990_Admiral_Orlov",
+    "PRSA106_Serov",
+    "PRSA108_Pobeda",
+    "PISA508_Aquila",
+    "PBSA718_Theseus",
+    "PGSA510_Werner_Voss"
+  ],
+  "group": [
+    "upgradeable",
+    "disabled",
+    "upgradeableExclusive",
+    "premium",
+    "special",
+    "event",
+    "specialUnsellable",
+    "demoWithoutStats",
+    "demoWithoutStatsPrem",
+    "demoWithoutStatsTemporary",
+    "experimental",
+    "start",
+    "peculiar",
+    "clan",
+    "ultimate",
+    "earlyAccess",
+    "upgradeableUltimate",
+    "superShip",
+    "notForBattle",
+    "coopOnly"
+  ],
+  "id": 4225945520,
+  "index": "PCM065",
+  "modifiers": {
+    "diveBomberHealth": 1.075
+  },
+  "name": "PCM065_DiveBomber_Mod_I",
+  "nation": [
+    "France",
+    "USA",
+    "Russia",
+    "Japan",
+    "United_Kingdom",
+    "Germany",
+    "Italy",
+    "Europe",
+    "Netherlands",
+    "Spain",
+    "Pan_Asia",
+    "Pan_America",
+    "Commonwealth"
+  ],
+  "shiplevel": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "ships": [],
+  "shiptype": [
+    "AirCarrier"
+  ],
+  "slot": 3,
+  "tags": [],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

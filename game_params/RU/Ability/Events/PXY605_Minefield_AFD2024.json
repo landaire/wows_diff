@@ -1,0 +1,83 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "minefield",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "field": "PCOF001_Minefield",
+      "iconIDs": "",
+      "planeAirSupport": {
+        "climbAngle": 37,
+        "flyAwayTime": 5.0,
+        "maxPlaneFlightDist": 2500,
+        "planeName": "PAAD999_AS_MineBomber",
+        "timeFromHeaven": 0.0
+      },
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "aimRange": 100.0,
+      "usageType": "position",
+      "workRange": 15000.0
+    },
+    "titleIDs": "",
+    "workTime": 5.0
+  },
+  "Pinata2024": {
+    "SpecialSoundID": "Pinata_Minefield",
+    "availableBuoyancyStates": [],
+    "consumableType": "minefield",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "field": "PCOF001_Minefield",
+      "iconIDs": "",
+      "planeAirSupport": {
+        "climbAngle": 37,
+        "flyAwayTime": 5.0,
+        "maxPlaneFlightDist": 2500,
+        "planeName": "PAAD999_AS_MineBomber",
+        "timeFromHeaven": 0.0
+      },
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 1,
+    "periodical": true,
+    "preparationTime": 60.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "aimRange": 100.0,
+      "usageType": "position",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 5.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 3659701520,
+  "index": "PXY605",
+  "name": "PXY605_Minefield_AFD2024",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

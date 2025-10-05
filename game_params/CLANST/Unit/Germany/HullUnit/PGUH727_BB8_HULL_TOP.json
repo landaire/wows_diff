@@ -1,0 +1,13 @@
+{
+  "costCR": 3300000,
+  "costXP": 45000,
+  "id": 3532402480,
+  "index": "PGUH727",
+  "name": "PGUH727_BB8_HULL_TOP",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4170379472,
+  "index": "PZD118",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/panasia/director/ZD118_VKZD_Hight_Angle/ZD118_VKZD_Hight_Angle.model",
+  "name": "PZD118_VKZD_Hight_Angle",
+  "typeinfo": {
+    "nation": "Pan_Asia",
+    "species": null,
+    "type": "Director"
+  }
+}

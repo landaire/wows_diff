@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4253217072,
+  "index": "PWD039",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/director/WD039_Ster_Shell_Sight/WD039_Ster_Shell_Sight.model",
+  "name": "PWD039_Ster_Shell_Sight",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Director"
+  }
+}

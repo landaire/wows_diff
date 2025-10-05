@@ -1,0 +1,392 @@
+{
+  "Default": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "torpedoReloadTime": 60.0
+    },
+    "numConsumables": -1,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 270.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "Jap_DD_prem_alt": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "torpedoReloadTime": 5.0
+    },
+    "numConsumables": 3,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 160.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "Jap_DD_premium": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "torpedoReloadTime": 8.0
+    },
+    "numConsumables": 3,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 240.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "Jap_DD_premium_tst": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "torpedoReloadTime": 5.0
+    },
+    "numConsumables": 3,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 240.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "Kleber_TOURNAMENT": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "torpedoReloadTime": 10.0
+    },
+    "numConsumables": 3,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 240.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "Monaghan_style_premium": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "torpedoReloadTime": 30.0
+    },
+    "numConsumables": 3,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 240.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "PAZ_CA": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "torpedoReloadTime": 8.0
+    },
+    "numConsumables": 2,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 300.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "PAZ_CA_midtier": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "torpedoReloadTime": 8.0
+    },
+    "numConsumables": 1,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 300.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "PAZ_DD": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "torpedoReloadTime": 8.0
+    },
+    "numConsumables": 2,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 300.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "PAZ_premium": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "torpedoReloadTime": 8.0
+    },
+    "numConsumables": 3,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 240.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "Pampa": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "torpedoReloadTime": 5.0
+    },
+    "numConsumables": 2,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 330.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "RU_DD_prem_Tashkent41": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "torpedoReloadTime": 8.0
+    },
+    "numConsumables": 2,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 300.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "Sigismund": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "torpedoReloadTime": 1.0
+    },
+    "numConsumables": -1,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 70.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "Tsurugi_prem": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "torpedoReloadTime": 8.0
+    },
+    "numConsumables": 2,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 300.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 1.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 4275216304,
+  "index": "PCY018",
+  "name": "PCY018_TorpedoReloaderPremium",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Ability"
+  }
+}

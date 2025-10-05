@@ -1,0 +1,13 @@
+{
+  "costCR": 1440000,
+  "costXP": 0,
+  "id": 3452710896,
+  "index": "PAUH803",
+  "name": "PAUH803_SEATTLE_A",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

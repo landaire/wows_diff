@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA006_HappyNewYear2018",
+  "compensationCR": 0,
+  "description": "IDS_PCZC110_NY2018_NORFOLKGK_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4179532720,
+  "index": "PCZC110",
+  "name": "PCZC110_NY2018_NorfolkGK",
+  "subAlbums": [
+    0
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

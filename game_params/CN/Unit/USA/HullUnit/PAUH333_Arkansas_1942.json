@@ -1,0 +1,13 @@
+{
+  "costCR": 390000,
+  "costXP": 2300,
+  "id": 3945541616,
+  "index": "PAUH333",
+  "name": "PAUH333_Arkansas_1942",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

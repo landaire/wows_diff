@@ -1,0 +1,92 @@
+{
+  "FogModel": {
+    "bounds": {
+      "max": {
+        "height": 25.0,
+        "radius": null
+      },
+      "min": {
+        "height": 25.0,
+        "radius": null
+      },
+      "scale": {
+        "height": null,
+        "radius": 1.0
+      }
+    },
+    "model": "content/location/nature/fjord/LNF432_CIRCLE_TEST/LNF432_CIRCLE_TEST.model"
+  },
+  "SmallFogModel": {
+    "bounds": {
+      "max": {
+        "height": 8.0,
+        "radius": null
+      },
+      "min": {
+        "height": 8.0,
+        "radius": null
+      },
+      "scale": {
+        "height": null,
+        "radius": 1.0
+      }
+    },
+    "model": "content/location/nature/fjord/LNF431_CIRCLE_TEST/LNF431_CIRCLE_TEST.model"
+  },
+  "audio": {
+    "effect": "Default",
+    "intensity": 100.0
+  },
+  "bounds": {
+    "max": {
+      "height": 100500.0,
+      "radius": 100500.0
+    },
+    "min": {
+      "height": 1.0,
+      "radius": 1.0
+    },
+    "scale": {
+      "height": 1.0,
+      "radius": 1.0
+    }
+  },
+  "changeDist": 70.0,
+  "changeStart": -70.0,
+  "effects": [],
+  "graphics": "Dull",
+  "id": 4286924720,
+  "index": "PCOV007",
+  "logic": {
+    "AAMaxDist": null,
+    "GMIdealRadius": null,
+    "GSIdealRadius": null,
+    "GSMIdealRadius": null,
+    "airDefenseVisibilityTime": null,
+    "bad": 0,
+    "burnDamage": null,
+    "burnTime": null,
+    "maxPlaneVisionDistance": 1000.0,
+    "maxShipVisionDistance": 1000.0,
+    "maxVisibilityDistance": 1000.0,
+    "maxVisibilityDistanceByPlane": 1000.0,
+    "mgVisibilityTime": null,
+    "planeMaxVisibilityDistance": null,
+    "planeMaxVisibilityDistanceByPlane": null,
+    "planeSpeed": null,
+    "planeVisibilityFactor": null,
+    "planeVisibilityFactorByPlane": null,
+    "shootShift": null,
+    "speedCoef": null,
+    "transparency": 1.0,
+    "visibilityFactor": 1,
+    "visibilityFactorByPlane": 1
+  },
+  "name": "PCOV007_No_Felth_BigHunt",
+  "paramsInterpolationDuration": 2.0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "LocalWeather",
+    "type": "Other"
+  }
+}

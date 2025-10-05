@@ -1,0 +1,13 @@
+{
+  "costCR": 1350000,
+  "costXP": 24000,
+  "id": 3642503120,
+  "index": "PBUH622",
+  "name": "PBUH622_B7_HULL_B",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

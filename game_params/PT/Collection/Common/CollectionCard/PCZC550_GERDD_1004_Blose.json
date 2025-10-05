@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA025_GERDD_1004",
+  "compensationCR": 0,
+  "description": "IDS_PCZC550_GERDD_1004_BLOSE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 3718159280,
+  "index": "PCZC550",
+  "name": "PCZC550_GERDD_1004_Blose",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

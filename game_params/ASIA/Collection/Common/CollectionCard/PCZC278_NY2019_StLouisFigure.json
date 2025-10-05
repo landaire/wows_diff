@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA013_HappyNewYear2019",
+  "compensationCR": 0,
+  "description": "IDS_PCZC278_NY2019_STLOUISFIGURE_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4003371952,
+  "index": "PCZC278",
+  "name": "PCZC278_NY2019_StLouisFigure",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}

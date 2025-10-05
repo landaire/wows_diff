@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 4181113296,
+  "index": "PRRS108",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/russia/radar/search/RRS108_S_R_Bizan_4/RRS108_S_R_Bizan_4.model",
+  "name": "PRRS108_S_R_Bizan_4",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

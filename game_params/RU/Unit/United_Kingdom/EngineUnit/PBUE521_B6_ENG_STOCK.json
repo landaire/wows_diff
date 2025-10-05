@@ -1,0 +1,13 @@
+{
+  "costCR": 130000,
+  "costXP": 0,
+  "id": 3748507600,
+  "index": "PBUE521",
+  "name": "PBUE521_B6_ENG_STOCK",
+  "typeinfo": {
+    "nation": "United_Kingdom",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

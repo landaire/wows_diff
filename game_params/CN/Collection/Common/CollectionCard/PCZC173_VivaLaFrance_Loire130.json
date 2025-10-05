@@ -1,0 +1,17 @@
+{
+  "collectionAlbum": "PCZA008_Vivalafrance",
+  "compensationCR": 0,
+  "description": "IDS_PCZC173_VIVALAFRANCE_LOIRE130_DESCRIPTION",
+  "hasVideo": false,
+  "id": 4113472432,
+  "index": "PCZC173",
+  "name": "PCZC173_VivaLaFrance_Loire130",
+  "subAlbums": [
+    2
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "CollectionCard",
+    "type": "Collection"
+  }
+}
