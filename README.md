@@ -1,8 +1,8 @@
 This repo contains some metadata from World of Warships. This repo will hopefully be updated each patch so that each commit represents a game update.
 
-### Comparing Diffs
+### Comparing Builds
 
-The way that I tend to compare diffs a bit easier with tools like [WinMerge](https://winmerge.org/) is to use [jujutsu](https://jj-vcs.github.io) for manging the repo and using its [workspace feature](https://jj-vcs.github.io/jj/latest/cli-reference/#jj-workspace-add) to add another workspace on the earlier commit.
+The way that I tend to compare builds a bit easier with tools like [WinMerge](https://winmerge.org/) is to use [jujutsu](https://jj-vcs.github.io) for manging the repo and using its [workspace feature](https://jj-vcs.github.io/jj/latest/cli-reference/#jj-workspace-add) to add another workspace on the earlier commit.
 
 ```sh
 jj git clone https://github.com/landaire/wows_diff.git
