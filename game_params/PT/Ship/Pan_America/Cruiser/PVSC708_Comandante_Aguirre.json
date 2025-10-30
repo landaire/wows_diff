@@ -5,6 +5,7 @@
   },
   "AB_AirArmament": {
     "auraCoeff": 1.0,
+    "boundingBoxMargin": 3.0,
     "deckPlaceCount": 0,
     "isIndependentLaunchpad": false,
     "isParallelLaunch": true,
@@ -17,7 +18,8 @@
     "launchPrepareTime": 0,
     "launchpadType": "fake",
     "planesReserveCapacity": 0,
-    "turnCameraToCatapultNode": ""
+    "turnCameraToCatapultNode": "",
+    "waterLaunchLength": 20.0
   },
   "AB_AirSupport": {
     "ammoList": [
@@ -71,7 +73,7 @@
       "enhancedRegeneratedHPPart": 0.0,
       "hlType": "engine_hitlocation",
       "maxBuoyancy": 0.0,
-      "maxHP": 46600.0,
+      "maxHP": 42200.0,
       "moduleCritCoeffCR": 1.0,
       "moduleCritCoeffXP": 1.0,
       "parentHL": null,
@@ -180,6 +182,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 5.0,
       "shotTravelTime": 1.56,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 35.0,
@@ -257,6 +260,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 5.0,
       "shotTravelTime": 1.56,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 35.0,
@@ -764,6 +768,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 0.5,
       "shotTravelTime": 1.0,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 20.0,
@@ -851,6 +856,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 0.1,
       "shotTravelTime": 1.0,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 10.0,
@@ -2877,7 +2883,7 @@
       "enhancedRegeneratedHPPart": 0.0,
       "hlType": "simple_hitlocation",
       "maxBuoyancy": 0.0,
-      "maxHP": 2600.0,
+      "maxHP": 2300.0,
       "moduleCritCoeffCR": 0.0,
       "moduleCritCoeffXP": 0.0,
       "parentHL": "Hull",
@@ -2931,7 +2937,7 @@
       "enhancedRegeneratedHPPart": 0.0,
       "hlType": "simple_hitlocation",
       "maxBuoyancy": 0.0,
-      "maxHP": 7200.0,
+      "maxHP": 6500.0,
       "moduleCritCoeffCR": 0.0,
       "moduleCritCoeffXP": 0.0,
       "parentHL": "Hull",
@@ -3039,7 +3045,7 @@
       "enhancedRegeneratedHPPart": 0.0,
       "hlType": "hull_hitlocation",
       "maxBuoyancy": 0.0,
-      "maxHP": 35000.0,
+      "maxHP": 31700.0,
       "moduleCritCoeffCR": 0.0,
       "moduleCritCoeffXP": 0.0,
       "parentHL": null,
@@ -3089,7 +3095,7 @@
       "enhancedRegeneratedHPPart": 0.0,
       "hlType": "steering_gear_hitlocation",
       "maxBuoyancy": 0.0,
-      "maxHP": 14000.0,
+      "maxHP": 12700.0,
       "moduleCritCoeffCR": 0.0,
       "moduleCritCoeffXP": 0.0,
       "parentHL": null,
@@ -3144,7 +3150,7 @@
       "enhancedRegeneratedHPPart": 0.0,
       "hlType": "supersctructure_hitlocation",
       "maxBuoyancy": 0.0,
-      "maxHP": 2200.0,
+      "maxHP": 1900.0,
       "moduleCritCoeffCR": 0.0,
       "moduleCritCoeffXP": 0.0,
       "parentHL": "Hull",
@@ -3204,7 +3210,7 @@
       "enhancedRegeneratedHPPart": 0.0,
       "hlType": "simple_hitlocation",
       "maxBuoyancy": 0.0,
-      "maxHP": 2000.0,
+      "maxHP": 1900.0,
       "moduleCritCoeffCR": 0.0,
       "moduleCritCoeffXP": 0.0,
       "parentHL": "Hull",
@@ -3795,7 +3801,7 @@
     ],
     "foghornEffect": "particles/Hooter.xml",
     "friction": 0.05,
-    "health": 46600.0,
+    "health": 42200.0,
     "heatChangeValue": 1,
     "heightIntensityEffects": [],
     "isBlind": false,
@@ -3883,7 +3889,7 @@
       600.0,
       100.0
     ],
-    "tonnage": 19954.0,
+    "tonnage": 17259.0,
     "torpedoImpactMassImpulseCoeff": 0.5,
     "turningRadius": 730.0,
     "underwaterMaxRudderAngle": 0.0,
@@ -5533,7 +5539,7 @@
     "zValMid": null
   },
   "RarityCategory": {
-    "name": "Common"
+    "name": "Uncommon"
   },
   "ShipAbilities": {
     "AbilitySlot0": {
@@ -5710,7 +5716,7 @@
   "canEquipCamouflage": true,
   "defaultCrew": "PVW007_Default_Peru",
   "flagsScale": 0.6,
-  "group": "demoWithoutStatsPrem",
+  "group": "special",
   "id": 3552490832,
   "index": "PVSC708",
   "isPaperShip": true,

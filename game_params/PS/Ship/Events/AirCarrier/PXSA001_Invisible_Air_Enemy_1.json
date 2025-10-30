@@ -1,6 +1,7 @@
 {
   "A1_AirArmament": {
     "auraCoeff": 1.0,
+    "boundingBoxMargin": 3.0,
     "deckPlaceCount": 24,
     "fdck": {
       "antiRamCoeff": 1.0,
@@ -119,7 +120,8 @@
     "launchPrepareTime": 0,
     "launchpadType": "deck",
     "planesReserveCapacity": 9999,
-    "turnCameraToCatapultNode": ""
+    "turnCameraToCatapultNode": "",
+    "waterLaunchLength": 20.0
   },
   "AB1_FlightControl": {
     "airSupportSquadrons": [],
@@ -1106,6 +1108,7 @@
   },
   "B2_AirArmament": {
     "auraCoeff": 1.0,
+    "boundingBoxMargin": 3.0,
     "deckPlaceCount": 24,
     "fdck": {
       "antiRamCoeff": 1.0,
@@ -1224,7 +1227,8 @@
     "launchPrepareTime": 0,
     "launchpadType": "deck",
     "planesReserveCapacity": 9999,
-    "turnCameraToCatapultNode": ""
+    "turnCameraToCatapultNode": "",
+    "waterLaunchLength": 20.0
   },
   "B_Hull_1944": {
     "Bow": {

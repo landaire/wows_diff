@@ -1,0 +1,13 @@
+{
+  "costCR": 600000,
+  "costXP": 0,
+  "id": 4284329264,
+  "index": "PWUE010",
+  "name": "PWUE010_ENG_THOR",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2181230896,
+  "index": "PWD2015",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/director/WD2015_HACS_MK_IV_RF15ft/WD2015_HACS_MK_IV_RF15ft.model",
+  "name": "PWD2015_HACS_MK_IV_RF15ft",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Director"
+  }
+}

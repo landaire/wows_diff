@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3541937456,
+  "index": "PWUE718",
+  "name": "PWUE718_ENG_TURGUT_REIS",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

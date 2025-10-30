@@ -1,0 +1,72 @@
+{
+  "allowDivisions": true,
+  "availableBattleCardType": [],
+  "battleProvider": "PVEEventBattle",
+  "economics": {
+    "currencyType": null,
+    "earningBySelf": 0.0,
+    "earningByTeamPool": 0.0,
+    "earningsByLevel": {},
+    "earningsByTeamLadder": {},
+    "premFactor": 1.0,
+    "spendExterior": true
+  },
+  "enemyType": 2,
+  "gameLogicConfig": {},
+  "id": 4240288688,
+  "index": "PCVE052",
+  "matchmakerConfig": "eventEV50-51_ModernEra_PvE",
+  "name": "PCVE052_ModernEra_Shuffle",
+  "restrictions": {
+    "classes": {
+      "AirCarrier": [
+        0,
+        -1
+      ],
+      "Battleship": [
+        0,
+        5
+      ],
+      "Cruiser": [
+        0,
+        9
+      ],
+      "Destroyer": [
+        0,
+        3
+      ],
+      "Submarine": [
+        0,
+        -1
+      ]
+    },
+    "filters": [
+      {
+        "nations": [
+          "Events"
+        ],
+        "shipLevels": [
+          11
+        ],
+        "shipTypes": [
+          "Destroyer",
+          "Cruiser",
+          "Battleship"
+        ]
+      }
+    ],
+    "totalShips": 9
+  },
+  "scenariosByMap": {
+    "spaces/e14_ModernEra": [
+      "1_modernEra_PvE_Attack",
+      "2_modernEra_PvE_Defence"
+    ]
+  },
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Event",
+    "type": "BattleScript"
+  },
+  "uniqueShips": []
+}

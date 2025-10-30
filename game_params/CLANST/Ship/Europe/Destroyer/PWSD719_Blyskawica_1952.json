@@ -72,6 +72,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 0.5,
       "shotTravelTime": 1.0,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 20.0,
@@ -147,6 +148,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 0.5,
       "shotTravelTime": 1.0,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 20.0,
@@ -617,6 +619,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 5.0,
       "shotTravelTime": 1.51,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 35.0,
@@ -694,6 +697,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 5.0,
       "shotTravelTime": 1.51,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 35.0,
@@ -4429,7 +4433,7 @@
     "zValMid": null
   },
   "RarityCategory": {
-    "name": "Rare"
+    "name": "Epic"
   },
   "ShipAbilities": {
     "AbilitySlot0": {
@@ -4610,7 +4614,7 @@
   "canEquipCamouflage": true,
   "defaultCrew": null,
   "flagsScale": 0.5,
-  "group": "demoWithoutStatsPrem",
+  "group": "special",
   "id": 3540923696,
   "index": "PWSD719",
   "isPaperShip": false,
@@ -4635,7 +4639,8 @@
     "PCEM015_HappyNY20_9lvl",
     "PCEM014_5Years_9lvl",
     "PCEM003_Halloween19_9lvl",
-    "PCEM022_Steel_9lvl"
+    "PCEM022_Steel_9lvl",
+    "PWES503_NavyMan_Blyskawica_52"
   ],
   "pveAutoPickCard": "",
   "shipBattleCards": {

@@ -112,16 +112,16 @@
     "isFake": false,
     "lifeCycleType": 0,
     "logic": {
-      "boostCoeff": 0.33,
+      "boostCoeff": 0.5,
       "descIDs": "",
       "iconIDs": "",
       "specialSoundID": "Default",
       "titleIDs": ""
     },
-    "numConsumables": 5,
+    "numConsumables": 4,
     "periodical": true,
     "preparationTime": 0.0,
-    "reloadTime": 140.0,
+    "reloadTime": 160.0,
     "tacticalParams": {
       "usageType": "default",
       "workRange": 1000.0

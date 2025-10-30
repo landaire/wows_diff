@@ -1,6 +1,7 @@
 {
   "airArmament": {
     "auraCoeff": 1.0,
+    "boundingBoxMargin": 3.0,
     "deckPlaceCount": 24,
     "isIndependentLaunchpad": false,
     "isParallelLaunch": true,
@@ -13,7 +14,8 @@
     "launchPrepareTime": 0,
     "launchpadType": "fake",
     "planesReserveCapacity": 199,
-    "turnCameraToCatapultNode": ""
+    "turnCameraToCatapultNode": "",
+    "waterLaunchLength": 20.0
   },
   "airshipPlane": {
     "planeType": "PXAA001_Airship",

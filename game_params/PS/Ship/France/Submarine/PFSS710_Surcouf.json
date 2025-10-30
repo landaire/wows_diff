@@ -28,6 +28,7 @@
       }
     },
     "auraCoeff": 1.0,
+    "boundingBoxMargin": 3.0,
     "deckPlaceCount": 0,
     "isIndependentLaunchpad": false,
     "isParallelLaunch": true,
@@ -38,9 +39,10 @@
     ],
     "jointLaunchPlaneCount": 1,
     "launchPrepareTime": 0,
-    "launchpadType": "catapult",
+    "launchpadType": "water",
     "planesReserveCapacity": 0,
-    "turnCameraToCatapultNode": ""
+    "turnCameraToCatapultNode": "",
+    "waterLaunchLength": 20.0
   },
   "A_AirSupport": {
     "ammoList": [
@@ -130,7 +132,7 @@
       ],
       "id": 2172249936,
       "idealDistance": 1000.0,
-      "idealRadius": 8,
+      "idealRadius": 4.0,
       "index": "PFGM2024",
       "lensEffect": "particles/guns/GK_Lens.xml",
       "maxEllipseRanging": 1.003,
@@ -161,7 +163,7 @@
         18.0,
         10.0
       ],
-      "shotDelay": 8.0,
+      "shotDelay": 7.0,
       "shotEffect": "particles/guns/GK_Shot.xml",
       "smallGun": null,
       "smokePenalty": 0.0001,
@@ -690,7 +692,7 @@
       -60
     ],
     "buoyancyRudderResetTime": 20.5,
-    "buoyancyRudderTime": 27.0,
+    "buoyancyRudderTime": 20.0,
     "buoyancyStates": {
       "DEEP_WATER_INVUL": [
         [
@@ -730,7 +732,7 @@
     "canReceiveWildFire": true,
     "chimneyMaxAngle": 45.0,
     "consumablePlaneTypes": {
-      "fighter": "",
+      "fighter": "PFAF005_BLOCH157",
       "scout": "PFAS004_GL821"
     },
     "coolingOffSpeed": 0.1,
@@ -1322,7 +1324,7 @@
     "isFakeSubmarine": false,
     "mass": 5215000.0,
     "maxBuoyancyLevel": -60.0,
-    "maxBuoyancySpeed": 2.2,
+    "maxBuoyancySpeed": 2.9,
     "maxHeatValue": 100.0,
     "maxRudderAngle": 30.0,
     "maxSpeed": 32.0,
@@ -1406,7 +1408,7 @@
     "tonnage": 5215.0,
     "torpedoImpactMassImpulseCoeff": 0.5,
     "turningRadius": 610.0,
-    "underwaterMaxRudderAngle": 4.4,
+    "underwaterMaxRudderAngle": 5.8,
     "underwaterRollEffect": 3.2,
     "unpeculiarCamouflage": "",
     "unpeculiarCamouflageColorSchemeId": 0,
@@ -3988,7 +3990,12 @@
       "slot": 3
     },
     "AbilitySlot4": {
-      "abils": [],
+      "abils": [
+        [
+          "PCY062_SpotterPremium_TimeBased",
+          "Surcouf_Spotter"
+        ]
+      ],
       "isSpecial": false,
       "slot": 4
     },

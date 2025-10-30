@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2178332976,
+  "index": "PWRS2018",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/radar/search/WRS2018_RDF_Type_281_back/WRS2018_RDF_Type_281_back.model",
+  "name": "PWRS2018_RDF_Type_281_stern",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

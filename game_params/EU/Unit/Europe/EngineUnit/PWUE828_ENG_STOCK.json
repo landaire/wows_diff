@@ -1,0 +1,13 @@
+{
+  "costCR": 600000,
+  "costXP": 0,
+  "id": 3426594096,
+  "index": "PWUE828",
+  "name": "PWUE828_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

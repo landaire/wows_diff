@@ -70,6 +70,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 0.5,
       "shotTravelTime": 1.5,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 20.0,
@@ -147,6 +148,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 0.1,
       "shotTravelTime": 1.0,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 10.0,
@@ -4306,7 +4308,8 @@
   "permoflages": [
     "PCEP107_Permo_Prem_High_lvl",
     "PWEP502_Blyskawica_SZARZA",
-    "PWEP503_Blyskawica_303"
+    "PWEP503_Blyskawica_303",
+    "PWES501_NavyMan_Blyskawica"
   ],
   "pveAutoPickCard": "",
   "shipBattleCards": {

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3455921424,
+  "index": "PXUF800",
+  "name": "PXUF800_FC",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "FlightControlUnit",
+    "type": "Unit"
+  },
+  "ucType": "_FlightControl"
+}

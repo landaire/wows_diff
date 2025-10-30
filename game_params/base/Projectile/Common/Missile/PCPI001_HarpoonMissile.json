@@ -1,0 +1,250 @@
+{
+  "accelerationSpeedAcquisition": 75,
+  "accelerationSpeedBooster": 250,
+  "accelerationSpeedCruise": 75,
+  "accelerationSpeedHoming": 75,
+  "acidProb": 0.0,
+  "acquisitionConeActivationDistance": 4000,
+  "acquisitionConeEndWidth": 3200,
+  "acquisitionConeLength": 3000,
+  "acquisitionConeOriginDistance": 500,
+  "acquisitionConeStartWidth": 200,
+  "acquisitionSearchRadius": 1000,
+  "acquisitionStopSearchRadius": 500,
+  "additionalShips": [],
+  "affectedByPTZ": false,
+  "alphaDamage": 33600.0,
+  "alphaPiercingCS": 0,
+  "alphaPiercingHE": 0,
+  "altitudeAcquisition": 210,
+  "altitudeCruise": 420,
+  "altitudeHoming": 3,
+  "ammoType": "missile",
+  "applyPTZCoeff": false,
+  "blowUpEffect": [
+    "particles/guns/PROJ_Explo.xml",
+    "particles/guns/PROJ_Explo_2.xml"
+  ],
+  "bonusOffset": 0,
+  "bulletAirDrag": 0.35,
+  "bulletAlwaysRicochetAt": 60.0,
+  "bulletCap": true,
+  "bulletCapNormalizeMaxAngle": 45.0,
+  "bulletDetonator": 0.03,
+  "bulletDetonatorSpread": 0.0,
+  "bulletDetonatorThreshold": 25.0,
+  "bulletDiametr": 0.04,
+  "bulletKrupp": 3.0,
+  "bulletMass": 3.0,
+  "bulletPenetrationSpread": 0.0,
+  "bulletRicochetAt": 45.0,
+  "bulletSpeed": 300.0,
+  "bulletUnderwaterDistFactor": 0.8,
+  "bulletUnderwaterPenetrationFactor": 0.9,
+  "bulletWaterDrag": 10.0,
+  "buoyancyToDamageCoeff": {
+    "DEEP_WATER": 1.0,
+    "DEEP_WATER_INVUL": 0.0,
+    "PERISCOPE": 1.0,
+    "SEMI_DEEP_WATER": 1.0,
+    "SURFACE": 1.0
+  },
+  "burnProb": 0.05,
+  "costCR": 5,
+  "customSoundPostfix": "",
+  "customUIPostfix": "",
+  "damage": 0.0,
+  "damageDistribution": {},
+  "damageVulnerabilityForShipClasses": {
+    "AirCarrier": 1,
+    "Auxiliary": 1,
+    "Battleship": 1,
+    "Cruiser": 1,
+    "Destroyer": 1,
+    "Submarine": 1
+  },
+  "damagedFlightEffect": "particles/RocketTrail_damage.xml",
+  "depthSplashRadius": 3.0,
+  "directDamage": 0.0,
+  "distParams": [
+    -0.12,
+    0.1,
+    0.12,
+    0.0
+  ],
+  "distTile": 3.0,
+  "durationBooster": 1.25,
+  "explosionRadius": 200.0,
+  "fallDistance": 20.0,
+  "fallTime": 20.0,
+  "flightAngleOfClimb": 60.0,
+  "flightAngleOfDive": -75.0,
+  "flightClimbSpeedCoefLimit": 1.0,
+  "flightDiveSpeedCoefLimit": 1.0,
+  "flightEffect": "particles/RocketTrail.xml",
+  "flightTurnRadius": 10.0,
+  "floodGeneration": false,
+  "ground": [
+    "particles/guns/PROJ_AP_Explo_Ground_V.xml",
+    "particles/guns/PROJ_AP_Explo_Ground_V_1.xml",
+    "particles/guns/PROJ_AP_Explo_Ground_V_2.xml",
+    "particles/guns/PROJ_AP_Explo_Ground_V_3.xml"
+  ],
+  "groundHitDecalSize": 1.0,
+  "groundHitEffect": "particles/RocketGroundImpact.xml",
+  "groundHorizontal": [
+    "particles/guns/PROJ_AP_Explo_Ground_H.xml",
+    "particles/guns/PROJ_AP_Explo_Ground_H_1.xml",
+    "particles/guns/PROJ_AP_Explo_Ground_H_2.xml"
+  ],
+  "groundVertical": [
+    "particles/guns/PROJ_AP_Explo_Ground_V.xml",
+    "particles/guns/PROJ_AP_Explo_Ground_V_1.xml",
+    "particles/guns/PROJ_AP_Explo_Ground_V_2.xml",
+    "particles/guns/PROJ_AP_Explo_Ground_V_3.xml"
+  ],
+  "gunCaliber": 0.1,
+  "hatTracerTexture": "/",
+  "hitDecalSize": 0.2,
+  "homingTerminationDistance": 800,
+  "id": 4293641136,
+  "ignoreBuoyancyStates": [
+    "DEEP_WATER_INVUL"
+  ],
+  "ignoreClasses": [],
+  "index": "PCPI001",
+  "initialSpeed": 50.0,
+  "isBomb": false,
+  "isFeedbackAndMarkerHidden": false,
+  "maxDepth": -15,
+  "maxHealth": 500.0,
+  "maxRotateSpeedAcquisition": 3.14,
+  "maxRotateSpeedCruise": 3.14,
+  "maxRotateSpeedHoming": 3.14,
+  "maxSpeedAcquisition": 450,
+  "maxSpeedBooster": 500,
+  "maxSpeedCruise": 450,
+  "maxSpeedHoming": 450,
+  "model": "content/gameplay/usa/projectile/missile/API2001_RGM_84_Harpoon/API2001_RGM_84_Harpoon.model",
+  "name": "PCPI001_HarpoonMissile",
+  "naturalSpeedDecrease": 50,
+  "onHit": null,
+  "ownHatTracerTexture": "/",
+  "ownTracerEffect": "",
+  "ownTracerTexture": "/",
+  "parachuteHeightCoeff": 0.75,
+  "parachuteModel": "content/location/misc/gameplay/LMY052_Parachute/LMY052_Parachute.model",
+  "parachuteTimeCoeff": 0.95,
+  "pitchChangeRate": 300.0,
+  "planePitchAccelerationTime": 0.5,
+  "planeSpeedupCoef": 10.0,
+  "planeYawAccelerationTime": 2.0,
+  "pointsOfDamage": [
+    [
+      0,
+      1.0
+    ],
+    [
+      0.999,
+      1.0
+    ],
+    [
+      1.0,
+      0.0
+    ]
+  ],
+  "projDestroyedEffect": "particles/RocketDestroy.xml",
+  "projDestroyedEffectHorizontal": [
+    "particles/guns/PROJ_AP_Explo_Ship_H.xml"
+  ],
+  "projDestroyedEffectVertical": [
+    "particles/guns/PROJ_AP_Explo_Ship_V.xml"
+  ],
+  "projHitCitadelEffectHorizontal": [
+    "particles/guns/PROJ_Explo_CIT.xml"
+  ],
+  "projHitCitadelEffectVertical": [
+    "particles/guns/PROJ_Explo_CIT.xml"
+  ],
+  "projHitNoPenetrationEffectHorizontal": [
+    "particles/guns/PROJ_AP_Explo_Ship_NP_H.xml"
+  ],
+  "projHitNoPenetrationEffectVertical": [
+    "particles/guns/PROJ_AP_Explo_Ship_NP_V.xml"
+  ],
+  "projOverPenetrationEffectHorizontal": [
+    "particles/guns/PROJ_AP_Ship_OP_In.xml"
+  ],
+  "projOverPenetrationEffectVertical": [
+    "particles/guns/PROJ_AP_Ship_OP_In.xml"
+  ],
+  "projOverPenetrationExitEffectHorizontal": [
+    "particles/guns/PROJ_AP_Ship_OP_Out.xml"
+  ],
+  "projOverPenetrationExitEffectVertical": [
+    "particles/guns/PROJ_AP_Ship_OP_Out.xml"
+  ],
+  "projRicochetEffectHorizontal": [
+    "particles/guns/PROJ_AP_Ship_RIC.xml"
+  ],
+  "projRicochetEffectVertical": [
+    "particles/guns/PROJ_AP_Ship_RIC.xml"
+  ],
+  "rotationCoeff": 1.0,
+  "shellDistortTexture": "particles/trails/Trail_Distort_Neutral.dds",
+  "shellGlow": 1.0,
+  "shellLength": 1.5,
+  "shellModelScale": 0.1,
+  "shellTint": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "shipDestroyEffect": "particles/RocketShipImpact.xml",
+  "shipDispersionLength": 25,
+  "smokeAlphaFalloff": 28.0,
+  "smokeDistortTexture": "particles/trails/Trail_Distort_Smoke.dds",
+  "smokeOpacity": 0.65,
+  "smokeTexture": "",
+  "smokeThickness": 0.1,
+  "smokeTileLength": 2.0,
+  "smokeTint": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "splashArmorCoeff": 0.0,
+  "splashCubeSize": 0.0,
+  "timeFactor": 1.0,
+  "tracerEffect": "",
+  "tracerLength": 30.0,
+  "tracerOpacity": 0.8,
+  "tracerTexture": "/",
+  "tracerThickness": 0.05,
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Missile",
+    "type": "Projectile"
+  },
+  "useEnhancedRegenerationRules": false,
+  "uvSpeed": -0.2,
+  "uwCritical": 0.15,
+  "visibilityFactor": 10.0,
+  "volume": 0.0,
+  "water": [
+    "particles/guns/PROJ_AP_Explo_Water.xml",
+    "particles/guns/PROJ_AP_Explo_Water_1.xml",
+    "particles/guns/PROJ_AP_Explo_Water_2.xml",
+    "particles/guns/PROJ_AP_Explo_Water_3.xml",
+    "particles/guns/PROJ_AP_Explo_Water_4.xml"
+  ],
+  "waterDispersionRadius": 25,
+  "waterEffectMaxIntensity": 10.0,
+  "waterEffectMinIntensity": 0.1,
+  "waterHitEffect": "particles/RocketWaterImpact.xml",
+  "waterRefractionReflectDeltaAngleInterval": [
+    2.0,
+    6.0
+  ],
+  "withParachute": false
+}

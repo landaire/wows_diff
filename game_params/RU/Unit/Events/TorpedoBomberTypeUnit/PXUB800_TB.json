@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3456052496,
+  "index": "PXUB800",
+  "name": "PXUB800_TB",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "TorpedoBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_TorpedoBomber"
+}

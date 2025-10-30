@@ -1,6 +1,8 @@
 {
   "Default_TimeBased": {
-    "availableBuoyancyStates": [],
+    "availableBuoyancyStates": [
+      "SURFACE"
+    ],
     "capacityRegenCoeff": 0.0,
     "consumableType": "fighter",
     "descIDs": "",

@@ -1,0 +1,13 @@
+{
+  "costCR": 3400000,
+  "costXP": 0,
+  "id": 4284230960,
+  "index": "PWUH010",
+  "name": "PWUH010_HULL_THOR",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

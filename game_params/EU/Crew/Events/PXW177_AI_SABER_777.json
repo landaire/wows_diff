@@ -1,0 +1,62 @@
+{
+  "CrewPersonality": {
+    "canResetSkillsForFree": false,
+    "costCR": 0,
+    "costELXP": 0,
+    "costGold": 0,
+    "costXP": 0,
+    "hasCustomBackground": false,
+    "hasOverlay": false,
+    "hasRank": false,
+    "hasSampleVO": false,
+    "isAnimated": false,
+    "isPerson": true,
+    "isRetrainable": false,
+    "isUnique": false,
+    "peculiarity": "default",
+    "permissions": 0,
+    "personName": "AI_SABER_777",
+    "ships": {
+      "groups": [],
+      "nation": [],
+      "peculiarity": [],
+      "ships": [
+        "PXSD041_Marceau_modern",
+        "PXSD042_Grozovoy_modern"
+      ]
+    },
+    "subnation": "",
+    "tags": [
+      "catalogueHidden"
+    ]
+  },
+  "Skills": null,
+  "UniqueSkills": null,
+  "Vanity": {
+    "bannerFlag": "",
+    "crewExpFactor": 1.0,
+    "fireworkEffect": "",
+    "flareEffect": "",
+    "hasOwnTracer": false,
+    "smokeTexture": "particles/trails/Trail_smoke_commander_R.dds",
+    "smokeTint": [
+      5.0,
+      5.0,
+      5.0
+    ]
+  },
+  "baseTrainingLevel": 1,
+  "canBuy": false,
+  "canCharge": true,
+  "goldTrainingLevel": 11,
+  "id": 4108494096,
+  "index": "PXW177",
+  "isTemplate": false,
+  "moneyTrainingLevel": 7,
+  "name": "PXW177_AI_SABER_777",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Crew"
+  }
+}

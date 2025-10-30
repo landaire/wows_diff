@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3328978384,
+  "index": "PRUH921",
+  "name": "PRUH921_HULL_POSTAPOC_PETROPAVLOVSK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

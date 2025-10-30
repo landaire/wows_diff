@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2179381552,
+  "index": "PWRS2017",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/radar/search/WRS2017_RDF_Type_281_front/WRS2017_RDF_Type_281_front.model",
+  "name": "PWRS2017_RDF_Type_281_bow",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "Search",
+    "type": "Radar"
+  }
+}

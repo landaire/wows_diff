@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3520474928,
+  "index": "PGUT738",
+  "name": "PGUT738_TORP_POSTAPOC_ZIETEN",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

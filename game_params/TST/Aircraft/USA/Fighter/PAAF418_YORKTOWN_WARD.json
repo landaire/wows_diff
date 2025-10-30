@@ -1196,6 +1196,7 @@
   "underMinThrottleMultiplier": 5.0,
   "visibilityFactor": 10.0,
   "visibilityFactorByPlane": 10.0,
+  "visionToMissile": 0,
   "visionToPlane": 5.5,
   "visionToShip": 2.0,
   "visionToTorpedo": 0,

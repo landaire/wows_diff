@@ -1,0 +1,35 @@
+{
+  "canCharge": true,
+  "costCR": 100000,
+  "excludes": [],
+  "group": [],
+  "id": 4170370992,
+  "index": "PCM118",
+  "modifiers": {
+    "GTShotDelay": 0.85,
+    "missileTimeBetweenShotsCoeff": 0.85,
+    "vulnerabilityMissile": 1.15
+  },
+  "name": "PCM118_Modern_Spec_Mod_Red2",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PXSB053_Aegir_modern",
+    "PXSC051_Dalian_modern",
+    "PXSC050_Austin_modern",
+    "PXSD042_Grozovoy_modern",
+    "PXSD041_Marceau_modern",
+    "PXSB054_Yoshino_modern"
+  ],
+  "shiptype": [],
+  "slot": 2,
+  "tags": [
+    "unique"
+  ],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

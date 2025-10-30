@@ -1,0 +1,84 @@
+{
+  "HitLocationMissileGun": {
+    "antiRamCoeff": 1.0,
+    "armorCoeff": 1.0,
+    "autoRepairTime": 10,
+    "autoRepairTimeMin": 5,
+    "brokenRepairHealthCoefficient": 0.75,
+    "brokenRepairTime": 90.0,
+    "buoyancyShipPercent": 0.0,
+    "burnNode": "",
+    "canBeDestroyed": false,
+    "critProb": [
+      0.0,
+      0.0
+    ],
+    "critProbHP": [
+      1.0,
+      0.0
+    ],
+    "damageEffects": [],
+    "enhancedRegeneratedHPPart": 0.0,
+    "hlType": "missile_gun_hitlocation",
+    "maxBuoyancy": 0.0,
+    "maxHP": 1200.0,
+    "moduleCritCoeffCR": 0.0,
+    "moduleCritCoeffXP": 0.0,
+    "parentHL": null,
+    "ramCoeff": 1.0,
+    "ramExtraDamage": 0.0,
+    "regeneratedHPPart": 0.5,
+    "splashBoxes": [],
+    "startHPCoeff": 1.0,
+    "tbSkipProbMax": 0.0,
+    "tbSkipProbMin": 0.0,
+    "transmitHPDamageToParentFactor": 1.0,
+    "volume": 0.5,
+    "volumeCoeff": 1.0
+  },
+  "ammoList": [
+    "PCPI001_HarpoonMissile"
+  ],
+  "armor": {
+    "65580": 6.0
+  },
+  "barrelDiameter": 0.34,
+  "brokenEffect": "particles/guns/Gun_Damage_vvsmall.xml",
+  "customMiscs": {},
+  "damagedEffect": "particles/guns/Gun_Broken_vvsmall.xml",
+  "deadMesh": "content/gameplay/usa/gun/missilegun/AGR2023_Mk141_Launcher/AGR2023_Mk141_Launcher_dead.model",
+  "effectIntensityModifier": 1.0,
+  "horizSector": [
+    0.0,
+    0.0
+  ],
+  "id": 2179426288,
+  "index": "PAGR2017",
+  "lensEffect": "",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/usa/gun/missilegun/AGR2023_Mk141_Launcher/AGR2023_Mk141_Launcher.model",
+  "name": "PAGR2017_Mk141_Launcher_2tube",
+  "numBarrels": 2,
+  "purgingEffect": "particles/Empty_FX.xml",
+  "reloadBoostEffect": "particles/guns/Torpedo_Reload.xml",
+  "rotationSpeed": [
+    0.0,
+    0.0
+  ],
+  "shotDelay": 5.0,
+  "shotEffect": "particles/RocketLauch.xml",
+  "shotEffectCap": "particles/Empty_FX.xml",
+  "smallGun": true,
+  "taperDist": 0.0,
+  "timeBetweenShots": 10.0,
+  "typeinfo": {
+    "nation": "USA",
+    "species": "MissileGun",
+    "type": "Gun"
+  },
+  "vertSector": [
+    0.0,
+    1.0
+  ]
+}

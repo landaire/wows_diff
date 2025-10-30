@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4251954448,
+  "index": "PXUA041",
+  "name": "PXUA041_ART",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

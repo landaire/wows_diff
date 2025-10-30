@@ -2746,6 +2746,7 @@
   },
   "A_AirArmament": {
     "auraCoeff": 1.0,
+    "boundingBoxMargin": 3.0,
     "deckPlaceCount": 0,
     "isIndependentLaunchpad": false,
     "isParallelLaunch": true,
@@ -2758,7 +2759,8 @@
     "launchPrepareTime": 0,
     "launchpadType": "fake",
     "planesReserveCapacity": 0,
-    "turnCameraToCatapultNode": ""
+    "turnCameraToCatapultNode": "",
+    "waterLaunchLength": 20.0
   },
   "A_AirSupport": {
     "ammoList": [

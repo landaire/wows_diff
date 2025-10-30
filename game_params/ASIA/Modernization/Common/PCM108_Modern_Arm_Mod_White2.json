@@ -1,0 +1,36 @@
+{
+  "canCharge": true,
+  "costCR": 100000,
+  "excludes": [],
+  "group": [],
+  "id": 4180856752,
+  "index": "PCM108",
+  "modifiers": {
+    "missileRangeCoefficient": 1.15,
+    "missileSpeedMultiplier": 1.05,
+    "torpedoRangeCoefficient": 1.25,
+    "torpedoSpeedMultiplier": 1.1
+  },
+  "name": "PCM108_Modern_Arm_Mod_White2",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PXSB053_Aegir_modern",
+    "PXSC051_Dalian_modern",
+    "PXSC050_Austin_modern",
+    "PXSD042_Grozovoy_modern",
+    "PXSD041_Marceau_modern",
+    "PXSB054_Yoshino_modern"
+  ],
+  "shiptype": [],
+  "slot": 0,
+  "tags": [
+    "unique"
+  ],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

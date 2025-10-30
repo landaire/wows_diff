@@ -1,0 +1,62 @@
+{
+  "CrewPersonality": {
+    "canResetSkillsForFree": false,
+    "costCR": 0,
+    "costELXP": 0,
+    "costGold": 0,
+    "costXP": 0,
+    "hasCustomBackground": false,
+    "hasOverlay": false,
+    "hasRank": false,
+    "hasSampleVO": false,
+    "isAnimated": false,
+    "isPerson": true,
+    "isRetrainable": false,
+    "isUnique": false,
+    "peculiarity": "default",
+    "permissions": 0,
+    "personName": "Joanna_Lee",
+    "ships": {
+      "groups": [],
+      "nation": [],
+      "peculiarity": [],
+      "ships": [
+        "PXSB053_Aegir_modern",
+        "PXSB054_Yoshino_modern"
+      ]
+    },
+    "subnation": "",
+    "tags": [
+      "catalogueHidden"
+    ]
+  },
+  "Skills": null,
+  "UniqueSkills": null,
+  "Vanity": {
+    "bannerFlag": "",
+    "crewExpFactor": 1.0,
+    "fireworkEffect": "",
+    "flareEffect": "",
+    "hasOwnTracer": false,
+    "smokeTexture": "particles/trails/Trail_smoke_commander_R.dds",
+    "smokeTint": [
+      5.0,
+      5.0,
+      5.0
+    ]
+  },
+  "baseTrainingLevel": 1,
+  "canBuy": false,
+  "canCharge": true,
+  "goldTrainingLevel": 11,
+  "id": 4110591248,
+  "index": "PXW175",
+  "isTemplate": false,
+  "moneyTrainingLevel": 7,
+  "name": "PXW175_Joanna_Lee",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Crew"
+  }
+}

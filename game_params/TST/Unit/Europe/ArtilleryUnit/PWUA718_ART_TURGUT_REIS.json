@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3542068528,
+  "index": "PWUA718",
+  "name": "PWUA718_ART_TURGUT_REIS",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

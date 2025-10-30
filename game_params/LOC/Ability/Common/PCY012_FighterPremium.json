@@ -1,6 +1,8 @@
 {
   "Fighter_1": {
-    "availableBuoyancyStates": [],
+    "availableBuoyancyStates": [
+      "SURFACE"
+    ],
     "consumableType": "fighter",
     "descIDs": "",
     "group": "ship",
@@ -35,7 +37,9 @@
     "workTime": 60.0
   },
   "Fighter_2": {
-    "availableBuoyancyStates": [],
+    "availableBuoyancyStates": [
+      "SURFACE"
+    ],
     "consumableType": "fighter",
     "descIDs": "",
     "group": "ship",
@@ -70,7 +74,9 @@
     "workTime": 60.0
   },
   "Fighter_3": {
-    "availableBuoyancyStates": [],
+    "availableBuoyancyStates": [
+      "SURFACE"
+    ],
     "consumableType": "fighter",
     "descIDs": "",
     "group": "ship",
@@ -105,7 +111,9 @@
     "workTime": 60.0
   },
   "Fighter_4": {
-    "availableBuoyancyStates": [],
+    "availableBuoyancyStates": [
+      "SURFACE"
+    ],
     "consumableType": "fighter",
     "descIDs": "",
     "group": "ship",
@@ -140,7 +148,9 @@
     "workTime": 60.0
   },
   "Musashi": {
-    "availableBuoyancyStates": [],
+    "availableBuoyancyStates": [
+      "SURFACE"
+    ],
     "consumableType": "fighter",
     "descIDs": "",
     "group": "ship",
@@ -175,7 +185,9 @@
     "workTime": 80.0
   },
   "PAM_Fighter_2": {
-    "availableBuoyancyStates": [],
+    "availableBuoyancyStates": [
+      "SURFACE"
+    ],
     "consumableType": "fighter",
     "descIDs": "",
     "group": "ship",
@@ -210,7 +222,9 @@
     "workTime": 60.0
   },
   "PAM_Fighter_3": {
-    "availableBuoyancyStates": [],
+    "availableBuoyancyStates": [
+      "SURFACE"
+    ],
     "consumableType": "fighter",
     "descIDs": "",
     "group": "ship",
@@ -245,7 +259,9 @@
     "workTime": 60.0
   },
   "PAM_Fighter_4": {
-    "availableBuoyancyStates": [],
+    "availableBuoyancyStates": [
+      "SURFACE"
+    ],
     "consumableType": "fighter",
     "descIDs": "",
     "group": "ship",
@@ -280,7 +296,9 @@
     "workTime": 60.0
   },
   "US_Hybride": {
-    "availableBuoyancyStates": [],
+    "availableBuoyancyStates": [
+      "SURFACE"
+    ],
     "consumableType": "fighter",
     "descIDs": "",
     "group": "ship",

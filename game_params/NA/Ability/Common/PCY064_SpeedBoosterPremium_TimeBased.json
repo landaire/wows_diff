@@ -29,6 +29,126 @@
     },
     "titleIDs": ""
   },
+  "EU_BB_10": {
+    "availableBuoyancyStates": [],
+    "capacityRegenCoeff": 0.0,
+    "consumableType": "speedBoosters",
+    "descIDs": "PCY015_SpeedBooster_Imp_Premium",
+    "group": "ship",
+    "iconIDs": "PCY015_SpeedBooster_Imp_Premium",
+    "isFake": false,
+    "lifeCycleType": 1,
+    "logic": {
+      "backwardEngineForsag": 2.5,
+      "backwardEngineForsagMaxSpeed": 10.0,
+      "boostCoeff": 0.25,
+      "descIDs": "",
+      "forwardEngineForsag": 2.5,
+      "forwardEngineForsagMaxSpeed": 10.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "maxCapacity": 135.0,
+    "minWorkTime": 15.0,
+    "preparationTime": 0.0,
+    "reloadTime": 30.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY015_SpeedBooster_Imp_Premium"
+  },
+  "EU_BB_8": {
+    "availableBuoyancyStates": [],
+    "capacityRegenCoeff": 0.0,
+    "consumableType": "speedBoosters",
+    "descIDs": "PCY015_SpeedBooster_Imp_Premium",
+    "group": "ship",
+    "iconIDs": "PCY015_SpeedBooster_Imp_Premium",
+    "isFake": false,
+    "lifeCycleType": 1,
+    "logic": {
+      "backwardEngineForsag": 2.5,
+      "backwardEngineForsagMaxSpeed": 10.0,
+      "boostCoeff": 0.25,
+      "descIDs": "",
+      "forwardEngineForsag": 2.5,
+      "forwardEngineForsagMaxSpeed": 10.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "maxCapacity": 105.0,
+    "minWorkTime": 15.0,
+    "preparationTime": 0.0,
+    "reloadTime": 30.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY015_SpeedBooster_Imp_Premium"
+  },
+  "EU_BB_9": {
+    "availableBuoyancyStates": [],
+    "capacityRegenCoeff": 0.0,
+    "consumableType": "speedBoosters",
+    "descIDs": "PCY015_SpeedBooster_Imp_Premium",
+    "group": "ship",
+    "iconIDs": "PCY015_SpeedBooster_Imp_Premium",
+    "isFake": false,
+    "lifeCycleType": 1,
+    "logic": {
+      "backwardEngineForsag": 2.5,
+      "backwardEngineForsagMaxSpeed": 10.0,
+      "boostCoeff": 0.25,
+      "descIDs": "",
+      "forwardEngineForsag": 2.5,
+      "forwardEngineForsagMaxSpeed": 10.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "maxCapacity": 120.0,
+    "minWorkTime": 15.0,
+    "preparationTime": 0.0,
+    "reloadTime": 30.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY015_SpeedBooster_Imp_Premium"
+  },
+  "EU_BB_LOW": {
+    "availableBuoyancyStates": [],
+    "capacityRegenCoeff": 0.0,
+    "consumableType": "speedBoosters",
+    "descIDs": "PCY015_SpeedBooster_Imp_Premium",
+    "group": "ship",
+    "iconIDs": "PCY015_SpeedBooster_Imp_Premium",
+    "isFake": false,
+    "lifeCycleType": 1,
+    "logic": {
+      "backwardEngineForsag": 2.5,
+      "backwardEngineForsagMaxSpeed": 10.0,
+      "boostCoeff": 0.2,
+      "descIDs": "",
+      "forwardEngineForsag": 2.5,
+      "forwardEngineForsagMaxSpeed": 10.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "maxCapacity": 90.0,
+    "minWorkTime": 15.0,
+    "preparationTime": 0.0,
+    "reloadTime": 30.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY015_SpeedBooster_Imp_Premium"
+  },
   "canBuy": false,
   "costCR": -1,
   "costGold": -1,

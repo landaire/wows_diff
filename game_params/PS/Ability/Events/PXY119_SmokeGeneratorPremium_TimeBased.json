@@ -1,0 +1,48 @@
+{
+  "ModernEra_Grozovoy": {
+    "availableBuoyancyStates": [],
+    "capacityRegenCoeff": 0.0,
+    "consumableType": "smokeGenerator",
+    "descIDs": "PCY006_SmokeGeneratorOil",
+    "group": "ship",
+    "iconIDs": "PCY006_SmokeGeneratorOil",
+    "isFake": false,
+    "lifeCycleType": 1,
+    "logic": {
+      "descIDs": "",
+      "height": 5.0,
+      "iconIDs": "",
+      "lifeTime": 5.0,
+      "livePointEffect": "particles/SmokeScreen.xml",
+      "radius": 13.333,
+      "spawnBackwardShift": 0.0,
+      "spawnEffect": "particles/SmokeScreen_generator.xml",
+      "spawnPointEffect": "particles/SmokeScreen_spawn.xml",
+      "specialSoundID": "Default",
+      "speedLimit": 220.0,
+      "startDelayTime": 2.0,
+      "titleIDs": ""
+    },
+    "maxCapacity": 120.0,
+    "minWorkTime": 10.0,
+    "preparationTime": 0.0,
+    "reloadTime": 5.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY006_SmokeGeneratorOil"
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 4169309456,
+  "index": "PXY119",
+  "name": "PXY119_SmokeGeneratorPremium_TimeBased",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

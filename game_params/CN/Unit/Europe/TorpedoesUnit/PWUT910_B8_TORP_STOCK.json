@@ -1,0 +1,13 @@
+{
+  "costCR": 440000,
+  "costXP": 0,
+  "id": 3340119344,
+  "index": "PWUT910",
+  "name": "PWUT910_B8_TORP_STOCK",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

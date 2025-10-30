@@ -755,6 +755,33 @@
     "titleIDs": "",
     "workTime": 28.0
   },
+  "EUBB_Gold": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenCrew",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationHPSpeed": 0.005,
+      "regenerationHPSpeedUnits": 0.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 28.0
+  },
   "EU_DD_High": {
     "availableBuoyancyStates": [],
     "consumableType": "regenCrew",
@@ -1782,6 +1809,33 @@
     },
     "titleIDs": "",
     "workTime": 14.0
+  },
+  "TURGUT_Gold": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenCrew",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationHPSpeed": 0.005,
+      "regenerationHPSpeedUnits": 0.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 80.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 28.0
   },
   "Tennessee": {
     "availableBuoyancyStates": [],

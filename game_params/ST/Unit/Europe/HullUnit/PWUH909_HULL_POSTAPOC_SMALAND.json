@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3341561136,
+  "index": "PWUH909",
+  "name": "PWUH909_HULL_POSTAPOC_SMALAND",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

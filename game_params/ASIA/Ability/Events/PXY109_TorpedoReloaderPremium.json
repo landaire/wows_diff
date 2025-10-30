@@ -53,6 +53,60 @@
     "titleIDs": "",
     "workTime": 1.0
   },
+  "ModernEra_Marceau": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "PCY018_TorpedoReloaderPremium",
+    "group": "ship",
+    "iconIDs": "PCY018_TorpedoReloaderPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "torpedoReloadTime": 1.0
+    },
+    "numConsumables": 2,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 90.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY018_TorpedoReloaderPremium",
+    "workTime": 1.0
+  },
+  "ModernEra_Yoshino": {
+    "availableBuoyancyStates": [],
+    "consumableType": "torpedoReloader",
+    "descIDs": "PCY018_TorpedoReloaderPremium",
+    "group": "ship",
+    "iconIDs": "PCY018_TorpedoReloaderPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "photonTorpedoReloadTime": 60.0,
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "torpedoReloadTime": 1.0
+    },
+    "numConsumables": 2,
+    "periodical": false,
+    "preparationTime": 0.0,
+    "reloadTime": 40.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY018_TorpedoReloaderPremium",
+    "workTime": 1.0
+  },
   "canBuy": false,
   "costCR": -1,
   "costGold": -1,

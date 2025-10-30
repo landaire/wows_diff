@@ -1,0 +1,176 @@
+{
+  "Aegir_Modern": {
+    "availableBuoyancyStates": [],
+    "consumableType": "buff",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "applyType": "personal",
+      "buff": "PCOM904_ArmorBuff",
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 40.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 25.0
+  },
+  "Austin_Modern": {
+    "availableBuoyancyStates": [],
+    "consumableType": "buff",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "applyType": "personal",
+      "buff": "PCOM904_ArmorBuff",
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 50.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
+  "Dalian_Modern": {
+    "availableBuoyancyStates": [],
+    "consumableType": "buff",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "applyType": "personal",
+      "buff": "PCOM904_ArmorBuff",
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 50.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
+  "Grozovoy_Modern": {
+    "availableBuoyancyStates": [],
+    "consumableType": "buff",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "applyType": "personal",
+      "buff": "PCOM904_ArmorBuff",
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 50.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 30.0
+  },
+  "Marceau_Modern": {
+    "availableBuoyancyStates": [],
+    "consumableType": "buff",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "applyType": "personal",
+      "buff": "PCOM904_ArmorBuff",
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 50.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
+  "Yoshino_Modern": {
+    "availableBuoyancyStates": [],
+    "consumableType": "buff",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "applyType": "personal",
+      "buff": "PCOM904_ArmorBuff",
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 50.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 20.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 4214398896,
+  "index": "PCY076",
+  "name": "PCY076_ArmorBuff",
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Ability"
+  }
+}

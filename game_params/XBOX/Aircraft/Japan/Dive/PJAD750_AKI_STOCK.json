@@ -66,9 +66,9 @@
     ]
   },
   "accelerationMaxFov": 1.225,
-  "aimingAccelerationModifier": 1.0,
-  "aimingAccuracyDecreaseRate": -0.3,
-  "aimingAccuracyIncreaseRate": 0.15,
+  "aimingAccelerationModifier": 1,
+  "aimingAccuracyDecreaseRate": -0.25,
+  "aimingAccuracyIncreaseRate": 0.3,
   "aimingCameraDistance": [
     -0.5,
     3
@@ -100,15 +100,15 @@
     10,
     0.5
   ],
-  "aimingHeight": 1,
+  "aimingHeight": 7.5,
   "aimingShakeMultiplier": 0.5,
   "aimingSpeedLimits": [
     0.7739,
     1.3015
   ],
-  "aimingTime": 5,
-  "aimingTurnAccelerationModifier": 0.5,
-  "aimingTurnSpeedLimit": 0.5,
+  "aimingTime": 6,
+  "aimingTurnAccelerationModifier": 0.75,
+  "aimingTurnSpeedLimit": 0.75,
   "airBrakesDeploymentTime": 1.0,
   "airBreakEffect": "particles/airplanes/Air_break.xml",
   "airBrokenPartsEffect": "particles/airplanes/Air_brokenParts.xml",
@@ -137,14 +137,14 @@
   "attackAngle": null,
   "attackCameraSlowdownTime": 0.0,
   "attackCooldown": 9,
-  "attackCount": 1,
+  "attackCount": 2,
   "attackEndDelay": 0.0,
   "attackInterval": 0.05,
   "attackShakeMultiplier": 1,
   "attackSpeedMultiplier": 1.0,
   "attackSpeedMultiplierApplyTime": 0.0,
   "attackerDamageTakenMultiplier": 0.7,
-  "attackerSize": 8,
+  "attackerSize": 6,
   "bombFallingTime": 0.3,
   "bombName": "PJPB750_AKI_STOCK",
   "bombingDropPointTime": 0.1,
@@ -287,7 +287,7 @@
   "escapeHeightLanding": 85.0,
   "fighterTracerName": "PCPP001_Default_Storming",
   "finalAttackCameraJumpDelay": 120.0,
-  "flightHeight": 30.0,
+  "flightHeight": 20.0,
   "flightRadius": 33.0,
   "flyScreenEffect": "particles/airplanes/Air_screen_fly.xml",
   "formations": {
@@ -372,46 +372,36 @@
       ]
     ],
     "aiming": [
-      0.1,
+      2.0,
       [
         [
-          -1.0,
+          -0.8,
           0,
           0
         ],
         [
-          1.0,
+          0.8,
           0,
           0
         ],
         [
-          -3.0,
-          0.0,
-          1.25
-        ],
-        [
-          -1.0,
-          0.0,
-          1.25
-        ],
-        [
-          1.0,
-          0.0,
-          1.25
-        ],
-        [
-          3.0,
-          0.0,
-          1.25
-        ],
-        [
-          -1.0,
           0,
-          2.5
+          0,
+          1
         ],
         [
-          1.0,
+          -0.8,
+          -0.25,
+          1.5
+        ],
+        [
+          0.8,
+          -0.25,
+          1.5
+        ],
+        [
           0,
+          -0.25,
           2.5
         ]
       ]
@@ -420,43 +410,33 @@
       0.1,
       [
         [
-          -1.0,
+          -0.8,
           0,
           0
         ],
         [
-          1.0,
+          0.8,
           0,
           0
         ],
         [
-          -3.0,
-          0.0,
-          1.25
-        ],
-        [
-          -1.0,
-          0.0,
-          1.25
-        ],
-        [
-          1.0,
-          0.0,
-          1.25
-        ],
-        [
-          3.0,
-          0.0,
-          1.25
-        ],
-        [
-          -1.0,
           0,
-          2.5
+          0,
+          1
         ],
         [
-          1.0,
+          -0.8,
+          -0.25,
+          1.5
+        ],
+        [
+          0.8,
+          -0.25,
+          1.5
+        ],
+        [
           0,
+          -0.25,
           2.5
         ]
       ]
@@ -465,43 +445,33 @@
       0.1,
       [
         [
-          -1.0,
+          -0.8,
           0,
           0
         ],
         [
-          1.0,
+          0.8,
           0,
           0
         ],
         [
-          -3.0,
-          0.0,
-          1.25
-        ],
-        [
-          -1.0,
-          0.0,
-          1.25
-        ],
-        [
-          1.0,
-          0.0,
-          1.25
-        ],
-        [
-          3.0,
-          0.0,
-          1.25
-        ],
-        [
-          -1.0,
           0,
-          2.5
+          0,
+          1
         ],
         [
-          1.0,
+          -0.8,
+          -0.25,
+          1.5
+        ],
+        [
+          0.8,
+          -0.25,
+          1.5
+        ],
+        [
           0,
+          -0.25,
           2.5
         ]
       ]
@@ -587,46 +557,36 @@
       ]
     ],
     "preparation": [
-      0.1,
+      2.0,
       [
         [
-          -1.0,
+          -0.8,
           0,
           0
         ],
         [
-          1.0,
+          0.8,
           0,
           0
         ],
         [
-          -3.0,
-          0.0,
-          1.25
-        ],
-        [
-          -1.0,
-          0.0,
-          1.25
-        ],
-        [
-          1.0,
-          0.0,
-          1.25
-        ],
-        [
-          3.0,
-          0.0,
-          1.25
-        ],
-        [
-          -1.0,
           0,
-          2.5
+          0,
+          1
         ],
         [
-          1.0,
+          -0.8,
+          -0.25,
+          1.5
+        ],
+        [
+          0.8,
+          -0.25,
+          1.5
+        ],
+        [
           0,
+          -0.25,
           2.5
         ]
       ]
@@ -644,8 +604,8 @@
     "particles/airplanes/Air_ground_explosion_2.xml"
   ],
   "hangarSettings": {
-    "maxValue": 8,
-    "restoreAmount": 8,
+    "maxValue": 12,
+    "restoreAmount": 6,
     "startValue": 0,
     "timeToRestore": 200.0
   },
@@ -690,10 +650,10 @@
   },
   "id": 3508436688,
   "index": "PJAD750",
-  "innerBombsPercentage": 66.0,
+  "innerBombsPercentage": 25.0,
   "innerSalvoSize": [
-    1.02,
-    4.1
+    0.88,
+    2.07
   ],
   "isAirShip": false,
   "isJatoBoosterDetachable": true,
@@ -786,7 +746,7 @@
   "maxAttackAngle": null,
   "maxAttackDistanceMultiplier": 9999,
   "maxForsageAmount": 10,
-  "maxHealth": 1550,
+  "maxHealth": 2250,
   "maxLaunchDelay": 2,
   "maxRotateSpeed": 0.63,
   "maxRudderYaw": 1.0,
@@ -796,8 +756,8 @@
   ],
   "minLaunchDelay": 0.1,
   "minSpread": [
-    1.0,
-    1.0
+    1,
+    1
   ],
   "model": "content/gameplay/japan/aircraft/bomber/JAB705_Aichi_M6A2_Seiran/JAB705_Aichi_M6A2_Seiran.model",
   "mouseTurnStrength": [
@@ -905,10 +865,10 @@
   },
   "normalLodDist": 190,
   "numFloats": 2,
-  "numPlanesInSquadron": 8,
+  "numPlanesInSquadron": 6,
   "outerSalvoSize": [
-    1.52,
-    6.07
+    1.17,
+    4.67
   ],
   "overMaxThrottleMultiplier": 5.0,
   "ownSmokeSpawnEffect": "particles/airplanes/air_smokeScreen_Own.xml",
@@ -924,8 +884,8 @@
   "planeYawAccelerationTime": 1.0,
   "postAttackInvulnerabilityDuration": 3.5,
   "preparationAccelerationModifier": 1.0,
-  "preparationAccuracyDecreaseRate": -0.33,
-  "preparationAccuracyIncreaseRate": 0.25,
+  "preparationAccuracyDecreaseRate": -0.15,
+  "preparationAccuracyIncreaseRate": 0.15,
   "preparationCameraDistance": [
     -1,
     3
@@ -957,16 +917,16 @@
     10,
     0.5
   ],
-  "preparationHeight": 99.0,
+  "preparationHeight": 99,
   "preparationShakeMultiplier": 1,
   "preparationSpeedLimits": [
     0.7739,
     1.3015
   ],
-  "preparationTime": 3,
-  "preparationTurnAccelerationModifier": 0.4,
-  "preparationTurnSpeedLimit": 0.4,
-  "projectilesPerAttack": 2,
+  "preparationTime": 2.5,
+  "preparationTurnAccelerationModifier": 0.5,
+  "preparationTurnSpeedLimit": 0.5,
+  "projectilesPerAttack": 1,
   "propellerRPM": 9999999,
   "resetAttackerThrottle": false,
   "resetAttackerThrottleDuration": 0.0,
@@ -1050,6 +1010,7 @@
   "underMinThrottleMultiplier": 5.0,
   "visibilityFactor": 10.0,
   "visibilityFactorByPlane": 10.0,
+  "visionToMissile": 0,
   "visionToPlane": 20.0,
   "visionToShip": 20.0,
   "visionToTorpedo": 0,

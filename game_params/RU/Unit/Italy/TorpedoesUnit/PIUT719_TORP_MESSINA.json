@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3540397808,
+  "index": "PIUT719",
+  "name": "PIUT719_TORP_MESSINA",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

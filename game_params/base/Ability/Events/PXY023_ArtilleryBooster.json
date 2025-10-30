@@ -51,6 +51,32 @@
     "titleIDs": "",
     "workTime": 10.0
   },
+  "ModernEra_Aegir": {
+    "availableBuoyancyStates": [],
+    "consumableType": "artilleryBoosters",
+    "descIDs": "PCY022_ArtilleryBoosterPremium",
+    "group": "ship",
+    "iconIDs": "PCY022_ArtilleryBoosterPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "boostCoeff": 0.75,
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY022_ArtilleryBoosterPremium",
+    "workTime": 80.0
+  },
   "Post_Apocalypse": {
     "availableBuoyancyStates": [],
     "consumableType": "artilleryBoosters",

@@ -1,0 +1,326 @@
+{
+  "RarityCategory": {
+    "name": "Uncommon"
+  },
+  "camouflage": "MC_Black_Friday_Rhodle_Island",
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": 4500,
+  "effects": {
+    "A_Hull": {
+      "death": [
+        [
+          "HP_FX_Death_1",
+          "particles/vehicles/Death_foam_big.xml"
+        ],
+        [
+          "HP_FX_Death_2",
+          "particles/vehicles/Death_foam_big.xml"
+        ],
+        [
+          "HP_FX_Death_3",
+          "particles/vehicles/Death_foam_big.xml"
+        ]
+      ],
+      "fire1": [
+        [
+          "HP_FX_Fire_1",
+          "particles/vehicles/Fire_big.xml"
+        ]
+      ],
+      "fire2": [
+        [
+          "HP_FX_Fire_2",
+          "particles/vehicles/Fire_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_3",
+          "particles/vehicles/Fire_side_medium.xml"
+        ]
+      ],
+      "fire3": [
+        [
+          "HP_FX_Fire_3",
+          "particles/vehicles/Fire_big.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ]
+      ],
+      "fire4": [
+        [
+          "HP_FX_Fire_4",
+          "particles/vehicles/Fire_big.xml"
+        ],
+        [
+          "HP_FX_Fire_4_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ]
+      ],
+      "fireResistance": [
+        [
+          "HP_FX_Fire_2_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_2_side_3",
+          "particles/vehicles/Fire_side_medium.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_1",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_3_side_2",
+          "particles/vehicles/Fire_side_big.xml"
+        ],
+        [
+          "HP_FX_Fire_5",
+          "particles/vehicles/Fire_big.xml"
+        ],
+        [
+          "HP_FX_Fire_5_1",
+          "particles/vehicles/Fire_big.xml"
+        ]
+      ],
+      "fixDeluge": [],
+      "fixLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FixLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FixLight_big.xml"
+        ]
+      ],
+      "flood": [
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_1",
+          "particles/vehicles/Flood_steam_exhaust_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_left",
+          "particles/vehicles/Flood_steam_side_big.xml"
+        ],
+        [
+          "HP_FX_Flood_steam_right",
+          "particles/vehicles/Flood_steam_side_big.xml"
+        ]
+      ],
+      "floodLight": [
+        [
+          "HP_FX_FloodLight_left_1",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_left_2",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_1",
+          "particles/vehicles/FloodLight_big.xml"
+        ],
+        [
+          "HP_FX_FloodLight_right_2",
+          "particles/vehicles/FloodLight_big.xml"
+        ]
+      ],
+      "horn": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/Horn.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/Horn.xml"
+        ]
+      ],
+      "idle": [],
+      "idlePort": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/idlePort_RunSmoke_big.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/idlePort_RunSmoke_big.xml"
+        ]
+      ],
+      "repairLight": [
+        [
+          "HP_FX_RepairLight_left_1",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_left_2",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_1",
+          "particles/vehicles/RepairLight_big.xml"
+        ],
+        [
+          "HP_FX_RepairLight_right_2",
+          "particles/vehicles/RepairLight_big.xml"
+        ]
+      ],
+      "smoke": [
+        [
+          "HP_FX_Smoke_1",
+          "particles/vehicles/RunSmoke_big.xml"
+        ],
+        [
+          "HP_FX_Smoke_2",
+          "particles/vehicles/RunSmoke_big.xml"
+        ]
+      ],
+      "waketraceback": [
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceReverce_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceReverce_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceReverce_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceReverce_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceReverce_screw_big.xml"
+        ]
+      ],
+      "waketracefront": [
+        [
+          "HP_FX_WakeTrace",
+          "particles/vehicles/WakeTraceForward_front.xml"
+        ],
+        [
+          "HP_FX_WakeTraceBack",
+          "particles/vehicles/WakeTraceForward_back.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTraceForward_screw_left_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_1",
+          "particles/vehicles/WakeTrace_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTraceForward_screw_left_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_2",
+          "particles/vehicles/WakeTrace_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTraceForward_screw_right_center.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_3",
+          "particles/vehicles/WakeTrace_screw_big.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTraceForward_screw_right_side.xml"
+        ],
+        [
+          "HP_FX_WakeTrace_screw_4",
+          "particles/vehicles/WakeTrace_screw_big.xml"
+        ]
+      ]
+    }
+  },
+  "hidden": true,
+  "hullConfig": {},
+  "id": 3748064560,
+  "index": "PWES521",
+  "isTemplate": false,
+  "name": "PWES521_Black_Friday_Karl_Johan",
+  "nodesConfig": {},
+  "parts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "peculiarity": "decorative",
+  "peculiarityEffects": {},
+  "peculiarityFlag": "",
+  "peculiarityModels": {
+    "content/gameplay/europe/director/WD018_Director_4m_SW/WD018_Director_4m_SW.model": "content/gameplay/europe/director/WD3002_Director_4m_SW_Black_Friday/WD3002_Director_4m_SW_Black_Friday.model",
+    "content/gameplay/europe/finder/WF061_7m_Rangefinder/WF061_7m_Rangefinder.model": "content/gameplay/europe/finder/WF3001_7m_Rangefinder_Black_Friday/WF3001_7m_Rangefinder_Black_Friday.model",
+    "content/gameplay/europe/finder/WF063_10_5m_Rangefinders/WF063_10_5m_Rangefinders.model": "content/gameplay/europe/finder/WF3000_10_5m_Rangefinders_Black_Friday/WF3000_10_5m_Rangefinders_Black_Friday.model",
+    "content/gameplay/europe/gun/main/WGM100_305mm_56_SKC_39_RF/WGM100_305mm_56_SKC_39_RF.model": "content/gameplay/europe/gun/main/WGM3008_305mm_56_SKC_Black_Friday/WGM3008_305mm_56_SKC_Black_Friday.model",
+    "content/gameplay/europe/gun/main/WGM100_305mm_56_SKC_39_RF/WGM100_305mm_56_SKC_39_RF_dead.model": "content/gameplay/europe/gun/main/WGM3008_305mm_56_SKC_Black_Friday/WGM3008_305mm_56_SKC_Black_Friday_dead.model",
+    "content/gameplay/europe/gun/main/WGM101_305mm_56_SKC_39/WGM101_305mm_56_SKC_39.model": "content/gameplay/europe/gun/main/WGM3009_305mm_56_SKC_Black_Friday/WGM3009_305mm_56_SKC_Black_Friday.model",
+    "content/gameplay/europe/gun/main/WGM101_305mm_56_SKC_39/WGM101_305mm_56_SKC_39_dead.model": "content/gameplay/europe/gun/main/WGM3009_305mm_56_SKC_Black_Friday/WGM3009_305mm_56_SKC_Black_Friday_dead.model",
+    "content/gameplay/europe/gun/secondary/WGS098_150mm_SK_L45_C13/WGS098_150mm_SK_L45_C13.model": "content/gameplay/europe/gun/secondary/WGS3011_150mm_SK_L45_C_Black_Friday/WGS3011_150mm_SK_L45_C_Black_Friday.model",
+    "content/gameplay/europe/gun/secondary/WGS098_150mm_SK_L45_C13/WGS098_150mm_SK_L45_C13_dead.model": "content/gameplay/europe/gun/secondary/WGS3011_150mm_SK_L45_C_Black_Friday/WGS3011_150mm_SK_L45_C_Black_Friday_dead.model",
+    "content/gameplay/europe/gun/secondary/WGS103_120_50_Bofors_M42_SW/WGS103_120_50_Bofors_M42_SW.model": "content/gameplay/europe/gun/secondary/WGS3010_120_50_Bofors_M42_SW_Black_Friday/WGS3010_120_50_Bofors_M42_SW_Black_Friday.model",
+    "content/gameplay/europe/gun/secondary/WGS103_120_50_Bofors_M42_SW/WGS103_120_50_Bofors_M42_SW_dead.model": "content/gameplay/europe/gun/secondary/WGS3010_120_50_Bofors_M42_SW_Black_Friday/WGS3010_120_50_Bofors_M42_SW_Black_Friday_dead.model",
+    "content/gameplay/europe/gun/torpedo/WGT099_533mm_QuadTube/WGT099_533mm_QuadTube.model": "content/gameplay/europe/gun/torpedo/WGT3012_533mm_QuadTube_Black_Friday/WGT3012_533mm_QuadTube_Black_Friday.model",
+    "content/gameplay/europe/gun/torpedo/WGT099_533mm_QuadTube/WGT099_533mm_QuadTube_dead.model": "content/gameplay/europe/gun/torpedo/WGT3012_533mm_QuadTube_Black_Friday/WGT3012_533mm_QuadTube_Black_Friday_dead.model",
+    "content/gameplay/europe/ship/battleship/WSB002_Karl_XIV_Johan_1952/WSB002_Karl_XIV_Johan_1952.model": "content/gameplay/europe/ship/battleship/WSB403_Black_Friday_Karl_Johan/WSB403_Black_Friday_Karl_Johan.model"
+  },
+  "planesConfig": {},
+  "restrictions": {
+    "forbiddenShips": [],
+    "levels": [],
+    "nations": [],
+    "specificShips": [],
+    "subtype": []
+  },
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "Skin",
+    "type": "Exterior"
+  },
+  "unpeculiarCamouflage": "camo_permanent_1",
+  "unpeculiarCamouflageColorSchemeId": 0
+}

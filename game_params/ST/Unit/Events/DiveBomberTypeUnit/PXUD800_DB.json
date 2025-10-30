@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3455986960,
+  "index": "PXUD800",
+  "name": "PXUD800_DB",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "DiveBomberTypeUnit",
+    "type": "Unit"
+  },
+  "ucType": "_DiveBomber"
+}

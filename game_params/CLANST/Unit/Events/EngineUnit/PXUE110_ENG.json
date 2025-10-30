@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4179471632,
+  "index": "PXUE110",
+  "name": "PXUE110_ENG",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

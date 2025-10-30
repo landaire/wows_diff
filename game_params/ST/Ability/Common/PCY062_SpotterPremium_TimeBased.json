@@ -1,6 +1,8 @@
 {
   "Default_TimeBased": {
-    "availableBuoyancyStates": [],
+    "availableBuoyancyStates": [
+      "SURFACE"
+    ],
     "capacityRegenCoeff": 0.0,
     "consumableType": "scout",
     "descIDs": "",
@@ -46,9 +48,9 @@
       "titleIDs": ""
     },
     "maxCapacity": 240.0,
-    "minWorkTime": 1.0,
+    "minWorkTime": 20.0,
     "preparationTime": 0.0,
-    "reloadTime": 1.0,
+    "reloadTime": 40.0,
     "tacticalParams": {
       "usageType": "default",
       "workRange": 1000.0

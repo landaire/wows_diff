@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3447074096,
+  "index": "PWUT808",
+  "name": "PWUT808_TORP_BLACK_KARL_XIV_JOHAN",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

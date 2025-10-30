@@ -6,6 +6,7 @@
   },
   "AB_AirArmament": {
     "auraCoeff": 1.0,
+    "boundingBoxMargin": 3.0,
     "deckPlaceCount": 12,
     "fdck": {
       "antiRamCoeff": 1.0,
@@ -127,7 +128,8 @@
     "launchPrepareTime": 0,
     "launchpadType": "deck",
     "planesReserveCapacity": 72,
-    "turnCameraToCatapultNode": ""
+    "turnCameraToCatapultNode": "",
+    "waterLaunchLength": 20.0
   },
   "AB_AirDefense": {
     "burstDuration": 2.0,
@@ -329,6 +331,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 5.0,
       "shotTravelTime": 1.04,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 35.0,
@@ -405,6 +408,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 5.0,
       "shotTravelTime": 1.04,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 35.0,
@@ -2187,6 +2191,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 5.0,
       "shotTravelTime": 1.2,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 35.0,
@@ -2263,6 +2268,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 5.0,
       "shotTravelTime": 1.2,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 35.0,

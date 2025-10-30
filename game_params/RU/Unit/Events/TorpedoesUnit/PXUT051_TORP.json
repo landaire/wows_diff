@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4240846096,
+  "index": "PXUT051",
+  "name": "PXUT051_TORP",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

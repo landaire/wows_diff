@@ -14,7 +14,8 @@
   "nation": [],
   "shiplevel": [],
   "ships": [
-    "PRSC310_Petropavlovsk"
+    "PRSC310_Petropavlovsk",
+    "PRSC920_PostApoc_Petropavlovsk"
   ],
   "shiptype": [],
   "slot": 5,

@@ -29,6 +29,66 @@
     "titleIDs": "PCY016_SonarSearchPremium",
     "workTime": 120.0
   },
+  "ModernEra_Marceau": {
+    "availableBuoyancyStates": [],
+    "consumableType": "sonar",
+    "descIDs": "PCY016_SonarSearchPremium",
+    "group": "ship",
+    "iconIDs": "PCY016_SonarSearchPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "distShip": 200.0,
+      "distTorpedo": 133.3333,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "targetBuoyancyDistances": {
+        "DEEP_WATER_INVUL": 66.6667
+      },
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 90.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY016_SonarSearchPremium",
+    "workTime": 45.0
+  },
+  "ModernEra_Yoshino": {
+    "availableBuoyancyStates": [],
+    "consumableType": "sonar",
+    "descIDs": "PCY016_SonarSearchPremium",
+    "group": "ship",
+    "iconIDs": "PCY016_SonarSearchPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "distShip": 200.0,
+      "distTorpedo": 133.3333,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "targetBuoyancyDistances": {
+        "DEEP_WATER_INVUL": 66.6667
+      },
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 90.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY016_SonarSearchPremium",
+    "workTime": 45.0
+  },
   "Post_Apocalypse": {
     "availableBuoyancyStates": [],
     "consumableType": "sonar",

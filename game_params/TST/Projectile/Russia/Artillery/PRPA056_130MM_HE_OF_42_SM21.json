@@ -36,7 +36,7 @@
     "SURFACE": 1.0
   },
   "burnProb": 0.08,
-  "costCR": 10,
+  "costCR": 0,
   "customSoundPostfix": "",
   "customUIPostfix": "",
   "damage": 500.0,

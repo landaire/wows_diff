@@ -1,0 +1,33 @@
+{
+  "canCharge": true,
+  "costCR": 100000,
+  "excludes": [],
+  "group": [],
+  "id": 4173516720,
+  "index": "PCM115",
+  "modifiers": {
+    "visibilityFactor": 0.85
+  },
+  "name": "PCM115_Modern_Spec_Mod_White1",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PXSB053_Aegir_modern",
+    "PXSC051_Dalian_modern",
+    "PXSC050_Austin_modern",
+    "PXSD042_Grozovoy_modern",
+    "PXSD041_Marceau_modern",
+    "PXSB054_Yoshino_modern"
+  ],
+  "shiptype": [],
+  "slot": 2,
+  "tags": [
+    "unique"
+  ],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

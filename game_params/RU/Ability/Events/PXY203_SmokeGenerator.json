@@ -33,6 +33,74 @@
     "titleIDs": "",
     "workTime": 20.0
   },
+  "ModernEra_Austin": {
+    "availableBuoyancyStates": [],
+    "consumableType": "smokeGenerator",
+    "descIDs": "PCY014_SmokeGeneratorOil_Premium",
+    "group": "ship",
+    "iconIDs": "PCY014_SmokeGeneratorOil_Premium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "height": 5.0,
+      "iconIDs": "",
+      "lifeTime": 5.0,
+      "livePointEffect": "particles/SmokeScreen.xml",
+      "radius": 13.333,
+      "spawnBackwardShift": 0.0,
+      "spawnEffect": "particles/SmokeScreen_generator.xml",
+      "spawnPointEffect": "particles/SmokeScreen_spawn.xml",
+      "specialSoundID": "Default",
+      "speedLimit": 100.0,
+      "startDelayTime": 2.0,
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 50.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY014_SmokeGeneratorOil_Premium",
+    "workTime": 75.0
+  },
+  "ModernEra_Grozovoy": {
+    "availableBuoyancyStates": [],
+    "consumableType": "smokeGenerator",
+    "descIDs": "PCY014_SmokeGeneratorOil_Premium",
+    "group": "ship",
+    "iconIDs": "PCY014_SmokeGeneratorOil_Premium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "height": 5.0,
+      "iconIDs": "",
+      "lifeTime": 5.0,
+      "livePointEffect": "particles/SmokeScreen.xml",
+      "radius": 13.333,
+      "spawnBackwardShift": 0.0,
+      "spawnEffect": "particles/SmokeScreen_generator.xml",
+      "spawnPointEffect": "particles/SmokeScreen_spawn.xml",
+      "specialSoundID": "Default",
+      "speedLimit": 110.0,
+      "startDelayTime": 2.0,
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY014_SmokeGeneratorOil_Premium",
+    "workTime": 75.0
+  },
   "Shimakaze2": {
     "availableBuoyancyStates": [],
     "consumableType": "smokeGenerator",

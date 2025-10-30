@@ -42,6 +42,14 @@
     },
     "filters": [
       {
+        "excludeShips": [
+          "PXSD041_Marceau_modern",
+          "PXSD042_Grozovoy_modern",
+          "PXSC050_Austin_modern",
+          "PXSC051_Dalian_modern",
+          "PXSB053_Aegir_modern",
+          "PXSB054_Yoshino_modern"
+        ],
         "shipLevels": [
           6,
           7,

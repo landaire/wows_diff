@@ -2923,6 +2923,7 @@
     },
     "UniqueSkillTriggerHealth1": {
       "UniqueCrashCrew1": {
+        "crashCrew": true,
         "percentTalent": true,
         "uniqueType": 5,
         "workTime": 15.0

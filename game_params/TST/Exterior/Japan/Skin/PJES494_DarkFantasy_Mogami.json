@@ -565,7 +565,16 @@
   "index": "PJES494",
   "isTemplate": false,
   "name": "PJES494_DarkFantasy_Mogami",
-  "nodesConfig": {},
+  "nodesConfig": {
+    "AB_Finders": {
+      "HP_JF_4": {
+        "model": "content/gameplay/japan/finder/JF3008_Finder_Mod2/JF3008_Finder_Mod2.model"
+      },
+      "HP_JF_5": {
+        "model": "content/gameplay/japan/finder/JF3008_Finder_Mod2/JF3008_Finder_Mod2.model"
+      }
+    }
+  },
   "parts": [
     0,
     1,

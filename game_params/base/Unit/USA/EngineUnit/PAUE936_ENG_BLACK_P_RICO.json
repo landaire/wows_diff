@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3313348592,
+  "index": "PAUE936",
+  "name": "PAUE936_ENG_BLACK_P_RICO",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

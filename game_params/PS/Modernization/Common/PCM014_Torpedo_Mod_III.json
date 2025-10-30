@@ -39,11 +39,13 @@
     "PFSC510_Colbert",
     "PWSD510_Friesland",
     "PASC610_Puerto_Rico",
+    "PASC910_Black_Puerto_Rico",
     "PASC599_Black_Alaska",
     "PRSC209_Riga",
     "PZSC719_Tianjin",
     "PZSC720_Zhuge_Liang",
     "PRSC310_Petropavlovsk",
+    "PRSC920_PostApoc_Petropavlovsk",
     "PRSC990_Petrozavodsk",
     "PXSD025_Berserk",
     "PXSC016_Monster_Cruiser",
@@ -152,10 +154,13 @@
     "PBSB998_St_Lawrence",
     "PJSB539_Daisen",
     "PWSB509_Karl_XIV_Johan",
+    "PWSB909_Black_Karl_XIV_Johan",
     "PJSB549_Tsurugi",
     "PGSB989_Prinz_Sigismund",
     "PWSB719_Niord",
-    "PZSB709_Taihang"
+    "PZSB709_Taihang",
+    "PWSB019_Gustav_den_Store",
+    "PWSB010_Thor"
   ],
   "shiptype": [
     "Cruiser",

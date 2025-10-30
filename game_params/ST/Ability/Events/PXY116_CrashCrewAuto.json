@@ -1,0 +1,39 @@
+{
+  "Midway_modern": {
+    "availableBuoyancyStates": [],
+    "consumableType": "crashCrew",
+    "descIDs": "PCY037_CrashCrewAuto",
+    "group": "ship",
+    "iconIDs": "PCY037_CrashCrewAuto",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY037_CrashCrewAuto",
+    "workTime": 15.0
+  },
+  "canBuy": false,
+  "costCR": -1,
+  "costGold": -1,
+  "freeOfCharge": true,
+  "id": 4172455184,
+  "index": "PXY116",
+  "name": "PXY116_CrashCrewAuto",
+  "typeinfo": {
+    "nation": "Events",
+    "species": null,
+    "type": "Ability"
+  }
+}

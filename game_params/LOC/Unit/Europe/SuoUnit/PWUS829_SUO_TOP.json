@@ -1,0 +1,13 @@
+{
+  "costCR": 4500000,
+  "costXP": 50000,
+  "id": 3425086768,
+  "index": "PWUS829",
+  "name": "PWUS829_SUO_TOP",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

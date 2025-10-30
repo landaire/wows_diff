@@ -1,0 +1,13 @@
+{
+  "costCR": 600000,
+  "costXP": 0,
+  "id": 4283837744,
+  "index": "PWUT010",
+  "name": "PWUT010_TORP_THOR",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

@@ -1,0 +1,34 @@
+{
+  "canCharge": true,
+  "costCR": 100000,
+  "excludes": [],
+  "group": [],
+  "id": 4181905328,
+  "index": "PCM107",
+  "modifiers": {
+    "GMShotDelay": 0.9,
+    "GSShotDelay": 0.95
+  },
+  "name": "PCM107_Modern_Arm_Mod_White1",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PXSB053_Aegir_modern",
+    "PXSC051_Dalian_modern",
+    "PXSC050_Austin_modern",
+    "PXSD042_Grozovoy_modern",
+    "PXSD041_Marceau_modern",
+    "PXSB054_Yoshino_modern"
+  ],
+  "shiptype": [],
+  "slot": 0,
+  "tags": [
+    "unique"
+  ],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

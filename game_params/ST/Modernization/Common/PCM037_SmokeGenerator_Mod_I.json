@@ -29,6 +29,7 @@
     "PWSD110_Halland",
     "PWSD990_Sodermanland",
     "PWSD610_Smaland",
+    "PWSD920_PostApoc_Smaland",
     "PWSD910_Lappland",
     "PFSD105_Jaguar",
     "PFSD106_Guepard",
@@ -220,7 +221,8 @@
     "PISB818_BA_Marcantonio_Colonna",
     "PBSA710_Ocean",
     "PZSC718_Narai",
-    "PGSC717_Nurnberg_1944"
+    "PGSC717_Nurnberg_1944",
+    "PISC729_Messina"
   ],
   "shiptype": [
     "Destroyer"

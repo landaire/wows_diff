@@ -88,6 +88,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 5.0,
       "shotTravelTime": 1.79,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 35.0,
@@ -169,6 +170,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 5.0,
       "shotTravelTime": 1.79,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 35.0,
@@ -1079,6 +1081,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 0.1,
       "shotTravelTime": 1.0,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 10.0,
@@ -4382,6 +4385,7 @@
   },
   "AirArmamentDefault": {
     "auraCoeff": 1.0,
+    "boundingBoxMargin": 3.0,
     "deckPlaceCount": 24,
     "fdck": {
       "antiRamCoeff": 1.0,
@@ -4504,7 +4508,8 @@
     "launchPrepareTime": 0,
     "launchpadType": "deck",
     "planesReserveCapacity": 140,
-    "turnCameraToCatapultNode": ""
+    "turnCameraToCatapultNode": "",
+    "waterLaunchLength": 20.0
   },
   "BattleUpgradeInfo": null,
   "Cameras": {

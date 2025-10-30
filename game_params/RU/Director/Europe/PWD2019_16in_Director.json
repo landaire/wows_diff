@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2177036592,
+  "index": "PWD2019",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/director/WD2019_16in_Director/WD2019_16in_Director.model",
+  "name": "PWD2019_16in_Director",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Director"
+  }
+}

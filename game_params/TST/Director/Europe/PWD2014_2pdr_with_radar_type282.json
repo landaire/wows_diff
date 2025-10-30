@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2182279472,
+  "index": "PWD2014",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/director/WD2014_2pdr_with_radar_type282/WD2014_2pdr_with_radar_type282.model",
+  "name": "PWD2014_2pdr_with_radar_type282",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Director"
+  }
+}

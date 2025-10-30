@@ -1,0 +1,13 @@
+{
+  "costCR": 1400000,
+  "costXP": 0,
+  "id": 3426725168,
+  "index": "PWUA828",
+  "name": "PWUA828_ART_STOCK",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

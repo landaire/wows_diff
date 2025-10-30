@@ -74,6 +74,181 @@
     "titleIDs": "",
     "workTime": 10.0
   },
+  "ModernEra_Aegir": {
+    "availableBuoyancyStates": [],
+    "consumableType": "crashCrew",
+    "descIDs": "PCY009_CrashCrewPremium",
+    "group": "ship",
+    "iconIDs": "PCY009_CrashCrewPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY009_CrashCrewPremium",
+    "workTime": 30.0
+  },
+  "ModernEra_Austin": {
+    "availableBuoyancyStates": [],
+    "consumableType": "crashCrew",
+    "descIDs": "PCY009_CrashCrewPremium",
+    "group": "ship",
+    "iconIDs": "PCY009_CrashCrewPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY009_CrashCrewPremium",
+    "workTime": 15.0
+  },
+  "ModernEra_Dalian": {
+    "availableBuoyancyStates": [],
+    "consumableType": "crashCrew",
+    "descIDs": "PCY009_CrashCrew_Limited_Premium",
+    "group": "ship",
+    "iconIDs": "PCY009_CrashCrew_Limited_Premium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 45.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY009_CrashCrew_Limited_Premium",
+    "workTime": 15.0
+  },
+  "ModernEra_Grozovoy": {
+    "availableBuoyancyStates": [],
+    "consumableType": "crashCrew",
+    "descIDs": "PCY009_CrashCrewPremium",
+    "group": "ship",
+    "iconIDs": "PCY009_CrashCrewPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 50.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY009_CrashCrewPremium",
+    "workTime": 25.0
+  },
+  "ModernEra_Jutland": {
+    "availableBuoyancyStates": [],
+    "consumableType": "crashCrew",
+    "descIDs": "PCY009_CrashCrewPremium",
+    "group": "ship",
+    "iconIDs": "PCY009_CrashCrewPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 45.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY009_CrashCrewPremium",
+    "workTime": 15.0
+  },
+  "ModernEra_Marceau": {
+    "availableBuoyancyStates": [],
+    "consumableType": "crashCrew",
+    "descIDs": "PCY009_CrashCrewPremium",
+    "group": "ship",
+    "iconIDs": "PCY009_CrashCrewPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 30.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY009_CrashCrewPremium",
+    "workTime": 5.0
+  },
+  "ModernEra_Yoshino": {
+    "availableBuoyancyStates": [],
+    "consumableType": "crashCrew",
+    "descIDs": "PCY009_CrashCrewPremium",
+    "group": "ship",
+    "iconIDs": "PCY009_CrashCrewPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY009_CrashCrewPremium",
+    "workTime": 30.0
+  },
   "canBuy": false,
   "costCR": -1,
   "costGold": -1,

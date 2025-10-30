@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2184376624,
+  "index": "PWD2012",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/director/WD2012_6in_Director_L/WD2012_6in_Director_L.model",
+  "name": "PWD2012_6in_Director_L",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Director"
+  }
+}

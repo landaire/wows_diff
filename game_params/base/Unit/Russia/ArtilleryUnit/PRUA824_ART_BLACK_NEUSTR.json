@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3430919632,
+  "index": "PRUA824",
+  "name": "PRUA824_ART_BLACK_NEUSTR",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

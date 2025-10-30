@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2188568880,
+  "index": "PWF2008",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/finder/WF2008_2m_Rangefinder/WF2008_2m_Rangefinder.model",
+  "name": "PWF2008_2m_Rangefinder",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Finder"
+  }
+}

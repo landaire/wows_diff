@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2187520304,
+  "index": "PWF2009",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/finder/WF2009_3m_Rangefinder/WF2009_3m_Rangefinder.model",
+  "name": "PWF2009_3m_Rangefinder",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Finder"
+  }
+}

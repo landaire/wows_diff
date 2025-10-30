@@ -69,7 +69,7 @@
   ],
   "id": 2172249936,
   "idealDistance": 1000.0,
-  "idealRadius": 8,
+  "idealRadius": 4.0,
   "index": "PFGM2024",
   "lensEffect": "particles/guns/GK_Lens.xml",
   "maxEllipseRanging": 1.003,
@@ -100,7 +100,7 @@
     18.0,
     10.0
   ],
-  "shotDelay": 8.0,
+  "shotDelay": 7.0,
   "shotEffect": "particles/guns/GK_Shot.xml",
   "smallGun": null,
   "smokePenalty": 0.0001,

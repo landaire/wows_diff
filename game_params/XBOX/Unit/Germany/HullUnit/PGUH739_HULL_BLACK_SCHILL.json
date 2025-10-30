@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3519819568,
+  "index": "PGUH739",
+  "name": "PGUH739_HULL_BLACK_SCHILL",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

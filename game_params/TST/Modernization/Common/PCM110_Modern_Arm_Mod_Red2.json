@@ -1,0 +1,35 @@
+{
+  "canCharge": true,
+  "costCR": 100000,
+  "excludes": [],
+  "group": [],
+  "id": 4178759600,
+  "index": "PCM110",
+  "modifiers": {
+    "citadelDamageMultiplierCSAP": 1.2,
+    "missileDamageCoeff": 1.1,
+    "missilesSearchRadiusCoeff": 0.6
+  },
+  "name": "PCM110_Modern_Arm_Mod_Red2",
+  "nation": [],
+  "shiplevel": [],
+  "ships": [
+    "PXSB053_Aegir_modern",
+    "PXSC051_Dalian_modern",
+    "PXSC050_Austin_modern",
+    "PXSD042_Grozovoy_modern",
+    "PXSD041_Marceau_modern",
+    "PXSB054_Yoshino_modern"
+  ],
+  "shiptype": [],
+  "slot": 0,
+  "tags": [
+    "unique"
+  ],
+  "type": 0,
+  "typeinfo": {
+    "nation": "Common",
+    "species": null,
+    "type": "Modernization"
+  }
+}

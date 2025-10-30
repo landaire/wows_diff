@@ -1,6 +1,7 @@
 {
   "airArmament": {
     "auraCoeff": 1.0,
+    "boundingBoxMargin": 3.0,
     "deckPlaceCount": 0,
     "fdck": {
       "antiRamCoeff": 1.0,
@@ -114,7 +115,8 @@
     "launchPrepareTime": 0,
     "launchpadType": "runway",
     "planesReserveCapacity": 199,
-    "turnCameraToCatapultNode": ""
+    "turnCameraToCatapultNode": "",
+    "waterLaunchLength": 20.0
   },
   "apDamageLimitCoeff": 0,
   "diveBomber": {

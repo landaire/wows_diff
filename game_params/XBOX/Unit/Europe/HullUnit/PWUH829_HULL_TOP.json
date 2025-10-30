@@ -1,0 +1,13 @@
+{
+  "costCR": 5500000,
+  "costXP": 64000,
+  "id": 3425447216,
+  "index": "PWUH829",
+  "name": "PWUH829_HULL_TOP",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

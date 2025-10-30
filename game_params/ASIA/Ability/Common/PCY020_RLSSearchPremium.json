@@ -149,6 +149,126 @@
     "titleIDs": "",
     "workTime": 15.0
   },
+  "EU_BB_10": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 333.33,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 30.0
+  },
+  "EU_BB_8": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 333.33,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 30.0
+  },
+  "EU_BB_9": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 333.33,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 120.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 30.0
+  },
+  "EU_BB_Turgut": {
+    "availableBuoyancyStates": [],
+    "consumableType": "rls",
+    "descIDs": "",
+    "group": "ship",
+    "iconIDs": "",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "affectedClasses": [],
+      "descIDs": "",
+      "distShip": 333.33,
+      "iconIDs": "",
+      "radarEffect": "particles/RLS.xml",
+      "radarEffectForPlayer": "particles/RLS_player.xml",
+      "specialSoundID": "Default",
+      "titleIDs": "",
+      "waveEffect": "particles/RLS_wave.xml"
+    },
+    "numConsumables": 4,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 90.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "",
+    "workTime": 15.0
+  },
   "EU_DD": {
     "availableBuoyancyStates": [],
     "consumableType": "rls",

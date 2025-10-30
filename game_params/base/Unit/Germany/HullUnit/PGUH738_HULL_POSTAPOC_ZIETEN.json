@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3520868144,
+  "index": "PGUH738",
+  "name": "PGUH738_HULL_POSTAPOC_ZIETEN",
+  "typeinfo": {
+    "nation": "Germany",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

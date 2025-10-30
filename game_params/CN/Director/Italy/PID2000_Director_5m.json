@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2196959984,
+  "index": "PID2000",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/italy/director/ID2000_Director_5m/ID2000_Director_5m.model",
+  "name": "PID2000_Director_5m",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": null,
+    "type": "Director"
+  }
+}

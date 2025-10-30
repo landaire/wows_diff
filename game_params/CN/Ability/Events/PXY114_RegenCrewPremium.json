@@ -53,6 +53,222 @@
     "titleIDs": "",
     "workTime": 15.0
   },
+  "ModernEra_Aegir": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenCrew",
+    "descIDs": "PCY010_RegenCrewPremium",
+    "group": "ship",
+    "iconIDs": "PCY010_RegenCrewPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationHPSpeed": 0.02,
+      "regenerationHPSpeedUnits": 0.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 40.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY010_RegenCrewPremium",
+    "workTime": 20.0
+  },
+  "ModernEra_Austin": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenCrew",
+    "descIDs": "PCY010_RegenCrewPremium",
+    "group": "ship",
+    "iconIDs": "PCY010_RegenCrewPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationHPSpeed": 0.01,
+      "regenerationHPSpeedUnits": 0.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY010_RegenCrewPremium",
+    "workTime": 30.0
+  },
+  "ModernEra_Dalian": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenCrew",
+    "descIDs": "PCY010_RegenCrewPremium",
+    "group": "ship",
+    "iconIDs": "PCY010_RegenCrewPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationHPSpeed": 0.01245,
+      "regenerationHPSpeedUnits": 0.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 40.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY010_RegenCrewPremium",
+    "workTime": 20.0
+  },
+  "ModernEra_Grozovoy": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenCrew",
+    "descIDs": "PCY010_RegenCrewPremium",
+    "group": "ship",
+    "iconIDs": "PCY010_RegenCrewPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationHPSpeed": 0.01,
+      "regenerationHPSpeedUnits": 0.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 35.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY010_RegenCrewPremium",
+    "workTime": 40.0
+  },
+  "ModernEra_IgnacioAllende": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenCrew",
+    "descIDs": "PCY010_RegenCrewPremium",
+    "group": "ship",
+    "iconIDs": "PCY010_RegenCrewPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationHPSpeed": 0.01,
+      "regenerationHPSpeedUnits": 0.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 45.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY010_RegenCrewPremium",
+    "workTime": 15.0
+  },
+  "ModernEra_Marceau": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenCrew",
+    "descIDs": "PCY010_RegenCrewPremium",
+    "group": "ship",
+    "iconIDs": "PCY010_RegenCrewPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationHPSpeed": 0.01,
+      "regenerationHPSpeedUnits": 0.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 40.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY010_RegenCrewPremium",
+    "workTime": 40.0
+  },
+  "ModernEra_Michelangelo": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenCrew",
+    "descIDs": "PCY010_RegenCrewPremium",
+    "group": "ship",
+    "iconIDs": "PCY010_RegenCrewPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationHPSpeed": 0.01,
+      "regenerationHPSpeedUnits": 0.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 1,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY010_RegenCrewPremium",
+    "workTime": 30.0
+  },
+  "ModernEra_Yoshino": {
+    "availableBuoyancyStates": [],
+    "consumableType": "regenCrew",
+    "descIDs": "PCY010_RegenCrewPremium",
+    "group": "ship",
+    "iconIDs": "PCY010_RegenCrewPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "descIDs": "",
+      "iconIDs": "",
+      "regenerationHPSpeed": 0.01,
+      "regenerationHPSpeedUnits": 0.0,
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 3,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 50.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY010_RegenCrewPremium",
+    "workTime": 30.0
+  },
   "canBuy": false,
   "costCR": -1,
   "costGold": -1,

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3430788560,
+  "index": "PRUE824",
+  "name": "PRUE824_ENG_BLACK_NEUSTR",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3313250288,
+  "index": "PAUH936",
+  "name": "PAUH936_HULL_BLACK_P_RICO",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

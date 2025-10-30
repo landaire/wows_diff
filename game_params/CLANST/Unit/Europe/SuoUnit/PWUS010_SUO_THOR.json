@@ -1,0 +1,13 @@
+{
+  "costCR": 2100000,
+  "costXP": 0,
+  "id": 4283870512,
+  "index": "PWUS010",
+  "name": "PWUS010_SUO_THOR",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

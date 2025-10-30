@@ -802,9 +802,9 @@
   "Surcouf_CrashCrew": {
     "availableBuoyancyStates": [],
     "consumableType": "crashCrew",
-    "descIDs": "PCY009_CrashCrew_Limited_Premium",
+    "descIDs": "",
     "group": "ship",
-    "iconIDs": "PCY009_CrashCrew_Limited_Premium",
+    "iconIDs": "",
     "isFake": false,
     "lifeCycleType": 0,
     "logic": {
@@ -813,16 +813,16 @@
       "specialSoundID": "Default",
       "titleIDs": ""
     },
-    "numConsumables": 4,
+    "numConsumables": 3,
     "periodical": true,
     "preparationTime": 0.0,
-    "reloadTime": 45.0,
+    "reloadTime": 60.0,
     "tacticalParams": {
       "usageType": "default",
       "workRange": 1000.0
     },
-    "titleIDs": "PCY009_CrashCrew_Limited_Premium",
-    "workTime": 5.0
+    "titleIDs": "",
+    "workTime": 15.0
   },
   "Tianjin": {
     "availableBuoyancyStates": [],

@@ -75,6 +75,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 5.0,
       "shotTravelTime": 1.2,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 35.0,
@@ -160,6 +161,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 5.0,
       "shotTravelTime": 1.2,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 35.0,
@@ -2168,6 +2170,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 5.0,
       "shotTravelTime": 1.2,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 35.0,
@@ -2253,6 +2256,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 5.0,
       "shotTravelTime": 1.2,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 35.0,
@@ -3486,6 +3490,7 @@
       }
     },
     "auraCoeff": 1.0,
+    "boundingBoxMargin": 3.0,
     "deckPlaceCount": 0,
     "isIndependentLaunchpad": false,
     "isParallelLaunch": true,
@@ -3498,7 +3503,8 @@
     "launchPrepareTime": 0,
     "launchpadType": "catapult",
     "planesReserveCapacity": 0,
-    "turnCameraToCatapultNode": ""
+    "turnCameraToCatapultNode": "",
+    "waterLaunchLength": 20.0
   },
   "AB_Directors": {
     "HP_ID_1": {
@@ -4813,6 +4819,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 0.5,
       "shotTravelTime": 1.5,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 20.0,
@@ -4898,6 +4905,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 0.1,
       "shotTravelTime": 1.0,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 10.0,
@@ -4957,118 +4965,6 @@
     "timeFromHeaven": 2.0
   },
   "A_Hull": {
-    "Ammo_1": {
-      "antiRamCoeff": 1.0,
-      "armorCoeff": 0.0,
-      "autoRepairTime": 40,
-      "autoRepairTimeMin": 5,
-      "brokenRepairHealthCoefficient": 0.5,
-      "brokenRepairTime": 90.0,
-      "buoyancyShipPercent": 0.0,
-      "burnNode": "",
-      "canBeDestroyed": true,
-      "coeffReloadDamaged": 1.0,
-      "critProb": [
-        0.0,
-        0.0
-      ],
-      "critProbHP": [
-        1.0,
-        0.0
-      ],
-      "damageEffects": [
-        [
-          0.1,
-          ""
-        ],
-        [
-          0.3,
-          ""
-        ],
-        [
-          0.6,
-          ""
-        ]
-      ],
-      "enhancedRegeneratedHPPart": 0.0,
-      "guns": [],
-      "hlType": "powdermagazine_hitlocation",
-      "maxBuoyancy": 0.0,
-      "maxHP": 19300.0,
-      "moduleCritCoeffCR": 1.0,
-      "moduleCritCoeffXP": 1.0,
-      "parentHL": null,
-      "ramCoeff": 1.0,
-      "ramExtraDamage": 0.0,
-      "regeneratedHPPart": 0.5,
-      "splashBoxes": [
-        "CM_SB_cit_ammo_1_1",
-        "CM_SB_cit_ammo_1_2",
-        "CM_SB_cit_ammo_1_3",
-        "CM_SB_cit_ammo_1_4"
-      ],
-      "startHPCoeff": 1.0,
-      "tbSkipProbMax": 0.0,
-      "tbSkipProbMin": 0.0,
-      "transmitHPDamageToParentFactor": 1.0,
-      "volume": 1.0,
-      "volumeCoeff": 1.0
-    },
-    "Ammo_2": {
-      "antiRamCoeff": 1.0,
-      "armorCoeff": 0.0,
-      "autoRepairTime": 40,
-      "autoRepairTimeMin": 5,
-      "brokenRepairHealthCoefficient": 0.5,
-      "brokenRepairTime": 90.0,
-      "buoyancyShipPercent": 0.0,
-      "burnNode": "",
-      "canBeDestroyed": true,
-      "coeffReloadDamaged": 1.0,
-      "critProb": [
-        0.0,
-        0.0
-      ],
-      "critProbHP": [
-        1.0,
-        0.0
-      ],
-      "damageEffects": [
-        [
-          0.1,
-          ""
-        ],
-        [
-          0.3,
-          ""
-        ],
-        [
-          0.6,
-          ""
-        ]
-      ],
-      "enhancedRegeneratedHPPart": 0.0,
-      "guns": [],
-      "hlType": "powdermagazine_hitlocation",
-      "maxBuoyancy": 0.0,
-      "maxHP": 19300.0,
-      "moduleCritCoeffCR": 1.0,
-      "moduleCritCoeffXP": 1.0,
-      "parentHL": null,
-      "ramCoeff": 1.0,
-      "ramExtraDamage": 0.0,
-      "regeneratedHPPart": 0.5,
-      "splashBoxes": [
-        "CM_SB_cit_ammo_2_1",
-        "CM_SB_cit_ammo_2_2"
-      ],
-      "startHPCoeff": 1.0,
-      "tbSkipProbMax": 0.0,
-      "tbSkipProbMin": 0.0,
-      "transmitHPDamageToParentFactor": 1.0,
-      "volume": 1.0,
-      "volumeCoeff": 1.0
-    },
     "Bow": {
       "antiRamCoeff": 1.0,
       "armorCoeff": 0.0,
@@ -5522,35 +5418,28 @@
     "acidDuration": 0,
     "armor": {
       "1": 0.0,
-      "131129": 0.0,
-      "131130": 0.0,
-      "131131": 19.0,
-      "131137": 19.0,
       "131158": 40.0,
       "131159": 0.0,
-      "131160": 0.0,
       "131161": 0.0,
       "131162": 0.0,
       "131180": 50.0,
       "131206": 140.0,
       "131207": 140.0,
       "131208": 140.0,
+      "131226": 0.0,
+      "131234": 0.0,
+      "131320": 40.0,
+      "131323": 19.0,
       "196697": 16.0,
       "196698": 16.0,
       "65582": 50.0,
       "65583": 40.0,
       "65584": 25.0,
       "65585": 25.0,
-      "65587": 0.0,
-      "65591": 30.0,
       "65592": 30.0,
       "65593": 27.0,
-      "65594": 30.0,
-      "65595": 150.0,
       "65597": 150.0,
       "65598": 40.0,
-      "65600": 70.0,
-      "65601": 150.0,
       "65603": 27.0,
       "65605": 40.0,
       "65616": 120.0,
@@ -5558,26 +5447,30 @@
       "65619": 90.0,
       "65622": 27.0,
       "65623": 27.0,
-      "65624": 21.0,
       "65625": 16.0,
       "65626": 16.0,
       "65627": 50.0,
       "65628": 40.0,
       "65629": 25.0,
       "65630": 25.0,
-      "65632": 0.0,
       "65643": 50.0,
       "65644": 100.0,
       "65645": 50.0,
       "65670": 150.0,
       "65671": 150.0,
       "65672": 150.0,
+      "65690": 30.0,
+      "65692": 30.0,
+      "65698": 21.0,
       "65710": 0.0,
       "65711": 0.0,
       "65712": 0.0,
       "65750": 75.0,
       "65751": 75.0,
-      "65752": 75.0
+      "65752": 75.0,
+      "65778": 70.0,
+      "65784": 150.0,
+      "65787": 150.0
     },
     "armourCas": [
       -1,
@@ -7338,6 +7231,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 0.5,
       "shotTravelTime": 1.5,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 20.0,
@@ -7423,6 +7317,7 @@
       "priorTracerTexture": "particles/trails/Trail_Aura_Prior_DPS.dds",
       "shotDelay": 0.1,
       "shotTravelTime": 1.0,
+      "targetType": 0,
       "timeUniversalsOff": 0.0,
       "timeUniversalsOn": 0.0,
       "tracerLength": 10.0,
@@ -7466,118 +7361,6 @@
     ]
   },
   "B_Hull": {
-    "Ammo_1": {
-      "antiRamCoeff": 1.0,
-      "armorCoeff": 0.0,
-      "autoRepairTime": 40,
-      "autoRepairTimeMin": 5,
-      "brokenRepairHealthCoefficient": 0.5,
-      "brokenRepairTime": 90.0,
-      "buoyancyShipPercent": 0.0,
-      "burnNode": "",
-      "canBeDestroyed": true,
-      "coeffReloadDamaged": 1.0,
-      "critProb": [
-        0.0,
-        0.0
-      ],
-      "critProbHP": [
-        1.0,
-        0.0
-      ],
-      "damageEffects": [
-        [
-          0.1,
-          ""
-        ],
-        [
-          0.3,
-          ""
-        ],
-        [
-          0.6,
-          ""
-        ]
-      ],
-      "enhancedRegeneratedHPPart": 0.0,
-      "guns": [],
-      "hlType": "powdermagazine_hitlocation",
-      "maxBuoyancy": 0.0,
-      "maxHP": 21400.0,
-      "moduleCritCoeffCR": 1.0,
-      "moduleCritCoeffXP": 1.0,
-      "parentHL": null,
-      "ramCoeff": 1.0,
-      "ramExtraDamage": 0.0,
-      "regeneratedHPPart": 0.5,
-      "splashBoxes": [
-        "CM_SB_cit_ammo_1_1",
-        "CM_SB_cit_ammo_1_2",
-        "CM_SB_cit_ammo_1_3",
-        "CM_SB_cit_ammo_1_4"
-      ],
-      "startHPCoeff": 1.0,
-      "tbSkipProbMax": 0.0,
-      "tbSkipProbMin": 0.0,
-      "transmitHPDamageToParentFactor": 1.0,
-      "volume": 1.0,
-      "volumeCoeff": 1.0
-    },
-    "Ammo_2": {
-      "antiRamCoeff": 1.0,
-      "armorCoeff": 0.0,
-      "autoRepairTime": 40,
-      "autoRepairTimeMin": 5,
-      "brokenRepairHealthCoefficient": 0.5,
-      "brokenRepairTime": 90.0,
-      "buoyancyShipPercent": 0.0,
-      "burnNode": "",
-      "canBeDestroyed": true,
-      "coeffReloadDamaged": 1.0,
-      "critProb": [
-        0.0,
-        0.0
-      ],
-      "critProbHP": [
-        1.0,
-        0.0
-      ],
-      "damageEffects": [
-        [
-          0.1,
-          ""
-        ],
-        [
-          0.3,
-          ""
-        ],
-        [
-          0.6,
-          ""
-        ]
-      ],
-      "enhancedRegeneratedHPPart": 0.0,
-      "guns": [],
-      "hlType": "powdermagazine_hitlocation",
-      "maxBuoyancy": 0.0,
-      "maxHP": 21400.0,
-      "moduleCritCoeffCR": 1.0,
-      "moduleCritCoeffXP": 1.0,
-      "parentHL": null,
-      "ramCoeff": 1.0,
-      "ramExtraDamage": 0.0,
-      "regeneratedHPPart": 0.5,
-      "splashBoxes": [
-        "CM_SB_cit_ammo_2_1",
-        "CM_SB_cit_ammo_2_2"
-      ],
-      "startHPCoeff": 1.0,
-      "tbSkipProbMax": 0.0,
-      "tbSkipProbMin": 0.0,
-      "transmitHPDamageToParentFactor": 1.0,
-      "volume": 1.0,
-      "volumeCoeff": 1.0
-    },
     "Bow": {
       "antiRamCoeff": 1.0,
       "armorCoeff": 0.0,
@@ -8031,35 +7814,28 @@
     "acidDuration": 0,
     "armor": {
       "1": 0.0,
-      "131129": 0.0,
-      "131130": 0.0,
-      "131131": 19.0,
-      "131137": 19.0,
       "131158": 40.0,
       "131159": 0.0,
-      "131160": 0.0,
       "131161": 0.0,
       "131162": 0.0,
       "131180": 50.0,
       "131206": 140.0,
       "131207": 140.0,
       "131208": 140.0,
+      "131226": 0.0,
+      "131234": 0.0,
+      "131320": 40.0,
+      "131323": 19.0,
       "196697": 16.0,
       "196698": 16.0,
       "65582": 50.0,
       "65583": 40.0,
       "65584": 25.0,
       "65585": 25.0,
-      "65587": 0.0,
-      "65591": 30.0,
       "65592": 30.0,
       "65593": 27.0,
-      "65594": 30.0,
-      "65595": 150.0,
       "65597": 150.0,
       "65598": 40.0,
-      "65600": 70.0,
-      "65601": 150.0,
       "65603": 27.0,
       "65605": 40.0,
       "65616": 120.0,
@@ -8067,26 +7843,30 @@
       "65619": 90.0,
       "65622": 27.0,
       "65623": 27.0,
-      "65624": 21.0,
       "65625": 16.0,
       "65626": 16.0,
       "65627": 50.0,
       "65628": 40.0,
       "65629": 25.0,
       "65630": 25.0,
-      "65632": 0.0,
       "65643": 50.0,
       "65644": 100.0,
       "65645": 50.0,
       "65670": 150.0,
       "65671": 150.0,
       "65672": 150.0,
+      "65690": 30.0,
+      "65692": 30.0,
+      "65698": 21.0,
       "65710": 0.0,
       "65711": 0.0,
       "65712": 0.0,
       "65750": 75.0,
       "65751": 75.0,
-      "65752": 75.0
+      "65752": 75.0,
+      "65778": 70.0,
+      "65784": 150.0,
+      "65787": 150.0
     },
     "armourCas": [
       -1,

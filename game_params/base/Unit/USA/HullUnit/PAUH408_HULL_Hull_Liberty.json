@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 1,
+  "id": 3866898416,
+  "index": "PAUH408",
+  "name": "PAUH408_HULL_Hull_Liberty",
+  "typeinfo": {
+    "nation": "USA",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

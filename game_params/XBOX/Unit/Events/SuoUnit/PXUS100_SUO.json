@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4189498640,
+  "index": "PXUS100",
+  "name": "PXUS100_SUO",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

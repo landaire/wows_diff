@@ -1,0 +1,26 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "mdne_citadel_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3760058288,
+  "index": "PCEE510",
+  "isTemplate": false,
+  "name": "PCEE510_mdne_citadel_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "ingameevent",
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

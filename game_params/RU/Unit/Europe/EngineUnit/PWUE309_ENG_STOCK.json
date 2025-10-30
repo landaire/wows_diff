@@ -1,0 +1,13 @@
+{
+  "costCR": 40000,
+  "costXP": 0,
+  "id": 3970805040,
+  "index": "PWUE309",
+  "name": "PWUE309_ENG_STOCK",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3541445936,
+  "index": "PWUT718",
+  "name": "PWUT718_TORP_TURGUT_REIS",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 4137430288,
+  "index": "PXUH150",
+  "name": "PXUH150_HULL",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3430690256,
+  "index": "PRUH824",
+  "name": "PRUH824_HULL_BLACK_NEUSTR",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "HullUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Hull"
+}

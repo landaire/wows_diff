@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3329207760,
+  "index": "PRUA921",
+  "name": "PRUA921_ART_POSTAPOC_PETROPAVLOVSK",
+  "typeinfo": {
+    "nation": "Russia",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

@@ -1,0 +1,13 @@
+{
+  "costCR": 600000,
+  "costXP": 0,
+  "id": 3426102576,
+  "index": "PWUT828",
+  "name": "PWUT828_TORP_STOCK",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "TorpedoesUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Torpedoes"
+}

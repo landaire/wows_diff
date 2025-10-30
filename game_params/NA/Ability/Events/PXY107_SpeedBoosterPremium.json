@@ -59,6 +59,66 @@
     "titleIDs": "",
     "workTime": 80.0
   },
+  "ModernEra_Marceau": {
+    "availableBuoyancyStates": [],
+    "consumableType": "speedBoosters",
+    "descIDs": "PCY015_SpeedBoosterPremium",
+    "group": "ship",
+    "iconIDs": "PCY015_SpeedBoosterPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "backwardEngineForsag": 2.5,
+      "backwardEngineForsagMaxSpeed": 10.0,
+      "boostCoeff": 0.15,
+      "descIDs": "",
+      "forwardEngineForsag": 2.5,
+      "forwardEngineForsagMaxSpeed": 10.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY015_SpeedBoosterPremium",
+    "workTime": 40.0
+  },
+  "ModernEra_Yoshino": {
+    "availableBuoyancyStates": [],
+    "consumableType": "speedBoosters",
+    "descIDs": "PCY015_SpeedBoosterPremium",
+    "group": "ship",
+    "iconIDs": "PCY015_SpeedBoosterPremium",
+    "isFake": false,
+    "lifeCycleType": 0,
+    "logic": {
+      "backwardEngineForsag": 2.5,
+      "backwardEngineForsagMaxSpeed": 10.0,
+      "boostCoeff": 0.1,
+      "descIDs": "",
+      "forwardEngineForsag": 2.5,
+      "forwardEngineForsagMaxSpeed": 10.0,
+      "iconIDs": "",
+      "specialSoundID": "Default",
+      "titleIDs": ""
+    },
+    "numConsumables": 2,
+    "periodical": true,
+    "preparationTime": 0.0,
+    "reloadTime": 60.0,
+    "tacticalParams": {
+      "usageType": "default",
+      "workRange": 1000.0
+    },
+    "titleIDs": "PCY015_SpeedBoosterPremium",
+    "workTime": 60.0
+  },
   "canBuy": false,
   "costCR": -1,
   "costGold": -1,

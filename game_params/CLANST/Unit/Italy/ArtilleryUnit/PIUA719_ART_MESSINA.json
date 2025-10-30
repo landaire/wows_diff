@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3541020400,
+  "index": "PIUA719",
+  "name": "PIUA719_ART_MESSINA",
+  "typeinfo": {
+    "nation": "Italy",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}

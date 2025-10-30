@@ -1,0 +1,25 @@
+{
+  "canBuy": false,
+  "canCharge": true,
+  "canSell": false,
+  "costCR": -1,
+  "costGold": -1,
+  "flag": "loy_krathong_2025_flag",
+  "group": 3,
+  "hidden": true,
+  "id": 3369988016,
+  "index": "PCEE882",
+  "isTemplate": false,
+  "name": "PCEE882_loy_krathong_2025_flag",
+  "needExtraDescription": false,
+  "rankSeasonId": -1,
+  "sortOrder": 2147483647,
+  "tags": [
+    "catalogueHiddenIfMissing"
+  ],
+  "typeinfo": {
+    "nation": "Common",
+    "species": "Ensign",
+    "type": "Exterior"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "customMiscs": {},
+  "gunNode": "",
+  "id": 2185425200,
+  "index": "PWD2011",
+  "miscFilter": [],
+  "miscFilterMode": false,
+  "model": "content/gameplay/europe/director/WD2011_15in_gun_30ft_director/WD2011_15in_gun_30ft_director.model",
+  "name": "PWD2011_15in_gun_30ft_director",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": null,
+    "type": "Director"
+  }
+}

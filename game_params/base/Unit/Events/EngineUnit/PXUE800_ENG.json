@@ -1,0 +1,13 @@
+{
+  "costCR": 0,
+  "costXP": 0,
+  "id": 3455954192,
+  "index": "PXUE800",
+  "name": "PXUE800_ENG",
+  "typeinfo": {
+    "nation": "Events",
+    "species": "EngineUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Engine"
+}

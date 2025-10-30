@@ -1,0 +1,13 @@
+{
+  "costCR": 2000000,
+  "costXP": 35000,
+  "id": 3339103536,
+  "index": "PWUS911",
+  "name": "PWUS911_B8_SUO_TOP",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "SuoUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Suo"
+}

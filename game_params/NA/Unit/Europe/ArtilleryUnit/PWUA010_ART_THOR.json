@@ -1,0 +1,13 @@
+{
+  "costCR": 1600000,
+  "costXP": 0,
+  "id": 4284460336,
+  "index": "PWUA010",
+  "name": "PWUA010_ART_THOR",
+  "typeinfo": {
+    "nation": "Europe",
+    "species": "ArtilleryUnit",
+    "type": "Unit"
+  },
+  "ucType": "_Artillery"
+}
